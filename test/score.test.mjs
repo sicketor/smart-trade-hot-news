@@ -83,3 +83,28 @@ test("parses TheMarker RSS", () => {
   assert.equal(item.publishedAt, "2026-10-19T15:32:53.000Z");
   assert.equal(item.image, "https://img.example/a.jpg?w=108&h=81");
 });
+
+test("Hebrew titles: cached by id, the rest in one call, English kept on failure", async () => {
+  const { addHebrewTitles } = await import("../src/translate.mjs");
+  const items = [
+    { id: "a", title: "Fed holds rates" },
+    { id: "b", title: "Nvidia raises guidance" },
+  ];
+  const previous = [{ id: "a", title: "Fed holds rates", titleHe: "הפד משאיר את הריבית", translatedBy: "m" }];
+  const calls = [];
+  const warning = await addHebrewTitles(items, previous, async (titles) => {
+    calls.push(titles);
+    return { titles: ["אנבידיה מעלה תחזית"], model: "m2" };
+  });
+  assert.equal(warning, null);
+  assert.deepEqual(calls, [["Nvidia raises guidance"]]);
+  assert.equal(items[0].titleHe, "הפד משאיר את הריבית");
+  assert.equal(items[1].titleHe, "אנבידיה מעלה תחזית");
+
+  const fresh = [{ id: "c", title: "Tesla slides" }];
+  const failed = await addHebrewTitles(fresh, [], async () => {
+    throw new Error("quota");
+  });
+  assert.match(failed, /quota/);
+  assert.equal(fresh[0].titleHe, undefined);
+});

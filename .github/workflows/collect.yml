@@ -34,6 +34,7 @@ jobs:
         env:
           # A secret, not a variable: secrets are masked in this public repo's run logs.
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node src/collect.mjs ${{ inputs.force && '--force' || '' }}
 
       # Each run commits the data file; that also keeps the schedule alive (GitHub pauses idle schedules after 60 days).

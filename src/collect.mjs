@@ -10,6 +10,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { isPreMarket, isWindowOpen } from "./schedule.mjs";
 import { pickHot, rejectReason, findKeywords } from "./score.mjs";
+import { addHebrewTitles, translateWithGemini } from "./translate.mjs";
 import { fetchArticleImage, fetchMovers, fetchQuotes, fetchRss, fetchSec8K, fetchTvNews, logoUrl } from "./sources.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -135,6 +136,13 @@ function toItem(story, config, market) {
   };
 }
 
+/** Hebrew titles for the market's items (cached by id); a warning string when skipped or failed. */
+function translateItems(items, previous, settings) {
+  const apiKey = process.env.GEMINI_API_KEY;
+  if (!apiKey) return "translate: GEMINI_API_KEY is not set";
+  return addHebrewTitles(items, previous, (titles) => translateWithGemini(titles, settings.models, apiKey));
+}
+
 export async function run({ force = false, dry = false, now = new Date() } = {}) {
   const config = JSON.parse(await readFile(CONFIG_PATH, "utf8"));
   const previous = await readFile(DATA_PATH, "utf8").then(JSON.parse, () => null);
@@ -159,9 +167,13 @@ export async function run({ force = false, dry = false, now = new Date() } = {})
       const picked = pickHot(candidates, config, market);
       await Promise.all(picked.map(async (s) => (s.imageInfo = await imageFor(s, errors))));
       const items = picked.map((s) => toItem(s, config, market));
+      if (config.translate?.enabled && config.translate.markets.includes(key)) {
+        const warning = await translateItems(items, before?.items, config.translate);
+        if (warning) errors.push(warning);
+      }
       markets[key] = { enabled: true, window, updatedAt: now.toISOString(), items, ...(errors.length ? { warnings: errors } : {}) };
       console.log(`[${key}] ${candidates.length} candidates -> ${items.length} items`);
-      for (const i of items) console.log(`   ${i.score}  ${i.ticker ?? "macro"} ${i.change ?? ""}  ${i.title}  (${i.source}; ${i.reasons.join("; ")})`);
+      for (const i of items) console.log(`   ${i.score}  ${i.ticker ?? "macro"} ${i.change ?? ""}  ${i.title}${i.titleHe ? `  => ${i.titleHe}` : ""}  (${i.source}; ${i.reasons.join("; ")})`);
     } catch (err) {
       // Nothing could be read: keep the last items; the card shows "update delayed" once they're stale.
       console.error(`[${key}] failed: ${err.message}`);
