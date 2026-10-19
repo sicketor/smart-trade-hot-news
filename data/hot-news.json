@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T20:09:17.295Z",
+  "generatedAt": "2026-10-19T21:22:05.178Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,34 +18,34 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-19T20:09:17.295Z",
+      "updatedAt": "2026-10-19T21:22:05.178Z",
       "items": [
         {
-          "id": "tradingview:e2527520c4fbe:0",
+          "id": "seekingalpha:48eead81d094b:0",
           "ticker": "IRON",
-          "change": 37.58,
-          "title": "Disc Medicine (IRON) Plans $350M Equity Offering, With 30-Day Option",
+          "change": 38.86,
+          "title": "Disc Medicine launches $350M public offering of common stock and pre-funded warrants",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.globenewswire.com/news-release/2026/10/19/3383860/0/en/disc-medicine-announces-proposed-350-million-public-offering-of-common-stock-and-pre-funded-warrants.html",
-          "publishedAt": "2026-10-19T20:01:00.000Z",
+          "source": "seekingalpha",
+          "sourceId": "seekingalpha",
+          "url": "https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+          "publishedAt": "2026-10-19T20:15:36.000Z",
           "image": {
-            "url": "https://ml.globenewswire.com/Resource/Download/d212c899-9a87-4500-9382-573dfe9f12af",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/disc-medicine--big.svg",
+            "kind": "logo"
           },
-          "score": 115,
+          "score": 125,
           "reasons": [
-            "move 37.6%",
-            "volume x11.1",
+            "move 38.9%",
+            "volume x12.2",
             "keywords: offering",
-            "2 sources"
+            "3 sources"
           ]
         },
         {
           "id": "DJN_DN20261019005979:0",
           "ticker": "CLF",
-          "change": 18.69,
+          "change": 16.34,
           "title": "Cleveland-Cliffs Is Maintained at Underweight by Barclays",
           "lang": "en",
           "source": "Dow Jones",
@@ -56,14 +56,17 @@
             "url": "https://s3-symbol-logo.tradingview.com/cleveland-cliffs--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 105,
           "reasons": [
-            "move 18.7%",
-            "volume x4.0",
-            "leading source dow-jones",
-            "2 sources"
+            "move 16.3%",
+            "volume x4.5",
+            "leading source dow-jones"
           ]
         }
+      ],
+      "warnings": [
+        "image https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news: GET https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news -> HTTP 403",
+        "translate: Gemini gemini-3.5-flash-lite -> HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
       ]
     },
     "il": {
@@ -80,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-19T18:47:48.420Z",
+      "updatedAt": "2026-10-19T21:22:05.178Z",
       "items": []
     }
   }
