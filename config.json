@@ -1,0 +1,87 @@
+{
+  "_comment": "הגדרות 'חדשות חמות' (אפיון §6). כל שינוי כאן נכנס לתוקף בריצה הבאה, בלי לגעת בקוד.",
+  "itemsPerMarket": 2,
+  "maxAgeMinutes": 180,
+  "staleAfterMinutes": 120,
+  "minScore": 40,
+  "markets": {
+    "us": {
+      "enabled": true,
+      "window": {
+        "timeZone": "America/New_York",
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        "start": "04:00",
+        "end": "16:30"
+      },
+      "regularOpen": "09:30",
+      "moveThresholdPct": 4,
+      "relVolumeBonusAt": 2,
+      "minMarketCapUsd": 2000000000,
+      "exchanges": ["NYSE", "NASDAQ"],
+      "symbolPrefixes": ["NYSE:", "NASDAQ:", "AMEX:", "SP:", "DJ:", "CBOE:", "TVC:SPX", "TVC:NDX", "TVC:IXIC", "TVC:DJI", "TVC:US", "FRED:", "ECONOMICS:US"],
+      "maxMovers": 10,
+      "lang": "en",
+      "feedProviders": ["dow-jones", "reuters"],
+      "rss": [],
+      "useSec8K": true
+    },
+    "il": {
+      "enabled": true,
+      "window": {
+        "timeZone": "Asia/Jerusalem",
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        "start": "09:30",
+        "end": "17:30"
+      },
+      "moveThresholdPct": 5,
+      "relVolumeBonusAt": 2,
+      "minTurnoverIls": 1000000,
+      "exchanges": ["TASE"],
+      "symbolPrefixes": ["TASE:", "TVC:TA35", "ECONOMICS:IL"],
+      "maxMovers": 10,
+      "lang": "he",
+      "feedProviders": ["calcalist"],
+      "rss": [
+        {
+          "id": "themarker",
+          "url": "https://www.themarker.com/srv/tm-markets"
+        }
+      ],
+      "useSec8K": false
+    }
+  },
+  "scores": {
+    "move": 50,
+    "movePerPct": 3,
+    "moveExtraMax": 30,
+    "relVolume": 15,
+    "leadingSource": 10,
+    "keyword": 10,
+    "keywordMax": 20,
+    "extraSource": 10,
+    "extraSourceMax": 20,
+    "feedBase": 30
+  },
+  "leadingSources": ["reuters", "dow-jones", "calcalist", "themarker"],
+  "blockedSources": [],
+  "sourceNames": {
+    "reuters": "Reuters",
+    "dow-jones": "Dow Jones",
+    "calcalist": "כלכליסט",
+    "themarker": "TheMarker",
+    "sec": "SEC"
+  },
+  "keywords": {
+    "en": ["earnings", "results", "revenue", "profit", "guidance", "forecast", "outlook", "acquire", "acquisition", "merger", "takeover", "buyout", "deal to buy", "FDA", "approval", "Fed", "Powell", "interest rate", "rate cut", "rate hike", "inflation", "CPI", "PCE", "jobs report", "payrolls", "unemployment", "jobless", "tariff", "regulator", "antitrust", "halted", "trading halt", "IPO", "offering", "layoffs", "job cuts", "lawsuit", "sues", "probe", "downgrade", "upgrade", "bankruptcy"],
+    "he": ["דוחות", "דוח רבעוני", "רווח", "הכנסות", "תחזית", "רכישה", "רוכשת", "רכישת", "מיזוג", "הצעת רכש", "FDA", "ריבית", "בנק ישראל", "אינפלציה", "מדד המחירים", "תעסוקה", "אבטלה", "השעיה", "הושעה", "הנפקה", "פיטורים", "תביעה", "חקירה", "רגולציה", "הסכם", "חוזה", "זכייה", "הסדר חוב"]
+  },
+  "routineKeywords": {
+    "en": ["to present at", "to participate in", "will present", "to host", "conference call", "webcast", "fireside chat", "announces date", "to announce", "appoints", "appointment of", "names new", "joins board", "investor day", "dividend declared", "declares dividend", "price target", "stocks to watch", "top stocks", "how to", "should you buy", "stocks that explain", "stocks making the biggest moves", "biggest movers", "stock market today"],
+    "he": ["כנס", "מינוי", "מונה ל", "ימונה", "יציג ב", "תציג ב", "כנס משקיעים", "שיחת ועידה", "מועד פרסום"]
+  },
+  "excludeKeywords": {
+    "en": ["bitcoin", "crypto", "ether", "forex", "currency", "dollar index", "gold", "silver", "oil price", "crude", "corn", "wheat", "soybean"],
+    "he": ["ביטקוין", "קריפטו", "מטבע", "שקל-דולר", "זהב", "נפט"]
+  },
+  "excludeSymbolPrefixes": ["BINANCE:", "COINBASE:", "BITSTAMP:", "CRYPTO:", "FX:", "FX_IDC:", "OANDA:", "FOREXCOM:", "CBOT:", "NYMEX:", "COMEX:", "CME:", "ICEUS:", "TVC:GOLD", "TVC:SILVER", "TVC:USOIL", "TVC:UKOIL", "TVC:DXY"]
+}

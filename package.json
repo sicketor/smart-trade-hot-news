@@ -1,0 +1,12 @@
+{
+  "name": "smart-trade-hot-news",
+  "private": true,
+  "type": "module",
+  "description": "SMART TRADE HUB hot news: collects the 2+2 hottest US and Israel market stories into data/hot-news.json",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "collect": "node src/collect.mjs",
+    "collect:now": "node src/collect.mjs --force",
+    "test": "node --test"
+  }
+}
