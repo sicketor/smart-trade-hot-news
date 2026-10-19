@@ -10,7 +10,10 @@ const us = config.markets.us;
 const il = config.markets.il;
 const now = new Date("2026-10-19T15:00:00Z");
 const minutesAgo = (m) => new Date(now.getTime() - m * 60_000).toISOString();
-const news = (over) => ({ id: Math.random().toString(36), title: "Some headline", provider: "reuters", publishedAt: minutesAgo(20), url: "https://x", symbols: [], ...over });
+const news = (over) => {
+  const id = Math.random().toString(36).slice(2);
+  return { id, title: "Some headline", provider: "reuters", publishedAt: minutesAgo(20), url: `https://x/${id}`, symbols: [], ...over };
+};
 
 test("keywords: English whole words, capitals case-sensitive", () => {
   assert.deepEqual(findKeywords("Nvidia raises guidance", ["guidance"], "en"), ["guidance"]);
@@ -50,6 +53,7 @@ test("picks the top 2, merges the same story, never twice the same stock", () =>
     ],
     config,
     us,
+    now,
   );
   assert.equal(picked.length, 2);
   assert.equal(picked[0].ticker, "NVDA");
@@ -58,7 +62,8 @@ test("picks the top 2, merges the same story, never twice the same stock", () =>
 });
 
 test("general news needs a hot keyword or a real move", () => {
-  const picked = pickHot([{ ...news({ title: "Nasdaq climbs as chip stocks bounce back" }), ticker: null, change: null, move: null, feed: true }], config, us);
+  const noFallback = { ...config, fallback: { enabled: false } };
+  const picked = pickHot([{ ...news({ title: "Nasdaq climbs as chip stocks bounce back" }), ticker: null, change: null, move: null, feed: true }], noFallback, us, now);
   assert.equal(picked.length, 0);
 });
 
@@ -107,4 +112,25 @@ test("Hebrew titles: cached by id, the rest in one call, English kept on failure
   });
   assert.match(failed, /quota/);
   assert.equal(fresh[0].titleHe, undefined);
+});
+
+test("fallback: fills with the latest leading-source market news when nothing is hot", () => {
+  const feed = (over) => ({ ...news(over), ticker: null, change: null, move: null, feed: true });
+  const picked = pickHot(
+    [
+      feed({ title: "בנק לאומי מגייס חוב בהיקף גדול", provider: "calcalist", publishedAt: minutesAgo(300) }),
+      feed({ title: "המדדים בתל אביב נסחרים בעליות קלות", provider: "themarker", publishedAt: minutesAgo(60) }),
+      feed({ title: "המדדים בתל אביב נסחרים בעליות קלות היום", provider: "calcalist", publishedAt: minutesAgo(50) }),
+      feed({ title: "ידיעה ממקור לא מוביל", provider: "other", publishedAt: minutesAgo(10) }),
+      feed({ title: "ידיעה ישנה מדי", provider: "calcalist", publishedAt: minutesAgo(800) }),
+    ],
+    config,
+    il,
+    now,
+  );
+  assert.deepEqual(
+    picked.map((p) => p.title),
+    ["המדדים בתל אביב נסחרים בעליות קלות היום", "בנק לאומי מגייס חוב בהיקף גדול"],
+  );
+  assert.ok(picked.every((p) => p.fallback));
 });

@@ -19,10 +19,10 @@ export function findKeywords(text, words, lang) {
 const minutesBetween = (a, b) => (b.getTime() - new Date(a).getTime()) / 60_000;
 
 /** Why a news item can't be shown at all, or null when it's fine. */
-export function rejectReason(item, config, lang, now) {
+export function rejectReason(item, config, lang, now, maxAgeMinutes = config.maxAgeMinutes) {
   if (config.blockedSources.includes(item.provider)) return "blocked source";
   const age = minutesBetween(item.publishedAt, now);
-  if (!(age <= config.maxAgeMinutes)) return "too old";
+  if (!(age <= maxAgeMinutes)) return "too old";
   if (age < -10) return "published in the future";
   if (findKeywords(item.title, config.routineKeywords[lang] ?? [], lang).length) return "routine";
   if (findKeywords(item.title, config.excludeKeywords[lang] ?? [], lang).length) return "out of scope";
@@ -82,9 +82,11 @@ export function sameStory(a, b) {
 /**
  * Pick the market's items. Candidates: { ticker, change, move, relVolume, title, provider, url, publishedAt,
  * corroborating: provider ids also reporting it, feed: true for general-feed items that need a hot keyword }.
+ * Feed items may be older than maxAgeMinutes: they're only used by the fallback (see `fillFallback`).
  */
-export function pickHot(candidates, config, market) {
-  const scored = candidates
+export function pickHot(candidates, config, market, now = new Date()) {
+  const fresh = candidates.filter((c) => minutesBetween(c.publishedAt, now) <= config.maxAgeMinutes);
+  const scored = fresh
     .map((c) => ({ ...c, ...baseScore(c, config, market) }))
     // A general-feed story is hot only for a reason: a hot keyword or a real move on its stock.
     .filter((c) => !c.feed || c.keywordHits > 0 || (c.move != null && Math.abs(c.move) >= market.moveThresholdPct));
@@ -126,5 +128,26 @@ export function pickHot(candidates, config, market) {
     if (story.ticker) tickers.add(story.ticker);
     if (picked.length === config.itemsPerMarket) break;
   }
-  return picked;
+  return fillFallback(picked, candidates, config, market, now);
+}
+
+/**
+ * When fewer than itemsPerMarket stories are hot (a quiet market, or TASE movers without Hebrew headlines), fill
+ * the rest with the latest general market news from a leading source, up to fallback.maxAgeMinutes old, still
+ * without routine or out-of-scope items, duplicates or a second story on the same stock.
+ */
+export function fillFallback(picked, candidates, config, market, now) {
+  const fb = config.fallback;
+  if (!fb?.enabled || picked.length >= config.itemsPerMarket) return picked;
+  const out = [...picked];
+  const pool = candidates
+    .filter((c) => c.feed && config.leadingSources.includes(c.provider) && minutesBetween(c.publishedAt, now) <= fb.maxAgeMinutes)
+    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  for (const c of pool) {
+    const dup = out.some((p) => p.url === c.url || (c.ticker && p.ticker === c.ticker) || sameStory(p.title, c.title));
+    if (dup) continue;
+    out.push({ ...c, score: 0, reasons: ["fallback: latest market news"], fallback: true });
+    if (out.length === config.itemsPerMarket) break;
+  }
+  return out;
 }

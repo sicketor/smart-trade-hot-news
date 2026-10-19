@@ -54,7 +54,9 @@ function bestHeadline(items, config, market) {
 /** Every candidate story for one market. Throws only when no source at all could be read. */
 async function collectMarket(key, market, config, now) {
   const errors = [];
-  const usable = (items) => items.filter((i) => !rejectReason(i, config, market.lang, now));
+  const usable = (items, maxAge) => items.filter((i) => !rejectReason(i, config, market.lang, now, maxAge));
+  // General news may be kept longer, for the fallback when nothing is hot (pickHot applies the strict age).
+  const feedMaxAge = config.fallback?.enabled ? Math.max(config.maxAgeMinutes, config.fallback.maxAgeMinutes) : config.maxAgeMinutes;
   const inMarket = (symbol) => market.symbolPrefixes.some((p) => symbol.startsWith(p));
   const stockOf = (symbols) => {
     const stocks = symbols.filter((s) => market.exchanges.some((ex) => s.startsWith(`${ex}:`)));
@@ -90,7 +92,7 @@ async function collectMarket(key, market, config, now) {
   });
 
   // 2. General market news: macro stories, or a story on one stock that we then look up.
-  const feedItems = usable([...(feed ?? []), ...rss.flat().filter(Boolean)]).filter((i) => !i.symbols.length || i.symbols.some(inMarket));
+  const feedItems = usable([...(feed ?? []), ...rss.flat().filter(Boolean)], feedMaxAge).filter((i) => !i.symbols.length || i.symbols.some(inMarket));
   const feedStocks = [...new Set(feedItems.map((i) => stockOf(i.symbols)).filter(Boolean))];
   const quotes = new Map((await attempt(`${key} quotes`, errors, () => fetchQuotes(key, market, feedStocks))).map((q) => [q.symbol, q]));
   const feedCandidates = feedItems.flatMap((i) => {
@@ -131,6 +133,7 @@ function toItem(story, config, market) {
     url: story.url,
     publishedAt: story.publishedAt,
     image: story.imageInfo ?? null,
+    ...(story.fallback ? { fallback: true } : {}),
     score: story.score,
     reasons: story.reasons,
   };
@@ -164,7 +167,7 @@ export async function run({ force = false, dry = false, now = new Date() } = {})
     collected++;
     try {
       const { candidates, errors } = await collectMarket(key, market, config, now);
-      const picked = pickHot(candidates, config, market);
+      const picked = pickHot(candidates, config, market, now);
       await Promise.all(picked.map(async (s) => (s.imageInfo = await imageFor(s, errors))));
       const items = picked.map((s) => toItem(s, config, market));
       if (config.translate?.enabled && config.translate.markets.includes(key)) {
