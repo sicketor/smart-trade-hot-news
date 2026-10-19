@@ -10,7 +10,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { isPreMarket, isWindowOpen } from "./schedule.mjs";
 import { pickHot, rejectReason, findKeywords } from "./score.mjs";
-import { fetchMovers, fetchQuotes, fetchRss, fetchSec8K, fetchTvNews } from "./sources.mjs";
+import { fetchArticleImage, fetchMovers, fetchQuotes, fetchRss, fetchSec8K, fetchTvNews, logoUrl } from "./sources.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const CONFIG_PATH = process.env.HOT_NEWS_CONFIG || join(ROOT, "config.json");
@@ -83,6 +83,7 @@ async function collectMarket(key, market, config, now) {
       change: m.move,
       move: m.move,
       relVolume: preMarket ? null : m.relVolume,
+      logoid: m.logoid,
       corroborating: [...new Set([...news, ...filings].map((n) => n.provider))],
     };
   });
@@ -98,13 +99,23 @@ async function collectMarket(key, market, config, now) {
     // A stock story on a stock outside the filters (OTC, small cap, thin turnover) is skipped.
     if (!q) return [];
     const move = preMarket ? q.premarketChange : q.change;
-    return [{ ...i, ticker: q.ticker, change: move ?? null, move: move ?? null, relVolume: preMarket ? null : q.relVolume, feed: true }];
+    return [{ ...i, ticker: q.ticker, change: move ?? null, move: move ?? null, relVolume: preMarket ? null : q.relVolume, logoid: q.logoid, feed: true }];
   });
 
   // 3. With the scanner down, material 8-K filings stand in for movers (spec §9).
   const secCandidates = movers === null ? secFresh.map((f) => ({ ...f, change: null, move: null, feed: true })) : [];
 
   return { candidates: [...moverCandidates.filter(Boolean), ...feedCandidates, ...secCandidates], errors };
+}
+
+/**
+ * The picture beside a story: the article's own photo (RSS image or og:image), else the company logo, else none
+ * (the card shows a neutral icon). Images are hotlinked from their hosts, never copied.
+ */
+async function imageFor(story, errors) {
+  const photo = story.image ?? (await attempt(`image ${story.url}`, errors, () => fetchArticleImage(story.url), null));
+  if (photo) return { url: photo, kind: "photo" };
+  return story.logoid ? { url: logoUrl(story.logoid), kind: "logo" } : null;
 }
 
 function toItem(story, config, market) {
@@ -118,6 +129,7 @@ function toItem(story, config, market) {
     sourceId: story.provider,
     url: story.url,
     publishedAt: story.publishedAt,
+    image: story.imageInfo ?? null,
     score: story.score,
     reasons: story.reasons,
   };
@@ -144,7 +156,9 @@ export async function run({ force = false, dry = false, now = new Date() } = {})
     collected++;
     try {
       const { candidates, errors } = await collectMarket(key, market, config, now);
-      const items = pickHot(candidates, config, market).map((s) => toItem(s, config, market));
+      const picked = pickHot(candidates, config, market);
+      await Promise.all(picked.map(async (s) => (s.imageInfo = await imageFor(s, errors))));
+      const items = picked.map((s) => toItem(s, config, market));
       markets[key] = { enabled: true, window, updatedAt: now.toISOString(), items, ...(errors.length ? { warnings: errors } : {}) };
       console.log(`[${key}] ${candidates.length} candidates -> ${items.length} items`);
       for (const i of items) console.log(`   ${i.score}  ${i.ticker ?? "macro"} ${i.change ?? ""}  ${i.title}  (${i.source}; ${i.reasons.join("; ")})`);

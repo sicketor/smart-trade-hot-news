@@ -13,12 +13,12 @@ async function request(url, { headers = {}, method = "GET", body } = {}) {
 
 // --- TradingView scanner ---------------------------------------------------------------------------------
 
-const SCAN_COLUMNS = ["name", "description", "exchange", "change", "premarket_change", "relative_volume_10d_calc", "market_cap_basic", "Value.Traded", "type"];
+const SCAN_COLUMNS = ["name", "description", "exchange", "change", "premarket_change", "relative_volume_10d_calc", "market_cap_basic", "Value.Traded", "type", "logoid"];
 const SCAN_REGION = { us: "america", il: "israel" };
 
 function scanRow(row) {
-  const [name, description, exchange, change, premarketChange, relVolume, marketCap, turnover, type] = row.d;
-  return { symbol: row.s, ticker: name, description, exchange, change, premarketChange, relVolume, marketCap, turnover, type };
+  const [name, description, exchange, change, premarketChange, relVolume, marketCap, turnover, type, logoid] = row.d;
+  return { symbol: row.s, ticker: name, description, exchange, change, premarketChange, relVolume, marketCap, turnover, type, logoid };
 }
 
 /** Market-specific filters: US = NYSE/NASDAQ above the cap floor; TASE = above the turnover floor (spec §4). */
@@ -118,6 +118,7 @@ export function parseRss(xml, provider) {
     publishedAt: new Date(tag(item, "pubDate")).toISOString(),
     url: tag(item, "link"),
     symbols: [],
+    image: item.match(/<enclosure[^>]+url="([^"]+)"[^>]*type="image/)?.[1]?.replace(/&amp;/g, "&") ?? null,
   }));
 }
 
@@ -168,3 +169,22 @@ export async function fetchSec8K() {
     }];
   });
 }
+
+// --- Article images ----------------------------------------------------------------------------------------
+
+/** TradingView-hosted stories only carry a generic illustration; those pages aren't worth reading. */
+const NO_ARTICLE_IMAGE = ["tradingview.com", "sec.gov"];
+
+/** The article's og:image (photo shown beside the story), or null. */
+export async function fetchArticleImage(url) {
+  const host = new URL(url).hostname;
+  if (NO_ARTICLE_IMAGE.some((h) => host === h || host.endsWith(`.${h}`))) return null;
+  const res = await request(url, { headers: { "User-Agent": BROWSER_UA, "Accept-Language": "en-US,en;q=0.9,he;q=0.8" } });
+  const html = (await res.text()).slice(0, 300_000);
+  const meta = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*>/i)?.[0];
+  const src = meta?.match(/content=["']([^"']+)["']/i)?.[1];
+  return src ? new URL(decodeXml(src), url).href : null;
+}
+
+/** TradingView's company logo for a scanner `logoid`. */
+export const logoUrl = (logoid) => `https://s3-symbol-logo.tradingview.com/${logoid}--big.svg`;

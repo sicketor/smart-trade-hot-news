@@ -76,9 +76,10 @@ test("windows follow each market's time zone, including summer time", () => {
 
 test("parses TheMarker RSS", () => {
   const [item] = parseRss(
-    "<rss><channel><item><title>המאבק על אינמוד &amp; סטיל</title><link>https://www.themarker.com/a</link><pubDate>Mon, 19 Oct 2026 18:32:53 +0300</pubDate></item></channel></rss>",
+    '<rss><channel><item><title>המאבק על אינמוד &amp; סטיל</title><link>https://www.themarker.com/a</link><pubDate>Mon, 19 Oct 2026 18:32:53 +0300</pubDate><enclosure url="https://img.example/a.jpg?w=108&amp;h=81" type="image/jpeg"/></item></channel></rss>',
     "themarker",
   );
   assert.equal(item.title, "המאבק על אינמוד & סטיל");
   assert.equal(item.publishedAt, "2026-10-19T15:32:53.000Z");
+  assert.equal(item.image, "https://img.example/a.jpg?w=108&h=81");
 });
