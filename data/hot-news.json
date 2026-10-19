@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T18:40:14.085Z",
+  "generatedAt": "2026-10-19T18:43:40.351Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-19T18:40:14.085Z",
+      "updatedAt": "2026-10-19T18:43:40.351Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L4N46512P:0",
           "ticker": "IRON",
-          "change": 38.31,
+          "change": 38.36,
           "title": "Disc Medicine's late-stage win clears path for approval of sun-allergy pill",
           "lang": "en",
           "source": "Reuters",
@@ -32,8 +32,8 @@
           "publishedAt": "2026-10-19T16:05:52.000Z",
           "score": 135,
           "reasons": [
-            "move 38.3%",
-            "volume x10.1",
+            "move 38.4%",
+            "volume x10.2",
             "leading source reuters",
             "keywords: approval",
             "4 sources"
@@ -42,7 +42,7 @@
         {
           "id": "seekingalpha:8b2f3af1d094b:0",
           "ticker": "CLF",
-          "change": 16.25,
+          "change": 16.5,
           "title": "Cleveland-Cliffs CEO praises Trump after big Q3 earnings beat, blames Canada for Stelco layoffs",
           "lang": "en",
           "source": "seekingalpha",
@@ -51,12 +51,15 @@
           "publishedAt": "2026-10-19T17:31:34.000Z",
           "score": 125,
           "reasons": [
-            "move 16.3%",
+            "move 16.5%",
             "volume x3.2",
             "keywords: earnings, layoffs",
             "2 sources"
           ]
         }
+      ],
+      "warnings": [
+        "us sec: GET https://www.sec.gov/files/company_tickers_exchange.json -> HTTP 403"
       ]
     },
     "il": {
@@ -73,7 +76,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-19T18:40:14.085Z",
+      "updatedAt": "2026-10-19T18:43:40.351Z",
       "items": []
     }
   }
