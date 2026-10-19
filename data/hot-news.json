@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T19:22:51.388Z",
+  "generatedAt": "2026-10-19T20:09:17.295Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,34 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-19T19:22:51.388Z",
+      "updatedAt": "2026-10-19T20:09:17.295Z",
       "items": [
+        {
+          "id": "tradingview:e2527520c4fbe:0",
+          "ticker": "IRON",
+          "change": 37.58,
+          "title": "Disc Medicine (IRON) Plans $350M Equity Offering, With 30-Day Option",
+          "lang": "en",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.globenewswire.com/news-release/2026/10/19/3383860/0/en/disc-medicine-announces-proposed-350-million-public-offering-of-common-stock-and-pre-funded-warrants.html",
+          "publishedAt": "2026-10-19T20:01:00.000Z",
+          "image": {
+            "url": "https://ml.globenewswire.com/Resource/Download/d212c899-9a87-4500-9382-573dfe9f12af",
+            "kind": "photo"
+          },
+          "score": 115,
+          "reasons": [
+            "move 37.6%",
+            "volume x11.1",
+            "keywords: offering",
+            "2 sources"
+          ]
+        },
         {
           "id": "DJN_DN20261019005979:0",
           "ticker": "CLF",
-          "change": 17.93,
+          "change": 18.69,
           "title": "Cleveland-Cliffs Is Maintained at Underweight by Barclays",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,37 +58,12 @@
           },
           "score": 115,
           "reasons": [
-            "move 17.9%",
-            "volume x3.5",
+            "move 18.7%",
+            "volume x4.0",
             "leading source dow-jones",
             "2 sources"
           ]
-        },
-        {
-          "id": "invezz:3f5cbbc8e094b:0",
-          "ticker": "IRON",
-          "change": 37.46,
-          "title": "Disc Medicine stock soars: take profit or buy into strength?",
-          "lang": "en",
-          "source": "invezz",
-          "sourceId": "invezz",
-          "url": "https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/",
-          "publishedAt": "2026-10-19T16:23:12.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/disc-medicine--big.svg",
-            "kind": "logo"
-          },
-          "score": 115,
-          "reasons": [
-            "move 37.5%",
-            "volume x10.4",
-            "keywords: profit",
-            "2 sources"
-          ]
         }
-      ],
-      "warnings": [
-        "image https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/: GET https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/ -> HTTP 403"
       ]
     },
     "il": {
