@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T21:22:50.121Z",
+  "generatedAt": "2026-10-19T21:25:47.720Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,7 +18,7 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-19T21:22:50.121Z",
+      "updatedAt": "2026-10-19T21:25:47.720Z",
       "items": [
         {
           "id": "seekingalpha:48eead81d094b:0",
@@ -86,8 +86,49 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-19T21:22:50.121Z",
-      "items": []
+      "updatedAt": "2026-10-19T21:25:47.720Z",
+      "items": [
+        {
+          "id": "calcalist:dc460848a30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "חודשיים אחרי ההשעיה: הבורסה תחדש את המסחר במניית תומר מזון",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.calcalist.co.il/market/article/byhkphxhfe",
+          "publishedAt": "2026-10-19T15:34:51.000Z",
+          "image": {
+            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/27/B1DdwBaPGx/B1DdwBaPGx_572_180_1881_1059_0_large.jpg",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
+        {
+          "id": "https://www.themarker.com/markets/2026-10-19/ty-article/.premium/000001a1-54bc-df3c-adbf-d4fd02760000",
+          "ticker": null,
+          "change": null,
+          "title": "המאבק על אינמוד: קרן סטיל פרטנרס מאיימת בנקיטת צעדים נגד הדירקטוריון",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-19/ty-article/.premium/000001a1-54bc-df3c-adbf-d4fd02760000",
+          "publishedAt": "2026-10-19T15:32:53.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-54c0-dcd4-afa3-55cb09af0001/28/18/dd2a0412436aa7d917ec8924c903/yos.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        }
+      ]
     }
   }
 }
