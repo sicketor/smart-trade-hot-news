@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T21:22:05.178Z",
+  "generatedAt": "2026-10-19T21:22:50.121Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,7 +18,7 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-19T21:22:05.178Z",
+      "updatedAt": "2026-10-19T21:22:50.121Z",
       "items": [
         {
           "id": "seekingalpha:48eead81d094b:0",
@@ -40,7 +40,9 @@
             "volume x12.2",
             "keywords: offering",
             "3 sources"
-          ]
+          ],
+          "titleHe": "דיסק מדיסין יוצאת בהנפקה לציבור של מניות וכתבי אופציה ממומנים מראש בהיקף של 350 מיליון דולר",
+          "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "DJN_DN20261019005979:0",
@@ -61,12 +63,13 @@
             "move 16.3%",
             "volume x4.5",
             "leading source dow-jones"
-          ]
+          ],
+          "titleHe": "בארקליס הותיר את ההמלצה על קליבלנד-קליפס ברמת משקל חסר",
+          "translatedBy": "gemini-3.5-flash-lite"
         }
       ],
       "warnings": [
-        "image https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news: GET https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news -> HTTP 403",
-        "translate: Gemini gemini-3.5-flash-lite -> HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+        "image https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news: GET https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news -> HTTP 403"
       ]
     },
     "il": {
@@ -83,7 +86,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-19T21:22:05.178Z",
+      "updatedAt": "2026-10-19T21:22:50.121Z",
       "items": []
     }
   }
