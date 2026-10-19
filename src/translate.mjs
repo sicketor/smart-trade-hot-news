@@ -12,8 +12,8 @@ const PROMPT = [
 /** Hebrew for each title, in order, or throws. `models`: tried in order (a retired model falls through to the next). */
 export async function translateWithGemini(titles, models, apiKey) {
   let lastError;
-  for (const model of models) {
-    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+  const call = (model) =>
+    fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
       method: "POST",
       headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey },
       body: JSON.stringify({
@@ -23,8 +23,16 @@ export async function translateWithGemini(titles, models, apiKey) {
       }),
       signal: AbortSignal.timeout(30_000),
     });
-    if (res.status === 404) {
-      lastError = new Error(`model ${model} not found`);
+  // Busy (429/5xx): one retry after a few seconds, then the next model. Retired (404): the next model.
+  const busy = (status) => status === 429 || status >= 500;
+  for (const model of models) {
+    let res = await call(model);
+    if (busy(res.status)) {
+      await new Promise((r) => setTimeout(r, 5_000));
+      res = await call(model);
+    }
+    if (res.status === 404 || busy(res.status)) {
+      lastError = new Error(`Gemini ${model} -> HTTP ${res.status}`);
       continue;
     }
     if (!res.ok) throw new Error(`Gemini ${model} -> HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
