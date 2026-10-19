@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T18:47:48.420Z",
+  "generatedAt": "2026-10-19T19:22:51.388Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,45 +18,55 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-19T18:47:48.420Z",
+      "updatedAt": "2026-10-19T19:22:51.388Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L4N46512P:0",
-          "ticker": "IRON",
-          "change": 37.97,
-          "title": "Disc Medicine's late-stage win clears path for approval of sun-allergy pill",
+          "id": "DJN_DN20261019005979:0",
+          "ticker": "CLF",
+          "change": 17.93,
+          "title": "Cleveland-Cliffs Is Maintained at Underweight by Barclays",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46512P:0-disc-medicine-s-late-stage-win-clears-path-for-approval-of-sun-allergy-pill/",
-          "publishedAt": "2026-10-19T16:05:52.000Z",
-          "score": 135,
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261019005979:0-cleveland-cliffs-is-maintained-at-underweight-by-barclays/",
+          "publishedAt": "2026-10-19T19:10:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/cleveland-cliffs--big.svg",
+            "kind": "logo"
+          },
+          "score": 115,
           "reasons": [
-            "move 38.0%",
-            "volume x10.2",
-            "leading source reuters",
-            "keywords: approval",
-            "4 sources"
+            "move 17.9%",
+            "volume x3.5",
+            "leading source dow-jones",
+            "2 sources"
           ]
         },
         {
-          "id": "seekingalpha:8b2f3af1d094b:0",
-          "ticker": "CLF",
-          "change": 16.34,
-          "title": "Cleveland-Cliffs CEO praises Trump after big Q3 earnings beat, blames Canada for Stelco layoffs",
+          "id": "invezz:3f5cbbc8e094b:0",
+          "ticker": "IRON",
+          "change": 37.46,
+          "title": "Disc Medicine stock soars: take profit or buy into strength?",
           "lang": "en",
-          "source": "seekingalpha",
-          "sourceId": "seekingalpha",
-          "url": "https://seekingalpha.com/news/4654327-cleveland-cliffs-ceo-praises-trump-after-big-q3-earnings-beat-blames-canada-for-stelco?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
-          "publishedAt": "2026-10-19T17:31:34.000Z",
-          "score": 125,
+          "source": "invezz",
+          "sourceId": "invezz",
+          "url": "https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/",
+          "publishedAt": "2026-10-19T16:23:12.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/disc-medicine--big.svg",
+            "kind": "logo"
+          },
+          "score": 115,
           "reasons": [
-            "move 16.3%",
-            "volume x3.2",
-            "keywords: earnings, layoffs",
+            "move 37.5%",
+            "volume x10.4",
+            "keywords: profit",
             "2 sources"
           ]
         }
+      ],
+      "warnings": [
+        "image https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/: GET https://invezz.com/news/2026/10/19/disc-medicine-stock-soars-take-profit-or-buy-into-strength/ -> HTTP 403"
       ]
     },
     "il": {
