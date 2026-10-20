@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T19:23:14.562Z",
+  "generatedAt": "2026-10-20T20:04:41.587Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,37 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T19:23:14.562Z",
+      "updatedAt": "2026-10-20T20:04:41.587Z",
       "items": [
+        {
+          "id": "DJN_DN20261020006936:0",
+          "ticker": "LION",
+          "change": 15.11,
+          "title": "Lionsgate Studios Stock Jumps on Report of Takeover Bid by Legendary Entertainment — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020006936:0-lionsgate-studios-stock-jumps-on-report-of-takeover-bid-by-legendary-entertainment-barrons-com/",
+          "publishedAt": "2026-10-20T19:36:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/lionsgate-studios--big.svg",
+            "kind": "logo"
+          },
+          "score": 125,
+          "reasons": [
+            "move 15.1%",
+            "volume x5.3",
+            "leading source dow-jones",
+            "keywords: takeover",
+            "2 sources"
+          ],
+          "titleHe": "מניית Lionsgate Studios מזנקת בעקבות דיווח על הצעת רכש מצד Legendary Entertainment",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261020006988:0",
           "ticker": "BRZE",
-          "change": 51.28,
+          "change": 51.2,
           "title": "Braze Cut to Perform From Outperform by Oppenheimer",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,37 +61,12 @@
           },
           "score": 125,
           "reasons": [
-            "move 51.3%",
-            "volume x30.0",
+            "move 51.2%",
+            "volume x31.1",
             "leading source dow-jones",
-            "4 sources"
+            "3 sources"
           ],
           "titleHe": "אופנהיימר מורידים את המלצתם למניית Braze מ-Outperform ל-Perform",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261020006936:0",
-          "ticker": "LION",
-          "change": 16.34,
-          "title": "Lionsgate Studios Stock Jumps on Report of Takeover Bid by Legendary Entertainment — Barrons.com",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020006936:0-lionsgate-studios-stock-jumps-on-report-of-takeover-bid-by-legendary-entertainment-barrons-com/",
-          "publishedAt": "2026-10-20T18:12:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/lionsgate-studios--big.svg",
-            "kind": "logo"
-          },
-          "score": 125,
-          "reasons": [
-            "move 16.3%",
-            "volume x4.5",
-            "leading source dow-jones",
-            "keywords: takeover",
-            "2 sources"
-          ],
-          "titleHe": "מניית Lionsgate Studios מזנקת בעקבות דיווח על הצעת רכש מצד Legendary Entertainment",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
