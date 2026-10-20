@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T12:15:21.470Z",
+  "generatedAt": "2026-10-20T13:09:40.556Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T12:15:21.470Z",
+      "updatedAt": "2026-10-20T13:09:40.556Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L6N4660PI:0",
-          "ticker": "GM",
-          "change": -7.31,
-          "title": "GM shares sink as full-year profit forecast misses Wall Street estimates",
+          "id": "tag:reuters.com,2026:newsml_TUA6WJS1J:0",
+          "ticker": "BRZE",
+          "change": 50.83,
+          "title": "Salesforce To Acquire Braze For $5.66 Billion Enterprise Value",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4660PI:0-gm-shares-sink-as-full-year-profit-forecast-misses-wall-street-estimates/",
-          "publishedAt": "2026-10-20T10:47:00.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA6WJS1J:0-salesforce-to-acquire-braze-for-5-66-billion-enterprise-value/",
+          "publishedAt": "2026-10-20T12:38:12.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/general-motors--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/braze--big.svg",
             "kind": "logo"
           },
-          "score": 110,
+          "score": 120,
           "reasons": [
-            "move -7.3%",
+            "move 50.8%",
             "leading source reuters",
-            "keywords: profit, forecast",
-            "10 sources"
+            "keywords: acquire",
+            "5 sources"
           ],
-          "titleHe": "מניית GM צוללת לאחר שתחזית הרווח השנתי פיספסה את תחזיות בוול סטריט",
+          "titleHe": "סיילספורס תרכוש את Braze תמורת שווי פעילות של 5.66 מיליארד דולר",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L8N46612D:0",
+          "id": "tag:reuters.com,2026:newsml_L6N4660TY:0",
           "ticker": "EFX",
-          "change": 5.51,
-          "title": "Equifax Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "change": 7.21,
+          "title": "Equifax Q3 revenue, profit rise on mortgage segment growth",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N46612D:0-equifax-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-10-20T11:31:45.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4660TY:0-equifax-q3-revenue-profit-rise-on-mortgage-segment-growth/",
+          "publishedAt": "2026-10-20T13:03:01.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/equifax--big.svg",
             "kind": "logo"
           },
-          "score": 95,
+          "score": 110,
           "reasons": [
-            "move 5.5%",
+            "move 7.2%",
             "leading source reuters",
-            "keywords: earnings, results",
-            "2 sources"
+            "keywords: revenue, profit",
+            "8 sources"
           ],
-          "titleHe": "Equifax מדווחת על תוצאות הרבעון שהסתייים ב-30 בספטמבר - סיכום רווחים",
+          "titleHe": "ההכנסות והרווח ברבעון ה-3 של אקוויפקס עלו הודות לצמיחה במגזר המשכנתאות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T12:15:21.470Z",
+      "updatedAt": "2026-10-20T13:09:40.556Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-3f29-d1eb-abe1-7f3dfd2e0000",
