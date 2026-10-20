@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T14:01:28.012Z",
+  "generatedAt": "2026-10-20T14:39:23.796Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T14:01:28.012Z",
+      "updatedAt": "2026-10-20T14:39:23.796Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_TUA6WJS1J:0",
           "ticker": "BRZE",
-          "change": 51.02,
+          "change": 50.9,
           "title": "Salesforce To Acquire Braze For $5.66 Billion Enterprise Value",
           "lang": "en",
           "source": "Reuters",
@@ -36,11 +36,11 @@
           },
           "score": 135,
           "reasons": [
-            "move 51.0%",
-            "volume x7.6",
+            "move 50.9%",
+            "volume x16.6",
             "leading source reuters",
             "keywords: acquire",
-            "9 sources"
+            "11 sources"
           ],
           "titleHe": "סיילספורס תרכוש את Braze תמורת שווי פעילות של 5.66 מיליארד דולר",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -48,7 +48,7 @@
         {
           "id": "tag:reuters.com,2026:newsml_L6N4660TY:0",
           "ticker": "EFX",
-          "change": 10.36,
+          "change": 9.73,
           "title": "Equifax Q3 revenue, profit rise on mortgage segment growth",
           "lang": "en",
           "source": "Reuters",
@@ -59,12 +59,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/equifax--big.svg",
             "kind": "logo"
           },
-          "score": 119,
+          "score": 117,
           "reasons": [
-            "move 10.4%",
+            "move 9.7%",
             "leading source reuters",
             "keywords: revenue, profit",
-            "3 sources"
+            "5 sources"
           ],
           "titleHe": "ההכנסות והרווח ברבעון ה-3 של אקוויפקס עלו הודות לצמיחה במגזר המשכנתאות",
           "translatedBy": "gemini-3.5-flash-lite"
