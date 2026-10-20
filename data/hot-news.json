@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T13:09:40.556Z",
+  "generatedAt": "2026-10-20T14:01:28.012Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T13:09:40.556Z",
+      "updatedAt": "2026-10-20T14:01:28.012Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_TUA6WJS1J:0",
           "ticker": "BRZE",
-          "change": 50.83,
+          "change": 51.02,
           "title": "Salesforce To Acquire Braze For $5.66 Billion Enterprise Value",
           "lang": "en",
           "source": "Reuters",
@@ -34,12 +34,13 @@
             "url": "https://s3-symbol-logo.tradingview.com/braze--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 135,
           "reasons": [
-            "move 50.8%",
+            "move 51.0%",
+            "volume x7.6",
             "leading source reuters",
             "keywords: acquire",
-            "5 sources"
+            "9 sources"
           ],
           "titleHe": "סיילספורס תרכוש את Braze תמורת שווי פעילות של 5.66 מיליארד דולר",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -47,7 +48,7 @@
         {
           "id": "tag:reuters.com,2026:newsml_L6N4660TY:0",
           "ticker": "EFX",
-          "change": 7.21,
+          "change": 10.36,
           "title": "Equifax Q3 revenue, profit rise on mortgage segment growth",
           "lang": "en",
           "source": "Reuters",
@@ -58,12 +59,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/equifax--big.svg",
             "kind": "logo"
           },
-          "score": 110,
+          "score": 119,
           "reasons": [
-            "move 7.2%",
+            "move 10.4%",
             "leading source reuters",
             "keywords: revenue, profit",
-            "8 sources"
+            "3 sources"
           ],
           "titleHe": "ההכנסות והרווח ברבעון ה-3 של אקוויפקס עלו הודות לצמיחה במגזר המשכנתאות",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -84,8 +85,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T13:09:40.556Z",
+      "updatedAt": "2026-10-20T14:01:28.012Z",
       "items": [
+        {
+          "id": "calcalist:57765a68f30f0:0",
+          "ticker": "POLI",
+          "change": 0.56,
+          "title": "החובות בתחום ה-AI הובילו לזינוק במסחר בביטוח מפני חדלות פירעון - לשיא",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.calcalist.co.il/market/article/r1vbp1h2gl",
+          "publishedAt": "2026-10-20T13:24:50.000Z",
+          "image": {
+            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/23/B1vsKsvMGg/B1vsKsvMGg_0_142_3000_1689_0_large.jpg",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
         {
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-3f29-d1eb-abe1-7f3dfd2e0000",
           "ticker": null,
@@ -98,26 +119,6 @@
           "publishedAt": "2026-10-20T10:37:29.000Z",
           "image": {
             "url": "https://img.haarets.co.il/bs/00000188-4dd5-dde3-abf9-fddd09000000/c3/eb/e56ea67c4ec69f57d1b2a7c28b42/148319.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-58c3-d9b6-a9b1-78ebf3d60000",
-          "ticker": null,
-          "change": null,
-          "title": "עין שלישית נכנסה לשיתוף פעולה עם סטארט־אפ אמריקאי; המניה מזנקת ב–11%",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-58c3-d9b6-a9b1-78ebf3d60000",
-          "publishedAt": "2026-10-20T10:28:49.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-58cf-d9b7-abf3-fbdf9ade0000/0e/6c/82d3060442ecac390faa8c4c06a0/413205.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
