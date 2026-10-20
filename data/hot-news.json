@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T08:58:25.727Z",
+  "generatedAt": "2026-10-20T09:37:51.780Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T08:58:25.727Z",
+      "updatedAt": "2026-10-20T09:37:51.780Z",
       "items": [
         {
           "id": "globenewswire:00d4d379c094b:0",
           "ticker": "HSAI",
-          "change": 12.46,
+          "change": 10.99,
           "title": "Hesai Group to Report Third Quarter 2026 Financial Results on Tuesday, November 10, 2026",
           "lang": "en",
           "source": "globenewswire",
@@ -34,33 +34,35 @@
             "url": "https://s3-symbol-logo.tradingview.com/hesai_group--big.svg",
             "kind": "logo"
           },
-          "score": 85,
+          "score": 81,
           "reasons": [
-            "move 12.5%",
+            "move 11.0%",
             "keywords: results"
           ],
           "titleHe": "Hesai Group תדווח על תוצאותיה הפיננסיות לרבעון השלישי של 2026 ביום שלישי, 10 בנובמבר 2026",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "urn:summary_document_slides:quartr.com:4254605:0",
-          "ticker": "STLD",
-          "change": -5.78,
-          "title": "STLD: Q3 growth was led by steel, with aluminum expansion and strong liquidity supporting investment plans",
+          "id": "DJN_DN20261020001285:0",
+          "ticker": "SKHY",
+          "change": -4.46,
+          "title": "European Chip Stocks Resume Fall After Day of Respite — Market Talk",
           "lang": "en",
-          "source": "quartr",
-          "sourceId": "quartr",
-          "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4254605:0-stld-q3-growth-was-led-by-steel-with-aluminum-expansion-and-strong-liquidity-supporting-investment-plans/",
-          "publishedAt": "2026-10-20T07:14:31.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020001285:0-european-chip-stocks-resume-fall-after-day-of-respite-market-talk/",
+          "publishedAt": "2026-10-20T08:22:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/steel-dynamics--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/sk-telecom--big.svg",
             "kind": "logo"
           },
-          "score": 55,
+          "score": 71,
           "reasons": [
-            "move -5.8%"
+            "move -4.5%",
+            "leading source dow-jones",
+            "2 sources"
           ],
-          "titleHe": "STLD: הצמיחה ברבעון ה₃ הובלה על ידי תחום הפלדה, לצד התרחבות באלומיניום ונזילות חזקה שתומכת בתוכניות ההשקעה",
+          "titleHe": "מניות השבבים באירופה חוזרות לרדת אחרי יום של התאוששות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -79,8 +81,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T08:58:25.727Z",
+      "updatedAt": "2026-10-20T09:37:51.780Z",
       "items": [
+        {
+          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-5880-d7ce-a9a1-dbe7cbdf0000",
+          "ticker": null,
+          "change": null,
+          "title": "לקראת רכישת שיכון ובינוי אנרגיה: ג'נריישן השלימה גיוס אג\"ח של 1.2 מיליארד שקל",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-5880-d7ce-a9a1-dbe7cbdf0000",
+          "publishedAt": "2026-10-20T09:01:56.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000019e-93a8-da37-a19f-d7aa644a0000/53/03/4bce202e493daf27e4978bc3e786/430559.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "score": 50,
+          "reasons": [
+            "leading source themarker",
+            "keywords: רכישת"
+          ]
+        },
         {
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-57f3-dcd4-afa3-57fbdfab0000",
           "ticker": null,
@@ -99,26 +121,6 @@
           "reasons": [
             "leading source themarker",
             "keywords: רכישת"
-          ]
-        },
-        {
-          "id": "calcalist:564e82a5e30f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "שפיר יוצאת מחלוקת הגז: מוכרת את חלקה לאלייד ב-230 מיליון שקל",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.calcalist.co.il/market/article/rj11cmo42ze",
-          "publishedAt": "2026-10-20T08:37:24.000Z",
-          "image": {
-            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/04/06/BJ4uz1ygA/BJ4uz1ygA_0_34_2000_1126_0_large.jpg",
-            "kind": "photo"
-          },
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
           ]
         }
       ]
