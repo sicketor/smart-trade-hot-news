@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T11:37:18.683Z",
+  "generatedAt": "2026-10-20T12:15:21.470Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,36 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T11:37:18.683Z",
+      "updatedAt": "2026-10-20T12:15:21.470Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L1N4660DT:0",
-          "ticker": "VICR",
-          "change": 7.51,
-          "title": "Vicor Q3 revenue jumps 78.5% year over year on royalty boost, strong demand",
+          "id": "tag:reuters.com,2026:newsml_L6N4660PI:0",
+          "ticker": "GM",
+          "change": -7.31,
+          "title": "GM shares sink as full-year profit forecast misses Wall Street estimates",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4660DT:0-vicor-q3-revenue-jumps-78-5-year-over-year-on-royalty-boost-strong-demand/",
-          "publishedAt": "2026-10-20T11:13:21.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4660PI:0-gm-shares-sink-as-full-year-profit-forecast-misses-wall-street-estimates/",
+          "publishedAt": "2026-10-20T10:47:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/vicor--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/general-motors--big.svg",
             "kind": "logo"
           },
-          "score": 101,
+          "score": 110,
           "reasons": [
-            "move 7.5%",
+            "move -7.3%",
             "leading source reuters",
-            "keywords: revenue",
-            "6 sources"
+            "keywords: profit, forecast",
+            "10 sources"
           ],
-          "titleHe": "ההכנסות של Vicor ברבעון ה-3 זינקו ב-78.5% לעומת המקביל עקב עלייה בתמלוגים וביקוש חזק",
+          "titleHe": "מניית GM צוללת לאחר שתחזית הרווח השנתי פיספסה את תחזיות בוול סטריט",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "tag:reuters.com,2026:newsml_L8N46612D:0",
           "ticker": "EFX",
-          "change": 4.8,
+          "change": 5.51,
           "title": "Equifax Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -58,9 +58,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/equifax--big.svg",
             "kind": "logo"
           },
-          "score": 92,
+          "score": 95,
           "reasons": [
-            "move 4.8%",
+            "move 5.5%",
             "leading source reuters",
             "keywords: earnings, results",
             "2 sources"
@@ -84,28 +84,8 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T11:37:18.683Z",
+      "updatedAt": "2026-10-20T12:15:21.470Z",
       "items": [
-        {
-          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-5880-d7ce-a9a1-dbe7cbdf0000",
-          "ticker": null,
-          "change": null,
-          "title": "לקראת רכישת שיכון ובינוי אנרגיה: ג'נריישן השלימה גיוס אג\"ח של 1.2 מיליארד שקל",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-5880-d7ce-a9a1-dbe7cbdf0000",
-          "publishedAt": "2026-10-20T09:01:56.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000019e-93a8-da37-a19f-d7aa644a0000/53/03/4bce202e493daf27e4978bc3e786/430559.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source themarker",
-            "keywords: רכישת"
-          ]
-        },
         {
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-3f29-d1eb-abe1-7f3dfd2e0000",
           "ticker": null,
@@ -118,6 +98,26 @@
           "publishedAt": "2026-10-20T10:37:29.000Z",
           "image": {
             "url": "https://img.haarets.co.il/bs/00000188-4dd5-dde3-abf9-fddd09000000/c3/eb/e56ea67c4ec69f57d1b2a7c28b42/148319.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
+        {
+          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-58c3-d9b6-a9b1-78ebf3d60000",
+          "ticker": null,
+          "change": null,
+          "title": "עין שלישית נכנסה לשיתוף פעולה עם סטארט־אפ אמריקאי; המניה מזנקת ב–11%",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-58c3-d9b6-a9b1-78ebf3d60000",
+          "publishedAt": "2026-10-20T10:28:49.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-58cf-d9b7-abf3-fbdf9ade0000/0e/6c/82d3060442ecac390faa8c4c06a0/413205.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
