@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T18:40:35.253Z",
+  "generatedAt": "2026-10-20T19:23:14.562Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T18:40:35.253Z",
+      "updatedAt": "2026-10-20T19:23:14.562Z",
       "items": [
         {
           "id": "DJN_DN20261020006988:0",
           "ticker": "BRZE",
-          "change": 51.7,
+          "change": 51.28,
           "title": "Braze Cut to Perform From Outperform by Oppenheimer",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,10 +36,10 @@
           },
           "score": 125,
           "reasons": [
-            "move 51.7%",
-            "volume x29.1",
+            "move 51.3%",
+            "volume x30.0",
             "leading source dow-jones",
-            "5 sources"
+            "4 sources"
           ],
           "titleHe": "אופנהיימר מורידים את המלצתם למניית Braze מ-Outperform ל-Perform",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -47,7 +47,7 @@
         {
           "id": "DJN_DN20261020006936:0",
           "ticker": "LION",
-          "change": 14.88,
+          "change": 16.34,
           "title": "Lionsgate Studios Stock Jumps on Report of Takeover Bid by Legendary Entertainment — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -60,8 +60,8 @@
           },
           "score": 125,
           "reasons": [
-            "move 14.9%",
-            "volume x3.9",
+            "move 16.3%",
+            "volume x4.5",
             "leading source dow-jones",
             "keywords: takeover",
             "2 sources"
