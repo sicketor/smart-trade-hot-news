@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T08:12:49.676Z",
+  "generatedAt": "2026-10-20T08:58:25.727Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,50 +18,49 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T08:12:49.676Z",
+      "updatedAt": "2026-10-20T08:58:25.727Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L4N4660BV:0",
-          "ticker": "CRWV",
-          "change": 7.18,
-          "title": "CoreWeave debt selloff poses limited risk to global banks, J.P. Morgan says",
+          "id": "globenewswire:00d4d379c094b:0",
+          "ticker": "HSAI",
+          "change": 12.46,
+          "title": "Hesai Group to Report Third Quarter 2026 Financial Results on Tuesday, November 10, 2026",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4660BV:0-coreweave-debt-selloff-poses-limited-risk-to-global-banks-j-p-morgan-says/",
-          "publishedAt": "2026-10-20T07:20:13.000Z",
+          "source": "globenewswire",
+          "sourceId": "globenewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/20/3384091/0/en/hesai-group-to-report-third-quarter-2026-financial-results-on-tuesday-november-10-2026.html",
+          "publishedAt": "2026-10-20T08:30:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/coreweave--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/hesai_group--big.svg",
             "kind": "logo"
           },
-          "score": 70,
+          "score": 85,
           "reasons": [
-            "move 7.2%",
-            "leading source reuters"
+            "move 12.5%",
+            "keywords: results"
           ],
-          "titleHe": "מכירת החוב של CoreWeave מציגה סיכון מוגבל לבנקים הגלובליים, אומרים ב-J.P. Morgan",
+          "titleHe": "Hesai Group תדווח על תוצאותיה הפיננסיות לרבעון השלישי של 2026 ביום שלישי, 10 בנובמבר 2026",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261020001110:0",
-          "ticker": "SE",
-          "change": -0.82,
-          "title": "Sea Plans New Cloud Business, Weighs Financial-Services Arm IPO — Update",
+          "id": "urn:summary_document_slides:quartr.com:4254605:0",
+          "ticker": "STLD",
+          "change": -5.78,
+          "title": "STLD: Q3 growth was led by steel, with aluminum expansion and strong liquidity supporting investment plans",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020001110:0-sea-plans-new-cloud-business-weighs-financial-services-arm-ipo-update/",
-          "publishedAt": "2026-10-20T08:00:00.000Z",
+          "source": "quartr",
+          "sourceId": "quartr",
+          "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4254605:0-stld-q3-growth-was-led-by-steel-with-aluminum-expansion-and-strong-liquidity-supporting-investment-plans/",
+          "publishedAt": "2026-10-20T07:14:31.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/sea-limited--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/steel-dynamics--big.svg",
             "kind": "logo"
           },
-          "score": 50,
+          "score": 55,
           "reasons": [
-            "leading source dow-jones",
-            "keywords: IPO"
+            "move -5.8%"
           ],
-          "titleHe": "Sea מתכננת עסק ענן חדש ושוקלת הנפקה של זراع השירותים הפיננסיים",
+          "titleHe": "STLD: הצמיחה ברבעון ה₃ הובלה על ידי תחום הפלדה, לצד התרחבות באלומיניום ונזילות חזקה שתומכת בתוכניות ההשקעה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -80,7 +79,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T08:12:49.676Z",
+      "updatedAt": "2026-10-20T08:58:25.727Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-57f3-dcd4-afa3-57fbdfab0000",
@@ -103,17 +102,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-20/ty-article-live/000001a1-5807-d9b6-a9b1-78affbb30000",
+          "id": "calcalist:564e82a5e30f0:0",
           "ticker": null,
           "change": null,
-          "title": "עליות בבורסה: ת\"א 90 מתחזק ב-1.2%, מספנות ישראל קופצת ב-6%",
+          "title": "שפיר יוצאת מחלוקת הגז: מוכרת את חלקה לאלייד ב-230 מיליון שקל",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-20/ty-article-live/000001a1-5807-d9b6-a9b1-78affbb30000",
-          "publishedAt": "2026-10-20T07:05:03.000Z",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.calcalist.co.il/market/article/rj11cmo42ze",
+          "publishedAt": "2026-10-20T08:37:24.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/0000018c-6951-d798-adac-edff80d60000/b1/04/5294900e4f4580d1d193c14f658f/577007.jpg?width=108&height=81",
+            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/04/06/BJ4uz1ygA/BJ4uz1ygA_0_34_2000_1126_0_large.jpg",
             "kind": "photo"
           },
           "fallback": true,
