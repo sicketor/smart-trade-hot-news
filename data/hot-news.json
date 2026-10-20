@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T07:28:57.548Z",
+  "generatedAt": "2026-10-20T08:12:49.676Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,58 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-19T21:25:47.720Z",
+      "updatedAt": "2026-10-20T08:12:49.676Z",
       "items": [
         {
-          "id": "seekingalpha:48eead81d094b:0",
-          "ticker": "IRON",
-          "change": 38.86,
-          "title": "Disc Medicine launches $350M public offering of common stock and pre-funded warrants",
+          "id": "tag:reuters.com,2026:newsml_L4N4660BV:0",
+          "ticker": "CRWV",
+          "change": 7.18,
+          "title": "CoreWeave debt selloff poses limited risk to global banks, J.P. Morgan says",
           "lang": "en",
-          "source": "seekingalpha",
-          "sourceId": "seekingalpha",
-          "url": "https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
-          "publishedAt": "2026-10-19T20:15:36.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4660BV:0-coreweave-debt-selloff-poses-limited-risk-to-global-banks-j-p-morgan-says/",
+          "publishedAt": "2026-10-20T07:20:13.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/disc-medicine--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/coreweave--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 70,
           "reasons": [
-            "move 38.9%",
-            "volume x12.2",
-            "keywords: offering",
-            "3 sources"
+            "move 7.2%",
+            "leading source reuters"
           ],
-          "titleHe": "דיסק מדיסין יוצאת בהנפקה לציבור של מניות וכתבי אופציה ממומנים מראש בהיקף של 350 מיליון דולר",
+          "titleHe": "מכירת החוב של CoreWeave מציגה סיכון מוגבל לבנקים הגלובליים, אומרים ב-J.P. Morgan",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261019005979:0",
-          "ticker": "CLF",
-          "change": 16.34,
-          "title": "Cleveland-Cliffs Is Maintained at Underweight by Barclays",
+          "id": "DJN_DN20261020001110:0",
+          "ticker": "SE",
+          "change": -0.82,
+          "title": "Sea Plans New Cloud Business, Weighs Financial-Services Arm IPO — Update",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261019005979:0-cleveland-cliffs-is-maintained-at-underweight-by-barclays/",
-          "publishedAt": "2026-10-19T19:10:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020001110:0-sea-plans-new-cloud-business-weighs-financial-services-arm-ipo-update/",
+          "publishedAt": "2026-10-20T08:00:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/cleveland-cliffs--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/sea-limited--big.svg",
             "kind": "logo"
           },
-          "score": 105,
+          "score": 50,
           "reasons": [
-            "move 16.3%",
-            "volume x4.5",
-            "leading source dow-jones"
+            "leading source dow-jones",
+            "keywords: IPO"
           ],
-          "titleHe": "בארקליס הותיר את ההמלצה על קליבלנד-קליפס ברמת משקל חסר",
+          "titleHe": "Sea מתכננת עסק ענן חדש ושוקלת הנפקה של זراع השירותים הפיננסיים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "image https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news: GET https://seekingalpha.com/news/4654383-disc-medicine-launches-350m-public-offering-of-common-stock-and-pre-funded-warrants?utm_source=tradingview&utm_medium=referral&feed_item_type=news -> HTTP 403"
       ]
     },
     "il": {
@@ -86,7 +80,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T07:28:57.548Z",
+      "updatedAt": "2026-10-20T08:12:49.676Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-57f3-dcd4-afa3-57fbdfab0000",
@@ -112,7 +106,7 @@
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article-live/000001a1-5807-d9b6-a9b1-78affbb30000",
           "ticker": null,
           "change": null,
-          "title": "המסחר בת\"א נפתח בירידות קלות; ת\"א 35 נסוג ב-0.2%",
+          "title": "עליות בבורסה: ת\"א 90 מתחזק ב-1.2%, מספנות ישראל קופצת ב-6%",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
