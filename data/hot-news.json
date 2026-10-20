@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T17:58:02.517Z",
+  "generatedAt": "2026-10-20T18:40:35.253Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,55 +18,55 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T17:58:02.517Z",
+      "updatedAt": "2026-10-20T18:40:35.253Z",
       "items": [
         {
-          "id": "DJN_DN20261020006669:0",
+          "id": "DJN_DN20261020006988:0",
           "ticker": "BRZE",
-          "change": 51.51,
-          "title": "Braze Cut to Neutral From Overweight by Piper Sandler",
+          "change": 51.7,
+          "title": "Braze Cut to Perform From Outperform by Oppenheimer",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020006669:0-braze-cut-to-neutral-from-overweight-by-piper-sandler/",
-          "publishedAt": "2026-10-20T17:07:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020006988:0-braze-cut-to-perform-from-outperform-by-oppenheimer/",
+          "publishedAt": "2026-10-20T18:23:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/braze--big.svg",
             "kind": "logo"
           },
           "score": 125,
           "reasons": [
-            "move 51.5%",
-            "volume x28.3",
+            "move 51.7%",
+            "volume x29.1",
             "leading source dow-jones",
             "5 sources"
           ],
-          "titleHe": "Piper Sandler הורדת המלצה ל-Braze מ-'משקל יתר' ל-'ניטרלי'",
+          "titleHe": "אופנהיימר מורידים את המלצתם למניית Braze מ-Outperform ל-Perform",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261020006240:0",
-          "ticker": "HAS",
-          "change": 9.62,
-          "title": "Hasbro Lifts Outlook on Surging Magic Card Game Sales — Update",
+          "id": "DJN_DN20261020006936:0",
+          "ticker": "LION",
+          "change": 14.88,
+          "title": "Lionsgate Studios Stock Jumps on Report of Takeover Bid by Legendary Entertainment — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020006240:0-hasbro-lifts-outlook-on-surging-magic-card-game-sales-update/",
-          "publishedAt": "2026-10-20T16:06:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020006936:0-lionsgate-studios-stock-jumps-on-report-of-takeover-bid-by-legendary-entertainment-barrons-com/",
+          "publishedAt": "2026-10-20T18:12:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/hasbro--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/lionsgate-studios--big.svg",
             "kind": "logo"
           },
-          "score": 112,
+          "score": 125,
           "reasons": [
-            "move 9.6%",
-            "volume x2.9",
+            "move 14.9%",
+            "volume x3.9",
             "leading source dow-jones",
-            "keywords: outlook",
+            "keywords: takeover",
             "2 sources"
           ],
-          "titleHe": "האסברו מעלה את תחזית הרווח הודות לזינוק במכירות משחק הקלפים Magic — עדכון",
+          "titleHe": "מניית Lionsgate Studios מזנקת בעקבות דיווח על הצעת רכש מצד Legendary Entertainment",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
