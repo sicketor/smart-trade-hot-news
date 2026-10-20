@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T16:37:39.587Z",
+  "generatedAt": "2026-10-20T17:21:47.887Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,34 +18,34 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T16:37:39.587Z",
+      "updatedAt": "2026-10-20T17:21:47.887Z",
       "items": [
         {
-          "id": "DJN_DN20261020005504:0",
+          "id": "DJN_DN20261020006669:0",
           "ticker": "BRZE",
-          "change": 51.28,
-          "title": "Salesforce Acquires Braze for $5.7 Billion in Latest AI Bet. The Price 'Seems a Bit Odd.' — Barrons.com",
+          "change": 51.48,
+          "title": "Braze Cut to Neutral From Overweight by Piper Sandler",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020005504:0-salesforce-acquires-braze-for-5-7-billion-in-latest-ai-bet-the-price-seems-a-bit-odd-barrons-com/",
-          "publishedAt": "2026-10-20T16:34:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020006669:0-braze-cut-to-neutral-from-overweight-by-piper-sandler/",
+          "publishedAt": "2026-10-20T17:07:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/braze--big.svg",
             "kind": "logo"
           },
           "score": 125,
           "reasons": [
-            "move 51.3%",
-            "volume x26.1",
+            "move 51.5%",
+            "volume x27.3",
             "leading source dow-jones",
-            "6 sources"
+            "4 sources"
           ]
         },
         {
           "id": "seekingalpha:d26f34508094b:0",
           "ticker": "MLI",
-          "change": -8.61,
+          "change": -10.44,
           "title": "Mueller Industries stock touches 4-mth low after earnings report",
           "lang": "en",
           "source": "seekingalpha",
@@ -56,9 +56,9 @@
             "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1164868232/image_1164868232.jpg?io=getty-c-w630",
             "kind": "photo"
           },
-          "score": 94,
+          "score": 99,
           "reasons": [
-            "move -8.6%",
+            "move -10.4%",
             "keywords: earnings",
             "3 sources"
           ]
