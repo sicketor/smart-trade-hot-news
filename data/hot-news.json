@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T16:00:31.161Z",
+  "generatedAt": "2026-10-20T16:37:39.587Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T16:00:31.161Z",
+      "updatedAt": "2026-10-20T16:37:39.587Z",
       "items": [
         {
           "id": "DJN_DN20261020005504:0",
           "ticker": "BRZE",
-          "change": 50.9,
-          "title": "Braze Stock Soars 51% as Salesforce Makes Its Latest AI Bet — Barrons.com",
+          "change": 51.28,
+          "title": "Salesforce Acquires Braze for $5.7 Billion in Latest AI Bet. The Price 'Seems a Bit Odd.' — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020005504:0-braze-stock-soars-51-as-salesforce-makes-its-latest-ai-bet-barrons-com/",
-          "publishedAt": "2026-10-20T14:56:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020005504:0-salesforce-acquires-braze-for-5-7-billion-in-latest-ai-bet-the-price-seems-a-bit-odd-barrons-com/",
+          "publishedAt": "2026-10-20T16:34:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/braze--big.svg",
             "kind": "logo"
           },
           "score": 125,
           "reasons": [
-            "move 50.9%",
-            "volume x24.2",
+            "move 51.3%",
+            "volume x26.1",
             "leading source dow-jones",
-            "8 sources"
-          ],
-          "titleHe": "מניית Braze מזנקת ב-51% בעוד Salesforce מבצעת הימור חדש על AI",
-          "translatedBy": "gemini-3.5-flash-lite"
+            "6 sources"
+          ]
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L6N4660TY:0",
-          "ticker": "EFX",
-          "change": 11.62,
-          "title": "Equifax Q3 revenue, profit rise on mortgage segment growth",
+          "id": "seekingalpha:d26f34508094b:0",
+          "ticker": "MLI",
+          "change": -8.61,
+          "title": "Mueller Industries stock touches 4-mth low after earnings report",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4660TY:0-equifax-q3-revenue-profit-rise-on-mortgage-segment-growth/",
-          "publishedAt": "2026-10-20T13:03:01.000Z",
+          "source": "seekingalpha",
+          "sourceId": "seekingalpha",
+          "url": "https://seekingalpha.com/news/4654677-mueller-industries-stock-touches-4-mth-low-after-earnings-report?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+          "publishedAt": "2026-10-20T14:27:59.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/equifax--big.svg",
-            "kind": "logo"
+            "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1164868232/image_1164868232.jpg?io=getty-c-w630",
+            "kind": "photo"
           },
-          "score": 123,
+          "score": 94,
           "reasons": [
-            "move 11.6%",
-            "leading source reuters",
-            "keywords: revenue, profit",
+            "move -8.6%",
+            "keywords: earnings",
             "3 sources"
-          ],
-          "titleHe": "ההכנסות והרווח ברבעון ה-3 של אקוויפקס עלו הודות לצמיחה במגזר המשכנתאות",
-          "translatedBy": "gemini-3.5-flash-lite"
+          ]
         }
+      ],
+      "warnings": [
+        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
