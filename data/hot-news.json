@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T21:25:47.720Z",
+  "generatedAt": "2026-10-20T06:43:17.511Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -86,20 +86,20 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-19T21:25:47.720Z",
+      "updatedAt": "2026-10-20T06:43:17.511Z",
       "items": [
         {
-          "id": "calcalist:dc460848a30f0:0",
+          "id": "calcalist:f3c53579030f0:0",
           "ticker": null,
           "change": null,
-          "title": "חודשיים אחרי ההשעיה: הבורסה תחדש את המסחר במניית תומר מזון",
+          "title": "שוק המט\"ח עוקב אחרי המהומות באירופה; הדולר מעל ל-3.1 שקלים",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.calcalist.co.il/market/article/byhkphxhfe",
-          "publishedAt": "2026-10-19T15:34:51.000Z",
+          "url": "https://www.calcalist.co.il/market/article/bklc3d42mg",
+          "publishedAt": "2026-10-20T05:44:45.000Z",
           "image": {
-            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/27/B1DdwBaPGx/B1DdwBaPGx_572_180_1881_1059_0_large.jpg",
+            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/08/31/BkQrYiW9lg/BkQrYiW9lg_0_201_3000_1689_0_large.jpg",
             "kind": "photo"
           },
           "fallback": true,
@@ -109,17 +109,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-19/ty-article/.premium/000001a1-54bc-df3c-adbf-d4fd02760000",
+          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-57aa-df3c-adbf-d7fb5c160000",
           "ticker": null,
           "change": null,
-          "title": "המאבק על אינמוד: קרן סטיל פרטנרס מאיימת בנקיטת צעדים נגד הדירקטוריון",
+          "title": "עסקה של 4 מיליארד דולר תקועה: המחיר הכבד של האי־ודאות בישראל",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-19/ty-article/.premium/000001a1-54bc-df3c-adbf-d4fd02760000",
-          "publishedAt": "2026-10-19T15:32:53.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-57aa-df3c-adbf-d7fb5c160000",
+          "publishedAt": "2026-10-20T05:33:06.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-54c0-dcd4-afa3-55cb09af0001/28/18/dd2a0412436aa7d917ec8924c903/yos.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/000001a1-57b7-df3c-adbf-d7f72fa50001/57/0c/4b2106f845f38df36903516598a3/383950.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
