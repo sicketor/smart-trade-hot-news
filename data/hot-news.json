@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T10:14:50.604Z",
+  "generatedAt": "2026-10-20T10:54:08.910Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T10:14:50.604Z",
+      "updatedAt": "2026-10-20T10:54:08.910Z",
       "items": [
+        {
+          "id": "DJN_DN20261020002445_20261020002446:0",
+          "ticker": "GM",
+          "change": -5.37,
+          "title": "GM Releases 2026 Third-quarter Results And Updates Full-year 2026 Guidance; Board Approves New $20 Billion Share Repurchase Authorization, Declares Quarterly Dividend >GM",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020002445_20261020002446:0-gm-releases-2026-third-quarter-results-and-updates-full-year-2026-guidance-board-approves-new-20-billion-share-repurchase-authorization-declares-quarterly-dividend-gm/",
+          "publishedAt": "2026-10-20T10:30:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/general-motors--big.svg",
+            "kind": "logo"
+          },
+          "score": 104,
+          "reasons": [
+            "move -5.4%",
+            "leading source dow-jones",
+            "keywords: results, guidance",
+            "6 sources"
+          ],
+          "titleHe": "ג'נרל מוטורס מפרסמת תוצאות לרבעון השלישי של 2026 ומעודכנת את תחזית השנה כולה; דירקטוריון החברה מאשר תוכנית רכישה עצמית חדשה בהיקף של 20 מיליארד דולר ומכריז על דיבידנד רבעוני",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "globenewswire:00d4d379c094b:0",
           "ticker": "HSAI",
-          "change": 10.84,
+          "change": 9.33,
           "title": "Hesai Group to Report Third Quarter 2026 Financial Results on Tuesday, November 10, 2026",
           "lang": "en",
           "source": "globenewswire",
@@ -34,35 +58,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/hesai_group--big.svg",
             "kind": "logo"
           },
-          "score": 81,
+          "score": 76,
           "reasons": [
-            "move 10.8%",
+            "move 9.3%",
             "keywords: results"
           ],
           "titleHe": "Hesai Group תדווח על תוצאותיה הפיננסיות לרבעון השלישי של 2026 ביום שלישי, 10 בנובמבר 2026",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261020001285:0",
-          "ticker": "SKHY",
-          "change": -4.58,
-          "title": "European Chip Stocks Resume Fall After Day of Respite — Market Talk",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020001285:0-european-chip-stocks-resume-fall-after-day-of-respite-market-talk/",
-          "publishedAt": "2026-10-20T08:22:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/sk-telecom--big.svg",
-            "kind": "logo"
-          },
-          "score": 72,
-          "reasons": [
-            "move -4.6%",
-            "leading source dow-jones",
-            "2 sources"
-          ],
-          "titleHe": "מניות השבבים באירופה חוזרות לרדת אחרי יום של התאוששות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -81,7 +82,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T10:14:50.604Z",
+      "updatedAt": "2026-10-20T10:54:08.910Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-5880-d7ce-a9a1-dbe7cbdf0000",
@@ -104,23 +105,23 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-57f3-dcd4-afa3-57fbdfab0000",
+          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-3f29-d1eb-abe1-7f3dfd2e0000",
           "ticker": null,
           "change": null,
-          "title": "דלק רכב: \"בוחנים רכישת מניות בחברת כרטיסי האשראי כאל, עדיין לא התקיים דיון בדירקטוריון\"",
+          "title": "התביעות נגד צרפתי היו ידועות — אבל ב-S&P מעלות לא ראו בעיה בממשל התאגידי שלה",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-57f3-dcd4-afa3-57fbdfab0000",
-          "publishedAt": "2026-10-20T07:17:34.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-3f29-d1eb-abe1-7f3dfd2e0000",
+          "publishedAt": "2026-10-20T10:37:29.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/0000019d-6e40-db3c-a3df-efc50c120000/0e/c2/7a6587af437a8c3f6f145b6f5eb2/65285038.JPG?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/00000188-4dd5-dde3-abf9-fddd09000000/c3/eb/e56ea67c4ec69f57d1b2a7c28b42/148319.jpg?width=108&height=81",
             "kind": "photo"
           },
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source themarker",
-            "keywords: רכישת"
+            "fallback: latest market news"
           ]
         }
       ]
