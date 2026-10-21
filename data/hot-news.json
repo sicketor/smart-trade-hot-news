@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T12:17:52.618Z",
+  "generatedAt": "2026-10-21T13:12:14.772Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T12:17:52.618Z",
+      "updatedAt": "2026-10-21T13:12:14.772Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L6N4670R6:0",
+          "id": "tag:reuters.com,2026:newsml_L4N46712Y:0",
           "ticker": "SMCI",
-          "change": 11.46,
-          "title": "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI stocks",
+          "change": 12.32,
+          "title": "Wall St set for higher open as SpaceX, Super Micro results rekindle AI trade",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670R6:0-nasdaq-futures-lead-gains-as-spacex-super-micro-results-lift-ai-stocks/",
-          "publishedAt": "2026-10-21T11:56:28.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46712Y:0-wall-st-set-for-higher-open-as-spacex-super-micro-results-rekindle-ai-trade/",
+          "publishedAt": "2026-10-21T13:07:01.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 112,
+          "score": 115,
           "reasons": [
-            "move 11.5%",
+            "move 12.3%",
             "leading source reuters",
             "keywords: results",
-            "9 sources"
+            "11 sources"
           ],
-          "titleHe": "חוזים על נאסד\"ק מובילים את העליות בעקבות תוצאות SpaceX וסופר מיקרו שדוחפות את מניות ה-AI",
+          "titleHe": "וול סטריט לקראת פתיחה עולה בעקבות תוצאות ספייס אקס וסופר מיקרו שמציתות מחדש את סחר ה-AI",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261021004312:0",
-          "ticker": "ROIV",
-          "change": 10.25,
-          "title": "Roivant Shares Gain on Positive Study Results for Non-Infectious Uveitis Treatment",
+          "id": "tag:reuters.com,2026:newsml_L1N4670DJ:0",
+          "ticker": "T",
+          "change": -6.42,
+          "title": "AT&T beats Q3 revenue and profit estimates, raises 2026 outlook",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021004312:0-roivant-shares-gain-on-positive-study-results-for-non-infectious-uveitis-treatment/",
-          "publishedAt": "2026-10-21T11:54:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4670DJ:0-at-t-beats-q3-revenue-and-profit-estimates-raises-2026-outlook/",
+          "publishedAt": "2026-10-21T10:40:56.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/roivant-sciences--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/at-and-t--big.svg",
             "kind": "logo"
           },
-          "score": 109,
+          "score": 107,
           "reasons": [
-            "move 10.3%",
-            "leading source dow-jones",
-            "keywords: results",
-            "4 sources"
+            "move -6.4%",
+            "leading source reuters",
+            "keywords: revenue, profit, outlook",
+            "9 sources"
           ],
-          "titleHe": "מניות Roivant עולות בעקבות תוצאות חיוביות בניסוי לטיפול בדלקת הענביה (Uveitis)",
+          "titleHe": "AT&T עוקפת את תחזיות ההכנסות והרווח ברבעון ה-3 ומעלה את תחזית 2026",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,28 +84,8 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T12:17:52.618Z",
+      "updatedAt": "2026-10-21T13:12:14.772Z",
       "items": [
-        {
-          "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5da4-da49-abe9-5ffcc42e0000",
-          "ticker": null,
-          "change": null,
-          "title": "המנויים של צ'ק פוינט היו נקודת האור בדו\"חות. אופנהיימר גילו בה בעיה — ומפקפקים בתחזית",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5da4-da49-abe9-5ffcc42e0000",
-          "publishedAt": "2026-10-21T09:30:19.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-5db8-dc69-a1ff-7dbc8a5e0000/f0/90/fe1fe702469992472416de7f36e0/167706.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source themarker",
-            "keywords: תחזית"
-          ]
-        },
         {
           "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5e41-d05a-abe9-7f5983590000",
           "ticker": null,
@@ -118,6 +98,26 @@
           "publishedAt": "2026-10-21T12:06:25.000Z",
           "image": {
             "url": "https://img.haarets.co.il/bs/00000192-906a-d9c2-a7f3-9c6e14170000/c3/7d/8ae99fd04ff1b95d208d76eb112a/070198.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
+        {
+          "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5e09-d05a-abe9-7f19efbe0000",
+          "ticker": null,
+          "change": null,
+          "title": "חגיגת הטיסות לחו\"ל של יועצי משכנתאות תיגמר בעוד שלושה חודשים?",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5e09-d05a-abe9-7f19efbe0000",
+          "publishedAt": "2026-10-21T11:15:54.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000017f-dbde-d856-a37f-ffde7b880000/a4/a3/0dab4b15e613176b573124bd8d94/4089304631.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
