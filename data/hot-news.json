@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T09:38:06.608Z",
+  "generatedAt": "2026-10-21T10:19:27.314Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T09:38:06.608Z",
+      "updatedAt": "2026-10-21T10:19:27.314Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L4N4670MA:0",
           "ticker": "SMCI",
-          "change": 12.66,
+          "change": 12.01,
           "title": "Super Micro climbs after upbeat forecast shows robust AI demand",
           "lang": "en",
           "source": "Reuters",
@@ -34,9 +34,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 116,
+          "score": 114,
           "reasons": [
-            "move 12.7%",
+            "move 12.0%",
             "leading source reuters",
             "keywords: forecast",
             "4 sources"
@@ -47,7 +47,7 @@
         {
           "id": "DJN_DN20261021002177:0",
           "ticker": "SPCX",
-          "change": 9.57,
+          "change": 8.63,
           "title": "SpaceX Stock Rallies, Tesla Rises Modestly on Talk of Merger — WSJ",
           "lang": "en",
           "source": "Dow Jones",
@@ -58,12 +58,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
-          "score": 107,
+          "score": 104,
           "reasons": [
-            "move 9.6%",
+            "move 8.6%",
             "leading source dow-jones",
             "keywords: merger",
-            "8 sources"
+            "7 sources"
           ],
           "titleHe": "מניית SpaceX מזנקת, טסלה עולה בעדינות על רקע דיווחים על מיזוג",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -84,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T09:38:06.608Z",
+      "updatedAt": "2026-10-21T10:19:27.314Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5da4-da49-abe9-5ffcc42e0000",
@@ -109,7 +109,7 @@
         {
           "id": "calcalist:cd5e5bfa130f0:0",
           "ticker": "PHOE",
-          "change": 1.51,
+          "change": 1.03,
           "title": "רבעון שלישי בתיקים המנוהלים: זינוק חד במסלול המנייתי, למרות סביבת הריבית",
           "lang": "he",
           "source": "כלכליסט",
