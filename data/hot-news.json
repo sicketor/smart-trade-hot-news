@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T18:41:34.502Z",
+  "generatedAt": "2026-10-21T19:22:49.329Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T18:41:34.502Z",
+      "updatedAt": "2026-10-21T19:22:49.329Z",
       "items": [
         {
           "id": "DJN_DN20261021007832:0",
           "ticker": "SPCX",
-          "change": 6.79,
+          "change": 6.97,
           "title": "SpaceX Shares Surge After Tesla Deal Talks — WSJ",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,10 +34,10 @@
             "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
-          "score": 93,
+          "score": 94,
           "reasons": [
-            "move 6.8%",
-            "volume x2.1",
+            "move 7.0%",
+            "volume x2.3",
             "leading source dow-jones",
             "2 sources"
           ],
@@ -45,26 +45,25 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261021007490:0",
-          "ticker": "WFRD",
-          "change": 8.54,
-          "title": "Weatherford Shares Rise on Expected Venezuela Revenue Growth",
+          "id": "DJN_DN20261021007994:0",
+          "ticker": "RCUS",
+          "change": -18.02,
+          "title": "Arcus Biosciences Is Maintained at Buy by Citigroup",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021007490:0-weatherford-shares-rise-on-expected-venezuela-revenue-growth/",
-          "publishedAt": "2026-10-21T17:13:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021007994:0-arcus-biosciences-is-maintained-at-buy-by-citigroup/",
+          "publishedAt": "2026-10-21T19:02:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/weatherford--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/arcus-biosciences--big.svg",
             "kind": "logo"
           },
-          "score": 84,
+          "score": 90,
           "reasons": [
-            "move 8.5%",
-            "leading source dow-jones",
-            "keywords: revenue"
+            "move -18.0%",
+            "leading source dow-jones"
           ],
-          "titleHe": "מניות וות'רפורד עולות על רקע הצמיחה הצפויה בהכנסות מוונצואלה",
+          "titleHe": "סיטיגרופ שומרים על המלצת קנייה ל-Arcus Biosciences",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
