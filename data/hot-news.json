@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T17:17:53.110Z",
+  "generatedAt": "2026-10-21T17:54:30.386Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T17:17:53.110Z",
+      "updatedAt": "2026-10-21T17:54:30.386Z",
       "items": [
         {
-          "id": "DJN_DN20261020010593:0",
-          "ticker": "SPCX",
-          "change": 9.91,
-          "title": "What to Know About the SpaceX-Tesla Merger Talks — WSJ",
+          "id": "DJN_DN20261021007136:0",
+          "ticker": "SMCI",
+          "change": 10.01,
+          "title": "Super Micro Up on 1Q Sales, But Can It Maintain That Pace? — Market Talk",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020010593:0-what-to-know-about-the-spacex-tesla-merger-talks-wsj/",
-          "publishedAt": "2026-10-21T16:48:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
-            "kind": "logo"
-          },
-          "score": 108,
-          "reasons": [
-            "move 9.9%",
-            "leading source dow-jones",
-            "keywords: merger",
-            "4 sources"
-          ],
-          "titleHe": "מה כדאי לדעת על שיחות המיזוג בין ספייס-אקס לטסלה",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L6N4670WX:0",
-          "ticker": "SMCI",
-          "change": 9.69,
-          "title": "Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670WX:0-nasdaq-leads-gains-as-spacex-super-micro-results-improve-ai-appetite/",
-          "publishedAt": "2026-10-21T14:23:23.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021007136:0-super-micro-up-on-1q-sales-but-can-it-maintain-that-pace-market-talk/",
+          "publishedAt": "2026-10-21T16:20:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 107,
+          "score": 98,
           "reasons": [
-            "move 9.7%",
-            "leading source reuters",
-            "keywords: results",
+            "move 10.0%",
+            "leading source dow-jones",
             "3 sources"
           ],
-          "titleHe": "הנאסד\"ק מוביל את העליות בעקבות תוצאות SpaceX וסופר מיקרו שמשפרות את התיאבון לבינה מלאכותית",
+          "titleHe": "סופר מיקרו עולה בעקבות מכירות רבעון 1, אך האם תוכל לשמור על הקצב?",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261021007490:0",
+          "ticker": "WFRD",
+          "change": 8.34,
+          "title": "Weatherford Shares Rise on Expected Venezuela Revenue Growth",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021007490:0-weatherford-shares-rise-on-expected-venezuela-revenue-growth/",
+          "publishedAt": "2026-10-21T17:13:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/weatherford--big.svg",
+            "kind": "logo"
+          },
+          "score": 83,
+          "reasons": [
+            "move 8.3%",
+            "leading source dow-jones",
+            "keywords: revenue"
+          ],
+          "titleHe": "מניות וות'רפורד עולות על רקע הצמיחה הצפויה בהכנסות מוונצואלה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
