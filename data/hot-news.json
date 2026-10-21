@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T20:04:41.587Z",
+  "generatedAt": "2026-10-21T06:45:08.906Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -85,46 +85,46 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-20T14:01:28.012Z",
+      "updatedAt": "2026-10-21T06:45:08.906Z",
       "items": [
         {
-          "id": "calcalist:57765a68f30f0:0",
-          "ticker": "POLI",
-          "change": 0.56,
-          "title": "החובות בתחום ה-AI הובילו לזינוק במסחר בביטוח מפני חדלות פירעון - לשיא",
+          "id": "calcalist:ecadd40a130f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "תומר מזון שבה למסחר אחרי השעיה; היו\"ר הוחלף, נשאר כמנכ\"ל, אך מקצץ בשכרו",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.calcalist.co.il/market/article/r1vbp1h2gl",
-          "publishedAt": "2026-10-20T13:24:50.000Z",
+          "url": "https://www.calcalist.co.il/market/article/rjhbyahhze",
+          "publishedAt": "2026-10-21T06:33:21.000Z",
           "image": {
-            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/23/B1vsKsvMGg/B1vsKsvMGg_0_142_3000_1689_0_large.jpg",
+            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/27/B1DdwBaPGx/B1DdwBaPGx_454_137_1955_1101_0_large.jpg",
             "kind": "photo"
           },
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: השעיה"
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-3f29-d1eb-abe1-7f3dfd2e0000",
+          "id": "calcalist:38d6a7f7130f0:0",
           "ticker": null,
           "change": null,
-          "title": "התביעות נגד צרפתי היו ידועות — אבל ב-S&P מעלות לא ראו בעיה בממשל התאגידי שלה",
+          "title": "הפצצה שהטיל מאסק בשיחת המשקיעים של SpaceX: בוחן מיזוג עם טסלה",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-20/ty-article/.premium/000001a1-3f29-d1eb-abe1-7f3dfd2e0000",
-          "publishedAt": "2026-10-20T10:37:29.000Z",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.calcalist.co.il/market/article/s1g4ahrnml",
+          "publishedAt": "2026-10-21T04:22:56.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/00000188-4dd5-dde3-abf9-fddd09000000/c3/eb/e56ea67c4ec69f57d1b2a7c28b42/148319.jpg?width=108&height=81",
+            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/10/rk4dkzvZGe/rk4dkzvZGe_0_8_840_473_0_large.jpg",
             "kind": "photo"
           },
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: מיזוג"
           ]
         }
       ]
