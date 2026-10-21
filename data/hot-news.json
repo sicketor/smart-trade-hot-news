@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T06:45:08.906Z",
+  "generatedAt": "2026-10-21T07:31:35.939Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -85,8 +85,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T06:45:08.906Z",
+      "updatedAt": "2026-10-21T07:31:35.939Z",
       "items": [
+        {
+          "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5d4f-d05a-abe9-7f5f22ee0000",
+          "ticker": null,
+          "change": null,
+          "title": "אחרי ניפוח המלאי והרווחים: תומר מזון חוזרת לבורסה, קימלוב הורחק מתפקיד היו\"ר",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5d4f-d05a-abe9-7f5f22ee0000",
+          "publishedAt": "2026-10-21T07:25:56.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000019e-db56-d6a3-a5be-ff76a8af0001/e3/2e/7bd9c4284c4aa0b271025ca6ea49/tomer.jpeg?width=108&height=81",
+            "kind": "photo"
+          },
+          "score": 50,
+          "reasons": [
+            "leading source themarker",
+            "keywords: רווח"
+          ]
+        },
         {
           "id": "calcalist:ecadd40a130f0:0",
           "ticker": null,
@@ -105,26 +125,6 @@
           "reasons": [
             "leading source calcalist",
             "keywords: השעיה"
-          ]
-        },
-        {
-          "id": "calcalist:38d6a7f7130f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "הפצצה שהטיל מאסק בשיחת המשקיעים של SpaceX: בוחן מיזוג עם טסלה",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.calcalist.co.il/market/article/s1g4ahrnml",
-          "publishedAt": "2026-10-21T04:22:56.000Z",
-          "image": {
-            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/10/rk4dkzvZGe/rk4dkzvZGe_0_8_840_473_0_large.jpg",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: מיזוג"
           ]
         }
       ]
