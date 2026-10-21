@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T07:31:35.939Z",
+  "generatedAt": "2026-10-21T08:16:04.097Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,55 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-20T20:04:41.587Z",
+      "updatedAt": "2026-10-21T08:16:04.097Z",
       "items": [
         {
-          "id": "DJN_DN20261020006936:0",
-          "ticker": "LION",
-          "change": 15.11,
-          "title": "Lionsgate Studios Stock Jumps on Report of Takeover Bid by Legendary Entertainment — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L1N467078:0",
+          "ticker": "SMCI",
+          "change": 14.04,
+          "title": "South Korean shares post biggest gain in 6 weeks as chipmakers rebound",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020006936:0-lionsgate-studios-stock-jumps-on-report-of-takeover-bid-by-legendary-entertainment-barrons-com/",
-          "publishedAt": "2026-10-20T19:36:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N467078:0-south-korean-shares-post-biggest-gain-in-6-weeks-as-chipmakers-rebound/",
+          "publishedAt": "2026-10-21T06:50:16.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/lionsgate-studios--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 100,
           "reasons": [
-            "move 15.1%",
-            "volume x5.3",
-            "leading source dow-jones",
-            "keywords: takeover",
+            "move 14.0%",
+            "keywords: probe",
             "2 sources"
           ],
-          "titleHe": "מניית Lionsgate Studios מזנקת בעקבות דיווח על הצעת רכש מצד Legendary Entertainment",
+          "titleHe": "מניות דרום קוריאה רושמות את העלייה הגדולה ביותר ב-6 השבועות האחרונים על רקע התאוששות יצרניות השבבים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261020006988:0",
-          "ticker": "BRZE",
-          "change": 51.2,
-          "title": "Braze Cut to Perform From Outperform by Oppenheimer",
+          "id": "tag:reuters.com,2026:newsml_L6N4670DD:0",
+          "ticker": "SPCX",
+          "change": 9.2,
+          "title": "Trump says companies should pay 'dividend' to communities to make data centers popular",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261020006988:0-braze-cut-to-perform-from-outperform-by-oppenheimer/",
-          "publishedAt": "2026-10-20T18:23:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670DD:0-trump-says-companies-should-pay-dividend-to-communities-to-make-data-centers-popular/",
+          "publishedAt": "2026-10-21T06:40:36.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/braze--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 96,
           "reasons": [
-            "move 51.2%",
-            "volume x31.1",
-            "leading source dow-jones",
-            "3 sources"
+            "move 9.2%",
+            "leading source reuters",
+            "7 sources"
           ],
-          "titleHe": "אופנהיימר מורידים את המלצתם למניית Braze מ-Outperform ל-Perform",
+          "titleHe": "טראמפ אומר שחברות צריכות לשלם \"דיבידנד\" לקהילות כדי להפוך מרכזי נתונים לפופולריים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -85,20 +82,20 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T07:31:35.939Z",
+      "updatedAt": "2026-10-21T08:16:04.097Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5d4f-d05a-abe9-7f5f22ee0000",
           "ticker": null,
           "change": null,
-          "title": "אחרי ניפוח המלאי והרווחים: תומר מזון חוזרת לבורסה, קימלוב הורחק מתפקיד היו\"ר",
+          "title": "אחרי ניפוח המלאי והרווחים: תומר מזון חוזרת לבורסה, קימלוב לא יכהן כיו\"ר; המניה צונחת",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
           "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5d4f-d05a-abe9-7f5f22ee0000",
           "publishedAt": "2026-10-21T07:25:56.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/0000019e-db56-d6a3-a5be-ff76a8af0001/e3/2e/7bd9c4284c4aa0b271025ca6ea49/tomer.jpeg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/000001a0-5318-d3eb-abf5-575faef20000/0a/d1/1d7dcfd04ce991a98d34e99b29dc/429506.jpg?width=108&height=81",
             "kind": "photo"
           },
           "score": 50,
