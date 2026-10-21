@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T14:00:44.479Z",
+  "generatedAt": "2026-10-21T14:39:44.488Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,57 +18,56 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T14:00:44.479Z",
+      "updatedAt": "2026-10-21T14:39:44.488Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L4N46712Y:0",
+          "id": "tag:reuters.com,2026:newsml_L6N4670WX:0",
           "ticker": "SMCI",
-          "change": 13.24,
-          "title": "Wall St set for higher open as SpaceX, Super Micro results rekindle AI trade",
+          "change": 10.86,
+          "title": "Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46712Y:0-wall-st-set-for-higher-open-as-spacex-super-micro-results-rekindle-ai-trade/",
-          "publishedAt": "2026-10-21T13:07:01.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670WX:0-nasdaq-leads-gains-as-spacex-super-micro-results-improve-ai-appetite/",
+          "publishedAt": "2026-10-21T14:23:23.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 118,
+          "score": 111,
           "reasons": [
-            "move 13.2%",
+            "move 10.9%",
             "leading source reuters",
             "keywords: results",
-            "11 sources"
+            "10 sources"
           ],
-          "titleHe": "וול סטריט לקראת פתיחה עולה בעקבות תוצאות ספייס אקס וסופר מיקרו שמציתות מחדש את סחר ה-AI",
+          "titleHe": "הנאסד\"ק מוביל את העליות בעקבות תוצאות SpaceX וסופר מיקרו שמשפרות את התיאבון לבינה מלאכותית",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "DJN_DN20261021005978:0",
           "ticker": "T",
-          "change": -4.65,
-          "title": "AT&T Lifts Profit Outlook on Continued Postpaid Phone, Internet Growth — WSJ",
+          "change": -5.53,
+          "title": "Correction to AT&T Lifts Profit Outlook Article — WSJ",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021005978:0-at-t-lifts-profit-outlook-on-continued-postpaid-phone-internet-growth-wsj/",
-          "publishedAt": "2026-10-21T13:57:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021005978:0-correction-to-at-t-lifts-profit-outlook-article-wsj/",
+          "publishedAt": "2026-10-21T14:12:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/at-and-t--big.svg",
             "kind": "logo"
           },
-          "score": 92,
+          "score": 95,
           "reasons": [
-            "move -4.7%",
+            "move -5.5%",
             "leading source dow-jones",
             "keywords: profit, outlook",
             "2 sources"
-          ]
+          ],
+          "titleHe": "תיקון לכתבה על העלאת תחזית הרווח של AT&T",
+          "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
