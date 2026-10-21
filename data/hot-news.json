@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T16:38:12.819Z",
+  "generatedAt": "2026-10-21T17:17:53.110Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,36 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T16:38:12.819Z",
+      "updatedAt": "2026-10-21T17:17:53.110Z",
       "items": [
         {
-          "id": "DJN_DN20261021007195:0",
+          "id": "DJN_DN20261020010593:0",
           "ticker": "SPCX",
-          "change": 10.31,
-          "title": "SpaceX's 3Q Results Seen as Positive for CoreWeave, Nebius — Market Talk",
+          "change": 9.91,
+          "title": "What to Know About the SpaceX-Tesla Merger Talks — WSJ",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021007195:0-spacex-s-3q-results-seen-as-positive-for-coreweave-nebius-market-talk/",
-          "publishedAt": "2026-10-21T16:26:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261020010593:0-what-to-know-about-the-spacex-tesla-merger-talks-wsj/",
+          "publishedAt": "2026-10-21T16:48:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
-          "score": 109,
+          "score": 108,
           "reasons": [
-            "move 10.3%",
+            "move 9.9%",
             "leading source dow-jones",
-            "keywords: results",
-            "7 sources"
+            "keywords: merger",
+            "4 sources"
           ],
-          "titleHe": "התוצאות של SpaceX ברבעון ה-3 נתפסות כחיוביות עבור CoreWeave ו-Nebius",
+          "titleHe": "מה כדאי לדעת על שיחות המיזוג בין ספייס-אקס לטסלה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "tag:reuters.com,2026:newsml_L6N4670WX:0",
           "ticker": "SMCI",
-          "change": 8.98,
+          "change": 9.69,
           "title": "Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite",
           "lang": "en",
           "source": "Reuters",
@@ -58,12 +58,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 105,
+          "score": 107,
           "reasons": [
-            "move 9.0%",
+            "move 9.7%",
             "leading source reuters",
             "keywords: results",
-            "5 sources"
+            "3 sources"
           ],
           "titleHe": "הנאסד\"ק מוביל את העליות בעקבות תוצאות SpaceX וסופר מיקרו שמשפרות את התיאבון לבינה מלאכותית",
           "translatedBy": "gemini-3.5-flash-lite"
