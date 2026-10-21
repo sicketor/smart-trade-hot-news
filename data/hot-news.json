@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T10:19:27.314Z",
+  "generatedAt": "2026-10-21T10:58:09.352Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T10:19:27.314Z",
+      "updatedAt": "2026-10-21T10:58:09.352Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L4N4670MA:0",
+          "id": "tag:reuters.com,2026:newsml_L6N4670QH:0",
           "ticker": "SMCI",
-          "change": 12.01,
+          "change": 11.92,
           "title": "Super Micro climbs after upbeat forecast shows robust AI demand",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4670MA:0-super-micro-climbs-after-upbeat-forecast-shows-robust-ai-demand/",
-          "publishedAt": "2026-10-21T09:12:23.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670QH:0-super-micro-climbs-after-upbeat-forecast-shows-robust-ai-demand/",
+          "publishedAt": "2026-10-21T10:44:57.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
           "score": 114,
           "reasons": [
-            "move 12.0%",
+            "move 11.9%",
             "leading source reuters",
             "keywords: forecast",
             "4 sources"
           ],
-          "titleHe": "סופר מיקרו עולה לאחר שתחזית חזקה משקפת ביקוש חסון ל-AI",
+          "titleHe": "סופר מיקרו מזנקת לאחר שתחזית חזקה הצביעה על ביקוש חסון ל-AI",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261021002177:0",
+          "id": "DJN_DN20261021003212:0",
           "ticker": "SPCX",
-          "change": 8.63,
-          "title": "SpaceX Stock Rallies, Tesla Rises Modestly on Talk of Merger — WSJ",
+          "change": 8.28,
+          "title": "SpaceX Earnings Are Lifting the Stock-and the Entire Market — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021002177:0-spacex-stock-rallies-tesla-rises-modestly-on-talk-of-merger-wsj/",
-          "publishedAt": "2026-10-21T09:20:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021003212:0-spacex-earnings-are-lifting-the-stock-and-the-entire-market-barrons-com/",
+          "publishedAt": "2026-10-21T10:49:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
-          "score": 104,
+          "score": 103,
           "reasons": [
-            "move 8.6%",
+            "move 8.3%",
             "leading source dow-jones",
-            "keywords: merger",
-            "7 sources"
+            "keywords: earnings",
+            "8 sources"
           ],
-          "titleHe": "מניית SpaceX מזנקת, טסלה עולה בעדינות על רקע דיווחים על מיזוג",
+          "titleHe": "התוצאות של SpaceX דוחפות את המניה – ואת השוק כולו",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T10:19:27.314Z",
+      "updatedAt": "2026-10-21T10:58:09.352Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5da4-da49-abe9-5ffcc42e0000",
@@ -109,7 +109,7 @@
         {
           "id": "calcalist:cd5e5bfa130f0:0",
           "ticker": "PHOE",
-          "change": 1.03,
+          "change": 1.08,
           "title": "רבעון שלישי בתיקים המנוהלים: זינוק חד במסלול המנייתי, למרות סביבת הריבית",
           "lang": "he",
           "source": "כלכליסט",
