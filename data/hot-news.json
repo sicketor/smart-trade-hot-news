@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T08:16:04.097Z",
+  "generatedAt": "2026-10-21T08:59:47.235Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T08:16:04.097Z",
+      "updatedAt": "2026-10-21T08:59:47.235Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L1N467078:0",
           "ticker": "SMCI",
-          "change": 14.04,
+          "change": 12.72,
           "title": "South Korean shares post biggest gain in 6 weeks as chipmakers rebound",
           "lang": "en",
           "source": "Reuters",
@@ -34,11 +34,11 @@
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 100,
+          "score": 106,
           "reasons": [
-            "move 14.0%",
+            "move 12.7%",
             "keywords: probe",
-            "2 sources"
+            "3 sources"
           ],
           "titleHe": "מניות דרום קוריאה רושמות את העלייה הגדולה ביותר ב-6 השבועות האחרונים על רקע התאוששות יצרניות השבבים",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -46,7 +46,7 @@
         {
           "id": "tag:reuters.com,2026:newsml_L6N4670DD:0",
           "ticker": "SPCX",
-          "change": 9.2,
+          "change": 10.85,
           "title": "Trump says companies should pay 'dividend' to communities to make data centers popular",
           "lang": "en",
           "source": "Reuters",
@@ -57,9 +57,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
-          "score": 96,
+          "score": 101,
           "reasons": [
-            "move 9.2%",
+            "move 10.8%",
             "leading source reuters",
             "7 sources"
           ],
@@ -82,8 +82,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T08:16:04.097Z",
+      "updatedAt": "2026-10-21T08:59:47.235Z",
       "items": [
+        {
+          "id": "calcalist:cd5e5bfa130f0:0",
+          "ticker": "PHOE",
+          "change": 2.1,
+          "title": "רבעון שלישי בתיקים המנוהלים: זינוק חד במסלול המנייתי, למרות סביבת הריבית",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.calcalist.co.il/market/article/bjnytkl3me",
+          "publishedAt": "2026-10-21T08:39:51.000Z",
+          "image": {
+            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/03/07/SkC6F8Dpp/SkC6F8Dpp_0_14_800_451_0_large.jpg",
+            "kind": "photo"
+          },
+          "score": 50,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: ריבית"
+          ]
+        },
         {
           "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5d4f-d05a-abe9-7f5f22ee0000",
           "ticker": null,
@@ -102,26 +122,6 @@
           "reasons": [
             "leading source themarker",
             "keywords: רווח"
-          ]
-        },
-        {
-          "id": "calcalist:ecadd40a130f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "תומר מזון שבה למסחר אחרי השעיה; היו\"ר הוחלף, נשאר כמנכ\"ל, אך מקצץ בשכרו",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.calcalist.co.il/market/article/rjhbyahhze",
-          "publishedAt": "2026-10-21T06:33:21.000Z",
-          "image": {
-            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/27/B1DdwBaPGx/B1DdwBaPGx_454_137_1955_1101_0_large.jpg",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: השעיה"
           ]
         }
       ]
