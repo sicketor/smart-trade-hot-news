@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T15:19:03.059Z",
+  "generatedAt": "2026-10-21T16:01:25.795Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T15:19:03.059Z",
+      "updatedAt": "2026-10-21T16:01:25.795Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L6N4670WX:0",
-          "ticker": "SMCI",
-          "change": 10.69,
+          "ticker": "SPCX",
+          "change": 10.72,
           "title": "Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite",
           "lang": "en",
           "source": "Reuters",
@@ -31,7 +31,7 @@
           "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670WX:0-nasdaq-leads-gains-as-spacex-super-micro-results-improve-ai-appetite/",
           "publishedAt": "2026-10-21T14:23:23.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
           "score": 110,
@@ -39,33 +39,35 @@
             "move 10.7%",
             "leading source reuters",
             "keywords: results",
-            "10 sources"
+            "8 sources"
           ],
           "titleHe": "הנאסד\"ק מוביל את העליות בעקבות תוצאות SpaceX וסופר מיקרו שמשפרות את התיאבון לבינה מלאכותית",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261021006302:0",
-          "ticker": "BETA",
-          "change": 7.27,
-          "title": "Beta Technologies Shares Climb on Aircraft Authorization",
+          "id": "DJN_DN20261021003826:0",
+          "ticker": "T",
+          "change": -6.7,
+          "title": "AT&T Stock Drops as Starlink Fears Overshadow Earnings. What It Means for the Dividend. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021006302:0-beta-technologies-shares-climb-on-aircraft-authorization/",
-          "publishedAt": "2026-10-21T14:40:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021003826:0-at-t-stock-drops-as-starlink-fears-overshadow-earnings-what-it-means-for-the-dividend-barrons-com/",
+          "publishedAt": "2026-10-21T15:47:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/at-and-t--big.svg",
             "kind": "logo"
           },
-          "score": 70,
+          "score": 78,
           "reasons": [
-            "move 7.3%",
-            "leading source dow-jones"
-          ],
-          "titleHe": "מניות Beta Technologies מזנקות בעקבות אישור כלי הטיס",
-          "translatedBy": "gemini-3.5-flash-lite"
+            "move -6.7%",
+            "leading source dow-jones",
+            "keywords: earnings"
+          ]
         }
+      ],
+      "warnings": [
+        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
