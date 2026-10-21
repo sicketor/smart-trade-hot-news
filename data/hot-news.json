@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T11:38:03.398Z",
+  "generatedAt": "2026-10-21T12:17:52.618Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T11:38:03.398Z",
+      "updatedAt": "2026-10-21T12:17:52.618Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L6N4670QH:0",
+          "id": "tag:reuters.com,2026:newsml_L6N4670R6:0",
           "ticker": "SMCI",
-          "change": 11.67,
-          "title": "Super Micro climbs after upbeat forecast shows robust AI demand",
+          "change": 11.46,
+          "title": "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI stocks",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670QH:0-super-micro-climbs-after-upbeat-forecast-shows-robust-ai-demand/",
-          "publishedAt": "2026-10-21T10:44:57.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670R6:0-nasdaq-futures-lead-gains-as-spacex-super-micro-results-lift-ai-stocks/",
+          "publishedAt": "2026-10-21T11:56:28.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 113,
+          "score": 112,
           "reasons": [
-            "move 11.7%",
+            "move 11.5%",
             "leading source reuters",
-            "keywords: forecast",
-            "6 sources"
+            "keywords: results",
+            "9 sources"
           ],
-          "titleHe": "סופר מיקרו מזנקת לאחר שתחזית חזקה הצביעה על ביקוש חסון ל-AI",
+          "titleHe": "חוזים על נאסד\"ק מובילים את העליות בעקבות תוצאות SpaceX וסופר מיקרו שדוחפות את מניות ה-AI",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261021003212:0",
-          "ticker": "SPCX",
-          "change": 6.86,
-          "title": "SpaceX Earnings Are Lifting the Stock-and the Entire Market — Barrons.com",
+          "id": "DJN_DN20261021004312:0",
+          "ticker": "ROIV",
+          "change": 10.25,
+          "title": "Roivant Shares Gain on Positive Study Results for Non-Infectious Uveitis Treatment",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021003212:0-spacex-earnings-are-lifting-the-stock-and-the-entire-market-barrons-com/",
-          "publishedAt": "2026-10-21T10:49:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021004312:0-roivant-shares-gain-on-positive-study-results-for-non-infectious-uveitis-treatment/",
+          "publishedAt": "2026-10-21T11:54:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/roivant-sciences--big.svg",
             "kind": "logo"
           },
-          "score": 99,
+          "score": 109,
           "reasons": [
-            "move 6.9%",
+            "move 10.3%",
             "leading source dow-jones",
-            "keywords: earnings",
-            "7 sources"
+            "keywords: results",
+            "4 sources"
           ],
-          "titleHe": "התוצאות של SpaceX דוחפות את המניה – ואת השוק כולו",
+          "titleHe": "מניות Roivant עולות בעקבות תוצאות חיוביות בניסוי לטיפול בדלקת הענביה (Uveitis)",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T11:38:03.398Z",
+      "updatedAt": "2026-10-21T12:17:52.618Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5da4-da49-abe9-5ffcc42e0000",
@@ -107,23 +107,23 @@
           ]
         },
         {
-          "id": "calcalist:cd5e5bfa130f0:0",
-          "ticker": "PHOE",
-          "change": 1.51,
-          "title": "רבעון שלישי בתיקים המנוהלים: זינוק חד במסלול המנייתי, למרות סביבת הריבית",
+          "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5e41-d05a-abe9-7f5983590000",
+          "ticker": null,
+          "change": null,
+          "title": "פרשת סלייס: \"יש חשש שכספי העמיתים מממנים פעילות שמטרתה לעכב את השבת הכספים\"",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.calcalist.co.il/market/article/bjnytkl3me",
-          "publishedAt": "2026-10-21T08:39:51.000Z",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5e41-d05a-abe9-7f5983590000",
+          "publishedAt": "2026-10-21T12:06:25.000Z",
           "image": {
-            "url": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/03/07/SkC6F8Dpp/SkC6F8Dpp_0_14_800_451_0_large.jpg",
+            "url": "https://img.haarets.co.il/bs/00000192-906a-d9c2-a7f3-9c6e14170000/c3/7d/8ae99fd04ff1b95d208d76eb112a/070198.jpg?width=108&height=81",
             "kind": "photo"
           },
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: ריבית"
+            "fallback: latest market news"
           ]
         }
       ]
