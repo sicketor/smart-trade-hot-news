@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T08:59:47.235Z",
+  "generatedAt": "2026-10-21T09:38:06.608Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,52 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T08:59:47.235Z",
+      "updatedAt": "2026-10-21T09:38:06.608Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L1N467078:0",
+          "id": "tag:reuters.com,2026:newsml_L4N4670MA:0",
           "ticker": "SMCI",
-          "change": 12.72,
-          "title": "South Korean shares post biggest gain in 6 weeks as chipmakers rebound",
+          "change": 12.66,
+          "title": "Super Micro climbs after upbeat forecast shows robust AI demand",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N467078:0-south-korean-shares-post-biggest-gain-in-6-weeks-as-chipmakers-rebound/",
-          "publishedAt": "2026-10-21T06:50:16.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4670MA:0-super-micro-climbs-after-upbeat-forecast-shows-robust-ai-demand/",
+          "publishedAt": "2026-10-21T09:12:23.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/super-micro-computer--big.svg",
             "kind": "logo"
           },
-          "score": 106,
+          "score": 116,
           "reasons": [
             "move 12.7%",
-            "keywords: probe",
-            "3 sources"
+            "leading source reuters",
+            "keywords: forecast",
+            "4 sources"
           ],
-          "titleHe": "מניות דרום קוריאה רושמות את העלייה הגדולה ביותר ב-6 השבועות האחרונים על רקע התאוששות יצרניות השבבים",
+          "titleHe": "סופר מיקרו עולה לאחר שתחזית חזקה משקפת ביקוש חסון ל-AI",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L6N4670DD:0",
+          "id": "DJN_DN20261021002177:0",
           "ticker": "SPCX",
-          "change": 10.85,
-          "title": "Trump says companies should pay 'dividend' to communities to make data centers popular",
+          "change": 9.57,
+          "title": "SpaceX Stock Rallies, Tesla Rises Modestly on Talk of Merger — WSJ",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670DD:0-trump-says-companies-should-pay-dividend-to-communities-to-make-data-centers-popular/",
-          "publishedAt": "2026-10-21T06:40:36.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261021002177:0-spacex-stock-rallies-tesla-rises-modestly-on-talk-of-merger-wsj/",
+          "publishedAt": "2026-10-21T09:20:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
             "kind": "logo"
           },
-          "score": 101,
+          "score": 107,
           "reasons": [
-            "move 10.8%",
-            "leading source reuters",
-            "7 sources"
+            "move 9.6%",
+            "leading source dow-jones",
+            "keywords: merger",
+            "8 sources"
           ],
-          "titleHe": "טראמפ אומר שחברות צריכות לשלם \"דיבידנד\" לקהילות כדי להפוך מרכזי נתונים לפופולריים",
+          "titleHe": "מניית SpaceX מזנקת, טסלה עולה בעדינות על רקע דיווחים על מיזוג",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,12 +84,32 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T08:59:47.235Z",
+      "updatedAt": "2026-10-21T09:38:06.608Z",
       "items": [
+        {
+          "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5da4-da49-abe9-5ffcc42e0000",
+          "ticker": null,
+          "change": null,
+          "title": "המנויים של צ'ק פוינט היו נקודת האור בדו\"חות. אופנהיימר גילו בה בעיה — ומפקפקים בתחזית",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5da4-da49-abe9-5ffcc42e0000",
+          "publishedAt": "2026-10-21T09:30:19.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-5db8-dc69-a1ff-7dbc8a5e0000/f0/90/fe1fe702469992472416de7f36e0/167706.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "score": 50,
+          "reasons": [
+            "leading source themarker",
+            "keywords: תחזית"
+          ]
+        },
         {
           "id": "calcalist:cd5e5bfa130f0:0",
           "ticker": "PHOE",
-          "change": 2.1,
+          "change": 1.51,
           "title": "רבעון שלישי בתיקים המנוהלים: זינוק חד במסלול המנייתי, למרות סביבת הריבית",
           "lang": "he",
           "source": "כלכליסט",
@@ -102,26 +124,6 @@
           "reasons": [
             "leading source calcalist",
             "keywords: ריבית"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5d4f-d05a-abe9-7f5f22ee0000",
-          "ticker": null,
-          "change": null,
-          "title": "אחרי ניפוח המלאי והרווחים: תומר מזון חוזרת לבורסה, קימלוב לא יכהן כיו\"ר; המניה צונחת",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5d4f-d05a-abe9-7f5f22ee0000",
-          "publishedAt": "2026-10-21T07:25:56.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a0-5318-d3eb-abf5-575faef20000/0a/d1/1d7dcfd04ce991a98d34e99b29dc/429506.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source themarker",
-            "keywords: רווח"
           ]
         }
       ]
