@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T19:22:49.329Z",
+  "generatedAt": "2026-10-21T20:05:59.520Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,36 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T19:22:49.329Z",
+      "updatedAt": "2026-10-21T20:05:59.520Z",
       "items": [
-        {
-          "id": "DJN_DN20261021007832:0",
-          "ticker": "SPCX",
-          "change": 6.97,
-          "title": "SpaceX Shares Surge After Tesla Deal Talks — WSJ",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021007832:0-spacex-shares-surge-after-tesla-deal-talks-wsj/",
-          "publishedAt": "2026-10-21T18:27:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/spacex--big.svg",
-            "kind": "logo"
-          },
-          "score": 94,
-          "reasons": [
-            "move 7.0%",
-            "volume x2.3",
-            "leading source dow-jones",
-            "2 sources"
-          ],
-          "titleHe": "מניות SpaceX מזנקות בעקבות שיחות על עסקה עם טסלה",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "DJN_DN20261021007994:0",
           "ticker": "RCUS",
-          "change": -18.02,
+          "change": -19.07,
           "title": "Arcus Biosciences Is Maintained at Buy by Citigroup",
           "lang": "en",
           "source": "Dow Jones",
@@ -60,10 +36,32 @@
           },
           "score": 90,
           "reasons": [
-            "move -18.0%",
+            "move -19.1%",
             "leading source dow-jones"
           ],
           "titleHe": "סיטיגרופ שומרים על המלצת קנייה ל-Arcus Biosciences",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "stocktwits:fee3e983b094b:0",
+          "ticker": "SKYD",
+          "change": 10.35,
+          "title": "SKYD Surges After Media Baron John Malone Predicts $8–10B SpaceX Investment",
+          "lang": "en",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/skyd-surges-after-media-baron-john-malone-predicts-8-10-b-space-x-investment/cZxMaceRBvU",
+          "publishedAt": "2026-10-21T18:49:57.000Z",
+          "image": {
+            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2298278370_c1742670a6.jpg",
+            "kind": "photo"
+          },
+          "score": 79,
+          "reasons": [
+            "move 10.4%",
+            "2 sources"
+          ],
+          "titleHe": "מניית SKYD מזנקת לאחר שאיש העשורת ג'ון מאלון צופה השקעה של 8-10 מיליארד דולר ב-SpaceX",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
