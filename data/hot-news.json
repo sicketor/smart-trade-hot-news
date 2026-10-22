@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T09:40:00.813Z",
+  "generatedAt": "2026-10-22T10:21:14.397Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T09:40:00.813Z",
+      "updatedAt": "2026-10-22T10:21:14.397Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L6N4670K7:0",
           "ticker": "RTO",
-          "change": 9.17,
+          "change": 8.79,
           "title": "Rentokil announces $200 million buyback; quarterly revenue rises on improving North America business",
           "lang": "en",
           "source": "Reuters",
@@ -34,12 +34,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/rentokil-initial--big.svg",
             "kind": "logo"
           },
-          "score": 106,
+          "score": 104,
           "reasons": [
-            "move 9.2%",
+            "move 8.8%",
             "leading source reuters",
             "keywords: revenue",
-            "5 sources"
+            "6 sources"
           ],
           "titleHe": "רנטוקיל מכריזה על רכישה עצמית ב-200 מיליון דולר; ההכנסות הרבעוניות עולות הודות לשיפור בפעילות בצפון אמריקה",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -47,7 +47,7 @@
         {
           "id": "DJN_DN20261022003018:0",
           "ticker": "LRCX",
-          "change": -8.01,
+          "change": -8.14,
           "title": "Lam Research's Short-Term Guidance Only In Line, Outlook Remains Strong — Market Talk",
           "lang": "en",
           "source": "Dow Jones",
@@ -60,7 +60,7 @@
           },
           "score": 92,
           "reasons": [
-            "move -8.0%",
+            "move -8.1%",
             "leading source dow-jones",
             "keywords: guidance, outlook"
           ],
@@ -83,8 +83,25 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-22T09:40:00.813Z",
+      "updatedAt": "2026-10-22T10:21:14.397Z",
       "items": [
+        {
+          "id": "calcalist:3ef3baf3e30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "2.9 מיליון שקל וללא הודאה באחריות: הסדר פשרה בתביעה נגד יצרנית בי־קיור לייזר",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:3ef3baf3e30f0:0/",
+          "publishedAt": "2026-10-22T09:44:54.000Z",
+          "image": null,
+          "score": 50,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: תביעה"
+          ]
+        },
         {
           "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-62b9-d05a-abe9-67b978a30000",
           "ticker": null,
@@ -103,26 +120,6 @@
           "reasons": [
             "leading source themarker",
             "keywords: הסכם"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.highlight/000001a1-62af-da49-abe9-6fff6a010000",
-          "ticker": null,
-          "change": null,
-          "title": "שבוע עבודה, שכר של חודש לפי \"הממוצע במשק\": המייסד שחזר וחמק מאישור",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/.highlight/000001a1-62af-da49-abe9-6fff6a010000",
-          "publishedAt": "2026-10-22T09:30:01.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-62bb-d686-a7a9-e7bb18b70000/cf/11/9568b069488ab2d09558a86e24b5/623762.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
           ]
         }
       ]
