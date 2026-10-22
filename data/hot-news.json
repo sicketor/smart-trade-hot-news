@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T17:17:20.461Z",
+  "generatedAt": "2026-10-22T17:51:50.596Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T17:17:20.461Z",
+      "updatedAt": "2026-10-22T17:51:50.596Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L8N4681Y9:0",
           "ticker": "CRS",
-          "change": -22.15,
+          "change": -22.63,
           "title": "Carpenter Technology Corporation reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,38 +36,39 @@
           },
           "score": 135,
           "reasons": [
-            "move -22.1%",
-            "volume x2.3",
+            "move -22.6%",
+            "volume x2.4",
             "leading source reuters",
             "keywords: earnings, results",
             "2 sources"
-          ]
+          ],
+          "titleHe": "קרפנטר טכנולוגיה מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "urn:summary_document_transcript:quartr.com:4342156:0",
-          "ticker": "OII",
-          "change": -17.12,
-          "title": "OII: Q3 adjusted EBITDA reached a post-2015 quarterly high; FY2027 guidance hinges on project timing",
+          "id": "DJN_DN20261022009450:0",
+          "ticker": "BHVN",
+          "change": 26.38,
+          "title": "Biohaven Stock Heads for Best Day in 3 Years as FDA Agrees to Review Drug Again — Barrons.com",
           "lang": "en",
-          "source": "quartr",
-          "sourceId": "quartr",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4342156:0-oii-q3-adjusted-ebitda-reached-a-post-2015-quarterly-high-fy2027-guidance-hinges-on-project-timing/",
-          "publishedAt": "2026-10-22T16:50:37.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261022009450:0-biohaven-stock-heads-for-best-day-in-3-years-as-fda-agrees-to-review-drug-again-barrons-com/",
+          "publishedAt": "2026-10-22T17:29:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/oceaneering-international--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/biohaven-pharmaceutical--big.svg",
             "kind": "logo"
           },
           "score": 115,
           "reasons": [
-            "move -17.1%",
-            "volume x2.3",
-            "keywords: guidance",
-            "2 sources"
-          ]
+            "move 26.4%",
+            "volume x14.4",
+            "leading source dow-jones",
+            "keywords: FDA"
+          ],
+          "titleHe": "מניית Biohaven בדרך ליום הטוב ביותר מזה 3 שנים לאחר שה-FDA הסכים לבחון מחדש את התרופה",
+          "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
