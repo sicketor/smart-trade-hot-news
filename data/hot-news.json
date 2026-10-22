@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T14:40:15.727Z",
+  "generatedAt": "2026-10-22T15:21:41.717Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,37 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T14:40:15.727Z",
+      "updatedAt": "2026-10-22T15:21:41.717Z",
       "items": [
-        {
-          "id": "DJN_DN20261022006239:0",
-          "ticker": "BHVN",
-          "change": 31.06,
-          "title": "Biohaven Shares Rise as FDA Accepts Vyglxia Resubmission",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261022006239:0-biohaven-shares-rise-as-fda-accepts-vyglxia-resubmission/",
-          "publishedAt": "2026-10-22T12:14:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/biohaven-pharmaceutical--big.svg",
-            "kind": "logo"
-          },
-          "score": 135,
-          "reasons": [
-            "move 31.1%",
-            "volume x10.3",
-            "leading source dow-jones",
-            "keywords: FDA",
-            "4 sources"
-          ],
-          "titleHe": "מניית Biohaven עולה לאחר שה-FDA קיבלה מחדש את בקשת האישור לתרופה Vyglxia",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "tag:reuters.com,2026:newsml_L8N4681QN:0",
           "ticker": "TTMI",
-          "change": -24.95,
+          "change": -26.53,
           "title": "TTM Technologies Inc reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -61,12 +36,36 @@
           },
           "score": 130,
           "reasons": [
-            "move -25.0%",
+            "move -26.5%",
             "leading source reuters",
             "keywords: earnings, results",
             "4 sources"
           ],
           "titleHe": "TTM טכנולוגיות מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "stocktwits:8bddac519094b:0",
+          "ticker": "BHVN",
+          "change": 28.85,
+          "title": "BHVN Stock Eyes Biggest Single-Day Gain In 4 Years After FDA Approval For Vyglxia",
+          "lang": "en",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/bhvn-stock-eyes-biggest-single-day-gain-in-4-years-after-fda-approval-for-vyglxia/cZxwBVkRBwU",
+          "publishedAt": "2026-10-22T13:27:09.000Z",
+          "image": {
+            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2241292402_jpg_9661b0c852.webp",
+            "kind": "photo"
+          },
+          "score": 125,
+          "reasons": [
+            "move 28.9%",
+            "volume x11.3",
+            "keywords: FDA, approval",
+            "2 sources"
+          ],
+          "titleHe": "מניית BHVN בדרך לעלייה היומית הגדולה ביותר ב-4 שנים בעקבות אישור ה-FDA ל-Vyglxia",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
