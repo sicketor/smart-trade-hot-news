@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T19:16:08.525Z",
+  "generatedAt": "2026-10-22T19:55:29.937Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,55 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T19:16:08.525Z",
+      "updatedAt": "2026-10-22T19:55:29.937Z",
       "items": [
         {
-          "id": "tradingview:8ddeaa9ce030c:0",
+          "id": "DJN_DN20261022010171:0",
           "ticker": "FPS",
-          "change": -26.31,
-          "title": "Forgent Power Solutions Inc. (FPS) Says Q1 FY27 Revenue, Adj. EBITDA Will Exceed Guidance Highs",
+          "change": -20.67,
+          "title": "Forgent Power Solutions Sees 1Q Rev Above High End of Guidance",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:8ddeaa9ce030c:0-forgent-power-solutions-inc-fps-says-q1-fy27-revenue-adj-ebitda-will-exceed-guidance-highs/",
-          "publishedAt": "2026-10-22T19:15:00.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261022010171:0-forgent-power-solutions-sees-1q-rev-above-high-end-of-guidance/",
+          "publishedAt": "2026-10-22T19:30:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/forgent-power-solutions--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 135,
           "reasons": [
-            "move -26.3%",
-            "volume x4.2",
-            "keywords: revenue, guidance",
-            "2 sources"
+            "move -20.7%",
+            "volume x4.8",
+            "leading source dow-jones",
+            "keywords: guidance",
+            "3 sources"
           ],
-          "titleHe": "Forgent Power Solutions (FPS): הכנסות ו-EBITDA מתואם ברבעון 1 של 2027 יעלו על רף תחזיות החברה",
+          "titleHe": "Forgent Power Solutions צופה הכנסות ברבעון 1 מעל הרף העליון של תחזיתה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261022009450:0",
-          "ticker": "BHVN",
-          "change": 23.91,
-          "title": "Biohaven Stock Heads for Best Day in 3 Years as FDA Agrees to Review Drug Again — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L1N46813Q:0",
+          "ticker": "MRNA",
+          "change": -19.67,
+          "title": "Moderna sheds about $24 billion as cancer vaccine data triggers 'sell-the-news' retreat",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261022009450:0-biohaven-stock-heads-for-best-day-in-3-years-as-fda-agrees-to-review-drug-again-barrons-com/",
-          "publishedAt": "2026-10-22T17:29:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46813Q:0-moderna-sheds-about-24-billion-as-cancer-vaccine-data-triggers-sell-the-news-retreat/",
+          "publishedAt": "2026-10-22T19:52:16.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/biohaven-pharmaceutical--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/moderna--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 125,
           "reasons": [
-            "move 23.9%",
-            "volume x15.1",
-            "leading source dow-jones",
-            "keywords: FDA"
+            "move -19.7%",
+            "volume x2.1",
+            "leading source reuters",
+            "6 sources"
           ],
-          "titleHe": "מניית Biohaven בדרך ליום הטוב ביותר מזה 3 שנים לאחר שה-FDA הסכים לבחון מחדש את התרופה",
+          "titleHe": "מודרנה מאבדת כ-24 מיליארד דולר בעקבות נתוני חיסון הסרטן שמעוררים מימוש רווחים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
