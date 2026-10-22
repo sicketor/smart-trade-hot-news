@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T18:23:47.029Z",
+  "generatedAt": "2026-10-22T19:16:08.525Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T18:23:47.029Z",
+      "updatedAt": "2026-10-22T19:16:08.525Z",
       "items": [
+        {
+          "id": "tradingview:8ddeaa9ce030c:0",
+          "ticker": "FPS",
+          "change": -26.31,
+          "title": "Forgent Power Solutions Inc. (FPS) Says Q1 FY27 Revenue, Adj. EBITDA Will Exceed Guidance Highs",
+          "lang": "en",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com/news/tradingview:8ddeaa9ce030c:0-forgent-power-solutions-inc-fps-says-q1-fy27-revenue-adj-ebitda-will-exceed-guidance-highs/",
+          "publishedAt": "2026-10-22T19:15:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/forgent-power-solutions--big.svg",
+            "kind": "logo"
+          },
+          "score": 125,
+          "reasons": [
+            "move -26.3%",
+            "volume x4.2",
+            "keywords: revenue, guidance",
+            "2 sources"
+          ],
+          "titleHe": "Forgent Power Solutions (FPS): הכנסות ו-EBITDA מתואם ברבעון 1 של 2027 יעלו על רף תחזיות החברה",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261022009450:0",
           "ticker": "BHVN",
-          "change": 25.91,
+          "change": 23.91,
           "title": "Biohaven Stock Heads for Best Day in 3 Years as FDA Agrees to Review Drug Again — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,36 +60,12 @@
           },
           "score": 115,
           "reasons": [
-            "move 25.9%",
-            "volume x14.7",
+            "move 23.9%",
+            "volume x15.1",
             "leading source dow-jones",
             "keywords: FDA"
           ],
           "titleHe": "מניית Biohaven בדרך ליום הטוב ביותר מזה 3 שנים לאחר שה-FDA הסכים לבחון מחדש את התרופה",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "urn:summary_document_transcript:quartr.com:4342156:0",
-          "ticker": "OII",
-          "change": -17.4,
-          "title": "OII: Q3 adjusted EBITDA reached a post-2015 quarterly high; FY2027 guidance hinges on project timing",
-          "lang": "en",
-          "source": "quartr",
-          "sourceId": "quartr",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4342156:0-oii-q3-adjusted-ebitda-reached-a-post-2015-quarterly-high-fy2027-guidance-hinges-on-project-timing/",
-          "publishedAt": "2026-10-22T16:50:37.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/oceaneering-international--big.svg",
-            "kind": "logo"
-          },
-          "score": 115,
-          "reasons": [
-            "move -17.4%",
-            "volume x2.9",
-            "keywords: guidance",
-            "2 sources"
-          ],
-          "titleHe": "OII: ה-EBITDA המתואם ברבעון ה-3 הגיע לשיא רבעוני מאז 2015; תחזית 2027 תלויה בתזמון הפרויקטים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
