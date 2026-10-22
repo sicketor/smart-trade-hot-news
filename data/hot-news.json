@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T11:38:31.509Z",
+  "generatedAt": "2026-10-22T12:19:18.989Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T11:38:31.509Z",
+      "updatedAt": "2026-10-22T12:19:18.989Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L1N4680EI:0",
           "ticker": "TTMI",
-          "change": -7.96,
+          "change": -10.92,
           "title": "TTM Technologies Q3 revenue jumps 60%, beats expectations on data center market demand",
           "lang": "en",
           "source": "Reuters",
@@ -34,37 +34,37 @@
             "url": "https://s3-symbol-logo.tradingview.com/ttm-technologies--big.svg",
             "kind": "logo"
           },
-          "score": 102,
+          "score": 111,
           "reasons": [
-            "move -8.0%",
+            "move -10.9%",
             "leading source reuters",
             "keywords: revenue",
-            "6 sources"
+            "7 sources"
           ],
           "titleHe": "ההכנסות ברבעון ה-3 של TTM Technologies זינקו ב-60% ועקפו את הצפי הודות לביקוש בשוק מרכזי הנתונים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L1N4680GG:0",
-          "ticker": "SNA",
-          "change": -7.98,
-          "title": "Snap-on Q3 sales and EPS miss expectations on diesel price impact",
+          "id": "tag:reuters.com,2026:newsml_TUA7JXWZ:0",
+          "ticker": "FPS",
+          "change": -9.62,
+          "title": "Forgent Announces CFO Transition",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680GG:0-snap-on-q3-sales-and-eps-miss-expectations-on-diesel-price-impact/",
-          "publishedAt": "2026-10-22T10:39:40.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA7JXWZ:0-forgent-announces-cfo-transition/",
+          "publishedAt": "2026-10-22T12:00:13.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/snap-on--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/forgent-power-solutions--big.svg",
             "kind": "logo"
           },
-          "score": 92,
+          "score": 97,
           "reasons": [
-            "move -8.0%",
+            "move -9.6%",
             "leading source reuters",
-            "7 sources"
+            "5 sources"
           ],
-          "titleHe": "המכירות והרווח למניה של Snap-on ברבעון ה-3 החטיאו את הציפיות בשל השפעת מחירי הדיזל",
+          "titleHe": "Forgent מודיעה על חילופי סמנכ\"ל כספים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-22T11:38:31.509Z",
+      "updatedAt": "2026-10-22T12:19:18.989Z",
       "items": [
         {
           "id": "calcalist:3ef3baf3e30f0:0",
@@ -103,17 +103,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.highlight/000001a1-62af-da49-abe9-6fff6a010000",
+          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-636d-d29a-a1a5-e3ef43a60000",
           "ticker": null,
           "change": null,
-          "title": "שבוע עבודה, שכר של חודש לפי \"הממוצע במשק\": מייסד אירודרום חזר וחמק מאישור",
+          "title": "הרשות להגנת הפרטיות הטילה קנס על חברת הביטוח מנורה מבטחים",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/.highlight/000001a1-62af-da49-abe9-6fff6a010000",
-          "publishedAt": "2026-10-22T09:30:01.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-636d-d29a-a1a5-e3ef43a60000",
+          "publishedAt": "2026-10-22T11:52:38.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-62bb-d686-a7a9-e7bb18b70000/cf/11/9568b069488ab2d09558a86e24b5/623762.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/00000197-db79-d083-a3b7-fb7bb6e50000/1f/a4/28161d214662b674f39a4ae6d410/780824.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
