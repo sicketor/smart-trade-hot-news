@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T08:17:44.441Z",
+  "generatedAt": "2026-10-22T09:02:40.452Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,47 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T08:17:44.441Z",
+      "updatedAt": "2026-10-22T09:02:40.452Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L8N4680FI:0",
-          "ticker": "TSLA",
-          "change": -4.91,
-          "title": "Before the bell: Lots of companies reporting into a shaky market",
+          "id": "tag:reuters.com,2026:newsml_L6N4670K7:0",
+          "ticker": "RTO",
+          "change": 8.94,
+          "title": "Rentokil announces $200 million buyback; quarterly revenue rises on improving North America business",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4680FI:0-before-the-bell-lots-of-companies-reporting-into-a-shaky-market/",
-          "publishedAt": "2026-10-22T06:45:24.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670K7:0-rentokil-announces-200-million-buyback-quarterly-revenue-rises-on-improving-north-america-business/",
+          "publishedAt": "2026-10-22T07:29:07.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/tesla--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/rentokil-initial--big.svg",
             "kind": "logo"
           },
-          "score": 63,
+          "score": 105,
           "reasons": [
-            "move -4.9%",
-            "leading source reuters"
+            "move 8.9%",
+            "leading source reuters",
+            "keywords: revenue",
+            "6 sources"
           ],
-          "titleHe": "טרום המסחר: שפע דוחות כספיים ברקע לשוק הפכפך",
+          "titleHe": "רנטוקיל מכריזה על רכישה עצמית ב-200 מיליון דולר; ההכנסות הרבעוניות עולות הודות לשיפור בפעילות בצפון אמריקה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_FWN46813A:0",
-          "ticker": null,
-          "change": null,
-          "title": "Arab Pesticides And Veterinary Drugs Manufacturing Q3 Profit 1.6 Mln Dinars",
+          "id": "DJN_DN20261022002761:0",
+          "ticker": "LRCX",
+          "change": -8.02,
+          "title": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46813A:0-arab-pesticides-and-veterinary-drugs-manufacturing-q3-profit-1-6-mln-dinars/",
-          "publishedAt": "2026-10-22T07:46:54.000Z",
-          "image": null,
-          "score": 50,
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261022002761:0-ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112/",
+          "publishedAt": "2026-10-22T08:38:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/lam-research--big.svg",
+            "kind": "logo"
+          },
+          "score": 82,
           "reasons": [
-            "leading source reuters",
-            "keywords: profit"
+            "move -8.0%",
+            "leading source dow-jones",
+            "keywords: earnings"
           ],
-          "titleHe": "הרווח של Arab Pesticides And Veterinary Drugs Manufacturing ברבעון ה-3 עומד על 1.6 מיליון דינר",
+          "titleHe": "מניות הבינה המלאכותית יורדות לאחר דוחות מאכזבים; אג\"ח צרפת נופלות והנפט מעל 112 דולר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -77,12 +83,32 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-22T08:17:44.441Z",
+      "updatedAt": "2026-10-22T09:02:40.452Z",
       "items": [
+        {
+          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-62b9-d05a-abe9-67b978a30000",
+          "ticker": null,
+          "change": null,
+          "title": "בדרך לפירוק השותפות עם האחים חג'ג'? רני צים קונה מהם מניות בפרמיה של 30%",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-62b9-d05a-abe9-67b978a30000",
+          "publishedAt": "2026-10-22T08:36:48.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-62be-d05a-abe9-67bf2ee40000/71/d9/2bb798ea4c3ea6875f6344d1e1ac/442250.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
         {
           "id": "calcalist:13a118bee30f0:0",
           "ticker": "PHOE",
-          "change": -0.64,
+          "change": -0.53,
           "title": "רני צים מחזיר לעצמו את השליטה בחברת מרכזי הקניות: ירכוש עד 15% מהחברה מקבוצת חג'ג'",
           "lang": "he",
           "source": "כלכליסט",
@@ -92,26 +118,6 @@
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/phoenix--big.svg",
             "kind": "logo"
-          },
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-10-22/ty-article-live/000001a1-6246-d05a-abe9-675fe2030000",
-          "ticker": null,
-          "change": null,
-          "title": "ירידות במסחר: ת\"א 35 ומדד הנדל\"ן משילים 1%; הדולר מתחזק ל-3.1 שקלים",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-22/ty-article-live/000001a1-6246-d05a-abe9-675fe2030000",
-          "publishedAt": "2026-10-22T07:03:16.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000018f-37ee-d0b5-a59f-37ef34ac0000/da/90/afba5be34414bc168c25855d01fd/573751-3.jpg?width=108&height=81",
-            "kind": "photo"
           },
           "fallback": true,
           "score": 0,
