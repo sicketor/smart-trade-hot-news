@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T15:21:41.717Z",
+  "generatedAt": "2026-10-22T16:01:53.157Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T15:21:41.717Z",
+      "updatedAt": "2026-10-22T16:01:53.157Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L8N4681QN:0",
           "ticker": "TTMI",
-          "change": -26.53,
+          "change": -27.42,
           "title": "TTM Technologies Inc reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -34,9 +34,10 @@
             "url": "https://s3-symbol-logo.tradingview.com/ttm-technologies--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 145,
           "reasons": [
-            "move -26.5%",
+            "move -27.4%",
+            "volume x2.4",
             "leading source reuters",
             "keywords: earnings, results",
             "4 sources"
@@ -47,7 +48,7 @@
         {
           "id": "stocktwits:8bddac519094b:0",
           "ticker": "BHVN",
-          "change": 28.85,
+          "change": 25.53,
           "title": "BHVN Stock Eyes Biggest Single-Day Gain In 4 Years After FDA Approval For Vyglxia",
           "lang": "en",
           "source": "stocktwits",
@@ -58,12 +59,12 @@
             "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2241292402_jpg_9661b0c852.webp",
             "kind": "photo"
           },
-          "score": 125,
+          "score": 135,
           "reasons": [
-            "move 28.9%",
-            "volume x11.3",
+            "move 25.5%",
+            "volume x13.0",
             "keywords: FDA, approval",
-            "2 sources"
+            "3 sources"
           ],
           "titleHe": "מניית BHVN בדרך לעלייה היומית הגדולה ביותר ב-4 שנים בעקבות אישור ה-FDA ל-Vyglxia",
           "translatedBy": "gemini-3.5-flash-lite"
