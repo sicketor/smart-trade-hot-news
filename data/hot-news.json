@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T10:21:14.397Z",
+  "generatedAt": "2026-10-22T11:01:09.015Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T10:21:14.397Z",
+      "updatedAt": "2026-10-22T11:01:09.015Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L6N4670K7:0",
-          "ticker": "RTO",
-          "change": 8.79,
-          "title": "Rentokil announces $200 million buyback; quarterly revenue rises on improving North America business",
+          "id": "tag:reuters.com,2026:newsml_L1N4680EI:0",
+          "ticker": "TTMI",
+          "change": -7.98,
+          "title": "TTM Technologies Q3 revenue jumps 60%, beats expectations on data center market demand",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4670K7:0-rentokil-announces-200-million-buyback-quarterly-revenue-rises-on-improving-north-america-business/",
-          "publishedAt": "2026-10-22T07:29:07.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680EI:0-ttm-technologies-q3-revenue-jumps-60-beats-expectations-on-data-center-market-demand/",
+          "publishedAt": "2026-10-22T10:09:42.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/rentokil-initial--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/ttm-technologies--big.svg",
             "kind": "logo"
           },
-          "score": 104,
+          "score": 102,
           "reasons": [
-            "move 8.8%",
+            "move -8.0%",
             "leading source reuters",
             "keywords: revenue",
             "6 sources"
           ],
-          "titleHe": "רנטוקיל מכריזה על רכישה עצמית ב-200 מיליון דולר; ההכנסות הרבעוניות עולות הודות לשיפור בפעילות בצפון אמריקה",
+          "titleHe": "ההכנסות ברבעון ה-3 של TTM Technologies זינקו ב-60% ועקפו את הצפי הודות לביקוש בשוק מרכזי הנתונים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261022003018:0",
-          "ticker": "LRCX",
-          "change": -8.14,
-          "title": "Lam Research's Short-Term Guidance Only In Line, Outlook Remains Strong — Market Talk",
+          "id": "DJN_DN20261022002585:0",
+          "ticker": "RTO",
+          "change": 8.17,
+          "title": "Rentokil Initial Shares Rise After Growth Across Business",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261022003018:0-lam-research-s-short-term-guidance-only-in-line-outlook-remains-strong-market-talk/",
-          "publishedAt": "2026-10-22T09:22:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261022002585:0-rentokil-initial-shares-rise-after-growth-across-business/",
+          "publishedAt": "2026-10-22T08:09:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/lam-research--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/rentokil-initial--big.svg",
             "kind": "logo"
           },
-          "score": 92,
+          "score": 93,
           "reasons": [
-            "move -8.1%",
+            "move 8.2%",
             "leading source dow-jones",
-            "keywords: guidance, outlook"
+            "4 sources"
           ],
-          "titleHe": "התחזית לטווח הקצר של Lam Research תואמת את הצפי בלבד, אך מבט העל נותר חזק",
+          "titleHe": "מניות Rentokil Initial עולות לאחר צמיחה הרוחבית בכל תחומי הפעילות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-22T10:21:14.397Z",
+      "updatedAt": "2026-10-22T11:01:09.015Z",
       "items": [
         {
           "id": "calcalist:3ef3baf3e30f0:0",
