@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T20:05:59.520Z",
+  "generatedAt": "2026-10-22T06:45:05.972Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -80,37 +80,40 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-21T14:00:44.479Z",
+      "updatedAt": "2026-10-22T06:45:05.972Z",
       "items": [
         {
-          "id": "calcalist:ca9c37f8d30f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "הדולר יורד מתחת ל-3.09 שקלים אחרי החלטת הריבית",
+          "id": "calcalist:0299240ea30f0:0",
+          "ticker": "LUMI",
+          "change": -0.6,
+          "title": "יו\"ר פעילות ה-AI של בנק לאומי אמיר רוזן מצטרף לכאל - יוביל חטיבת דאטה חדשה",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:ca9c37f8d30f0:0/",
-          "publishedAt": "2026-10-21T13:21:02.000Z",
-          "image": null,
-          "score": 50,
+          "url": "https://www.tradingview.com/news/calcalist:0299240ea30f0:0/",
+          "publishedAt": "2026-10-22T06:40:35.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/leumi--big.svg",
+            "kind": "logo"
+          },
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: ריבית"
+            "fallback: latest market news"
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5e41-d05a-abe9-7f5983590000",
+          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-61db-d05a-abe9-67db6a830000",
           "ticker": null,
           "change": null,
-          "title": "פרשת סלייס: \"יש חשש שכספי העמיתים מממנים פעילות שמטרתה לעכב את השבת הכספים\"",
+          "title": "טוב שעמית גל מטפל בעמלות יועצי המשכנתאות. אבל מה עם אלה של סוכני הביטוח?",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-21/ty-article/.premium/000001a1-5e41-d05a-abe9-7f5983590000",
-          "publishedAt": "2026-10-21T12:06:25.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-61db-d05a-abe9-67db6a830000",
+          "publishedAt": "2026-10-22T05:19:15.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/00000192-906a-d9c2-a7f3-9c6e14170000/c3/7d/8ae99fd04ff1b95d208d76eb112a/070198.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/000001a1-61f8-da49-abe9-6ff8a6c90001/d0/31/5c9cc01f4787bee9e31fefa71557/358636-2.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
