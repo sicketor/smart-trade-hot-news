@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T12:19:18.989Z",
+  "generatedAt": "2026-10-22T13:13:57.583Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T12:19:18.989Z",
+      "updatedAt": "2026-10-22T13:13:57.583Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L1N4680EI:0",
-          "ticker": "TTMI",
-          "change": -10.92,
-          "title": "TTM Technologies Q3 revenue jumps 60%, beats expectations on data center market demand",
+          "id": "DJN_DN20261022005336:0",
+          "ticker": "TSCO",
+          "change": -8.17,
+          "title": "Tractor Supply 3Q Profit Slides as Fuel, Freight Costs Rise",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680EI:0-ttm-technologies-q3-revenue-jumps-60-beats-expectations-on-data-center-market-demand/",
-          "publishedAt": "2026-10-22T10:09:42.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261022005336:0-tractor-supply-3q-profit-slides-as-fuel-freight-costs-rise/",
+          "publishedAt": "2026-10-22T11:20:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/ttm-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/tractor-supply--big.svg",
             "kind": "logo"
           },
-          "score": 111,
+          "score": 103,
           "reasons": [
-            "move -10.9%",
-            "leading source reuters",
-            "keywords: revenue",
-            "7 sources"
+            "move -8.2%",
+            "leading source dow-jones",
+            "keywords: profit",
+            "8 sources"
           ],
-          "titleHe": "ההכנסות ברבעון ה-3 של TTM Technologies זינקו ב-60% ועקפו את הצפי הודות לביקוש בשוק מרכזי הנתונים",
+          "titleHe": "הרווח של Tractor Supply ברבעון ה-3 יורד עקב עליית עלויות הדלק והשילוח",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_TUA7JXWZ:0",
-          "ticker": "FPS",
-          "change": -9.62,
-          "title": "Forgent Announces CFO Transition",
+          "id": "tag:reuters.com,2026:newsml_L1N4680MK:0",
+          "ticker": "CRS",
+          "change": -11.38,
+          "title": "Alloys maker Carpenter Technology's Q1 sales rise less than expected",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA7JXWZ:0-forgent-announces-cfo-transition/",
-          "publishedAt": "2026-10-22T12:00:13.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680MK:0-alloys-maker-carpenter-technology-s-q1-sales-rise-less-than-expected/",
+          "publishedAt": "2026-10-22T12:09:48.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/forgent-power-solutions--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/carpenter-technology--big.svg",
             "kind": "logo"
           },
-          "score": 97,
+          "score": 102,
           "reasons": [
-            "move -9.6%",
+            "move -11.4%",
             "leading source reuters",
             "5 sources"
           ],
-          "titleHe": "Forgent מודיעה על חילופי סמנכ\"ל כספים",
+          "titleHe": "המכירות של יצרנית סגסוגות המשתמשת בשם Carpenter Technology עלו ברבעון ה-1 פחות מהצפוי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,23 +83,23 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-22T12:19:18.989Z",
+      "updatedAt": "2026-10-22T13:13:57.583Z",
       "items": [
         {
-          "id": "calcalist:3ef3baf3e30f0:0",
+          "id": "calcalist:d4708f5ab30f0:0",
           "ticker": null,
           "change": null,
-          "title": "2.9 מיליון שקל וללא הודאה באחריות: הסדר פשרה בתביעה נגד יצרנית בי־קיור לייזר",
+          "title": "הצמיחה של 7.5% שאינה באמת צמיחה",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:3ef3baf3e30f0:0/",
-          "publishedAt": "2026-10-22T09:44:54.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:d4708f5ab30f0:0/",
+          "publishedAt": "2026-10-22T12:47:18.000Z",
           "image": null,
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: תביעה"
+            "fallback: latest market news"
           ]
         },
         {
