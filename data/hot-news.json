@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T16:39:34.098Z",
+  "generatedAt": "2026-10-22T17:17:20.461Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,56 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T16:39:34.098Z",
+      "updatedAt": "2026-10-22T17:17:20.461Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L8N4681QN:0",
-          "ticker": "TTMI",
-          "change": -27.46,
-          "title": "TTM Technologies Inc reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "tag:reuters.com,2026:newsml_L8N4681Y9:0",
+          "ticker": "CRS",
+          "change": -22.15,
+          "title": "Carpenter Technology Corporation reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4681QN:0-ttm-technologies-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-10-22T14:10:56.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4681Y9:0-carpenter-technology-corporation-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-10-22T14:59:41.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/ttm-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/carpenter-technology--big.svg",
             "kind": "logo"
           },
-          "score": 145,
+          "score": 135,
           "reasons": [
-            "move -27.5%",
-            "volume x2.6",
+            "move -22.1%",
+            "volume x2.3",
             "leading source reuters",
             "keywords: earnings, results",
-            "4 sources"
-          ],
-          "titleHe": "TTM טכנולוגיות מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
-          "translatedBy": "gemini-3.5-flash-lite"
+            "2 sources"
+          ]
         },
         {
-          "id": "stocktwits:56733c67d094b:0",
-          "ticker": "FPS",
-          "change": -23.1,
-          "title": "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler's Exit",
+          "id": "urn:summary_document_transcript:quartr.com:4342156:0",
+          "ticker": "OII",
+          "change": -17.12,
+          "title": "OII: Q3 adjusted EBITDA reached a post-2015 quarterly high; FY2027 guidance hinges on project timing",
           "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/cZxwXnVRBDd",
-          "publishedAt": "2026-10-22T15:58:40.000Z",
+          "source": "quartr",
+          "sourceId": "quartr",
+          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4342156:0-oii-q3-adjusted-ebitda-reached-a-post-2015-quarterly-high-fy2027-guidance-hinges-on-project-timing/",
+          "publishedAt": "2026-10-22T16:50:37.000Z",
           "image": {
-            "url": "https://news.stocktwits-cdn.com/gettyimages_2294958355_594x594_1fbb94a4d4.jpg",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/oceaneering-international--big.svg",
+            "kind": "logo"
           },
-          "score": 105,
+          "score": 115,
           "reasons": [
-            "move -23.1%",
-            "volume x2.9",
-            "keywords: IPO"
-          ],
-          "titleHe": "מניית FPS צוללת לשפל כל הזמנים ויורדת מתחת למחיר ההנפקה לאחר עזיבת סמנכ\"ל הכספים ראיין פידלר",
-          "translatedBy": "gemini-3.5-flash-lite"
+            "move -17.1%",
+            "volume x2.3",
+            "keywords: guidance",
+            "2 sources"
+          ]
         }
+      ],
+      "warnings": [
+        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
