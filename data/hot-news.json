@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T16:01:53.157Z",
+  "generatedAt": "2026-10-22T16:39:34.098Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T16:01:53.157Z",
+      "updatedAt": "2026-10-22T16:39:34.098Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L8N4681QN:0",
           "ticker": "TTMI",
-          "change": -27.42,
+          "change": -27.46,
           "title": "TTM Technologies Inc reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,8 +36,8 @@
           },
           "score": 145,
           "reasons": [
-            "move -27.4%",
-            "volume x2.4",
+            "move -27.5%",
+            "volume x2.6",
             "leading source reuters",
             "keywords: earnings, results",
             "4 sources"
@@ -46,27 +46,26 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "stocktwits:8bddac519094b:0",
-          "ticker": "BHVN",
-          "change": 25.53,
-          "title": "BHVN Stock Eyes Biggest Single-Day Gain In 4 Years After FDA Approval For Vyglxia",
+          "id": "stocktwits:56733c67d094b:0",
+          "ticker": "FPS",
+          "change": -23.1,
+          "title": "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler's Exit",
           "lang": "en",
           "source": "stocktwits",
           "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/bhvn-stock-eyes-biggest-single-day-gain-in-4-years-after-fda-approval-for-vyglxia/cZxwBVkRBwU",
-          "publishedAt": "2026-10-22T13:27:09.000Z",
+          "url": "https://stocktwits.com/news-articles/markets/equity/fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/cZxwXnVRBDd",
+          "publishedAt": "2026-10-22T15:58:40.000Z",
           "image": {
-            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2241292402_jpg_9661b0c852.webp",
+            "url": "https://news.stocktwits-cdn.com/gettyimages_2294958355_594x594_1fbb94a4d4.jpg",
             "kind": "photo"
           },
-          "score": 135,
+          "score": 105,
           "reasons": [
-            "move 25.5%",
-            "volume x13.0",
-            "keywords: FDA, approval",
-            "3 sources"
+            "move -23.1%",
+            "volume x2.9",
+            "keywords: IPO"
           ],
-          "titleHe": "מניית BHVN בדרך לעלייה היומית הגדולה ביותר ב-4 שנים בעקבות אישור ה-FDA ל-Vyglxia",
+          "titleHe": "מניית FPS צוללת לשפל כל הזמנים ויורדת מתחת למחיר ההנפקה לאחר עזיבת סמנכ\"ל הכספים ראיין פידלר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
