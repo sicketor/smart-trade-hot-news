@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T13:13:57.583Z",
+  "generatedAt": "2026-10-22T14:00:23.196Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,36 +18,37 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T13:13:57.583Z",
+      "updatedAt": "2026-10-22T14:00:23.196Z",
       "items": [
         {
-          "id": "DJN_DN20261022005336:0",
-          "ticker": "TSCO",
-          "change": -8.17,
-          "title": "Tractor Supply 3Q Profit Slides as Fuel, Freight Costs Rise",
+          "id": "DJN_DN20261022006239:0",
+          "ticker": "BHVN",
+          "change": 31.15,
+          "title": "Biohaven Shares Rise as FDA Accepts Vyglxia Resubmission",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261022005336:0-tractor-supply-3q-profit-slides-as-fuel-freight-costs-rise/",
-          "publishedAt": "2026-10-22T11:20:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261022006239:0-biohaven-shares-rise-as-fda-accepts-vyglxia-resubmission/",
+          "publishedAt": "2026-10-22T12:14:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/tractor-supply--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/biohaven-pharmaceutical--big.svg",
             "kind": "logo"
           },
-          "score": 103,
+          "score": 135,
           "reasons": [
-            "move -8.2%",
+            "move 31.1%",
+            "volume x8.7",
             "leading source dow-jones",
-            "keywords: profit",
-            "8 sources"
+            "keywords: FDA",
+            "5 sources"
           ],
-          "titleHe": "הרווח של Tractor Supply ברבעון ה-3 יורד עקב עליית עלויות הדלק והשילוח",
+          "titleHe": "מניית Biohaven עולה לאחר שה-FDA קיבלה מחדש את בקשת האישור לתרופה Vyglxia",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "tag:reuters.com,2026:newsml_L1N4680MK:0",
           "ticker": "CRS",
-          "change": -11.38,
+          "change": -18.19,
           "title": "Alloys maker Carpenter Technology's Q1 sales rise less than expected",
           "lang": "en",
           "source": "Reuters",
@@ -58,9 +59,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/carpenter-technology--big.svg",
             "kind": "logo"
           },
-          "score": 102,
+          "score": 110,
           "reasons": [
-            "move -11.4%",
+            "move -18.2%",
             "leading source reuters",
             "5 sources"
           ],
@@ -83,19 +84,22 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-22T13:13:57.583Z",
+      "updatedAt": "2026-10-22T14:00:23.196Z",
       "items": [
         {
-          "id": "calcalist:d4708f5ab30f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/000001a1-63e0-d46d-a1fd-e3e12a080000",
           "ticker": null,
           "change": null,
-          "title": "הצמיחה של 7.5% שאינה באמת צמיחה",
+          "title": "פיירבלוקס במגעים להימכר לחברת ויזה תמורת 2.5 מיליארד דולר",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:d4708f5ab30f0:0/",
-          "publishedAt": "2026-10-22T12:47:18.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/000001a1-63e0-d46d-a1fd-e3e12a080000",
+          "publishedAt": "2026-10-22T13:49:58.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-63e1-da9a-a7e5-f7ff7bbc0000/bb/de/c69d4c674579b1d225044f985ea5/368603.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
@@ -103,17 +107,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-636d-d29a-a1a5-e3ef43a60000",
+          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/.highlight/000001a1-63c6-d5c9-adad-f3d63a940000",
           "ticker": null,
           "change": null,
-          "title": "הרשות להגנת הפרטיות הטילה קנס על חברת הביטוח מנורה מבטחים",
+          "title": "מובילאיי מקבלת המלצת השקעה באפסייד של 50% מסיטיבנק",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/.premium/000001a1-636d-d29a-a1a5-e3ef43a60000",
-          "publishedAt": "2026-10-22T11:52:38.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/.highlight/000001a1-63c6-d5c9-adad-f3d63a940000",
+          "publishedAt": "2026-10-22T13:37:03.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/00000197-db79-d083-a3b7-fb7bb6e50000/1f/a4/28161d214662b674f39a4ae6d410/780824.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/000001a1-63d2-d5c9-adad-f3d6b50f0000/db/2a/ae370f644d11be84a97366ec0f67/450224.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
