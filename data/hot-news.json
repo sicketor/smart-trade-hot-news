@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T07:32:18.633Z",
+  "generatedAt": "2026-10-22T08:17:44.441Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,50 +18,47 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-21T20:05:59.520Z",
+      "updatedAt": "2026-10-22T08:17:44.441Z",
       "items": [
         {
-          "id": "DJN_DN20261021007994:0",
-          "ticker": "RCUS",
-          "change": -19.07,
-          "title": "Arcus Biosciences Is Maintained at Buy by Citigroup",
+          "id": "tag:reuters.com,2026:newsml_L8N4680FI:0",
+          "ticker": "TSLA",
+          "change": -4.91,
+          "title": "Before the bell: Lots of companies reporting into a shaky market",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261021007994:0-arcus-biosciences-is-maintained-at-buy-by-citigroup/",
-          "publishedAt": "2026-10-21T19:02:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4680FI:0-before-the-bell-lots-of-companies-reporting-into-a-shaky-market/",
+          "publishedAt": "2026-10-22T06:45:24.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/arcus-biosciences--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/tesla--big.svg",
             "kind": "logo"
           },
-          "score": 90,
+          "score": 63,
           "reasons": [
-            "move -19.1%",
-            "leading source dow-jones"
+            "move -4.9%",
+            "leading source reuters"
           ],
-          "titleHe": "סיטיגרופ שומרים על המלצת קנייה ל-Arcus Biosciences",
+          "titleHe": "טרום המסחר: שפע דוחות כספיים ברקע לשוק הפכפך",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "stocktwits:fee3e983b094b:0",
-          "ticker": "SKYD",
-          "change": 10.35,
-          "title": "SKYD Surges After Media Baron John Malone Predicts $8–10B SpaceX Investment",
+          "id": "tag:reuters.com,2026:newsml_FWN46813A:0",
+          "ticker": null,
+          "change": null,
+          "title": "Arab Pesticides And Veterinary Drugs Manufacturing Q3 Profit 1.6 Mln Dinars",
           "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/skyd-surges-after-media-baron-john-malone-predicts-8-10-b-space-x-investment/cZxMaceRBvU",
-          "publishedAt": "2026-10-21T18:49:57.000Z",
-          "image": {
-            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2298278370_c1742670a6.jpg",
-            "kind": "photo"
-          },
-          "score": 79,
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46813A:0-arab-pesticides-and-veterinary-drugs-manufacturing-q3-profit-1-6-mln-dinars/",
+          "publishedAt": "2026-10-22T07:46:54.000Z",
+          "image": null,
+          "score": 50,
           "reasons": [
-            "move 10.4%",
-            "2 sources"
+            "leading source reuters",
+            "keywords: profit"
           ],
-          "titleHe": "מניית SKYD מזנקת לאחר שאיש העשורת ג'ון מאלון צופה השקעה של 8-10 מיליארד דולר ב-SpaceX",
+          "titleHe": "הרווח של Arab Pesticides And Veterinary Drugs Manufacturing ברבעון ה-3 עומד על 1.6 מיליון דינר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -80,21 +77,21 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-22T07:32:18.633Z",
+      "updatedAt": "2026-10-22T08:17:44.441Z",
       "items": [
         {
-          "id": "https://www.themarker.com/markets/2026-10-22/ty-article-live/000001a1-6246-d05a-abe9-675fe2030000",
-          "ticker": null,
-          "change": null,
-          "title": "המסחר נפתח בירידות: המדדים המרכזיים משילים 1%; הדולר מתחזק ל-3.1 שקלים",
+          "id": "calcalist:13a118bee30f0:0",
+          "ticker": "PHOE",
+          "change": -0.64,
+          "title": "רני צים מחזיר לעצמו את השליטה בחברת מרכזי הקניות: ירכוש עד 15% מהחברה מקבוצת חג'ג'",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-22/ty-article-live/000001a1-6246-d05a-abe9-675fe2030000",
-          "publishedAt": "2026-10-22T07:03:16.000Z",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:13a118bee30f0:0/",
+          "publishedAt": "2026-10-22T08:10:28.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/0000018f-37ee-d0b5-a59f-37ef34ac0000/da/90/afba5be34414bc168c25855d01fd/573751-3.jpg?width=108&height=81",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/phoenix--big.svg",
+            "kind": "logo"
           },
           "fallback": true,
           "score": 0,
@@ -103,17 +100,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-22/ty-article/000001a1-6261-d64b-a1ff-7f7f395d0000",
+          "id": "https://www.themarker.com/markets/2026-10-22/ty-article-live/000001a1-6246-d05a-abe9-675fe2030000",
           "ticker": null,
           "change": null,
-          "title": "המנהל החשוד בגניבה של 9 מיליון שקל מפרשת גיבוי אחזקות הוסגר היום מפורטוגל לישראל",
+          "title": "ירידות במסחר: ת\"א 35 ומדד הנדל\"ן משילים 1%; הדולר מתחזק ל-3.1 שקלים",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-22/ty-article/000001a1-6261-d64b-a1ff-7f7f395d0000",
-          "publishedAt": "2026-10-22T06:55:23.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-22/ty-article-live/000001a1-6246-d05a-abe9-675fe2030000",
+          "publishedAt": "2026-10-22T07:03:16.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/00000183-1c5f-d16a-a9eb-3fff5b330000/bc/d2/6795ad5f4c84889700976db8afb3/48457939.JPG?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000018f-37ee-d0b5-a59f-37ef34ac0000/da/90/afba5be34414bc168c25855d01fd/573751-3.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
