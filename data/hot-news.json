@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T15:14:00.796Z",
+  "generatedAt": "2026-10-23T15:59:47.785Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T15:14:00.796Z",
+      "updatedAt": "2026-10-23T15:59:47.785Z",
       "items": [
         {
           "id": "DJN_DN20261023005533:0",
           "ticker": "LKQ",
-          "change": -18.87,
+          "change": -20.18,
           "title": "LKQ Ousts President, CEO Justin Jude, Warns of 3Q Shortfall — Update",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,9 +34,10 @@
             "url": "https://s3-symbol-logo.tradingview.com/lkq--big.svg",
             "kind": "logo"
           },
-          "score": 110,
+          "score": 125,
           "reasons": [
-            "move -18.9%",
+            "move -20.2%",
+            "volume x2.1",
             "leading source dow-jones",
             "3 sources"
           ],
@@ -46,7 +47,7 @@
         {
           "id": "tag:reuters.com,2026:newsml_L4N4690Y5:0",
           "ticker": "BE",
-          "change": -11.14,
+          "change": -12.66,
           "title": "Why AI data centers are powering a boom in fuel-cell demand",
           "lang": "en",
           "source": "Reuters",
@@ -57,11 +58,11 @@
             "url": "https://s3-symbol-logo.tradingview.com/bloom-energy--big.svg",
             "kind": "logo"
           },
-          "score": 101,
+          "score": 106,
           "reasons": [
-            "move -11.1%",
+            "move -12.7%",
             "leading source reuters",
-            "6 sources"
+            "5 sources"
           ],
           "titleHe": "למה מרכזי הנתונים של בינה מלאכותית מניעים זינוק בביקוש לתאי דלק",
           "translatedBy": "gemini-3.5-flash-lite"
