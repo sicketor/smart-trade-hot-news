@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T18:41:37.798Z",
+  "generatedAt": "2026-10-23T19:22:50.337Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T18:41:37.798Z",
+      "updatedAt": "2026-10-23T19:22:50.337Z",
       "items": [
         {
           "id": "DJN_DN20261023007417:0",
           "ticker": "RHI",
-          "change": 23.54,
+          "change": 22.37,
           "title": "Robert Half Shares Surge on 3Q Profit Beat, Improved Hiring Activity",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,13 +34,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/robert-half-international--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 115,
           "reasons": [
-            "move 23.5%",
-            "volume x2.1",
+            "move 22.4%",
+            "volume x2.4",
             "leading source dow-jones",
-            "keywords: profit",
-            "2 sources"
+            "keywords: profit"
           ],
           "titleHe": "מניית רוברט האלף מזנקת בעקבות עקיפת תחזיות הרווח ברבעון ה-3 ושיפור בפעילות הגיוס",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -48,7 +47,7 @@
         {
           "id": "DJN_DN20261023006957:0",
           "ticker": "TNGX",
-          "change": -14.32,
+          "change": -15.13,
           "title": "Tango Therapeutics Stock Falls on Results from Pancreatic Cancer Treatment Study",
           "lang": "en",
           "source": "Dow Jones",
@@ -61,8 +60,8 @@
           },
           "score": 115,
           "reasons": [
-            "move -14.3%",
-            "volume x2.9",
+            "move -15.1%",
+            "volume x3.1",
             "leading source dow-jones",
             "keywords: results"
           ],
