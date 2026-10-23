@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T12:13:34.168Z",
+  "generatedAt": "2026-10-23T13:06:53.326Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T12:13:34.168Z",
+      "updatedAt": "2026-10-23T13:06:53.326Z",
       "items": [
+        {
+          "id": "tag:reuters.com,2026:newsml_L1N4690IZ:0",
+          "ticker": "LKQ",
+          "change": -17.89,
+          "title": "LKQ Q3 revenue misses estimates on Europe underperformance",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4690IZ:0-lkq-q3-revenue-misses-estimates-on-europe-underperformance/",
+          "publishedAt": "2026-10-23T12:11:07.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/lkq--big.svg",
+            "kind": "logo"
+          },
+          "score": 120,
+          "reasons": [
+            "move -17.9%",
+            "leading source reuters",
+            "keywords: revenue",
+            "5 sources"
+          ],
+          "titleHe": "ההכנסות של LKQ ברבעון ה-3 החטיאו את תחזית האנליסטים בשל חולשה באירופה",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "tag:reuters.com,2026:newsml_L8N4690Z9:0",
           "ticker": "FLG",
-          "change": -8.3,
+          "change": -8.39,
           "title": "Flagstar Bank, National Association reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,35 +60,12 @@
           },
           "score": 113,
           "reasons": [
-            "move -8.3%",
+            "move -8.4%",
             "leading source reuters",
             "keywords: earnings, results",
-            "7 sources"
+            "5 sources"
           ],
           "titleHe": "פלאגסטאר בנק מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום רווחים",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_FWN4691CZ:0",
-          "ticker": "TNGX",
-          "change": -9.56,
-          "title": "Tango Therapeutics, Inc. Approved A Strategic Reprioritization Of The Company’S Research And Development Activities",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4691CZ:0-tango-therapeutics-inc-approved-a-strategic-reprioritization-of-the-company-s-research-and-development-activities/",
-          "publishedAt": "2026-10-23T11:01:24.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/tango-therapeutics--big.svg",
-            "kind": "logo"
-          },
-          "score": 97,
-          "reasons": [
-            "move -9.6%",
-            "leading source reuters",
-            "4 sources"
-          ],
-          "titleHe": "טנגו תרפיוטיקס אישרה ארגון מחדש אסטרטגי של פעילות המחקר והפיתוח",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,25 +84,8 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T12:13:34.168Z",
+      "updatedAt": "2026-10-23T13:06:53.326Z",
       "items": [
-        {
-          "id": "calcalist:c51d283fa30f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "לא כזאת משעממת: חברת Boring מניבה רווח גדול עבור SpaceX",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:c51d283fa30f0:0/",
-          "publishedAt": "2026-10-23T09:39:46.000Z",
-          "image": null,
-          "score": 50,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: רווח"
-          ]
-        },
         {
           "id": "calcalist:05fc240d330f0:0",
           "ticker": null,
@@ -112,6 +96,23 @@
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:05fc240d330f0:0/",
           "publishedAt": "2026-10-23T11:53:40.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
+        {
+          "id": "calcalist:33c8b6b6a30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "הייניקן בהודעה נדירה: תרופות ההרזיה מסכנות את מכירות הבירה",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:33c8b6b6a30f0:0/",
+          "publishedAt": "2026-10-23T11:12:03.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
