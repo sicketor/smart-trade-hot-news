@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T06:44:07.801Z",
+  "generatedAt": "2026-10-23T07:31:31.014Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -85,18 +85,18 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T06:44:07.801Z",
+      "updatedAt": "2026-10-23T07:31:31.014Z",
       "items": [
         {
-          "id": "calcalist:854ad82bd30f0:0",
+          "id": "calcalist:adef0cae030f0:0",
           "ticker": null,
           "change": null,
-          "title": "פימי בדרך לשליטה במיטרוניקס: רוצה לקנות חצי מהחברה ב-200 מיליון שקל",
+          "title": "לא רק חברות נדל\"ן: שמיר אנרגיה נכנסת לשוק מרכזי הנתונים",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:854ad82bd30f0:0/",
-          "publishedAt": "2026-10-23T06:15:54.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:adef0cae030f0:0/",
+          "publishedAt": "2026-10-23T07:24:21.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
@@ -105,19 +105,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-23/ty-article/.premium/000001a1-6758-d6e1-abb7-77ded4230000",
+          "id": "calcalist:854ad82bd30f0:0",
           "ticker": null,
           "change": null,
-          "title": "פימי מציעה לרכוש 50% ממיטרוניקס ב-200 מיליון שקל בלבד, ולהגדיל השקעה בהמשך",
+          "title": "משווי של 9.1 מיליארד שקל לעסקה לפי 200 מיליון שקל: פימי בדרך לשליטה במיטרוניקס",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-23/ty-article/.premium/000001a1-6758-d6e1-abb7-77ded4230000",
-          "publishedAt": "2026-10-23T06:13:39.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000017f-e86c-df2c-a1ff-fe7d50140000/7a/43/6c460f96daf049091fde9fb76b14/3409045376.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:854ad82bd30f0:0/",
+          "publishedAt": "2026-10-23T06:15:54.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
