@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T17:18:28.046Z",
+  "generatedAt": "2026-10-23T17:53:50.744Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T17:18:28.046Z",
+      "updatedAt": "2026-10-23T17:53:50.744Z",
       "items": [
         {
           "id": "DJN_DN20261023006957:0",
           "ticker": "TNGX",
-          "change": -12.19,
+          "change": -13.5,
           "title": "Tango Therapeutics Stock Falls on Results from Pancreatic Cancer Treatment Study",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,10 +34,10 @@
             "url": "https://s3-symbol-logo.tradingview.com/tango-therapeutics--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 123,
           "reasons": [
-            "move -12.2%",
-            "volume x2.6",
+            "move -13.5%",
+            "volume x2.7",
             "leading source dow-jones",
             "keywords: results",
             "2 sources"
@@ -46,26 +46,26 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261023007044:0",
-          "ticker": "BE",
-          "change": -12.31,
-          "title": "Bloom Energy Is Maintained at Overweight by JP Morgan",
+          "id": "benzinga:11429d60d094b:0",
+          "ticker": "LKQ",
+          "change": -21.34,
+          "title": "LKQ Tumbles after Europe Slump Hits Earnings, Forces Leadership Shakeup",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261023007044:0-bloom-energy-is-maintained-at-overweight-by-jp-morgan/",
-          "publishedAt": "2026-10-23T16:52:00.000Z",
+          "source": "benzinga",
+          "sourceId": "benzinga",
+          "url": "https://www.tradingview.com/news/benzinga:11429d60d094b:0-lkq-tumbles-after-europe-slump-hits-earnings-forces-leadership-shakeup/",
+          "publishedAt": "2026-10-23T16:38:49.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/bloom-energy--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/lkq--big.svg",
             "kind": "logo"
           },
           "score": 105,
           "reasons": [
-            "move -12.3%",
-            "leading source dow-jones",
-            "4 sources"
+            "move -21.3%",
+            "volume x3.4",
+            "keywords: earnings"
           ],
-          "titleHe": "ג'יי.פי מורגן הותיר את ההמלצה על Bloom Energy על תשואת יתר",
+          "titleHe": "LKQ מזנקת לאחר שחולשה באירופה פגעה ברווחים והובילה לטלטלה בהנהגה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
