@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T07:31:31.014Z",
+  "generatedAt": "2026-10-23T08:15:00.387Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,55 +18,49 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-22T19:55:29.937Z",
+      "updatedAt": "2026-10-23T08:15:00.387Z",
       "items": [
         {
-          "id": "DJN_DN20261022010171:0",
-          "ticker": "FPS",
-          "change": -20.67,
-          "title": "Forgent Power Solutions Sees 1Q Rev Above High End of Guidance",
+          "id": "stockstory:a1f5a89da094b:0",
+          "ticker": "GGG",
+          "change": -9.41,
+          "title": "The 5 most interesting analyst questions from Graco’s Q3 earnings call",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261022010171:0-forgent-power-solutions-sees-1q-rev-above-high-end-of-guidance/",
-          "publishedAt": "2026-10-22T19:30:00.000Z",
+          "source": "stockstory",
+          "sourceId": "stockstory",
+          "url": "https://stockstory.org/us/stocks/nyse/ggg/news/earnings-call/the-5-most-interesting-analyst-questions-from-gracos-q3-earnings-call",
+          "publishedAt": "2026-10-23T05:56:38.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/forgent-power-solutions--big.svg",
-            "kind": "logo"
+            "url": "https://stockstory.org/stockstory/company-image/GGG",
+            "kind": "photo"
           },
-          "score": 135,
+          "score": 76,
           "reasons": [
-            "move -20.7%",
-            "volume x4.8",
-            "leading source dow-jones",
-            "keywords: guidance",
-            "3 sources"
+            "move -9.4%",
+            "keywords: earnings"
           ],
-          "titleHe": "Forgent Power Solutions צופה הכנסות ברבעון 1 מעל הרף העליון של תחזיתה",
+          "titleHe": "5 שאלות האנליסטים המענייניות ביותר משיחת הדוחות של Graco ברבעון ה-3",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L1N46813Q:0",
-          "ticker": "MRNA",
-          "change": -19.67,
-          "title": "Moderna sheds about $24 billion as cancer vaccine data triggers 'sell-the-news' retreat",
+          "id": "tradingview:12c8deb0f64b4:0",
+          "ticker": "CRS",
+          "change": -11.72,
+          "title": "Key facts: Carpenter Technology Corporation Q1 EPS $3.25; $1.0B Buyback",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46813Q:0-moderna-sheds-about-24-billion-as-cancer-vaccine-data-triggers-sell-the-news-retreat/",
-          "publishedAt": "2026-10-22T19:52:16.000Z",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com/news/tradingview:12c8deb0f64b4:0-key-facts-carpenter-technology-corporation-q1-eps-3-25-1-0b-buyback/",
+          "publishedAt": "2026-10-23T07:00:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/moderna--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/carpenter-technology--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 73,
           "reasons": [
-            "move -19.7%",
-            "volume x2.1",
-            "leading source reuters",
-            "6 sources"
+            "move -11.7%"
           ],
-          "titleHe": "מודרנה מאבדת כ-24 מיליארד דולר בעקבות נתוני חיסון הסרטן שמעוררים מימוש רווחים",
+          "titleHe": "נתונים מרכזיים: רווח למניה של Carpenter Technology ברבעון ה-1 עמד על $3.25; תוכנית רכישה עצמית ב-$1.0B",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -85,8 +79,25 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T07:31:31.014Z",
+      "updatedAt": "2026-10-23T08:15:00.387Z",
       "items": [
+        {
+          "id": "calcalist:b8482f57f30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "דוחות גרועים ופיטורים המוניים בוולוו; המניה מתרסקת ב-29%",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:b8482f57f30f0:0/",
+          "publishedAt": "2026-10-23T07:54:17.000Z",
+          "image": null,
+          "score": 60,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: דוחות, פיטורים"
+          ]
+        },
         {
           "id": "calcalist:adef0cae030f0:0",
           "ticker": null,
@@ -97,23 +108,6 @@
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:adef0cae030f0:0/",
           "publishedAt": "2026-10-23T07:24:21.000Z",
-          "image": null,
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "calcalist:854ad82bd30f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "משווי של 9.1 מיליארד שקל לעסקה לפי 200 מיליון שקל: פימי בדרך לשליטה במיטרוניקס",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:854ad82bd30f0:0/",
-          "publishedAt": "2026-10-23T06:15:54.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
