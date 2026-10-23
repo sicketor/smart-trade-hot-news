@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T10:18:37.011Z",
+  "generatedAt": "2026-10-23T10:56:12.585Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T10:18:37.011Z",
+      "updatedAt": "2026-10-23T10:56:12.585Z",
       "items": [
         {
           "id": "seekingalpha:5ebdc2d3d094b:0",
           "ticker": "RNG",
-          "change": 14.19,
+          "change": 15.84,
           "title": "RingCentral raises 2026 outlook as Q3 earnings, cash flow improve",
           "lang": "en",
           "source": "seekingalpha",
@@ -36,7 +36,7 @@
           },
           "score": 110,
           "reasons": [
-            "move 14.2%",
+            "move 15.8%",
             "keywords: earnings, outlook",
             "2 sources"
           ],
@@ -44,25 +44,27 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261022009867:0",
-          "ticker": "MRNA",
-          "change": -4.25,
-          "title": "Moderna Stock Plummets 18% After Cancer-Vaccine Data Leak — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L6N4680ZX:0",
+          "ticker": "INFY",
+          "change": -6.58,
+          "title": "India's Infosys beats second quarter revenue view",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261022009867:0-moderna-stock-plummets-18-after-cancer-vaccine-data-leak-barrons-com/",
-          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4680ZX:0-india-s-infosys-beats-second-quarter-revenue-view/",
+          "publishedAt": "2026-10-23T10:45:07.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/moderna--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/infosys--big.svg",
             "kind": "logo"
           },
-          "score": 61,
+          "score": 98,
           "reasons": [
-            "move -4.3%",
-            "leading source dow-jones"
+            "move -6.6%",
+            "leading source reuters",
+            "keywords: revenue",
+            "3 sources"
           ],
-          "titleHe": "מניית מודרנה צונחת ב-18% בעקבות דליפת מידע על חיסון לסרטן",
+          "titleHe": "אינפוסיס ההודית עוקפת את תחזיות ההכנסות ברבעון השני",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -81,28 +83,8 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T10:18:37.011Z",
+      "updatedAt": "2026-10-23T10:56:12.585Z",
       "items": [
-        {
-          "id": "calcalist:b8482f57f30f0:0",
-          "ticker": "MVNE",
-          "change": 0.3,
-          "title": "דוחות גרועים ופיטורים המוניים בוולוו; המניה מתרסקת ב-29%",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:b8482f57f30f0:0/",
-          "publishedAt": "2026-10-23T07:54:17.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/mivne--big.svg",
-            "kind": "logo"
-          },
-          "score": 60,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: דוחות, פיטורים"
-          ]
-        },
         {
           "id": "calcalist:c51d283fa30f0:0",
           "ticker": null,
@@ -118,6 +100,26 @@
           "reasons": [
             "leading source calcalist",
             "keywords: רווח"
+          ]
+        },
+        {
+          "id": "calcalist:b8482f57f30f0:0",
+          "ticker": "MVNE",
+          "change": 0.52,
+          "title": "דוחות גרועים ופיטורים המוניים בוולוו; המניה מתרסקת ב-29%",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:b8482f57f30f0:0/",
+          "publishedAt": "2026-10-23T07:54:17.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/mivne--big.svg",
+            "kind": "logo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
           ]
         }
       ]
