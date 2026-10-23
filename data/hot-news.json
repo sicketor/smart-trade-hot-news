@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T10:56:12.585Z",
+  "generatedAt": "2026-10-23T11:38:28.527Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T10:56:12.585Z",
+      "updatedAt": "2026-10-23T11:38:28.527Z",
       "items": [
         {
           "id": "seekingalpha:5ebdc2d3d094b:0",
           "ticker": "RNG",
-          "change": 15.84,
+          "change": 14.66,
           "title": "RingCentral raises 2026 outlook as Q3 earnings, cash flow improve",
           "lang": "en",
           "source": "seekingalpha",
@@ -36,7 +36,7 @@
           },
           "score": 110,
           "reasons": [
-            "move 15.8%",
+            "move 14.7%",
             "keywords: earnings, outlook",
             "2 sources"
           ],
@@ -44,27 +44,26 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L6N4680ZX:0",
-          "ticker": "INFY",
-          "change": -6.58,
-          "title": "India's Infosys beats second quarter revenue view",
+          "id": "DJN_DN20261023003836:0",
+          "ticker": "ZLAB",
+          "change": 10.25,
+          "title": "Zai Lab Shares Rise on Positive Phase 1 Trial Data for Lung Cancer Treatment",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4680ZX:0-india-s-infosys-beats-second-quarter-revenue-view/",
-          "publishedAt": "2026-10-23T10:45:07.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261023003836:0-zai-lab-shares-rise-on-positive-phase-1-trial-data-for-lung-cancer-treatment/",
+          "publishedAt": "2026-10-23T11:25:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/infosys--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/zai-lab--big.svg",
             "kind": "logo"
           },
-          "score": 98,
+          "score": 99,
           "reasons": [
-            "move -6.6%",
-            "leading source reuters",
-            "keywords: revenue",
-            "3 sources"
+            "move 10.3%",
+            "leading source dow-jones",
+            "5 sources"
           ],
-          "titleHe": "אינפוסיס ההודית עוקפת את תחזיות ההכנסות ברבעון השני",
+          "titleHe": "מניית Zai Lab עולה בעקבות נתוני שלב 1 חיוביים לטיפול בסרטן הריאות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,7 +82,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T10:56:12.585Z",
+      "updatedAt": "2026-10-23T11:38:28.527Z",
       "items": [
         {
           "id": "calcalist:c51d283fa30f0:0",
@@ -103,19 +102,16 @@
           ]
         },
         {
-          "id": "calcalist:b8482f57f30f0:0",
-          "ticker": "MVNE",
-          "change": 0.52,
-          "title": "דוחות גרועים ופיטורים המוניים בוולוו; המניה מתרסקת ב-29%",
+          "id": "calcalist:33c8b6b6a30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "הייניקן בהודעה נדירה: תרופות ההרזיה מסכנות את מכירות הבירה",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:b8482f57f30f0:0/",
-          "publishedAt": "2026-10-23T07:54:17.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/mivne--big.svg",
-            "kind": "logo"
-          },
+          "url": "https://www.tradingview.com/news/calcalist:33c8b6b6a30f0:0/",
+          "publishedAt": "2026-10-23T11:12:03.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
