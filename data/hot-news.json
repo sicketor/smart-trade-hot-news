@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T15:59:47.785Z",
+  "generatedAt": "2026-10-23T16:40:24.209Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,37 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T15:59:47.785Z",
+      "updatedAt": "2026-10-23T16:40:24.209Z",
       "items": [
+        {
+          "id": "DJN_DN20261023006957:0",
+          "ticker": "TNGX",
+          "change": -13.35,
+          "title": "Tango Therapeutics Stock Falls on Results from Pancreatic Cancer Treatment Study",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261023006957:0-tango-therapeutics-stock-falls-on-results-from-pancreatic-cancer-treatment-study/",
+          "publishedAt": "2026-10-23T16:35:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/tango-therapeutics--big.svg",
+            "kind": "logo"
+          },
+          "score": 133,
+          "reasons": [
+            "move -13.4%",
+            "volume x2.4",
+            "leading source dow-jones",
+            "keywords: results",
+            "3 sources"
+          ],
+          "titleHe": "מניית טנגו תרפיוטיקס נופלת בעקבות תוצאות ממחקר בטיפול בסרטן הלבלב",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261023005533:0",
           "ticker": "LKQ",
-          "change": -20.18,
+          "change": -20.54,
           "title": "LKQ Ousts President, CEO Justin Jude, Warns of 3Q Shortfall — Update",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,37 +59,14 @@
             "url": "https://s3-symbol-logo.tradingview.com/lkq--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 115,
           "reasons": [
-            "move -20.2%",
-            "volume x2.1",
+            "move -20.5%",
+            "volume x2.6",
             "leading source dow-jones",
-            "3 sources"
+            "2 sources"
           ],
           "titleHe": "LKQ מדחה את הנשיא והמנכ\"ל ג'סטין ג'וד ומזהירה מפני פספוס ברבעון ה-3",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L4N4690Y5:0",
-          "ticker": "BE",
-          "change": -12.66,
-          "title": "Why AI data centers are powering a boom in fuel-cell demand",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4690Y5:0-why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/",
-          "publishedAt": "2026-10-23T14:16:39.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/bloom-energy--big.svg",
-            "kind": "logo"
-          },
-          "score": 106,
-          "reasons": [
-            "move -12.7%",
-            "leading source reuters",
-            "5 sources"
-          ],
-          "titleHe": "למה מרכזי הנתונים של בינה מלאכותית מניעים זינוק בביקוש לתאי דלק",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
