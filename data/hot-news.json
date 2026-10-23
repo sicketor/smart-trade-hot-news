@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T09:38:03.889Z",
+  "generatedAt": "2026-10-23T10:18:37.011Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T09:38:03.889Z",
+      "updatedAt": "2026-10-23T10:18:37.011Z",
       "items": [
         {
           "id": "seekingalpha:5ebdc2d3d094b:0",
           "ticker": "RNG",
-          "change": 16.15,
+          "change": 14.19,
           "title": "RingCentral raises 2026 outlook as Q3 earnings, cash flow improve",
           "lang": "en",
           "source": "seekingalpha",
@@ -34,35 +34,35 @@
             "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1411832829/image_1411832829.jpg?io=getty-c-w630",
             "kind": "photo"
           },
-          "score": 100,
+          "score": 110,
           "reasons": [
-            "move 16.2%",
-            "keywords: earnings, outlook"
+            "move 14.2%",
+            "keywords: earnings, outlook",
+            "2 sources"
           ],
           "titleHe": "רינגסנטראל מעלה את תחזית 2026 על רקע שיפור ברווחי הרבעון השלישי ובתזרים המזומנים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261023002568:0",
-          "ticker": "C",
-          "change": 0.02,
-          "title": "Citi Gets Regulator Nod for Wholly Owned Securities Venture in China",
+          "id": "DJN_DN20261022009867:0",
+          "ticker": "MRNA",
+          "change": -4.25,
+          "title": "Moderna Stock Plummets 18% After Cancer-Vaccine Data Leak — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261023002568:0-citi-gets-regulator-nod-for-wholly-owned-securities-venture-in-china/",
-          "publishedAt": "2026-10-23T09:14:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261022009867:0-moderna-stock-plummets-18-after-cancer-vaccine-data-leak-barrons-com/",
+          "publishedAt": "2026-10-23T10:00:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/citigroup--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/moderna--big.svg",
             "kind": "logo"
           },
-          "score": 60,
+          "score": 61,
           "reasons": [
-            "leading source dow-jones",
-            "keywords: regulator",
-            "2 sources"
+            "move -4.3%",
+            "leading source dow-jones"
           ],
-          "titleHe": "סיטיגרופ קיבלה אישור רגולטורי לפעילות בבעלות מלאה בסין",
+          "titleHe": "מניית מודרנה צונחת ב-18% בעקבות דליפת מידע על חיסון לסרטן",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -81,12 +81,12 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T09:38:03.889Z",
+      "updatedAt": "2026-10-23T10:18:37.011Z",
       "items": [
         {
           "id": "calcalist:b8482f57f30f0:0",
           "ticker": "MVNE",
-          "change": 0.74,
+          "change": 0.3,
           "title": "דוחות גרועים ופיטורים המוניים בוולוו; המניה מתרסקת ב-29%",
           "lang": "he",
           "source": "כלכליסט",
@@ -104,20 +104,20 @@
           ]
         },
         {
-          "id": "calcalist:adef0cae030f0:0",
+          "id": "calcalist:c51d283fa30f0:0",
           "ticker": null,
           "change": null,
-          "title": "לא רק חברות נדל\"ן: שמיר אנרגיה נכנסת לשוק מרכזי הנתונים",
+          "title": "לא כזאת משעממת: חברת Boring מניבה רווח גדול עבור SpaceX",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:adef0cae030f0:0/",
-          "publishedAt": "2026-10-23T07:24:21.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:c51d283fa30f0:0/",
+          "publishedAt": "2026-10-23T09:39:46.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: רווח"
           ]
         }
       ]
