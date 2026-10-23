@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T16:40:24.209Z",
+  "generatedAt": "2026-10-23T17:18:28.046Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T16:40:24.209Z",
+      "updatedAt": "2026-10-23T17:18:28.046Z",
       "items": [
         {
           "id": "DJN_DN20261023006957:0",
           "ticker": "TNGX",
-          "change": -13.35,
+          "change": -12.19,
           "title": "Tango Therapeutics Stock Falls on Results from Pancreatic Cancer Treatment Study",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,39 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/tango-therapeutics--big.svg",
             "kind": "logo"
           },
-          "score": 133,
+          "score": 120,
           "reasons": [
-            "move -13.4%",
-            "volume x2.4",
+            "move -12.2%",
+            "volume x2.6",
             "leading source dow-jones",
             "keywords: results",
-            "3 sources"
+            "2 sources"
           ],
           "titleHe": "מניית טנגו תרפיוטיקס נופלת בעקבות תוצאות ממחקר בטיפול בסרטן הלבלב",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261023005533:0",
-          "ticker": "LKQ",
-          "change": -20.54,
-          "title": "LKQ Ousts President, CEO Justin Jude, Warns of 3Q Shortfall — Update",
+          "id": "DJN_DN20261023007044:0",
+          "ticker": "BE",
+          "change": -12.31,
+          "title": "Bloom Energy Is Maintained at Overweight by JP Morgan",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261023005533:0-lkq-ousts-president-ceo-justin-jude-warns-of-3q-shortfall-update/",
-          "publishedAt": "2026-10-23T13:50:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261023007044:0-bloom-energy-is-maintained-at-overweight-by-jp-morgan/",
+          "publishedAt": "2026-10-23T16:52:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/lkq--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/bloom-energy--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 105,
           "reasons": [
-            "move -20.5%",
-            "volume x2.6",
+            "move -12.3%",
             "leading source dow-jones",
-            "2 sources"
+            "4 sources"
           ],
-          "titleHe": "LKQ מדחה את הנשיא והמנכ\"ל ג'סטין ג'וד ומזהירה מפני פספוס ברבעון ה-3",
+          "titleHe": "ג'יי.פי מורגן הותיר את ההמלצה על Bloom Energy על תשואת יתר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
