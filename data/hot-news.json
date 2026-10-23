@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T13:06:53.326Z",
+  "generatedAt": "2026-10-23T13:50:03.554Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T13:06:53.326Z",
+      "updatedAt": "2026-10-23T13:50:03.554Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L1N4690IZ:0",
           "ticker": "LKQ",
-          "change": -17.89,
+          "change": -22.3,
           "title": "LKQ Q3 revenue misses estimates on Europe underperformance",
           "lang": "en",
           "source": "Reuters",
@@ -36,36 +36,35 @@
           },
           "score": 120,
           "reasons": [
-            "move -17.9%",
+            "move -22.3%",
             "leading source reuters",
             "keywords: revenue",
-            "5 sources"
+            "6 sources"
           ],
           "titleHe": "ההכנסות של LKQ ברבעון ה-3 החטיאו את תחזית האנליסטים בשל חולשה באירופה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L8N4690Z9:0",
-          "ticker": "FLG",
-          "change": -8.39,
-          "title": "Flagstar Bank, National Association reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "DJN_DN20261023005117:0",
+          "ticker": "CCI",
+          "change": 13.74,
+          "title": "Shares of Wireless Carriers Fall After Bloomberg Reports SpaceX Is in Talks to Access Cell Sites for New Network",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4690Z9:0-flagstar-bank-national-association-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-10-23T11:01:06.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261023005117:0-shares-of-wireless-carriers-fall-after-bloomberg-reports-spacex-is-in-talks-to-access-cell-sites-for-new-network/",
+          "publishedAt": "2026-10-23T13:08:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/new-york-community--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/crown-castle-international--big.svg",
             "kind": "logo"
           },
-          "score": 113,
+          "score": 99,
           "reasons": [
-            "move -8.4%",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "5 sources"
+            "move 13.7%",
+            "leading source dow-jones",
+            "2 sources"
           ],
-          "titleHe": "פלאגסטאר בנק מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום רווחים",
+          "titleHe": "מניות חברות הסלולר נופלות לאחר שבלומברג דיווח כי ספייס אקס במגעים לגישה לאתרים סלולריים עבור רשת חדשה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T13:06:53.326Z",
+      "updatedAt": "2026-10-23T13:50:03.554Z",
       "items": [
         {
           "id": "calcalist:05fc240d330f0:0",
