@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T11:38:28.527Z",
+  "generatedAt": "2026-10-23T12:13:34.168Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,52 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T11:38:28.527Z",
+      "updatedAt": "2026-10-23T12:13:34.168Z",
       "items": [
         {
-          "id": "seekingalpha:5ebdc2d3d094b:0",
-          "ticker": "RNG",
-          "change": 14.66,
-          "title": "RingCentral raises 2026 outlook as Q3 earnings, cash flow improve",
+          "id": "tag:reuters.com,2026:newsml_L8N4690Z9:0",
+          "ticker": "FLG",
+          "change": -8.3,
+          "title": "Flagstar Bank, National Association reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
-          "source": "seekingalpha",
-          "sourceId": "seekingalpha",
-          "url": "https://seekingalpha.com/news/4656456-ringcentral-raises-2026-outlook-as-q3-earnings-cash-flow-improve?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
-          "publishedAt": "2026-10-23T08:46:59.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4690Z9:0-flagstar-bank-national-association-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-10-23T11:01:06.000Z",
           "image": {
-            "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1411832829/image_1411832829.jpg?io=getty-c-w630",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/new-york-community--big.svg",
+            "kind": "logo"
           },
-          "score": 110,
+          "score": 113,
           "reasons": [
-            "move 14.7%",
-            "keywords: earnings, outlook",
-            "2 sources"
+            "move -8.3%",
+            "leading source reuters",
+            "keywords: earnings, results",
+            "7 sources"
           ],
-          "titleHe": "רינגסנטראל מעלה את תחזית 2026 על רקע שיפור ברווחי הרבעון השלישי ובתזרים המזומנים",
+          "titleHe": "פלאגסטאר בנק מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום רווחים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261023003836:0",
-          "ticker": "ZLAB",
-          "change": 10.25,
-          "title": "Zai Lab Shares Rise on Positive Phase 1 Trial Data for Lung Cancer Treatment",
+          "id": "tag:reuters.com,2026:newsml_FWN4691CZ:0",
+          "ticker": "TNGX",
+          "change": -9.56,
+          "title": "Tango Therapeutics, Inc. Approved A Strategic Reprioritization Of The Company’S Research And Development Activities",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261023003836:0-zai-lab-shares-rise-on-positive-phase-1-trial-data-for-lung-cancer-treatment/",
-          "publishedAt": "2026-10-23T11:25:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4691CZ:0-tango-therapeutics-inc-approved-a-strategic-reprioritization-of-the-company-s-research-and-development-activities/",
+          "publishedAt": "2026-10-23T11:01:24.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/zai-lab--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/tango-therapeutics--big.svg",
             "kind": "logo"
           },
-          "score": 99,
+          "score": 97,
           "reasons": [
-            "move 10.3%",
-            "leading source dow-jones",
-            "5 sources"
+            "move -9.6%",
+            "leading source reuters",
+            "4 sources"
           ],
-          "titleHe": "מניית Zai Lab עולה בעקבות נתוני שלב 1 חיוביים לטיפול בסרטן הריאות",
+          "titleHe": "טנגו תרפיוטיקס אישרה ארגון מחדש אסטרטגי של פעילות המחקר והפיתוח",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T11:38:28.527Z",
+      "updatedAt": "2026-10-23T12:13:34.168Z",
       "items": [
         {
           "id": "calcalist:c51d283fa30f0:0",
@@ -102,15 +103,15 @@
           ]
         },
         {
-          "id": "calcalist:33c8b6b6a30f0:0",
+          "id": "calcalist:05fc240d330f0:0",
           "ticker": null,
           "change": null,
-          "title": "הייניקן בהודעה נדירה: תרופות ההרזיה מסכנות את מכירות הבירה",
+          "title": "מטוסי הקרב הקפיצו את הזמנות סאאב - ענקית הנשק השבדית עקפה את התחזיות",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:33c8b6b6a30f0:0/",
-          "publishedAt": "2026-10-23T11:12:03.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:05fc240d330f0:0/",
+          "publishedAt": "2026-10-23T11:53:40.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
