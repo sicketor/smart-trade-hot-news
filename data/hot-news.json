@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T08:58:16.435Z",
+  "generatedAt": "2026-10-23T09:38:03.889Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,7 +18,7 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T08:58:16.435Z",
+      "updatedAt": "2026-10-23T09:38:03.889Z",
       "items": [
         {
           "id": "seekingalpha:5ebdc2d3d094b:0",
@@ -43,27 +43,26 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261023002408:0",
-          "ticker": "SKHY",
-          "change": 6.11,
-          "title": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ",
+          "id": "DJN_DN20261023002568:0",
+          "ticker": "C",
+          "change": 0.02,
+          "title": "Citi Gets Regulator Nod for Wholly Owned Securities Venture in China",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261023002408:0-sk-hynix-pauses-ipo-of-memory-chip-unit-as-ai-valuation-fears-mount-wsj/",
-          "publishedAt": "2026-10-23T08:55:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261023002568:0-citi-gets-regulator-nod-for-wholly-owned-securities-venture-in-china/",
+          "publishedAt": "2026-10-23T09:14:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/sk-telecom--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/citigroup--big.svg",
             "kind": "logo"
           },
-          "score": 86,
+          "score": 60,
           "reasons": [
-            "move 6.1%",
             "leading source dow-jones",
-            "keywords: IPO",
+            "keywords: regulator",
             "2 sources"
           ],
-          "titleHe": "SK היניקס מקפיאה את הנפקת חטיבת שבבי הזיכרון על רקע החששות מבועת הערכות השווי ב-AI",
+          "titleHe": "סיטיגרופ קיבלה אישור רגולטורי לפעילות בבעלות מלאה בסין",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,12 +81,12 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T08:58:16.435Z",
+      "updatedAt": "2026-10-23T09:38:03.889Z",
       "items": [
         {
           "id": "calcalist:b8482f57f30f0:0",
           "ticker": "MVNE",
-          "change": 1.11,
+          "change": 0.74,
           "title": "דוחות גרועים ופיטורים המוניים בוולוו; המניה מתרסקת ב-29%",
           "lang": "he",
           "source": "כלכליסט",
