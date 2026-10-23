@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T08:15:00.387Z",
+  "generatedAt": "2026-10-23T08:58:16.435Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,49 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T08:15:00.387Z",
+      "updatedAt": "2026-10-23T08:58:16.435Z",
       "items": [
         {
-          "id": "stockstory:a1f5a89da094b:0",
-          "ticker": "GGG",
-          "change": -9.41,
-          "title": "The 5 most interesting analyst questions from Graco’s Q3 earnings call",
+          "id": "seekingalpha:5ebdc2d3d094b:0",
+          "ticker": "RNG",
+          "change": 16.15,
+          "title": "RingCentral raises 2026 outlook as Q3 earnings, cash flow improve",
           "lang": "en",
-          "source": "stockstory",
-          "sourceId": "stockstory",
-          "url": "https://stockstory.org/us/stocks/nyse/ggg/news/earnings-call/the-5-most-interesting-analyst-questions-from-gracos-q3-earnings-call",
-          "publishedAt": "2026-10-23T05:56:38.000Z",
+          "source": "seekingalpha",
+          "sourceId": "seekingalpha",
+          "url": "https://seekingalpha.com/news/4656456-ringcentral-raises-2026-outlook-as-q3-earnings-cash-flow-improve?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+          "publishedAt": "2026-10-23T08:46:59.000Z",
           "image": {
-            "url": "https://stockstory.org/stockstory/company-image/GGG",
+            "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1411832829/image_1411832829.jpg?io=getty-c-w630",
             "kind": "photo"
           },
-          "score": 76,
+          "score": 100,
           "reasons": [
-            "move -9.4%",
-            "keywords: earnings"
+            "move 16.2%",
+            "keywords: earnings, outlook"
           ],
-          "titleHe": "5 שאלות האנליסטים המענייניות ביותר משיחת הדוחות של Graco ברבעון ה-3",
+          "titleHe": "רינגסנטראל מעלה את תחזית 2026 על רקע שיפור ברווחי הרבעון השלישי ובתזרים המזומנים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tradingview:12c8deb0f64b4:0",
-          "ticker": "CRS",
-          "change": -11.72,
-          "title": "Key facts: Carpenter Technology Corporation Q1 EPS $3.25; $1.0B Buyback",
+          "id": "DJN_DN20261023002408:0",
+          "ticker": "SKHY",
+          "change": 6.11,
+          "title": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:12c8deb0f64b4:0-key-facts-carpenter-technology-corporation-q1-eps-3-25-1-0b-buyback/",
-          "publishedAt": "2026-10-23T07:00:00.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261023002408:0-sk-hynix-pauses-ipo-of-memory-chip-unit-as-ai-valuation-fears-mount-wsj/",
+          "publishedAt": "2026-10-23T08:55:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/carpenter-technology--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/sk-telecom--big.svg",
             "kind": "logo"
           },
-          "score": 73,
+          "score": 86,
           "reasons": [
-            "move -11.7%"
+            "move 6.1%",
+            "leading source dow-jones",
+            "keywords: IPO",
+            "2 sources"
           ],
-          "titleHe": "נתונים מרכזיים: רווח למניה של Carpenter Technology ברבעון ה-1 עמד על $3.25; תוכנית רכישה עצמית ב-$1.0B",
+          "titleHe": "SK היניקס מקפיאה את הנפקת חטיבת שבבי הזיכרון על רקע החששות מבועת הערכות השווי ב-AI",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -79,19 +82,22 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T08:15:00.387Z",
+      "updatedAt": "2026-10-23T08:58:16.435Z",
       "items": [
         {
           "id": "calcalist:b8482f57f30f0:0",
-          "ticker": null,
-          "change": null,
+          "ticker": "MVNE",
+          "change": 1.11,
           "title": "דוחות גרועים ופיטורים המוניים בוולוו; המניה מתרסקת ב-29%",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:b8482f57f30f0:0/",
           "publishedAt": "2026-10-23T07:54:17.000Z",
-          "image": null,
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/mivne--big.svg",
+            "kind": "logo"
+          },
           "score": 60,
           "reasons": [
             "leading source calcalist",
