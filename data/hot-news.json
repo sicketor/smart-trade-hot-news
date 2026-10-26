@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T11:01:31.383Z",
+  "generatedAt": "2026-10-26T11:47:12.727Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,34 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T11:01:31.383Z",
+      "updatedAt": "2026-10-26T11:47:12.727Z",
       "items": [
+        {
+          "id": "DJN_DN20261026002319:0",
+          "ticker": "XP",
+          "change": -47.68,
+          "title": "XP and AmBev Stocks Slump. Brazil's Path Is Unworkable After Shock Election Win. — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261026002319:0-xp-and-ambev-stocks-slump-brazil-s-path-is-unworkable-after-shock-election-win-barrons-com/",
+          "publishedAt": "2026-10-26T11:06:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/xp--big.svg",
+            "kind": "logo"
+          },
+          "score": 90,
+          "reasons": [
+            "move -47.7%",
+            "leading source dow-jones"
+          ],
+          "titleHe": "מניות XP ואמבב נופלות: דרכה של ברזיל בלתי אפשרית ליישום אחרי ניצחון מפתיע בבחירות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "tag:reuters.com,2026:newsml_S0N45E02M:0",
           "ticker": "ITUB",
-          "change": -27.61,
+          "change": -25.34,
           "title": "Brazil's Itau agrees to buy AI startup NeoSpace for $589 million",
           "lang": "en",
           "source": "Reuters",
@@ -36,32 +58,10 @@
           },
           "score": 90,
           "reasons": [
-            "move -27.6%",
+            "move -25.3%",
             "leading source reuters"
           ],
           "titleHe": "איתאו הברזילאית תרכוש את סטארט-אפ הבינה מלאכותית NeoSpace תמורת 589 מיליון דולר",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261026001643:0",
-          "ticker": "RRC",
-          "change": 9.51,
-          "title": "EQT-Range Resources Deal Creates $50B Appalachian Gas Giant — Company Talk",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026001643:0-eqt-range-resources-deal-creates-50b-appalachian-gas-giant-company-talk/",
-          "publishedAt": "2026-10-26T10:21:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/range-resources--big.svg",
-            "kind": "logo"
-          },
-          "score": 77,
-          "reasons": [
-            "move 9.5%",
-            "leading source dow-jones"
-          ],
-          "titleHe": "עסקת EQT-Range Resources יוצרת ענקית גז בשווי 50 מיליארד דולר באפלצ'ים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -80,8 +80,25 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-26T11:01:31.383Z",
+      "updatedAt": "2026-10-26T11:47:12.727Z",
       "items": [
+        {
+          "id": "calcalist:f95dc378030f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "בדרך לת\"א 35: אל על מבקשת לשדרג את עלות שכר היו\"ר ל־7 מיליון שקל בשנה",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:f95dc378030f0:0/",
+          "publishedAt": "2026-10-26T11:11:56.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
         {
           "id": "calcalist:7590d097e30f0:0",
           "ticker": null,
@@ -92,23 +109,6 @@
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:7590d097e30f0:0/",
           "publishedAt": "2026-10-26T10:26:23.000Z",
-          "image": null,
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "calcalist:7606ebd6530f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "בית ההשקעות מור רוכש כ-12% מקבוצת גאון בכ-100 מיליון שקל",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:7606ebd6530f0:0/",
-          "publishedAt": "2026-10-26T10:14:23.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
