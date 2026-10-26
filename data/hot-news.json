@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T07:40:55.981Z",
+  "generatedAt": "2026-10-26T08:30:08.164Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,44 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-23T20:02:54.419Z",
+      "updatedAt": "2026-10-26T08:30:08.164Z",
       "items": [
         {
-          "id": "DJN_DN20261023007417:0",
-          "ticker": "RHI",
-          "change": 24.99,
-          "title": "Robert Half Shares Surge on 3Q Profit Beat, Improved Hiring Activity",
+          "id": "DJN_DN20261026000750:0",
+          "ticker": null,
+          "change": null,
+          "title": "Singapore Inflation Outlook May Be Weighed by Indonesia Gas Supply Cut — Market Talk",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261023007417:0-robert-half-shares-surge-on-3q-profit-beat-improved-hiring-activity/",
-          "publishedAt": "2026-10-23T18:01:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/robert-half-international--big.svg",
-            "kind": "logo"
-          },
-          "score": 115,
+          "url": "https://www.tradingview.com/news/DJN_DN20261026000750:0-singapore-inflation-outlook-may-be-weighed-by-indonesia-gas-supply-cut-market-talk/",
+          "publishedAt": "2026-10-26T07:35:00.000Z",
+          "image": null,
+          "score": 60,
           "reasons": [
-            "move 25.0%",
-            "volume x2.9",
             "leading source dow-jones",
-            "keywords: profit"
+            "keywords: outlook, inflation"
           ],
-          "titleHe": "מניית רוברט האלף מזנקת בעקבות עקיפת תחזיות הרווח ברבעון ה-3 ושיפור בפעילות הגיוס",
+          "titleHe": "האינפלציה בסינגפור עשויה להיות מושפעת מהפסקת אספקת הגז מאנדונזיה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261023007860:0",
-          "ticker": "RITM",
-          "change": 7.96,
-          "title": "Rithm Capital Shares Gain on 3Q Earnings Beat",
+          "id": "tag:reuters.com,2026:newsml_L6N46C0HJ:0",
+          "ticker": null,
+          "change": null,
+          "title": "French bond selloff eases as country spared ratings downgrade",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261023007860:0-rithm-capital-shares-gain-on-3q-earnings-beat/",
-          "publishedAt": "2026-10-23T19:05:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/rithm-capital--big.svg",
-            "kind": "logo"
-          },
-          "score": 97,
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46C0HJ:0-french-bond-selloff-eases-as-country-spared-ratings-downgrade/",
+          "publishedAt": "2026-10-26T08:14:15.000Z",
+          "image": null,
+          "score": 50,
           "reasons": [
-            "move 8.0%",
-            "volume x2.0",
-            "leading source dow-jones",
-            "keywords: earnings"
+            "leading source reuters",
+            "keywords: downgrade"
           ],
-          "titleHe": "מניית Rithm Capital עולה בעקבות דוחות הרבעון השלישי שעלו על הצפי",
+          "titleHe": "הירידות באג\"ח הצרפתי מתמתנות לאחר שהמדינה ניצלה מהורדת דירוג",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,43 +74,43 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-26T07:40:55.981Z",
+      "updatedAt": "2026-10-26T08:30:08.164Z",
       "items": [
         {
-          "id": "calcalist:3a413286930f0:0",
-          "ticker": "ELTR",
-          "change": -0.89,
-          "title": "ממסעדה בקריית גת ל-350 מיליון שקל: קרן סקיי רוכשת 50% מלי בר",
+          "id": "calcalist:7c85f36fa30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "סלקום רוצה את חנויות אפל: מאשרת את המגעים לרכישת אייקון גרופ",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:3a413286930f0:0/",
-          "publishedAt": "2026-10-26T06:29:06.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/electra--big.svg",
-            "kind": "logo"
-          },
+          "url": "https://www.tradingview.com/news/calcalist:7c85f36fa30f0:0/",
+          "publishedAt": "2026-10-26T07:43:16.000Z",
+          "image": null,
           "score": 50,
           "reasons": [
             "leading source calcalist",
-            "keywords: רוכשת"
+            "keywords: רכישת"
           ]
         },
         {
-          "id": "calcalist:d3ea903a330f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-26/ty-article/000001a1-7715-dcb7-adbd-f73fb7a00000",
           "ticker": null,
           "change": null,
-          "title": "עסקת ענק: אאורה קונה את חברת הדיור המוגן בית בכפר ב-1.7 מיליארד שקל",
+          "title": "עסקת ענק: אאורה רוכשת את בית בכפר ב-1.7 מיליארד שקל",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:d3ea903a330f0:0/",
-          "publishedAt": "2026-10-26T07:30:12.000Z",
-          "image": null,
-          "fallback": true,
-          "score": 0,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-26/ty-article/000001a1-7715-dcb7-adbd-f73fb7a00000",
+          "publishedAt": "2026-10-26T07:32:52.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-771a-d464-a5a7-f79f85770000/e6/c2/3c5b166a4742b121f6bd4c083a57/022394.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source themarker",
+            "keywords: רוכשת"
           ]
         }
       ]
