@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T10:11:51.062Z",
+  "generatedAt": "2026-10-26T11:01:31.383Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,44 +18,50 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T10:11:51.062Z",
+      "updatedAt": "2026-10-26T11:01:31.383Z",
       "items": [
         {
-          "id": "DJN_DN20261026001444:0",
-          "ticker": "NVDA",
-          "change": 0.49,
-          "title": "Big Tech Earnings, the Fed, and Elections. The Next 2 Weeks Could Make or Break the Stock Market. — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_S0N45E02M:0",
+          "ticker": "ITUB",
+          "change": -27.61,
+          "title": "Brazil's Itau agrees to buy AI startup NeoSpace for $589 million",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026001444:0-big-tech-earnings-the-fed-and-elections-the-next-2-weeks-could-make-or-break-the-stock-market-barrons-com/",
-          "publishedAt": "2026-10-26T10:00:00.000Z",
-          "image": null,
-          "score": 60,
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N45E02M:0-brazil-s-itau-agrees-to-buy-ai-startup-neospace-for-589-million/",
+          "publishedAt": "2026-10-26T10:36:15.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
+            "kind": "logo"
+          },
+          "score": 90,
           "reasons": [
-            "leading source dow-jones",
-            "keywords: earnings, Fed"
+            "move -27.6%",
+            "leading source reuters"
           ],
-          "titleHe": "דוחות ענקיות הטק, הפדרל ריזרב והבחירות: שבועיים קריטיים שיקבעו את גורל שוק המניות",
+          "titleHe": "איתאו הברזילאית תרכוש את סטארט-אפ הבינה מלאכותית NeoSpace תמורת 589 מיליון דולר",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261026001445:0",
-          "ticker": null,
-          "change": null,
-          "title": "Calendar of U.S. Earnings Expected in the Week Ahead",
+          "id": "DJN_DN20261026001643:0",
+          "ticker": "RRC",
+          "change": 9.51,
+          "title": "EQT-Range Resources Deal Creates $50B Appalachian Gas Giant — Company Talk",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026001445:0-calendar-of-u-s-earnings-expected-in-the-week-ahead/",
-          "publishedAt": "2026-10-26T10:00:00.000Z",
-          "image": null,
-          "score": 50,
+          "url": "https://www.tradingview.com/news/DJN_DN20261026001643:0-eqt-range-resources-deal-creates-50b-appalachian-gas-giant-company-talk/",
+          "publishedAt": "2026-10-26T10:21:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/range-resources--big.svg",
+            "kind": "logo"
+          },
+          "score": 77,
           "reasons": [
-            "leading source dow-jones",
-            "keywords: earnings"
+            "move 9.5%",
+            "leading source dow-jones"
           ],
-          "titleHe": "יומן דוחות: החברות המרכזיות שיפרסמו את תוצאותיהן השבוע בוול סטריט",
+          "titleHe": "עסקת EQT-Range Resources יוצרת ענקית גז בשווי 50 מיליארד דולר באפלצ'ים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -74,43 +80,40 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-26T10:11:51.062Z",
+      "updatedAt": "2026-10-26T11:01:31.383Z",
       "items": [
         {
-          "id": "calcalist:4118348f630f0:0",
-          "ticker": "STRS",
-          "change": -6.89,
-          "title": "פפסיקו מתרחקת מישראל: שטראוס תשתלט על יצרנית דוריטוס ותפוצ'יפס",
+          "id": "calcalist:7590d097e30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "מה חושבים בג'יי.פי מורגן על השקל ביום שאחרי הבחירות?",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:4118348f630f0:0/",
-          "publishedAt": "2026-10-26T07:58:16.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/strauss--big.svg",
-            "kind": "logo"
-          },
-          "score": 66,
+          "url": "https://www.tradingview.com/news/calcalist:7590d097e30f0:0/",
+          "publishedAt": "2026-10-26T10:26:23.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "move -6.9%",
-            "leading source calcalist"
+            "fallback: latest market news"
           ]
         },
         {
-          "id": "calcalist:7c85f36fa30f0:0",
+          "id": "calcalist:7606ebd6530f0:0",
           "ticker": null,
           "change": null,
-          "title": "סלקום רוצה את חנויות אפל: מאשרת את המגעים לרכישת אייקון גרופ",
+          "title": "בית ההשקעות מור רוכש כ-12% מקבוצת גאון בכ-100 מיליון שקל",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:7c85f36fa30f0:0/",
-          "publishedAt": "2026-10-26T07:43:16.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:7606ebd6530f0:0/",
+          "publishedAt": "2026-10-26T10:14:23.000Z",
           "image": null,
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: רכישת"
+            "fallback: latest market news"
           ]
         }
       ]
