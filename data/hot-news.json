@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T09:21:27.650Z",
+  "generatedAt": "2026-10-26T10:11:51.062Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,47 +18,44 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T09:21:27.650Z",
+      "updatedAt": "2026-10-26T10:11:51.062Z",
       "items": [
         {
-          "id": "DJN_DN20261026000750:0",
-          "ticker": null,
-          "change": null,
-          "title": "Singapore Inflation Outlook May Be Weighed by Indonesia Gas Supply Cut — Market Talk",
+          "id": "DJN_DN20261026001444:0",
+          "ticker": "NVDA",
+          "change": 0.49,
+          "title": "Big Tech Earnings, the Fed, and Elections. The Next 2 Weeks Could Make or Break the Stock Market. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026000750:0-singapore-inflation-outlook-may-be-weighed-by-indonesia-gas-supply-cut-market-talk/",
-          "publishedAt": "2026-10-26T07:35:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261026001444:0-big-tech-earnings-the-fed-and-elections-the-next-2-weeks-could-make-or-break-the-stock-market-barrons-com/",
+          "publishedAt": "2026-10-26T10:00:00.000Z",
           "image": null,
           "score": 60,
           "reasons": [
             "leading source dow-jones",
-            "keywords: outlook, inflation"
+            "keywords: earnings, Fed"
           ],
-          "titleHe": "האינפלציה בסינגפור עשויה להיות מושפעת מהפסקת אספקת הגז מאנדונזיה",
+          "titleHe": "דוחות ענקיות הטק, הפדרל ריזרב והבחירות: שבועיים קריטיים שיקבעו את גורל שוק המניות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_TUA12JW6M:0",
-          "ticker": "BNTX",
-          "change": 0.43,
-          "title": "Biontech And Dualitybio Announce Topline Results Of Global Phase 3 Clinical Trial for Breast Cancer",
+          "id": "DJN_DN20261026001445:0",
+          "ticker": null,
+          "change": null,
+          "title": "Calendar of U.S. Earnings Expected in the Week Ahead",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA12JW6M:0-biontech-and-dualitybio-announce-topline-results-of-global-phase-3-clinical-trial-for-breast-cancer/",
-          "publishedAt": "2026-10-26T09:08:37.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/biontech--big.svg",
-            "kind": "logo"
-          },
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261026001445:0-calendar-of-u-s-earnings-expected-in-the-week-ahead/",
+          "publishedAt": "2026-10-26T10:00:00.000Z",
+          "image": null,
           "score": 50,
           "reasons": [
-            "leading source reuters",
-            "keywords: results"
+            "leading source dow-jones",
+            "keywords: earnings"
           ],
-          "titleHe": "ביונטק ודואליטיביו מדווחת על תוצאות חיוביות לניסוי שלב 3 סרטן השד",
+          "titleHe": "יומן דוחות: החברות המרכזיות שיפרסמו את תוצאותיהן השבוע בוול סטריט",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -77,12 +74,12 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-26T09:21:27.650Z",
+      "updatedAt": "2026-10-26T10:11:51.062Z",
       "items": [
         {
           "id": "calcalist:4118348f630f0:0",
           "ticker": "STRS",
-          "change": -7.55,
+          "change": -6.89,
           "title": "פפסיקו מתרחקת מישראל: שטראוס תשתלט על יצרנית דוריטוס ותפוצ'יפס",
           "lang": "he",
           "source": "כלכליסט",
@@ -93,9 +90,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/strauss--big.svg",
             "kind": "logo"
           },
-          "score": 68,
+          "score": 66,
           "reasons": [
-            "move -7.5%",
+            "move -6.9%",
             "leading source calcalist"
           ]
         },
