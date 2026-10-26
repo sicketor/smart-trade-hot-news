@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T16:36:36.133Z",
+  "generatedAt": "2026-10-26T17:24:30.802Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,37 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T16:36:36.133Z",
+      "updatedAt": "2026-10-26T17:24:30.802Z",
       "items": [
         {
-          "id": "DJN_DN20261026004524:0",
+          "id": "stocktwits:4aa8f1fcf094b:0",
           "ticker": "SGRY",
-          "change": 46.57,
-          "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
+          "change": 46.76,
+          "title": "SGRY Stock Heads For Best Day In More Than 6 Years After HealthSpan Partners’ Acquisition Offer – Here’s What Investors Need To Know",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026004524:0-bon-secours-affiliate-to-acquire-surgery-partners-in-5-7-billion-take-private-deal/",
-          "publishedAt": "2026-10-26T13:41:00.000Z",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/sgry-stock-heads-for-best-day-in-more-than-6-years-after-health-span-partners-acquisition-offer/cZU3PnlRByt",
+          "publishedAt": "2026-10-26T14:59:08.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/surgery-partners--big.svg",
-            "kind": "logo"
+            "url": "https://st-everywhere-cms-prod.s3.us-east-1.amazonaws.com/large_vecteezy_medicine_doctor_or_pharmacist_use_tablet_or_mobile_12169773_e621e41aee.jpg",
+            "kind": "photo"
           },
-          "score": 125,
+          "score": 115,
           "reasons": [
-            "move 46.6%",
-            "volume x22.9",
-            "leading source dow-jones",
-            "keywords: acquire",
+            "move 46.8%",
+            "volume x23.7",
+            "keywords: acquisition",
             "2 sources"
           ],
-          "titleHe": "חברת הבת של Bon Secours תרכוש את Surgery Partners בעסקת פרטיזציה ב-5.7 מיליארד דולר",
+          "titleHe": "מניית SGRY בדרך ליום הטب ביותר מזה למעלה מ-6 שנים בעקבות הצעת רכש מצד HealthSpan Partners – ומה המשקיעים צריכים לדעת",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "stocktwits:aef0714b5094b:0",
           "ticker": "XP",
-          "change": -48.54,
+          "change": -47.72,
           "title": "NU Stock Suffers Worst Day On Record In Brazil Market Rout – Monness Crespi Initiates Coverage With ‘Buy’ Rating",
           "lang": "en",
           "source": "stocktwits",
@@ -59,11 +58,10 @@
             "url": "https://news.stocktwits-cdn.com/large_Nu_Holdings_resized_jpg_46611caf95.webp",
             "kind": "photo"
           },
-          "score": 105,
+          "score": 95,
           "reasons": [
-            "move -48.5%",
-            "volume x7.6",
-            "2 sources"
+            "move -47.7%",
+            "volume x8.3"
           ],
           "titleHe": "מניית NU רושמת את היום הגרוע בתולדותיה על רקע הנפילות בברזיל – מונס קרספי מתחיל סיקור בהמלצת קנייה",
           "translatedBy": "gemini-3.5-flash-lite"
