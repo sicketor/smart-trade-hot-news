@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T15:48:16.036Z",
+  "generatedAt": "2026-10-26T16:36:36.133Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T15:48:16.036Z",
+      "updatedAt": "2026-10-26T16:36:36.133Z",
       "items": [
         {
           "id": "DJN_DN20261026004524:0",
           "ticker": "SGRY",
-          "change": 46.44,
+          "change": 46.57,
           "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,38 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/surgery-partners--big.svg",
             "kind": "logo"
           },
-          "score": 135,
+          "score": 125,
           "reasons": [
-            "move 46.4%",
-            "volume x21.9",
+            "move 46.6%",
+            "volume x22.9",
             "leading source dow-jones",
             "keywords: acquire",
-            "7 sources"
+            "2 sources"
           ],
           "titleHe": "חברת הבת של Bon Secours תרכוש את Surgery Partners בעסקת פרטיזציה ב-5.7 מיליארד דולר",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "stockstory:a22478304094b:0",
-          "ticker": "NU",
-          "change": -18.6,
-          "title": "Why Nubank (NU) stock is trading lower today",
+          "id": "stocktwits:aef0714b5094b:0",
+          "ticker": "XP",
+          "change": -48.54,
+          "title": "NU Stock Suffers Worst Day On Record In Brazil Market Rout – Monness Crespi Initiates Coverage With ‘Buy’ Rating",
           "lang": "en",
-          "source": "stockstory",
-          "sourceId": "stockstory",
-          "url": "https://stockstory.org/us/stocks/nyse/nu/news/why-up-down/why-nubank-nu-stock-is-trading-lower-today",
-          "publishedAt": "2026-10-26T14:45:45.000Z",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/nu-stock-worst-day-on-record-in-brazil-market-rout-with-buy-rating/cZU34E4RByy",
+          "publishedAt": "2026-10-26T16:33:07.000Z",
           "image": {
-            "url": "https://stockstory.org/stockstory/company-image/NU",
+            "url": "https://news.stocktwits-cdn.com/large_Nu_Holdings_resized_jpg_46611caf95.webp",
             "kind": "photo"
           },
-          "score": 115,
+          "score": 105,
           "reasons": [
-            "move -18.6%",
-            "volume x3.0",
-            "5 sources"
+            "move -48.5%",
+            "volume x7.6",
+            "2 sources"
           ],
-          "titleHe": "למה מניית Nubank (NU) נסחרת בירידות היום",
+          "titleHe": "מניית NU רושמת את היום הגרוע בתולדותיה על רקע הנפילות בברזיל – מונס קרספי מתחיל סיקור בהמלצת קנייה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
