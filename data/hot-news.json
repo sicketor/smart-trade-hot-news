@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T20:02:54.419Z",
+  "generatedAt": "2026-10-26T07:40:55.981Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -84,35 +84,38 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-23T14:27:17.865Z",
+      "updatedAt": "2026-10-26T07:40:55.981Z",
       "items": [
         {
-          "id": "calcalist:05fc240d330f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "מטוסי הקרב הקפיצו את הזמנות סאאב - ענקית הנשק השבדית עקפה את התחזיות",
+          "id": "calcalist:3a413286930f0:0",
+          "ticker": "ELTR",
+          "change": -0.89,
+          "title": "ממסעדה בקריית גת ל-350 מיליון שקל: קרן סקיי רוכשת 50% מלי בר",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:05fc240d330f0:0/",
-          "publishedAt": "2026-10-23T11:53:40.000Z",
-          "image": null,
-          "fallback": true,
-          "score": 0,
+          "url": "https://www.tradingview.com/news/calcalist:3a413286930f0:0/",
+          "publishedAt": "2026-10-26T06:29:06.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/electra--big.svg",
+            "kind": "logo"
+          },
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: רוכשת"
           ]
         },
         {
-          "id": "calcalist:33c8b6b6a30f0:0",
+          "id": "calcalist:d3ea903a330f0:0",
           "ticker": null,
           "change": null,
-          "title": "הייניקן בהודעה נדירה: תרופות ההרזיה מסכנות את מכירות הבירה",
+          "title": "עסקת ענק: אאורה קונה את חברת הדיור המוגן בית בכפר ב-1.7 מיליארד שקל",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:33c8b6b6a30f0:0/",
-          "publishedAt": "2026-10-23T11:12:03.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:d3ea903a330f0:0/",
+          "publishedAt": "2026-10-26T07:30:12.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
