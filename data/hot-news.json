@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T19:11:16.332Z",
+  "generatedAt": "2026-10-26T19:58:24.371Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,35 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T19:11:16.332Z",
+      "updatedAt": "2026-10-26T19:58:24.371Z",
       "items": [
-        {
-          "id": "DJN_DN20261026006856:0",
-          "ticker": "FICO",
-          "change": -14.55,
-          "title": "Fair Isaac Is Maintained at Neutral by UBS",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026006856:0-fair-isaac-is-maintained-at-neutral-by-ubs/",
-          "publishedAt": "2026-10-26T18:59:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/fair-isaac--big.svg",
-            "kind": "logo"
-          },
-          "score": 105,
-          "reasons": [
-            "move -14.6%",
-            "volume x2.6",
-            "leading source dow-jones"
-          ],
-          "titleHe": "UBS ממשיכים להמליץ על Fair Isaac בהמלצת החזק",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "stockstory:66e713d5e094b:0",
           "ticker": "SGRY",
-          "change": 47.24,
+          "change": 47.46,
           "title": "Why Surgery Partners (SGRY) stock is trading up today",
           "lang": "en",
           "source": "stockstory",
@@ -59,11 +36,34 @@
           },
           "score": 105,
           "reasons": [
-            "move 47.2%",
-            "volume x25.4",
+            "move 47.5%",
+            "volume x26.2",
             "2 sources"
           ],
           "titleHe": "למה מניית Surgery Partners (SGRY) עולה היום",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261026006856:0",
+          "ticker": "FICO",
+          "change": -13.17,
+          "title": "Fair Isaac Is Maintained at Neutral by UBS",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261026006856:0-fair-isaac-is-maintained-at-neutral-by-ubs/",
+          "publishedAt": "2026-10-26T18:59:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/fair-isaac--big.svg",
+            "kind": "logo"
+          },
+          "score": 103,
+          "reasons": [
+            "move -13.2%",
+            "volume x3.0",
+            "leading source dow-jones"
+          ],
+          "titleHe": "UBS ממשיכים להמליץ על Fair Isaac בהמלצת החזק",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
