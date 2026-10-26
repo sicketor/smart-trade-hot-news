@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T14:11:51.441Z",
+  "generatedAt": "2026-10-26T15:48:16.036Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T14:11:51.441Z",
+      "updatedAt": "2026-10-26T15:48:16.036Z",
       "items": [
         {
           "id": "DJN_DN20261026004524:0",
           "ticker": "SGRY",
-          "change": 46.29,
+          "change": 46.44,
           "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,38 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/surgery-partners--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 135,
           "reasons": [
-            "move 46.3%",
+            "move 46.4%",
+            "volume x21.9",
             "leading source dow-jones",
             "keywords: acquire",
-            "6 sources"
+            "7 sources"
           ],
           "titleHe": "חברת הבת של Bon Secours תרכוש את Surgery Partners בעסקת פרטיזציה ב-5.7 מיליארד דולר",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261026002857:0",
-          "ticker": "XP",
-          "change": -50.08,
-          "title": "This Could be the Most Crucial Week of the Year for Markets — Barrons.com",
+          "id": "stockstory:a22478304094b:0",
+          "ticker": "NU",
+          "change": -18.6,
+          "title": "Why Nubank (NU) stock is trading lower today",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026002857:0-this-could-be-the-most-crucial-week-of-the-year-for-markets-barrons-com/",
-          "publishedAt": "2026-10-26T11:54:00.000Z",
+          "source": "stockstory",
+          "sourceId": "stockstory",
+          "url": "https://stockstory.org/us/stocks/nyse/nu/news/why-up-down/why-nubank-nu-stock-is-trading-lower-today",
+          "publishedAt": "2026-10-26T14:45:45.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/xp--big.svg",
-            "kind": "logo"
+            "url": "https://stockstory.org/stockstory/company-image/NU",
+            "kind": "photo"
           },
           "score": 115,
           "reasons": [
-            "move -50.1%",
-            "volume x2.7",
-            "leading source dow-jones",
-            "2 sources"
+            "move -18.6%",
+            "volume x3.0",
+            "5 sources"
           ],
-          "titleHe": "זה עשוי להיות השבוע הקריטי ביותר בשנה עבור השווקים",
+          "titleHe": "למה מניית Nubank (NU) נסחרת בירידות היום",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
