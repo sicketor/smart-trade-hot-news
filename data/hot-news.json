@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T17:24:30.802Z",
+  "generatedAt": "2026-10-26T18:13:54.749Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T17:24:30.802Z",
+      "updatedAt": "2026-10-26T18:13:54.749Z",
       "items": [
         {
-          "id": "stocktwits:4aa8f1fcf094b:0",
+          "id": "stockstory:66e713d5e094b:0",
           "ticker": "SGRY",
-          "change": 46.76,
-          "title": "SGRY Stock Heads For Best Day In More Than 6 Years After HealthSpan Partners’ Acquisition Offer – Here’s What Investors Need To Know",
+          "change": 47.49,
+          "title": "Why Surgery Partners (SGRY) stock is trading up today",
           "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/sgry-stock-heads-for-best-day-in-more-than-6-years-after-health-span-partners-acquisition-offer/cZU3PnlRByt",
-          "publishedAt": "2026-10-26T14:59:08.000Z",
+          "source": "stockstory",
+          "sourceId": "stockstory",
+          "url": "https://stockstory.org/us/stocks/nasdaq/sgry/news/why-up-down/why-surgery-partners-sgry-stock-is-trading-up-today-3",
+          "publishedAt": "2026-10-26T17:10:37.000Z",
           "image": {
-            "url": "https://st-everywhere-cms-prod.s3.us-east-1.amazonaws.com/large_vecteezy_medicine_doctor_or_pharmacist_use_tablet_or_mobile_12169773_e621e41aee.jpg",
+            "url": "https://stockstory.org/stockstory/company-image/SGRY",
             "kind": "photo"
           },
-          "score": 115,
+          "score": 105,
           "reasons": [
-            "move 46.8%",
-            "volume x23.7",
-            "keywords: acquisition",
+            "move 47.5%",
+            "volume x24.6",
             "2 sources"
-          ],
-          "titleHe": "מניית SGRY בדרך ליום הטب ביותר מזה למעלה מ-6 שנים בעקבות הצעת רכש מצד HealthSpan Partners – ומה המשקיעים צריכים לדעת",
-          "translatedBy": "gemini-3.5-flash-lite"
+          ]
         },
         {
-          "id": "stocktwits:aef0714b5094b:0",
-          "ticker": "XP",
-          "change": -47.72,
-          "title": "NU Stock Suffers Worst Day On Record In Brazil Market Rout – Monness Crespi Initiates Coverage With ‘Buy’ Rating",
+          "id": "benzinga:04726ec61094b:0",
+          "ticker": "XNCR",
+          "change": 19.54,
+          "title": "Xencor Drug Shows Unprecedented Profile in Colorectal Cancer: Analyst",
           "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/nu-stock-worst-day-on-record-in-brazil-market-rout-with-buy-rating/cZU34E4RByy",
-          "publishedAt": "2026-10-26T16:33:07.000Z",
+          "source": "benzinga",
+          "sourceId": "benzinga",
+          "url": "https://www.tradingview.com/news/benzinga:04726ec61094b:0-xencor-drug-shows-unprecedented-profile-in-colorectal-cancer-analyst/",
+          "publishedAt": "2026-10-26T17:00:41.000Z",
           "image": {
-            "url": "https://news.stocktwits-cdn.com/large_Nu_Holdings_resized_jpg_46611caf95.webp",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/xencor--big.svg",
+            "kind": "logo"
           },
-          "score": 95,
+          "score": 105,
           "reasons": [
-            "move -47.7%",
-            "volume x8.3"
-          ],
-          "titleHe": "מניית NU רושמת את היום הגרוע בתולדותיה על רקע הנפילות בברזיל – מונס קרספי מתחיל סיקור בהמלצת קנייה",
-          "translatedBy": "gemini-3.5-flash-lite"
+            "move 19.5%",
+            "volume x5.3",
+            "2 sources"
+          ]
         }
+      ],
+      "warnings": [
+        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
