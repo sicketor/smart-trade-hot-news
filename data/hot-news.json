@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T08:30:08.164Z",
+  "generatedAt": "2026-10-26T09:21:27.650Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,7 +18,7 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T08:30:08.164Z",
+      "updatedAt": "2026-10-26T09:21:27.650Z",
       "items": [
         {
           "id": "DJN_DN20261026000750:0",
@@ -40,22 +40,25 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L6N46C0HJ:0",
-          "ticker": null,
-          "change": null,
-          "title": "French bond selloff eases as country spared ratings downgrade",
+          "id": "tag:reuters.com,2026:newsml_TUA12JW6M:0",
+          "ticker": "BNTX",
+          "change": 0.43,
+          "title": "Biontech And Dualitybio Announce Topline Results Of Global Phase 3 Clinical Trial for Breast Cancer",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46C0HJ:0-french-bond-selloff-eases-as-country-spared-ratings-downgrade/",
-          "publishedAt": "2026-10-26T08:14:15.000Z",
-          "image": null,
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA12JW6M:0-biontech-and-dualitybio-announce-topline-results-of-global-phase-3-clinical-trial-for-breast-cancer/",
+          "publishedAt": "2026-10-26T09:08:37.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/biontech--big.svg",
+            "kind": "logo"
+          },
           "score": 50,
           "reasons": [
             "leading source reuters",
-            "keywords: downgrade"
+            "keywords: results"
           ],
-          "titleHe": "הירידות באג\"ח הצרפתי מתמתנות לאחר שהמדינה ניצלה מהורדת דירוג",
+          "titleHe": "ביונטק ודואליטיביו מדווחת על תוצאות חיוביות לניסוי שלב 3 סרטן השד",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -74,8 +77,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-26T08:30:08.164Z",
+      "updatedAt": "2026-10-26T09:21:27.650Z",
       "items": [
+        {
+          "id": "calcalist:4118348f630f0:0",
+          "ticker": "STRS",
+          "change": -7.55,
+          "title": "פפסיקו מתרחקת מישראל: שטראוס תשתלט על יצרנית דוריטוס ותפוצ'יפס",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:4118348f630f0:0/",
+          "publishedAt": "2026-10-26T07:58:16.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/strauss--big.svg",
+            "kind": "logo"
+          },
+          "score": 68,
+          "reasons": [
+            "move -7.5%",
+            "leading source calcalist"
+          ]
+        },
         {
           "id": "calcalist:7c85f36fa30f0:0",
           "ticker": null,
@@ -91,26 +114,6 @@
           "reasons": [
             "leading source calcalist",
             "keywords: רכישת"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-10-26/ty-article/000001a1-7715-dcb7-adbd-f73fb7a00000",
-          "ticker": null,
-          "change": null,
-          "title": "עסקת ענק: אאורה רוכשת את בית בכפר ב-1.7 מיליארד שקל",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-26/ty-article/000001a1-7715-dcb7-adbd-f73fb7a00000",
-          "publishedAt": "2026-10-26T07:32:52.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-771a-d464-a5a7-f79f85770000/e6/c2/3c5b166a4742b121f6bd4c083a57/022394.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source themarker",
-            "keywords: רוכשת"
           ]
         }
       ]
