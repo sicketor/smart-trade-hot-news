@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T16:53:41.685Z",
+  "generatedAt": "2026-10-27T17:48:37.724Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,36 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T16:53:41.685Z",
+      "updatedAt": "2026-10-27T17:48:37.724Z",
       "items": [
-        {
-          "id": "DJN_DN20261027007852:0",
-          "ticker": "HRI",
-          "change": 17.53,
-          "title": "Herc Holding Shares Rise on Higher 3Q Profit, Revenue",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027007852:0-herc-holding-shares-rise-on-higher-3q-profit-revenue/",
-          "publishedAt": "2026-10-27T16:14:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/herc-rentals--big.svg",
-            "kind": "logo"
-          },
-          "score": 130,
-          "reasons": [
-            "move 17.5%",
-            "leading source dow-jones",
-            "keywords: revenue, profit",
-            "4 sources"
-          ],
-          "titleHe": "מניית הרק הולדינגס עולה לאחר עלייה ברווח ובהכנסות ברבעון השלישי",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "DJN_DN20261027003975:0",
           "ticker": "SOFI",
-          "change": 15.08,
+          "change": 15.15,
           "title": "SoFi Technologies May Finally Have Silenced Its Skeptics — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -61,11 +37,35 @@
           "score": 125,
           "reasons": [
             "move 15.1%",
-            "volume x2.2",
+            "volume x2.4",
             "leading source dow-jones",
-            "6 sources"
+            "3 sources"
           ],
           "titleHe": "סופי טכנולוגיס עשויה לבסוף להשתיק את הספקנים",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261027007852:0",
+          "ticker": "HRI",
+          "change": 19.9,
+          "title": "Herc Holding Shares Rise on Higher 3Q Profit, Revenue",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027007852:0-herc-holding-shares-rise-on-higher-3q-profit-revenue/",
+          "publishedAt": "2026-10-27T16:14:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/herc-rentals--big.svg",
+            "kind": "logo"
+          },
+          "score": 120,
+          "reasons": [
+            "move 19.9%",
+            "leading source dow-jones",
+            "keywords: revenue, profit",
+            "2 sources"
+          ],
+          "titleHe": "מניית הרק הולדינגס עולה לאחר עלייה ברווח ובהכנסות ברבעון השלישי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
