@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T18:26:55.428Z",
+  "generatedAt": "2026-10-27T19:25:12.721Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,58 +18,59 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T18:26:55.428Z",
+      "updatedAt": "2026-10-27T19:25:12.721Z",
       "items": [
         {
-          "id": "gurufocus:d8f5159c1094b:0",
+          "id": "gurufocus:198a213dc094b:0",
           "ticker": "SOFI",
-          "change": 13.04,
-          "title": "SoFi Adds Record 1.2 Million Members, Lifts Revenue Outlook",
+          "change": 14.49,
+          "title": "SoFi Stocks Gain 11% With a 35% Implied Margin in 2027 Guidance",
           "lang": "en",
           "source": "gurufocus",
           "sourceId": "gurufocus",
-          "url": "https://www.gurufocus.com/news/9144487/sofi-adds-record-12-million-members-lifts-revenue-outlook",
-          "publishedAt": "2026-10-27T15:34:55.000Z",
+          "url": "https://www.gurufocus.com/news/9144772/sofi-stocks-gain-11-with-a-35-implied-margin-in-2027-guidance",
+          "publishedAt": "2026-10-27T17:13:52.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/sofi--big.svg",
             "kind": "logo"
           },
-          "score": 122,
+          "score": 115,
           "reasons": [
-            "move 13.0%",
-            "volume x2.6",
-            "keywords: revenue, outlook",
+            "move 14.5%",
+            "volume x2.9",
+            "keywords: guidance",
             "2 sources"
           ],
-          "titleHe": "סופי (SoFi) צירפה שיא של 1.2 מיליון חברי מועדון ומעלה את תחזית ההכנסות",
+          "titleHe": "מניית SoFi עולה ב-11% בעקבות תחזית למרג'ין משתמע של 35% ב-2027",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "urn:summary_document_report:quartr.com:4365498:0",
-          "ticker": "CLS",
-          "change": 12.87,
-          "title": "CLS: Record Q3 adjusted margin and robust AI demand underpin a $40B FY27 revenue outlook",
+          "id": "DJN_DN20261027008874:0",
+          "ticker": "RCL",
+          "change": 5.84,
+          "title": "Royal Caribbean Shares Up After Strong Profit Report — WSJ",
           "lang": "en",
-          "source": "quartr",
-          "sourceId": "quartr",
-          "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4365498:0-cls-record-q3-adjusted-margin-and-robust-ai-demand-underpin-a-40b-fy27-revenue-outlook/",
-          "publishedAt": "2026-10-27T16:03:46.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027008874:0-royal-caribbean-shares-up-after-strong-profit-report-wsj/",
+          "publishedAt": "2026-10-27T18:59:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/celestica--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/royal-caribbean-cruises--big.svg",
             "kind": "logo"
           },
-          "score": 112,
+          "score": 91,
           "reasons": [
-            "move 12.9%",
-            "volume x2.1",
-            "keywords: revenue, outlook"
+            "move 5.8%",
+            "volume x2.2",
+            "leading source dow-jones",
+            "keywords: profit"
           ],
-          "titleHe": "CLS: שיא במרג'ין המתואם ברבעון ה-3 וביקוש חסון ל-AI תומכים בתחזית הכנסות של 40 מיליארד דולר לשנת 2027",
+          "titleHe": "מניות רויאל קריביאן עולות לאחר דו\"ח רווח חזק",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ],
       "warnings": [
-        "image https://www.gurufocus.com/news/9144487/sofi-adds-record-12-million-members-lifts-revenue-outlook: GET https://www.gurufocus.com/news/9144487/sofi-adds-record-12-million-members-lifts-revenue-outlook -> HTTP 403"
+        "image https://www.gurufocus.com/news/9144772/sofi-stocks-gain-11-with-a-35-implied-margin-in-2027-guidance: GET https://www.gurufocus.com/news/9144772/sofi-stocks-gain-11-with-a-35-implied-margin-in-2027-guidance -> HTTP 403"
       ]
     },
     "il": {
