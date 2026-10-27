@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T09:08:52.645Z",
+  "generatedAt": "2026-10-27T10:03:05.162Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T09:08:52.645Z",
+      "updatedAt": "2026-10-27T10:03:05.162Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46D0GC:0",
           "ticker": "HSBC",
-          "change": -6.78,
+          "change": -7.08,
           "title": "HSBC Holdings PLC reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -34,35 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/hsbc--big.svg",
             "kind": "logo"
           },
-          "score": 108,
+          "score": 109,
           "reasons": [
-            "move -6.8%",
+            "move -7.1%",
             "leading source reuters",
             "keywords: earnings, results",
-            "5 sources"
+            "4 sources"
           ],
           "titleHe": "HSBC מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "stocktwits:e207524de094b:0",
-          "ticker": "CLS",
-          "change": 15.55,
-          "title": "CLS Stock Soars Premarket After Blowout Q3 — Retail Calls It ‘Very Inexpensive’ As Celestica Touts AI ‘Supercycle’",
+          "id": "DJN_DN20261027001611_20261027001761:0",
+          "ticker": "SFD",
+          "change": -5.52,
+          "title": "Smithfield Foods: Outlook Takes Into Account Macro Challenges Including Softer Fresh Pork, Hog Commodity Markets >SFD",
           "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/cls-stock-blowout-q3-retail-very-inexpensive-celestica-ai-supercycle/cZUeR2HRBzv",
-          "publishedAt": "2026-10-27T08:17:54.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027001611_20261027001761:0-smithfield-foods-outlook-takes-into-account-macro-challenges-including-softer-fresh-pork-hog-commodity-markets-sfd/",
+          "publishedAt": "2026-10-27T08:43:00.000Z",
           "image": {
-            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2257538585_jpg_225f88c502.webp",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/smithfield-foods--big.svg",
+            "kind": "logo"
           },
-          "score": 80,
+          "score": 95,
           "reasons": [
-            "move 15.5%"
+            "move -5.5%",
+            "leading source dow-jones",
+            "keywords: outlook",
+            "5 sources"
           ],
-          "titleHe": "מניית CLS מזנקת טרום המסחר בעקבות דוחות חזקים ברבעון 3 - משקיעים קמעונאיים מגדירים אותה \"זולה מאוד\" על רקע שיגעון ה-AI של Celestica",
+          "titleHe": "סמיתפילד פודס: תחזית התוצאות לוקחת בחשבון את האתגרים המאקרו-כלכליים, כולל חולשה בשוק החזיר הטרי ובשוק הסחורות >SFD",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -81,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-27T09:08:52.645Z",
+      "updatedAt": "2026-10-27T10:03:05.162Z",
       "items": [
         {
           "id": "calcalist:51db86b4130f0:0",
