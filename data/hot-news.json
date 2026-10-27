@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T19:58:24.371Z",
+  "generatedAt": "2026-10-27T07:34:18.967Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -82,36 +82,39 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-26T14:11:51.441Z",
+      "updatedAt": "2026-10-27T07:34:18.967Z",
       "items": [
         {
-          "id": "calcalist:4ee2187d730f0:0",
+          "id": "calcalist:9144beb6830f0:0",
           "ticker": null,
           "change": null,
-          "title": "אנתרופיק מוציאה לדרך את ההנפקה בנאסד״ק ומזהירה: ״ההפסדים יימשכו״",
+          "title": "שלושה תרחישים ושאלה אחת: מה יקרה לכסף שלכם ביום שאחרי הבחירות?",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:4ee2187d730f0:0/",
-          "publishedAt": "2026-10-26T13:14:07.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:9144beb6830f0:0/",
+          "publishedAt": "2026-10-27T05:00:00.000Z",
           "image": null,
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: הנפקה"
+            "fallback: latest market news"
           ]
         },
         {
-          "id": "calcalist:f92bb2d9430f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-78b0-d682-a7af-78b61e1a0000",
           "ticker": null,
           "change": null,
-          "title": "אחרי הבחירות בברזיל: ירידות חדות בבורסה, הריאל צולל",
+          "title": "\"זינוק מטורף\", דשדוש או \"הזעזוע המושלם\": איך יגיבו השווקים לתוצאות הבחירות?",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:f92bb2d9430f0:0/",
-          "publishedAt": "2026-10-26T13:21:01.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-78b0-d682-a7af-78b61e1a0000",
+          "publishedAt": "2026-10-27T04:09:33.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-78c8-d222-a3e3-7fe8a4cd0001/19/03/718414e94361befb95558d0a522b/787950.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
