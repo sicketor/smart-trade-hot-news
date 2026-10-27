@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T14:11:15.992Z",
+  "generatedAt": "2026-10-27T15:09:37.993Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T14:11:15.992Z",
+      "updatedAt": "2026-10-27T15:09:37.993Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46D1LA:0",
           "ticker": "KNSA",
-          "change": 17.21,
+          "change": 18.9,
           "title": "Kiniksa Pharmaceuticals International, PLC reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,10 +36,10 @@
           },
           "score": 130,
           "reasons": [
-            "move 17.2%",
+            "move 18.9%",
             "leading source reuters",
             "keywords: earnings, results",
-            "9 sources"
+            "8 sources"
           ],
           "titleHe": "קיניקסאה פלמצבטיקלס מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -47,7 +47,7 @@
         {
           "id": "DJN_DN20261027005906:0",
           "ticker": "XYL",
-          "change": -8.72,
+          "change": -10.38,
           "title": "Xylem Shares Slip in Premarket on Downgraded FY Outlook, 3Q Revenue Miss",
           "lang": "en",
           "source": "Dow Jones",
@@ -58,9 +58,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/xylem--big.svg",
             "kind": "logo"
           },
-          "score": 114,
+          "score": 119,
           "reasons": [
-            "move -8.7%",
+            "move -10.4%",
             "leading source dow-jones",
             "keywords: revenue, outlook",
             "5 sources"
@@ -84,18 +84,18 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-27T14:11:15.992Z",
+      "updatedAt": "2026-10-27T15:09:37.993Z",
       "items": [
         {
-          "id": "calcalist:6d8c724e330f0:0",
+          "id": "calcalist:3797efd4b30f0:0",
           "ticker": null,
           "change": null,
-          "title": "זינוק בשקל ביום הבחירות - הדולר מתחת ל-3.05 שקלים",
+          "title": "עוד 3.5 מיליון סיבות להישאר: אושר מענק השימור של איתי בן זאב",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:6d8c724e330f0:0/",
-          "publishedAt": "2026-10-27T13:00:30.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:3797efd4b30f0:0/",
+          "publishedAt": "2026-10-27T15:04:00.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
@@ -104,19 +104,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-7cc8-dfb9-a5a9-feed6bd90000",
+          "id": "calcalist:6d8c724e330f0:0",
           "ticker": null,
           "change": null,
-          "title": "בעלי המניות אישרו מענק שימור של 3.5 מיליון שקל למנכ\"ל הבורסה איתי בן זאב",
+          "title": "זינוק בשקל ביום הבחירות - הדולר על 3.02 שקלים, היורו ב-3.37",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-7cc8-dfb9-a5a9-feed6bd90000",
-          "publishedAt": "2026-10-27T10:00:53.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-7cca-dfb9-a5a9-feefe8260000/53/99/03fa6a9543c29d339984ba19d18f/393428.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:6d8c724e330f0:0/",
+          "publishedAt": "2026-10-27T14:43:23.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
