@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T15:09:37.993Z",
+  "generatedAt": "2026-10-27T16:05:21.505Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T15:09:37.993Z",
+      "updatedAt": "2026-10-27T16:05:21.505Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46D1LA:0",
           "ticker": "KNSA",
-          "change": 18.9,
+          "change": 20.77,
           "title": "Kiniksa Pharmaceuticals International, PLC reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,7 +36,7 @@
           },
           "score": 130,
           "reasons": [
-            "move 18.9%",
+            "move 20.8%",
             "leading source reuters",
             "keywords: earnings, results",
             "8 sources"
@@ -45,27 +45,26 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261027005906:0",
-          "ticker": "XYL",
-          "change": -10.38,
-          "title": "Xylem Shares Slip in Premarket on Downgraded FY Outlook, 3Q Revenue Miss",
+          "id": "DJN_DN20261027007677:0",
+          "ticker": "CTOS",
+          "change": 13.26,
+          "title": "Custom Truck One Source Is Maintained at Buy by DA Davidson",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027005906:0-xylem-shares-slip-in-premarket-on-downgraded-fy-outlook-3q-revenue-miss/",
-          "publishedAt": "2026-10-27T12:51:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027007677:0-custom-truck-one-source-is-maintained-at-buy-by-da-davidson/",
+          "publishedAt": "2026-10-27T15:48:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/xylem--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/custom-truck-one-source--big.svg",
             "kind": "logo"
           },
-          "score": 119,
+          "score": 98,
           "reasons": [
-            "move -10.4%",
+            "move 13.3%",
             "leading source dow-jones",
-            "keywords: revenue, outlook",
-            "5 sources"
+            "2 sources"
           ],
-          "titleHe": "מניות זיילם יורדות במסחר המוקדם בעקבות הורדת תחזית השנה המלאה והחמצת תחזית ההכנסות ברבעון השלישי",
+          "titleHe": "DA Davidson נותנים המלצת קנייה מחדש ל-Custom Truck One Source",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
