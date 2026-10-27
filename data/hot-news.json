@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T11:23:19.440Z",
+  "generatedAt": "2026-10-27T12:13:42.142Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T11:23:19.440Z",
+      "updatedAt": "2026-10-27T12:13:42.142Z",
       "items": [
         {
-          "id": "DJN_DN20261027004149:0",
-          "ticker": "CLS",
-          "change": 17.17,
-          "title": "Celestica Files 8K - Regulation FD >CLS",
+          "id": "tag:reuters.com,2026:newsml_L2N46D0GB:0",
+          "ticker": "KNSA",
+          "change": 12.07,
+          "title": "Kiniksa Pharmaceuticals Q3 ARCALYST revenue jumps 58%; raises guidance",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027004149:0-celestica-files-8k-regulation-fd-cls/",
-          "publishedAt": "2026-10-27T11:18:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D0GB:0-kiniksa-pharmaceuticals-q3-arcalyst-revenue-jumps-58-raises-guidance/",
+          "publishedAt": "2026-10-27T11:41:48.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/celestica--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/kiniksa-pharmaceuticals-ltd--big.svg",
             "kind": "logo"
           },
-          "score": 100,
+          "score": 124,
           "reasons": [
-            "move 17.2%",
-            "leading source dow-jones",
-            "2 sources"
+            "move 12.1%",
+            "leading source reuters",
+            "keywords: revenue, guidance",
+            "6 sources"
           ],
-          "titleHe": "סלסטיקה מדווחת על אירוע מהותי (טופס 8-K) >CLS",
+          "titleHe": "ההכנסות של Kiniksa Pharmaceuticals מ-ARCALYST זינקו ב-58% ברבעון השלישי; העלתה תחזית",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261027001734:0",
-          "ticker": "HSBC",
-          "change": -6.52,
-          "title": "HSBC's Premium Rating Isn't Supported by Results — Market Talk",
+          "id": "DJN_DN20261027003712:0",
+          "ticker": "SOFI",
+          "change": 10.58,
+          "title": "SoFi Lifts Outlook After Profit, Revenue and Memberships Jump",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027001734:0-hsbc-s-premium-rating-isn-t-supported-by-results-market-talk/",
-          "publishedAt": "2026-10-27T08:36:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027003712:0-sofi-lifts-outlook-after-profit-revenue-and-memberships-jump/",
+          "publishedAt": "2026-10-27T11:00:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/hsbc--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/sofi--big.svg",
             "kind": "logo"
           },
-          "score": 98,
+          "score": 120,
           "reasons": [
-            "move -6.5%",
+            "move 10.6%",
             "leading source dow-jones",
-            "keywords: results",
-            "5 sources"
+            "keywords: revenue, profit, outlook",
+            "8 sources"
           ],
-          "titleHe": "דירוג הפרימיום של HSBC אינו נתמך על ידי התוצאות",
+          "titleHe": "SoFi מעלה את תחזית הפעילות בעקבות זינק ברווח, בהכנסות ובמספר המנויים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-27T11:23:19.440Z",
+      "updatedAt": "2026-10-27T12:13:42.142Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-7cc8-dfb9-a5a9-feed6bd90000",
