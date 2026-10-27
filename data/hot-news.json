@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T13:14:29.498Z",
+  "generatedAt": "2026-10-27T14:11:15.992Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T13:14:29.498Z",
+      "updatedAt": "2026-10-27T14:11:15.992Z",
       "items": [
         {
-          "id": "DJN_DN20261027005753:0",
+          "id": "tag:reuters.com,2026:newsml_L5N46D1LA:0",
           "ticker": "KNSA",
-          "change": 16.46,
-          "title": "Kiniksa Pharma Shares Gain on Higher 3Q Profit, Revenue",
+          "change": 17.21,
+          "title": "Kiniksa Pharmaceuticals International, PLC reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027005753:0-kiniksa-pharma-shares-gain-on-higher-3q-profit-revenue/",
-          "publishedAt": "2026-10-27T12:31:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46D1LA:0-kiniksa-pharmaceuticals-international-plc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-10-27T13:31:10.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/kiniksa-pharmaceuticals-ltd--big.svg",
             "kind": "logo"
           },
           "score": 130,
           "reasons": [
-            "move 16.5%",
-            "leading source dow-jones",
-            "keywords: revenue, profit",
-            "6 sources"
+            "move 17.2%",
+            "leading source reuters",
+            "keywords: earnings, results",
+            "9 sources"
           ],
-          "titleHe": "מניית Kiniksa Pharma עולה לאחר שדיווחה על עלייה ברווח ובהכנסות ברבעון ה-3",
+          "titleHe": "קיניקסאה פלמצבטיקלס מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261027003712:0",
-          "ticker": "SOFI",
-          "change": 10.65,
-          "title": "SoFi Lifts Outlook After Profit, Revenue and Memberships Jump",
+          "id": "DJN_DN20261027005906:0",
+          "ticker": "XYL",
+          "change": -8.72,
+          "title": "Xylem Shares Slip in Premarket on Downgraded FY Outlook, 3Q Revenue Miss",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027003712:0-sofi-lifts-outlook-after-profit-revenue-and-memberships-jump/",
-          "publishedAt": "2026-10-27T11:00:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027005906:0-xylem-shares-slip-in-premarket-on-downgraded-fy-outlook-3q-revenue-miss/",
+          "publishedAt": "2026-10-27T12:51:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/sofi--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/xylem--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 114,
           "reasons": [
-            "move 10.7%",
+            "move -8.7%",
             "leading source dow-jones",
-            "keywords: revenue, profit, outlook",
-            "8 sources"
+            "keywords: revenue, outlook",
+            "5 sources"
           ],
-          "titleHe": "SoFi מעלה את תחזית הפעילות בעקבות זינק ברווח, בהכנסות ובמספר המנויים",
+          "titleHe": "מניות זיילם יורדות במסחר המוקדם בעקבות הורדת תחזית השנה המלאה והחמצת תחזית ההכנסות ברבעון השלישי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,13 +84,13 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-27T13:14:29.498Z",
+      "updatedAt": "2026-10-27T14:11:15.992Z",
       "items": [
         {
           "id": "calcalist:6d8c724e330f0:0",
           "ticker": null,
           "change": null,
-          "title": "אופטימיות במט\"ח? זינוק בשקל ביום הבחירות - הדולר מתחת ל-3.05 שקלים",
+          "title": "זינוק בשקל ביום הבחירות - הדולר מתחת ל-3.05 שקלים",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
