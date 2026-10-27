@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T17:48:37.724Z",
+  "generatedAt": "2026-10-27T18:26:55.428Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,58 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T17:48:37.724Z",
+      "updatedAt": "2026-10-27T18:26:55.428Z",
       "items": [
         {
-          "id": "DJN_DN20261027003975:0",
+          "id": "gurufocus:d8f5159c1094b:0",
           "ticker": "SOFI",
-          "change": 15.15,
-          "title": "SoFi Technologies May Finally Have Silenced Its Skeptics — Barrons.com",
+          "change": 13.04,
+          "title": "SoFi Adds Record 1.2 Million Members, Lifts Revenue Outlook",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027003975:0-sofi-technologies-may-finally-have-silenced-its-skeptics-barrons-com/",
-          "publishedAt": "2026-10-27T15:13:00.000Z",
+          "source": "gurufocus",
+          "sourceId": "gurufocus",
+          "url": "https://www.gurufocus.com/news/9144487/sofi-adds-record-12-million-members-lifts-revenue-outlook",
+          "publishedAt": "2026-10-27T15:34:55.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/sofi--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 122,
           "reasons": [
-            "move 15.1%",
-            "volume x2.4",
-            "leading source dow-jones",
-            "3 sources"
+            "move 13.0%",
+            "volume x2.6",
+            "keywords: revenue, outlook",
+            "2 sources"
           ],
-          "titleHe": "סופי טכנולוגיס עשויה לבסוף להשתיק את הספקנים",
+          "titleHe": "סופי (SoFi) צירפה שיא של 1.2 מיליון חברי מועדון ומעלה את תחזית ההכנסות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261027007852:0",
-          "ticker": "HRI",
-          "change": 19.9,
-          "title": "Herc Holding Shares Rise on Higher 3Q Profit, Revenue",
+          "id": "urn:summary_document_report:quartr.com:4365498:0",
+          "ticker": "CLS",
+          "change": 12.87,
+          "title": "CLS: Record Q3 adjusted margin and robust AI demand underpin a $40B FY27 revenue outlook",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027007852:0-herc-holding-shares-rise-on-higher-3q-profit-revenue/",
-          "publishedAt": "2026-10-27T16:14:00.000Z",
+          "source": "quartr",
+          "sourceId": "quartr",
+          "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4365498:0-cls-record-q3-adjusted-margin-and-robust-ai-demand-underpin-a-40b-fy27-revenue-outlook/",
+          "publishedAt": "2026-10-27T16:03:46.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/herc-rentals--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/celestica--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 112,
           "reasons": [
-            "move 19.9%",
-            "leading source dow-jones",
-            "keywords: revenue, profit",
-            "2 sources"
+            "move 12.9%",
+            "volume x2.1",
+            "keywords: revenue, outlook"
           ],
-          "titleHe": "מניית הרק הולדינגס עולה לאחר עלייה ברווח ובהכנסות ברבעון השלישי",
+          "titleHe": "CLS: שיא במרג'ין המתואם ברבעון ה-3 וביקוש חסון ל-AI תומכים בתחזית הכנסות של 40 מיליארד דולר לשנת 2027",
           "translatedBy": "gemini-3.5-flash-lite"
         }
+      ],
+      "warnings": [
+        "image https://www.gurufocus.com/news/9144487/sofi-adds-record-12-million-members-lifts-revenue-outlook: GET https://www.gurufocus.com/news/9144487/sofi-adds-record-12-million-members-lifts-revenue-outlook -> HTTP 403"
       ]
     },
     "il": {
