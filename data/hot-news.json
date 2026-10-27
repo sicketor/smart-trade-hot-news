@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T12:13:42.142Z",
+  "generatedAt": "2026-10-27T13:14:29.498Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,36 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T12:13:42.142Z",
+      "updatedAt": "2026-10-27T13:14:29.498Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46D0GB:0",
+          "id": "DJN_DN20261027005753:0",
           "ticker": "KNSA",
-          "change": 12.07,
-          "title": "Kiniksa Pharmaceuticals Q3 ARCALYST revenue jumps 58%; raises guidance",
+          "change": 16.46,
+          "title": "Kiniksa Pharma Shares Gain on Higher 3Q Profit, Revenue",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D0GB:0-kiniksa-pharmaceuticals-q3-arcalyst-revenue-jumps-58-raises-guidance/",
-          "publishedAt": "2026-10-27T11:41:48.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027005753:0-kiniksa-pharma-shares-gain-on-higher-3q-profit-revenue/",
+          "publishedAt": "2026-10-27T12:31:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/kiniksa-pharmaceuticals-ltd--big.svg",
             "kind": "logo"
           },
-          "score": 124,
+          "score": 130,
           "reasons": [
-            "move 12.1%",
-            "leading source reuters",
-            "keywords: revenue, guidance",
+            "move 16.5%",
+            "leading source dow-jones",
+            "keywords: revenue, profit",
             "6 sources"
           ],
-          "titleHe": "ההכנסות של Kiniksa Pharmaceuticals מ-ARCALYST זינקו ב-58% ברבעון השלישי; העלתה תחזית",
+          "titleHe": "מניית Kiniksa Pharma עולה לאחר שדיווחה על עלייה ברווח ובהכנסות ברבעון ה-3",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "DJN_DN20261027003712:0",
           "ticker": "SOFI",
-          "change": 10.58,
+          "change": 10.65,
           "title": "SoFi Lifts Outlook After Profit, Revenue and Memberships Jump",
           "lang": "en",
           "source": "Dow Jones",
@@ -60,7 +60,7 @@
           },
           "score": 120,
           "reasons": [
-            "move 10.6%",
+            "move 10.7%",
             "leading source dow-jones",
             "keywords: revenue, profit, outlook",
             "8 sources"
@@ -84,8 +84,25 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-27T12:13:42.142Z",
+      "updatedAt": "2026-10-27T13:14:29.498Z",
       "items": [
+        {
+          "id": "calcalist:6d8c724e330f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "אופטימיות במט\"ח? זינוק בשקל ביום הבחירות - הדולר מתחת ל-3.05 שקלים",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:6d8c724e330f0:0/",
+          "publishedAt": "2026-10-27T13:00:30.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
         {
           "id": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-7cc8-dfb9-a5a9-feed6bd90000",
           "ticker": null,
@@ -100,23 +117,6 @@
             "url": "https://img.haarets.co.il/bs/000001a1-7cca-dfb9-a5a9-feefe8260000/53/99/03fa6a9543c29d339984ba19d18f/393428.jpg?width=108&height=81",
             "kind": "photo"
           },
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "calcalist:51db86b4130f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "הושלמה עסקת דן: החברים מכרו כ-5% מהמניות תמורת כ-132 מיליון שקל",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:51db86b4130f0:0/",
-          "publishedAt": "2026-10-27T07:34:17.000Z",
-          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
