@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T16:05:21.505Z",
+  "generatedAt": "2026-10-27T16:53:41.685Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T16:05:21.505Z",
+      "updatedAt": "2026-10-27T16:53:41.685Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46D1LA:0",
-          "ticker": "KNSA",
-          "change": 20.77,
-          "title": "Kiniksa Pharmaceuticals International, PLC reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "DJN_DN20261027007852:0",
+          "ticker": "HRI",
+          "change": 17.53,
+          "title": "Herc Holding Shares Rise on Higher 3Q Profit, Revenue",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46D1LA:0-kiniksa-pharmaceuticals-international-plc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-10-27T13:31:10.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027007852:0-herc-holding-shares-rise-on-higher-3q-profit-revenue/",
+          "publishedAt": "2026-10-27T16:14:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/kiniksa-pharmaceuticals-ltd--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/herc-rentals--big.svg",
             "kind": "logo"
           },
           "score": 130,
           "reasons": [
-            "move 20.8%",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "8 sources"
+            "move 17.5%",
+            "leading source dow-jones",
+            "keywords: revenue, profit",
+            "4 sources"
           ],
-          "titleHe": "קיניקסאה פלמצבטיקלס מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "titleHe": "מניית הרק הולדינגס עולה לאחר עלייה ברווח ובהכנסות ברבעון השלישי",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261027007677:0",
-          "ticker": "CTOS",
-          "change": 13.26,
-          "title": "Custom Truck One Source Is Maintained at Buy by DA Davidson",
+          "id": "DJN_DN20261027003975:0",
+          "ticker": "SOFI",
+          "change": 15.08,
+          "title": "SoFi Technologies May Finally Have Silenced Its Skeptics — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027007677:0-custom-truck-one-source-is-maintained-at-buy-by-da-davidson/",
-          "publishedAt": "2026-10-27T15:48:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027003975:0-sofi-technologies-may-finally-have-silenced-its-skeptics-barrons-com/",
+          "publishedAt": "2026-10-27T15:13:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/custom-truck-one-source--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/sofi--big.svg",
             "kind": "logo"
           },
-          "score": 98,
+          "score": 125,
           "reasons": [
-            "move 13.3%",
+            "move 15.1%",
+            "volume x2.2",
             "leading source dow-jones",
-            "2 sources"
+            "6 sources"
           ],
-          "titleHe": "DA Davidson נותנים המלצת קנייה מחדש ל-Custom Truck One Source",
+          "titleHe": "סופי טכנולוגיס עשויה לבסוף להשתיק את הספקנים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
