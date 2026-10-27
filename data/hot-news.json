@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T07:34:18.967Z",
+  "generatedAt": "2026-10-27T08:21:23.497Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,52 +18,51 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-26T19:58:24.371Z",
+      "updatedAt": "2026-10-27T08:21:23.497Z",
       "items": [
         {
-          "id": "stockstory:66e713d5e094b:0",
-          "ticker": "SGRY",
-          "change": 47.46,
-          "title": "Why Surgery Partners (SGRY) stock is trading up today",
+          "id": "tag:reuters.com,2026:newsml_L5N46D0GC:0",
+          "ticker": "HSBC",
+          "change": -6.46,
+          "title": "HSBC Holdings PLC reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
-          "source": "stockstory",
-          "sourceId": "stockstory",
-          "url": "https://stockstory.org/us/stocks/nasdaq/sgry/news/why-up-down/why-surgery-partners-sgry-stock-is-trading-up-today-3",
-          "publishedAt": "2026-10-26T17:10:37.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46D0GC:0-hsbc-holdings-plc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-10-27T07:46:49.000Z",
           "image": {
-            "url": "https://stockstory.org/stockstory/company-image/SGRY",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/hsbc--big.svg",
+            "kind": "logo"
           },
-          "score": 105,
+          "score": 107,
           "reasons": [
-            "move 47.5%",
-            "volume x26.2",
-            "2 sources"
+            "move -6.5%",
+            "leading source reuters",
+            "keywords: earnings, results",
+            "5 sources"
           ],
-          "titleHe": "למה מניית Surgery Partners (SGRY) עולה היום",
+          "titleHe": "HSBC מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261026006856:0",
-          "ticker": "FICO",
-          "change": -13.17,
-          "title": "Fair Isaac Is Maintained at Neutral by UBS",
+          "id": "stocktwits:e207524de094b:0",
+          "ticker": "CLS",
+          "change": 16.76,
+          "title": "CLS Stock Soars Premarket After Blowout Q3 — Retail Calls It ‘Very Inexpensive’ As Celestica Touts AI ‘Supercycle’",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261026006856:0-fair-isaac-is-maintained-at-neutral-by-ubs/",
-          "publishedAt": "2026-10-26T18:59:00.000Z",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/cls-stock-blowout-q3-retail-very-inexpensive-celestica-ai-supercycle/cZUeR2HRBzv",
+          "publishedAt": "2026-10-27T08:17:54.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/fair-isaac--big.svg",
-            "kind": "logo"
+            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2257538585_jpg_225f88c502.webp",
+            "kind": "photo"
           },
-          "score": 103,
+          "score": 80,
           "reasons": [
-            "move -13.2%",
-            "volume x3.0",
-            "leading source dow-jones"
+            "move 16.8%"
           ],
-          "titleHe": "UBS ממשיכים להמליץ על Fair Isaac בהמלצת החזק",
+          "titleHe": "מניית CLS מזנקת טרום המסחר בעקבות דוחות חזקים ברבעון 3 - משקיעים קמעונאיים מגדירים אותה \"זולה מאוד\" על רקע שיגעון ה-AI של Celestica",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,8 +81,25 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-27T07:34:18.967Z",
+      "updatedAt": "2026-10-27T08:21:23.497Z",
       "items": [
+        {
+          "id": "calcalist:51db86b4130f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "הושלמה עסקת דן: החברים מכרו כ-5% מהמניות תמורת כ-132 מיליון שקל",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:51db86b4130f0:0/",
+          "publishedAt": "2026-10-27T07:34:17.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
         {
           "id": "calcalist:9144beb6830f0:0",
           "ticker": null,
@@ -95,26 +111,6 @@
           "url": "https://www.tradingview.com/news/calcalist:9144beb6830f0:0/",
           "publishedAt": "2026-10-27T05:00:00.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-78b0-d682-a7af-78b61e1a0000",
-          "ticker": null,
-          "change": null,
-          "title": "\"זינוק מטורף\", דשדוש או \"הזעזוע המושלם\": איך יגיבו השווקים לתוצאות הבחירות?",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-27/ty-article/.premium/000001a1-78b0-d682-a7af-78b61e1a0000",
-          "publishedAt": "2026-10-27T04:09:33.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-78c8-d222-a3e3-7fe8a4cd0001/19/03/718414e94361befb95558d0a522b/787950.jpg?width=108&height=81",
-            "kind": "photo"
-          },
           "fallback": true,
           "score": 0,
           "reasons": [
