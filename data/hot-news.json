@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T10:49:40.627Z",
+  "generatedAt": "2026-10-28T11:28:36.558Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T10:49:40.627Z",
+      "updatedAt": "2026-10-28T11:28:36.558Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L2N46E0EI:0",
           "ticker": "VRT",
-          "change": 17.92,
+          "change": 17.47,
           "title": "Vertiv beats Q3 revenue, profit estimates; raises FY guidance",
           "lang": "en",
           "source": "Reuters",
@@ -36,10 +36,10 @@
           },
           "score": 130,
           "reasons": [
-            "move 17.9%",
+            "move 17.5%",
             "leading source reuters",
             "keywords: revenue, profit, guidance",
-            "7 sources"
+            "9 sources"
           ],
           "titleHe": "ורטיב עוקפת את תחזיות ההכנסות והרווח ברבעון ה-3 ומעלה את תחזית השנה כולה",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -47,7 +47,7 @@
         {
           "id": "tag:reuters.com,2026:newsml_L2N46E0CK:0",
           "ticker": "EDU",
-          "change": -11.71,
+          "change": -15.12,
           "title": "China's New Oriental Education Q1 revenue rises 23%, confirms guidance",
           "lang": "en",
           "source": "Reuters",
@@ -58,9 +58,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/new-oriental--big.svg",
             "kind": "logo"
           },
-          "score": 123,
+          "score": 130,
           "reasons": [
-            "move -11.7%",
+            "move -15.1%",
             "leading source reuters",
             "keywords: revenue, guidance",
             "4 sources"
@@ -84,35 +84,38 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-28T10:49:40.627Z",
+      "updatedAt": "2026-10-28T11:28:36.558Z",
       "items": [
         {
-          "id": "calcalist:98aab796630f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81c6-de48-aba1-c7d72a0a0000",
           "ticker": null,
           "change": null,
-          "title": "חברת OPC חתמה על הסכם מימון לשתי תחנות כוח בארה\"ב, בסכום של 825 מיליון דולר",
+          "title": "מנכ\"ל בית ההשקעות אופנהיימר: \"רואים יותר זרים שמחפשים להשקיע בישראל מאשר אי פעם בעבר\"",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:98aab796630f0:0/",
-          "publishedAt": "2026-10-28T08:01:08.000Z",
-          "image": null,
-          "score": 50,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81c6-de48-aba1-c7d72a0a0000",
+          "publishedAt": "2026-10-28T11:11:49.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-8233-d9a9-a3ed-9bff18c60000/36/47/9cadf384412c886b531919c6e496/953049.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: הסכם"
+            "fallback: latest market news"
           ]
         },
         {
           "id": "calcalist:43712ae9b30f0:0",
           "ticker": null,
           "change": null,
-          "title": "נסיגה בשקל אחרי הבחירות - הדולר מעל 3.10 שקלים; \"משקיעים שונאים אי ודאות\"",
+          "title": "נסיגה חדה בשקל אחרי הבחירות - הדולר מעל 3.11 שקלים, היורו מעל 3.46",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:43712ae9b30f0:0/",
-          "publishedAt": "2026-10-28T10:08:15.000Z",
+          "publishedAt": "2026-10-28T11:03:21.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
