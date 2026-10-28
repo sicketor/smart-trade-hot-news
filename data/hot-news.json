@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T15:27:36.215Z",
+  "generatedAt": "2026-10-28T16:28:02.871Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T15:27:36.215Z",
+      "updatedAt": "2026-10-28T16:28:02.871Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46E251:0",
           "ticker": "AXGN",
-          "change": 26.9,
+          "change": 28.59,
           "title": "AxoGen, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,40 +36,40 @@
           },
           "score": 145,
           "reasons": [
-            "move 26.9%",
-            "volume x3.2",
+            "move 28.6%",
+            "volume x4.2",
             "leading source reuters",
             "keywords: earnings, results",
-            "3 sources"
+            "9 sources"
           ],
           "titleHe": "אקסוגן מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דו\"חות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_FWN46E21E:0",
+          "id": "DJN_DN20261028009439:0",
           "ticker": "GMAB",
-          "change": 26.86,
-          "title": "Genmab's Petosemtamab Meets Main Goals In Phase 3 Cancer Trial",
+          "change": 29.51,
+          "title": "Genmab Releases Positive Results for Phase 3 Antibody Trial in Head, Neck Cancer",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46E21E:0-genmab-s-petosemtamab-meets-main-goals-in-phase-3-cancer-trial/",
-          "publishedAt": "2026-10-28T13:45:27.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261028009439:0-genmab-releases-positive-results-for-phase-3-antibody-trial-in-head-neck-cancer/",
+          "publishedAt": "2026-10-28T15:53:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/genmab-a-s--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 135,
           "reasons": [
-            "move 26.9%",
-            "volume x2.5",
-            "leading source reuters",
-            "5 sources"
-          ]
+            "move 29.5%",
+            "volume x3.6",
+            "leading source dow-jones",
+            "keywords: results",
+            "7 sources"
+          ],
+          "titleHe": "ג'נמאב מדווחת על תוצאות חיוביות בניסוי שלב 3 בנוגדן סרטן הראש והצוואר",
+          "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
