@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T16:28:02.871Z",
+  "generatedAt": "2026-10-28T17:26:03.446Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,37 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T16:28:02.871Z",
+      "updatedAt": "2026-10-28T17:26:03.446Z",
       "items": [
-        {
-          "id": "tag:reuters.com,2026:newsml_L5N46E251:0",
-          "ticker": "AXGN",
-          "change": 28.59,
-          "title": "AxoGen, Inc. reports results for the quarter ended September 30 - Earnings Summary",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46E251:0-axogen-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-10-28T14:09:05.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/axogen--big.svg",
-            "kind": "logo"
-          },
-          "score": 145,
-          "reasons": [
-            "move 28.6%",
-            "volume x4.2",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "9 sources"
-          ],
-          "titleHe": "אקסוגן מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דו\"חות",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "DJN_DN20261028009439:0",
           "ticker": "GMAB",
-          "change": 29.51,
+          "change": 29.07,
           "title": "Genmab Releases Positive Results for Phase 3 Antibody Trial in Head, Neck Cancer",
           "lang": "en",
           "source": "Dow Jones",
@@ -61,13 +36,38 @@
           },
           "score": 135,
           "reasons": [
-            "move 29.5%",
-            "volume x3.6",
+            "move 29.1%",
+            "volume x3.9",
             "leading source dow-jones",
             "keywords: results",
-            "7 sources"
+            "4 sources"
           ],
           "titleHe": "ג'נמאב מדווחת על תוצאות חיוביות בניסוי שלב 3 בנוגדן סרטן הראש והצוואר",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261028009399:0",
+          "ticker": "STLA",
+          "change": 16.3,
+          "title": "Stellantis Shares Surge on Steady Outlook, Plans for Jeep Offensive — 2nd Update",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261028009399:0-stellantis-shares-surge-on-steady-outlook-plans-for-jeep-offensive-2nd-update/",
+          "publishedAt": "2026-10-28T15:47:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/stellantis--big.svg",
+            "kind": "logo"
+          },
+          "score": 135,
+          "reasons": [
+            "move 16.3%",
+            "volume x2.5",
+            "leading source dow-jones",
+            "keywords: outlook",
+            "5 sources"
+          ],
+          "titleHe": "מניית סטלאנטיס מזנקת בעקבות תחזית יציבה ותוכניות למתקפת דגמי ג'יפ",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
