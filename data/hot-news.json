@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T09:52:28.423Z",
+  "generatedAt": "2026-10-28T10:49:40.627Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T09:52:28.423Z",
+      "updatedAt": "2026-10-28T10:49:40.627Z",
       "items": [
+        {
+          "id": "tag:reuters.com,2026:newsml_L2N46E0EI:0",
+          "ticker": "VRT",
+          "change": 17.92,
+          "title": "Vertiv beats Q3 revenue, profit estimates; raises FY guidance",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0EI:0-vertiv-beats-q3-revenue-profit-estimates-raises-fy-guidance/",
+          "publishedAt": "2026-10-28T10:06:57.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/vertiv-holdings--big.svg",
+            "kind": "logo"
+          },
+          "score": 130,
+          "reasons": [
+            "move 17.9%",
+            "leading source reuters",
+            "keywords: revenue, profit, guidance",
+            "7 sources"
+          ],
+          "titleHe": "ורטיב עוקפת את תחזיות ההכנסות והרווח ברבעון ה-3 ומעלה את תחזית השנה כולה",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "tag:reuters.com,2026:newsml_L2N46E0CK:0",
           "ticker": "EDU",
-          "change": -11.9,
+          "change": -11.71,
           "title": "China's New Oriental Education Q1 revenue rises 23%, confirms guidance",
           "lang": "en",
           "source": "Reuters",
@@ -34,37 +58,14 @@
             "url": "https://s3-symbol-logo.tradingview.com/new-oriental--big.svg",
             "kind": "logo"
           },
-          "score": 124,
+          "score": 123,
           "reasons": [
-            "move -11.9%",
+            "move -11.7%",
             "leading source reuters",
             "keywords: revenue, guidance",
             "4 sources"
           ],
           "titleHe": "הכנסות ניו אוריינטל אדיוקיישן ברבעון ה-1 עלו ב-23%, מאשרת את התחזית",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261027013074:0",
-          "ticker": "ENPH",
-          "change": -17.11,
-          "title": "Enphase Energy Extends Weakness on Slumping Residential Demand — Barrons.com",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261027013074:0-enphase-energy-extends-weakness-on-slumping-residential-demand-barrons-com/",
-          "publishedAt": "2026-10-28T09:24:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/enphase-energy--big.svg",
-            "kind": "logo"
-          },
-          "score": 100,
-          "reasons": [
-            "move -17.1%",
-            "leading source dow-jones",
-            "2 sources"
-          ],
-          "titleHe": "אנפייס אנרגי ממשיכה להיחלש על רקע צניחה בביקושים למערכות סולאריות ביתיות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-28T09:52:28.423Z",
+      "updatedAt": "2026-10-28T10:49:40.627Z",
       "items": [
         {
           "id": "calcalist:98aab796630f0:0",
@@ -103,19 +104,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81d9-d6da-a7eb-e7dd5d610000",
+          "id": "calcalist:43712ae9b30f0:0",
           "ticker": null,
           "change": null,
-          "title": "הג'וב החדש של ינקי קוינט: יו\"ר ניו־מד אנרג'י",
+          "title": "נסיגה בשקל אחרי הבחירות - הדולר מעל 3.10 שקלים; \"משקיעים שונאים אי ודאות\"",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81d9-d6da-a7eb-e7dd5d610000",
-          "publishedAt": "2026-10-28T09:41:26.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000019c-dd13-d24b-a5df-dfdbfb710000/20/1c/3f9f69604d80b01dbe2b4677ff65/330222.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:43712ae9b30f0:0/",
+          "publishedAt": "2026-10-28T10:08:15.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
