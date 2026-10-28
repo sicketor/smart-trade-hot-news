@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T20:15:30.735Z",
+  "generatedAt": "2026-10-28T08:00:28.690Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,48 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-27T20:15:30.735Z",
+      "updatedAt": "2026-10-28T08:00:28.690Z",
       "items": [
         {
-          "id": "benzinga:37b998381094b:0",
-          "ticker": "XYL",
-          "change": -14.21,
-          "title": "Xylem Stock Plunges to 52-Week Low After Slashing 2026 Profit Outlook",
-          "lang": "en",
-          "source": "benzinga",
-          "sourceId": "benzinga",
-          "url": "https://www.tradingview.com/news/benzinga:37b998381094b:0-xylem-stock-plunges-to-52-week-low-after-slashing-2026-profit-outlook/",
-          "publishedAt": "2026-10-27T18:23:56.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/xylem--big.svg",
-            "kind": "logo"
-          },
-          "score": 125,
-          "reasons": [
-            "move -14.2%",
-            "volume x4.9",
-            "keywords: profit, outlook",
-            "2 sources"
-          ],
-          "titleHe": "מניית Xylem צונחת לשפל של 52 שבועות לאחר שהחתכה את תחזית הרווח ל-2026",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L2N46D145:0",
-          "ticker": "UCTT",
-          "change": 10.21,
-          "title": "Ultra Clean Q3 revenue beats expectations",
+          "id": "tag:reuters.com,2026:newsml_L5N46E0DY:0",
+          "ticker": "FER",
+          "change": 7.83,
+          "title": "Ferrovial Declares €600 Mln Interim Scrip Dividend Payable From Dec 10",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D145:0-ultra-clean-q3-revenue-beats-expectations/",
-          "publishedAt": "2026-10-27T20:14:03.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46E0DY:0-ferrovial-declares-600-mln-interim-scrip-dividend-payable-from-dec-10/",
+          "publishedAt": "2026-10-28T06:11:46.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/ultra-clean--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/ferrovial--big.svg",
             "kind": "logo"
           },
-          "score": 99,
+          "score": 91,
           "reasons": [
-            "move 10.2%",
+            "move 7.8%",
             "leading source reuters",
-            "keywords: revenue",
-            "2 sources"
+            "3 sources"
           ],
-          "titleHe": "ההכנסות של Ultra Clean ברבעון ה-3 עוקפות את הציפיות",
+          "titleHe": "פררוויאל מחלקת דיבידנד ביניים של 600 מיליון אירו שישולם החל מה-10 בדצמבר",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "tag:reuters.com,2026:newsml_L6N46E0GE:0",
+          "ticker": null,
+          "change": null,
+          "title": "Dangote refinery IPO draws three times target demand, sources say",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46E0GE:0-dangote-refinery-ipo-draws-three-times-target-demand-sources-say/",
+          "publishedAt": "2026-10-28T07:56:07.000Z",
+          "image": null,
+          "score": 50,
+          "reasons": [
+            "leading source reuters",
+            "keywords: IPO"
+          ],
+          "titleHe": "הנפקת בית הזיקוק דנגוטה מושכת ביקושים הגדולים פי שלושה מהיעד, אומרים מקורות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,18 +78,18 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-27T15:09:37.993Z",
+      "updatedAt": "2026-10-28T08:00:28.690Z",
       "items": [
         {
-          "id": "calcalist:3797efd4b30f0:0",
+          "id": "calcalist:43712ae9b30f0:0",
           "ticker": null,
           "change": null,
-          "title": "עוד 3.5 מיליון סיבות להישאר: אושר מענק השימור של איתי בן זאב",
+          "title": "נסיגה בשקל אחרי הבחירות - הדולר על 3.08 שקלים",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:3797efd4b30f0:0/",
-          "publishedAt": "2026-10-27T15:04:00.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:43712ae9b30f0:0/",
+          "publishedAt": "2026-10-28T07:33:37.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
@@ -104,16 +98,19 @@
           ]
         },
         {
-          "id": "calcalist:6d8c724e330f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/000001a1-80cb-d6da-a7eb-e7df25510000",
           "ticker": null,
           "change": null,
-          "title": "זינוק בשקל ביום הבחירות - הדולר על 3.02 שקלים, היורו ב-3.37",
+          "title": "תוצאות הבחירות מתבהרות, הדולר מתחזק — והבורסה תצטרך לחשב מסלול מחדש",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:6d8c724e330f0:0/",
-          "publishedAt": "2026-10-27T14:43:23.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/000001a1-80cb-d6da-a7eb-e7df25510000",
+          "publishedAt": "2026-10-28T05:46:50.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-80f4-d6da-a7eb-e7fdc8c60000/c5/27/d7b58d0d4974b5b833e2540b3fe3/950835.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
