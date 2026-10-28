@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T17:26:03.446Z",
+  "generatedAt": "2026-10-28T18:19:31.648Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T17:26:03.446Z",
+      "updatedAt": "2026-10-28T18:19:31.648Z",
       "items": [
         {
           "id": "DJN_DN20261028009439:0",
           "ticker": "GMAB",
-          "change": 29.07,
+          "change": 32.51,
           "title": "Genmab Releases Positive Results for Phase 3 Antibody Trial in Head, Neck Cancer",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,8 +36,8 @@
           },
           "score": 135,
           "reasons": [
-            "move 29.1%",
-            "volume x3.9",
+            "move 32.5%",
+            "volume x4.2",
             "leading source dow-jones",
             "keywords: results",
             "4 sources"
@@ -48,7 +48,7 @@
         {
           "id": "DJN_DN20261028009399:0",
           "ticker": "STLA",
-          "change": 16.3,
+          "change": 13.89,
           "title": "Stellantis Shares Surge on Steady Outlook, Plans for Jeep Offensive — 2nd Update",
           "lang": "en",
           "source": "Dow Jones",
@@ -61,11 +61,11 @@
           },
           "score": 135,
           "reasons": [
-            "move 16.3%",
-            "volume x2.5",
+            "move 13.9%",
+            "volume x2.6",
             "leading source dow-jones",
             "keywords: outlook",
-            "5 sources"
+            "3 sources"
           ],
           "titleHe": "מניית סטלאנטיס מזנקת בעקבות תחזית יציבה ותוכניות למתקפת דגמי ג'יפ",
           "translatedBy": "gemini-3.5-flash-lite"
