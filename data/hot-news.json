@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T18:19:31.648Z",
+  "generatedAt": "2026-10-28T19:19:57.023Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T18:19:31.648Z",
+      "updatedAt": "2026-10-28T19:19:57.023Z",
       "items": [
         {
-          "id": "DJN_DN20261028009439:0",
-          "ticker": "GMAB",
-          "change": 32.51,
-          "title": "Genmab Releases Positive Results for Phase 3 Antibody Trial in Head, Neck Cancer",
+          "id": "DJN_DN20261028010799:0",
+          "ticker": "ENPH",
+          "change": -17.04,
+          "title": "Enphase Energy Is Maintained at Market Perform by BMO Capital",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261028009439:0-genmab-releases-positive-results-for-phase-3-antibody-trial-in-head-neck-cancer/",
-          "publishedAt": "2026-10-28T15:53:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261028010799:0-enphase-energy-is-maintained-at-market-perform-by-bmo-capital/",
+          "publishedAt": "2026-10-28T18:30:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/genmab-a-s--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/enphase-energy--big.svg",
             "kind": "logo"
           },
-          "score": 135,
+          "score": 125,
           "reasons": [
-            "move 32.5%",
-            "volume x4.2",
+            "move -17.0%",
+            "volume x3.6",
             "leading source dow-jones",
-            "keywords: results",
-            "4 sources"
+            "3 sources"
           ],
-          "titleHe": "ג'נמאב מדווחת על תוצאות חיוביות בניסוי שלב 3 בנוגדן סרטן הראש והצוואר",
+          "titleHe": "אנפייס אנרג'י נשארת בהמלצת תשואת שוק ב-BMO קפיטל",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261028009399:0",
-          "ticker": "STLA",
-          "change": 13.89,
-          "title": "Stellantis Shares Surge on Steady Outlook, Plans for Jeep Offensive — 2nd Update",
+          "id": "DJN_SN20261028007952:0",
+          "ticker": "VRT",
+          "change": 17,
+          "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261028009399:0-stellantis-shares-surge-on-steady-outlook-plans-for-jeep-offensive-2nd-update/",
-          "publishedAt": "2026-10-28T15:47:00.000Z",
+          "source": "market-watch",
+          "sourceId": "market-watch",
+          "url": "https://www.tradingview.com/news/DJN_SN20261028007952:0-vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results/",
+          "publishedAt": "2026-10-28T17:44:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/stellantis--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/vertiv-holdings--big.svg",
             "kind": "logo"
           },
-          "score": 135,
+          "score": 125,
           "reasons": [
-            "move 13.9%",
-            "volume x2.6",
-            "leading source dow-jones",
-            "keywords: outlook",
-            "3 sources"
+            "move 17.0%",
+            "volume x2.1",
+            "keywords: earnings, results",
+            "2 sources"
           ],
-          "titleHe": "מניית סטלאנטיס מזנקת בעקבות תחזית יציבה ותוכניות למתקפת דגמי ג'יפ",
+          "titleHe": "הדוחות של ורטיב שגרו איתות חיובי על AI לקראת תוצאות ענקיות הטכנולוגיה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
