@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T11:28:36.558Z",
+  "generatedAt": "2026-10-28T12:16:30.043Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T11:28:36.558Z",
+      "updatedAt": "2026-10-28T12:16:30.043Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L2N46E0EI:0",
           "ticker": "VRT",
-          "change": 17.47,
+          "change": 15.39,
           "title": "Vertiv beats Q3 revenue, profit estimates; raises FY guidance",
           "lang": "en",
           "source": "Reuters",
@@ -36,36 +36,36 @@
           },
           "score": 130,
           "reasons": [
-            "move 17.5%",
+            "move 15.4%",
             "leading source reuters",
             "keywords: revenue, profit, guidance",
-            "9 sources"
+            "10 sources"
           ],
           "titleHe": "ורטיב עוקפת את תחזיות ההכנסות והרווח ברבעון ה-3 ומעלה את תחזית השנה כולה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46E0CK:0",
-          "ticker": "EDU",
-          "change": -15.12,
-          "title": "China's New Oriental Education Q1 revenue rises 23%, confirms guidance",
+          "id": "tag:reuters.com,2026:newsml_L2N46E0GC:0",
+          "ticker": "SW",
+          "change": -11.06,
+          "title": "Smurfit Westrock Q3 net income falls on cost inflation",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0CK:0-china-s-new-oriental-education-q1-revenue-rises-23-confirms-guidance/",
-          "publishedAt": "2026-10-28T09:15:12.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0GC:0-smurfit-westrock-q3-net-income-falls-on-cost-inflation/",
+          "publishedAt": "2026-10-28T10:42:54.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/new-oriental--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/smurfit-kappa--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 111,
           "reasons": [
-            "move -15.1%",
+            "move -11.1%",
             "leading source reuters",
-            "keywords: revenue, guidance",
-            "4 sources"
+            "keywords: inflation",
+            "7 sources"
           ],
-          "titleHe": "הכנסות ניו אוריינטל אדיוקיישן ברבעון ה-1 עלו ב-23%, מאשרת את התחזית",
+          "titleHe": "הרווח הנקי של Smurfit Westrock ברבעון השלישי יורד עקב אינפלציית העלויות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,20 +84,20 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-28T11:28:36.558Z",
+      "updatedAt": "2026-10-28T12:16:30.043Z",
       "items": [
         {
-          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81c6-de48-aba1-c7d72a0a0000",
+          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-8245-d852-a7bf-ab5d5b370000",
           "ticker": null,
           "change": null,
-          "title": "מנכ\"ל בית ההשקעות אופנהיימר: \"רואים יותר זרים שמחפשים להשקיע בישראל מאשר אי פעם בעבר\"",
+          "title": "ברן: פרויקט תשתית מים של כחצי מיליארד דולר באפריקה בסכנת ביטול",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81c6-de48-aba1-c7d72a0a0000",
-          "publishedAt": "2026-10-28T11:11:49.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-8245-d852-a7bf-ab5d5b370000",
+          "publishedAt": "2026-10-28T11:42:46.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-8233-d9a9-a3ed-9bff18c60000/36/47/9cadf384412c886b531919c6e496/953049.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000019a-43e1-d4b1-adbe-6feb406b0001/83/fb/482294fa4ba39ed2547d1d8fa2ee/123.jfif?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
@@ -107,16 +107,19 @@
           ]
         },
         {
-          "id": "calcalist:43712ae9b30f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81c6-de48-aba1-c7d72a0a0000",
           "ticker": null,
           "change": null,
-          "title": "נסיגה חדה בשקל אחרי הבחירות - הדולר מעל 3.11 שקלים, היורו מעל 3.46",
+          "title": "מנכ\"ל בית ההשקעות אופנהיימר: \"יש אתגרים שמקשים על המשקיעים להחליט אם להשקיע בישראל\"",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:43712ae9b30f0:0/",
-          "publishedAt": "2026-10-28T11:03:21.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81c6-de48-aba1-c7d72a0a0000",
+          "publishedAt": "2026-10-28T11:11:49.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-8233-d9a9-a3ed-9bff18c60000/36/47/9cadf384412c886b531919c6e496/953049.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
