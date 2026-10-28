@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T08:55:19.076Z",
+  "generatedAt": "2026-10-28T09:52:28.423Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,52 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T08:55:19.076Z",
+      "updatedAt": "2026-10-28T09:52:28.423Z",
       "items": [
         {
-          "id": "tradingview:e705e8490825c:0",
-          "ticker": "ENPH",
-          "change": -17.51,
-          "title": "Key facts: NASDAQ:ENPH Q3 revenue $293M; 13.8kV→800V demo; ISO15118‑20",
+          "id": "tag:reuters.com,2026:newsml_L2N46E0CK:0",
+          "ticker": "EDU",
+          "change": -11.9,
+          "title": "China's New Oriental Education Q1 revenue rises 23%, confirms guidance",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:e705e8490825c:0-key-facts-nasdaq-enph-q3-revenue-293m-13-8kv-800v-demo-iso15118-20/",
-          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0CK:0-china-s-new-oriental-education-q1-revenue-rises-23-confirms-guidance/",
+          "publishedAt": "2026-10-28T09:15:12.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/new-oriental--big.svg",
+            "kind": "logo"
+          },
+          "score": 124,
+          "reasons": [
+            "move -11.9%",
+            "leading source reuters",
+            "keywords: revenue, guidance",
+            "4 sources"
+          ],
+          "titleHe": "הכנסות ניו אוריינטל אדיוקיישן ברבעון ה-1 עלו ב-23%, מאשרת את התחזית",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261027013074:0",
+          "ticker": "ENPH",
+          "change": -17.11,
+          "title": "Enphase Energy Extends Weakness on Slumping Residential Demand — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261027013074:0-enphase-energy-extends-weakness-on-slumping-residential-demand-barrons-com/",
+          "publishedAt": "2026-10-28T09:24:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/enphase-energy--big.svg",
             "kind": "logo"
           },
           "score": 100,
           "reasons": [
-            "move -17.5%",
-            "keywords: revenue",
+            "move -17.1%",
+            "leading source dow-jones",
             "2 sources"
           ],
-          "titleHe": "נתונים מרכזיים: הכנסות ENPH ברבעון השלישי 293 מיליון דולר; הדגמת 13.8kV→800V; ISO15118-20",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L5N46E0OF:0",
-          "ticker": "SKHY",
-          "change": 7.77,
-          "title": "Before the bell: European banks briefly in spotlight",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46E0OF:0-before-the-bell-european-banks-briefly-in-spotlight/",
-          "publishedAt": "2026-10-28T07:48:53.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/sk-telecom--big.svg",
-            "kind": "logo"
-          },
-          "score": 91,
-          "reasons": [
-            "move 7.8%",
-            "leading source reuters",
-            "5 sources"
-          ],
-          "titleHe": "טרום המסחר: בנקים אירופיים במרכז העניין לזמן קצר",
+          "titleHe": "אנפייס אנרגי ממשיכה להיחלש על רקע צניחה בביקושים למערכות סולאריות ביתיות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-28T08:55:19.076Z",
+      "updatedAt": "2026-10-28T09:52:28.423Z",
       "items": [
         {
           "id": "calcalist:98aab796630f0:0",
@@ -102,16 +103,19 @@
           ]
         },
         {
-          "id": "calcalist:43712ae9b30f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81d9-d6da-a7eb-e7dd5d610000",
           "ticker": null,
           "change": null,
-          "title": "נסיגה בשקל אחרי הבחירות - הדולר על 3.10 שקלים; \"משקיעים שונאים אי ודאות\"",
+          "title": "הג'וב החדש של ינקי קוינט: יו\"ר ניו־מד אנרג'י",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:43712ae9b30f0:0/",
-          "publishedAt": "2026-10-28T08:11:36.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-81d9-d6da-a7eb-e7dd5d610000",
+          "publishedAt": "2026-10-28T09:41:26.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000019c-dd13-d24b-a5df-dfdbfb710000/20/1c/3f9f69604d80b01dbe2b4677ff65/330222.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
