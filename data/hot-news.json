@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T14:28:10.662Z",
+  "generatedAt": "2026-10-28T15:27:36.215Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T14:28:10.662Z",
+      "updatedAt": "2026-10-28T15:27:36.215Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46E251:0",
           "ticker": "AXGN",
-          "change": 22.53,
+          "change": 26.9,
           "title": "AxoGen, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -34,40 +34,42 @@
             "url": "https://s3-symbol-logo.tradingview.com/axogen--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 145,
           "reasons": [
-            "move 22.5%",
+            "move 26.9%",
+            "volume x3.2",
             "leading source reuters",
             "keywords: earnings, results",
-            "8 sources"
+            "3 sources"
           ],
           "titleHe": "אקסוגן מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דו\"חות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261028006383_20261028007501:0",
-          "ticker": "STLA",
-          "change": 13.04,
-          "title": "Stellantis Execs Were Speaking on Call After 3Q Earnings",
+          "id": "tag:reuters.com,2026:newsml_FWN46E21E:0",
+          "ticker": "GMAB",
+          "change": 26.86,
+          "title": "Genmab's Petosemtamab Meets Main Goals In Phase 3 Cancer Trial",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261028006383_20261028007501:0-stellantis-execs-were-speaking-on-call-after-3q-earnings/",
-          "publishedAt": "2026-10-28T13:04:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46E21E:0-genmab-s-petosemtamab-meets-main-goals-in-phase-3-cancer-trial/",
+          "publishedAt": "2026-10-28T13:45:27.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/stellantis--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/genmab-a-s--big.svg",
             "kind": "logo"
           },
-          "score": 117,
+          "score": 125,
           "reasons": [
-            "move 13.0%",
-            "leading source dow-jones",
-            "keywords: earnings",
-            "4 sources"
-          ],
-          "titleHe": "בכירי סטלאנטיס דיברו בשיחת הועידה לאחר תוצאות הרבעון השלישי",
-          "translatedBy": "gemini-3.5-flash-lite"
+            "move 26.9%",
+            "volume x2.5",
+            "leading source reuters",
+            "5 sources"
+          ]
         }
+      ],
+      "warnings": [
+        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
@@ -84,19 +86,22 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-28T14:28:10.662Z",
+      "updatedAt": "2026-10-28T15:27:36.215Z",
       "items": [
         {
-          "id": "calcalist:43712ae9b30f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b6-de48-aba1-c6f768240000",
           "ticker": null,
           "change": null,
-          "title": "נסיגה חדה בשקל אחרי הבחירות - הדולר ב-3.12 שקלים, היורו ב-3.47",
+          "title": "החשש של הזרים, האופוריה שנעלמה ו\"התוצאות הכי רעות\": כך נפלה הבורסה אחרי הבחירות",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:43712ae9b30f0:0/",
-          "publishedAt": "2026-10-28T12:59:34.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b6-de48-aba1-c6f768240000",
+          "publishedAt": "2026-10-28T15:14:04.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000018f-37ee-d0b5-a59f-37ef34ac0000/da/90/afba5be34414bc168c25855d01fd/573751-3.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
@@ -104,17 +109,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-8245-d852-a7bf-ab5d5b370000",
+          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b2-d9b5-a3b5-ceb24e3a0000",
           "ticker": null,
           "change": null,
-          "title": "ברן: פרויקט תשתית מים של כחצי מיליארד דולר באפריקה בסכנת ביטול",
+          "title": "אופנהיימר: הסיבה לירידה במניות ה–AI היא אופטימיות־יתר",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-8245-d852-a7bf-ab5d5b370000",
-          "publishedAt": "2026-10-28T11:42:46.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b2-d9b5-a3b5-ceb24e3a0000",
+          "publishedAt": "2026-10-28T15:06:44.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/0000019a-43e1-d4b1-adbe-6feb406b0001/83/fb/482294fa4ba39ed2547d1d8fa2ee/123.jfif?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/000001a1-82f0-d9b5-a3b5-cef0d4ec0000/6e/b3/a71e3e804ff791d27cf8148c1afd/828892.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
