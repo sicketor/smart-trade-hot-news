@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T19:19:57.023Z",
+  "generatedAt": "2026-10-28T20:08:37.549Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,36 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T19:19:57.023Z",
+      "updatedAt": "2026-10-28T20:08:37.549Z",
       "items": [
         {
-          "id": "DJN_DN20261028010799:0",
+          "id": "DJN_DN20261028011554:0",
           "ticker": "ENPH",
-          "change": -17.04,
-          "title": "Enphase Energy Is Maintained at Market Perform by BMO Capital",
+          "change": -16.4,
+          "title": "Enphase Energy Is Maintained at Neutral by JP Morgan",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261028010799:0-enphase-energy-is-maintained-at-market-perform-by-bmo-capital/",
-          "publishedAt": "2026-10-28T18:30:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261028011554:0-enphase-energy-is-maintained-at-neutral-by-jp-morgan/",
+          "publishedAt": "2026-10-28T19:49:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/enphase-energy--big.svg",
             "kind": "logo"
           },
           "score": 125,
           "reasons": [
-            "move -17.0%",
-            "volume x3.6",
+            "move -16.4%",
+            "volume x4.0",
             "leading source dow-jones",
-            "3 sources"
+            "4 sources"
           ],
-          "titleHe": "אנפייס אנרג'י נשארת בהמלצת תשואת שוק ב-BMO קפיטל",
+          "titleHe": "ג'יי.פי. מורגן הותירו את ההמלצה למניית Enphase Energy על ניטרלי",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "DJN_SN20261028007952:0",
           "ticker": "VRT",
-          "change": 17,
+          "change": 16.92,
           "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
           "lang": "en",
           "source": "market-watch",
@@ -60,8 +60,8 @@
           },
           "score": 125,
           "reasons": [
-            "move 17.0%",
-            "volume x2.1",
+            "move 16.9%",
+            "volume x2.3",
             "keywords: earnings, results",
             "2 sources"
           ],
