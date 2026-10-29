@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T12:17:07.168Z",
+  "generatedAt": "2026-10-29T13:27:00.523Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T12:17:07.168Z",
+      "updatedAt": "2026-10-29T13:27:00.523Z",
       "items": [
         {
           "id": "DJN_DN20261029009053:0",
           "ticker": "CROX",
-          "change": 19.2,
+          "change": 16.13,
           "title": "Crocs Raises FY Outlook After 3Q Profit, Revenue Growth",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,35 +36,36 @@
           },
           "score": 130,
           "reasons": [
-            "move 19.2%",
+            "move 16.1%",
             "leading source dow-jones",
             "keywords: revenue, profit, outlook",
-            "9 sources"
+            "6 sources"
           ],
           "titleHe": "קרוקס מעלה את תחזית 2024 בעקבות עלייה ברווח ובהכנסות ברבעון השלישי",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tradingview:4022b52f048b3:0",
-          "ticker": "IOVA",
-          "change": -25.73,
-          "title": "IOVA Q3'26 Earnings: revenue estimate is 115.53M USD",
+          "id": "tag:reuters.com,2026:newsml_L2N46F0LZ:0",
+          "ticker": "INSM",
+          "change": 17.55,
+          "title": "Insmed Q3 revenue beats estimates, lifts forecast",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:4022b52f048b3:0-iova-q3-26-earnings-revenue-estimate-is-115-53m-usd/",
-          "publishedAt": "2026-10-29T11:00:25.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0LZ:0-insmed-q3-revenue-beats-estimates-lifts-forecast/",
+          "publishedAt": "2026-10-29T11:10:47.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/iovance-biotherapeutics--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/insmed--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 130,
           "reasons": [
-            "move -25.7%",
-            "keywords: earnings, revenue",
-            "3 sources"
+            "move 17.6%",
+            "leading source reuters",
+            "keywords: revenue, forecast",
+            "6 sources"
           ],
-          "titleHe": "תוצאות IOVA לרבעון 3 2026: תחזית ההכנסות עומדת על 115.53 מיליון דולר",
+          "titleHe": "ההכנסות של Insmed ברבעון ה-3 עקפו את הצפי והחברה העלתה תחזית",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,37 +84,37 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T12:17:07.168Z",
+      "updatedAt": "2026-10-29T13:27:00.523Z",
       "items": [
         {
-          "id": "calcalist:f2700347f30f0:0",
+          "id": "calcalist:6b1d9ac7830f0:0",
           "ticker": null,
           "change": null,
-          "title": "\"אין שני קפטנים לאותה ספינה\": התנאי של איילון למיזוג הגמל עם אלטשולר שחם",
+          "title": "כלכלת ארה\"ב צמחה ב-3.4% ברבעון השלישי, מעל התחזיות",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:f2700347f30f0:0/",
-          "publishedAt": "2026-10-29T09:30:33.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:6b1d9ac7830f0:0/",
+          "publishedAt": "2026-10-29T12:59:26.000Z",
           "image": null,
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: מיזוג"
+            "fallback: latest market news"
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8749-dbb9-a7ef-ff7d95a80000",
+          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-878e-dabc-afb5-ffdebfa60000",
           "ticker": null,
           "change": null,
-          "title": "ה–AI הורג לפייבר את שירותי הפרילנס מהר משחשבה. שביל הבריחה: קניות ברשת",
+          "title": "מובילאיי: \"מכירות המעבדים שלנו גדלו השנה ב-11%, כשייצור הרכבים בעולם קטן ב-1%\"",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8749-dbb9-a7ef-ff7d95a80000",
-          "publishedAt": "2026-10-29T11:31:17.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-878e-dabc-afb5-ffdebfa60000",
+          "publishedAt": "2026-10-29T12:33:19.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/0000019d-d849-d623-ad9f-fedbe93a0001/56/bc/5f3a7f274cb8918f987fa2b047e3/791883.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/000001a1-63d1-db3a-a9fb-f7fbeb990000/c3/01/0cbbc6f2416c9f1a482fa387824f/450221.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
