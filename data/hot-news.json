@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T14:29:07.358Z",
+  "generatedAt": "2026-10-29T15:28:47.145Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,56 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T14:29:07.358Z",
+      "updatedAt": "2026-10-29T15:28:47.145Z",
       "items": [
         {
-          "id": "DJN_DN20261029009053:0",
-          "ticker": "CROX",
-          "change": 20.59,
-          "title": "Crocs Raises FY Outlook After 3Q Profit, Revenue Growth",
+          "id": "tag:reuters.com,2026:newsml_L6N46F0WD:0",
+          "ticker": "GOOG",
+          "change": -11.84,
+          "title": "US yields fall after in-line inflation data, equities drop",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261029009053:0-crocs-raises-fy-outlook-after-3q-profit-revenue-growth/",
-          "publishedAt": "2026-10-29T11:44:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F0WD:0-us-yields-fall-after-in-line-inflation-data-equities-drop/",
+          "publishedAt": "2026-10-29T15:01:44.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/crocs--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/alphabet--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 129,
           "reasons": [
-            "move 20.6%",
-            "leading source dow-jones",
-            "keywords: revenue, profit, outlook",
-            "3 sources"
+            "move -11.8%",
+            "volume x2.3",
+            "leading source reuters",
+            "keywords: inflation",
+            "7 sources"
           ],
-          "titleHe": "קרוקס מעלה את תחזית 2024 בעקבות עלייה ברווח ובהכנסות ברבעון השלישי",
+          "titleHe": "התשואות בארה\"ב יורדות בעקבות נתוני אינפלציה בהתאם לצפי, המניות בירידות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261029012162:0",
-          "ticker": "ADT",
-          "change": 34.01,
-          "title": "Josh Kushner's Thrive to Buy ADT for $7.6 Billion — Update",
+          "id": "DJN_DN20261029012400:0",
+          "ticker": "BHC",
+          "change": 23.12,
+          "title": "Bausch Health Surges on 3Q Beats, Rosier FY Outlook",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261029012162:0-josh-kushner-s-thrive-to-buy-adt-for-7-6-billion-update/",
-          "publishedAt": "2026-10-29T14:16:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261029012400:0-bausch-health-surges-on-3q-beats-rosier-fy-outlook/",
+          "publishedAt": "2026-10-29T14:32:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/adt--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/bausch-health-companies--big.svg",
             "kind": "logo"
           },
           "score": 125,
           "reasons": [
-            "move 34.0%",
-            "volume x3.6",
+            "move 23.1%",
+            "volume x3.8",
             "leading source dow-jones",
-            "5 sources"
+            "keywords: outlook",
+            "2 sources"
           ],
-          "titleHe": "קרן Thrive של ג'וש קושנר תרכוש את ADT תמורת 7.6 מיליארד דולר — עדכון",
+          "titleHe": "Bausch Health מזנקת בעקבות דוחות חזקים ברבעון ה3 ותחזית משופרת לשנה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,8 +86,25 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T14:29:07.358Z",
+      "updatedAt": "2026-10-29T15:28:47.145Z",
       "items": [
+        {
+          "id": "calcalist:17082635a30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "הבחירות לא הכריעו את השלטון, אבל הכריעו את הריבית",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:17082635a30f0:0/",
+          "publishedAt": "2026-10-29T14:43:58.000Z",
+          "image": null,
+          "score": 50,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: ריבית"
+          ]
+        },
         {
           "id": "calcalist:6b1d9ac7830f0:0",
           "ticker": null,
@@ -97,26 +116,6 @@
           "url": "https://www.tradingview.com/news/calcalist:6b1d9ac7830f0:0/",
           "publishedAt": "2026-10-29T12:59:26.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-878e-dabc-afb5-ffdebfa60000",
-          "ticker": null,
-          "change": null,
-          "title": "מובילאיי: \"מכירות המעבדים שלנו גדלו השנה ב-11%, כשייצור הרכבים בעולם קטן ב-1%\"",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-878e-dabc-afb5-ffdebfa60000",
-          "publishedAt": "2026-10-29T12:33:19.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-63d1-db3a-a9fb-f7fbeb990000/c3/01/0cbbc6f2416c9f1a482fa387824f/450221.jpg?width=108&height=81",
-            "kind": "photo"
-          },
           "fallback": true,
           "score": 0,
           "reasons": [
