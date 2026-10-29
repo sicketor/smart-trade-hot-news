@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T10:51:07.889Z",
+  "generatedAt": "2026-10-29T11:31:17.084Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T10:51:07.889Z",
+      "updatedAt": "2026-10-29T11:31:17.084Z",
       "items": [
         {
-          "id": "DJN_DN20261028017332:0",
-          "ticker": "NOW",
-          "change": -19.07,
-          "title": "ServiceNow Fans AI Fears on Quarterly Subscription Sales Outlook — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L2N46F0LZ:0",
+          "ticker": "INSM",
+          "change": 18.58,
+          "title": "Insmed Q3 revenue beats estimates, lifts forecast",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261028017332:0-servicenow-fans-ai-fears-on-quarterly-subscription-sales-outlook-barrons-com/",
-          "publishedAt": "2026-10-29T09:16:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0LZ:0-insmed-q3-revenue-beats-estimates-lifts-forecast/",
+          "publishedAt": "2026-10-29T11:10:47.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/servicenow--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/insmed--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 130,
           "reasons": [
-            "move -19.1%",
-            "leading source dow-jones",
-            "keywords: outlook",
-            "4 sources"
+            "move 18.6%",
+            "leading source reuters",
+            "keywords: revenue, forecast",
+            "7 sources"
           ],
-          "titleHe": "ServiceNow מפיגה את חששות הבינה המלאכותית עם תחזית מכירות המנויים הרבעונית",
+          "titleHe": "ההכנסות של Insmed ברבעון ה-3 עوقפות את הצפי ומעלה את התחזית",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261029003648:0",
-          "ticker": "HLN",
-          "change": -15.1,
-          "title": "Haleon Shares Dive After Advil Maker Cuts Guidance — 2nd Update",
+          "id": "tag:reuters.com,2026:newsml_L2N46F0N5:0",
+          "ticker": "BAX",
+          "change": 5.03,
+          "title": "Medtech firm Baxter Q3 profit beats on Infusion Systems growth; raises 2026 outlook",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261029003648:0-haleon-shares-dive-after-advil-maker-cuts-guidance-2nd-update/",
-          "publishedAt": "2026-10-29T08:51:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0N5:0-medtech-firm-baxter-q3-profit-beats-on-infusion-systems-growth-raises-2026-outlook/",
+          "publishedAt": "2026-10-29T11:24:53.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/haleon-plc--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/baxter--big.svg",
             "kind": "logo"
           },
           "score": 120,
           "reasons": [
-            "move -15.1%",
-            "leading source dow-jones",
-            "keywords: guidance",
-            "5 sources"
+            "move 14.9%",
+            "keywords: earnings, revenue",
+            "3 sources"
           ],
-          "titleHe": "מניית Haleon צוללת לאחר שיצרנית אדוויל חתכה את תחזית הרווח",
+          "titleHe": "הרווח ברבעון ה-3 של חברת הציוד הרפואי Baxter עוקף את הצפי הודות לצמיחה במערכות עירוי; מעלה את תחזית 2026",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T10:51:07.889Z",
+      "updatedAt": "2026-10-29T11:31:17.084Z",
       "items": [
         {
           "id": "calcalist:f2700347f30f0:0",
@@ -104,16 +103,19 @@
           ]
         },
         {
-          "id": "calcalist:bf5353cea30f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8758-dbb9-a7ef-ff7cf5df0000",
           "ticker": null,
           "change": null,
-          "title": "נגידת הבנק האירופי כריסטין לגארד הודיעה על פרישתה מהתפקיד",
+          "title": "אוניית צים הוטבעה בים השחור במתקפת רחפנים - 421 מכולות הושמדו",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:bf5353cea30f0:0/",
-          "publishedAt": "2026-10-29T10:09:32.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8758-dbb9-a7ef-ff7cf5df0000",
+          "publishedAt": "2026-10-29T11:15:46.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-875c-dabc-afb5-ffde9f8a0001/99/e7/87b8e90b4ec2858b4403789bb958/287051.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
