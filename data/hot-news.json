@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T20:08:37.549Z",
+  "generatedAt": "2026-10-29T08:03:59.980Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,46 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-28T20:08:37.549Z",
+      "updatedAt": "2026-10-29T08:03:59.980Z",
       "items": [
         {
-          "id": "DJN_DN20261028011554:0",
-          "ticker": "ENPH",
-          "change": -16.4,
-          "title": "Enphase Energy Is Maintained at Neutral by JP Morgan",
+          "id": "tradingview:c558380a15146:0",
+          "ticker": "STLA",
+          "change": 10.39,
+          "title": "Key facts: Stellantis (STLAM) FCF -€4.0B; Dongfeng JV, Canada assumption",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261028011554:0-enphase-energy-is-maintained-at-neutral-by-jp-morgan/",
-          "publishedAt": "2026-10-28T19:49:00.000Z",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com/news/tradingview:c558380a15146:0-key-facts-stellantis-stlam-fcf-4-0b-dongfeng-jv-canada-assumption/",
+          "publishedAt": "2026-10-29T08:00:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/enphase-energy--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/stellantis--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 69,
           "reasons": [
-            "move -16.4%",
-            "volume x4.0",
-            "leading source dow-jones",
-            "4 sources"
+            "move 10.4%"
           ],
-          "titleHe": "ג'יי.פי. מורגן הותירו את ההמלצה למניית Enphase Energy על ניטרלי",
+          "titleHe": "עובדות מפתח: סטלאנטיס (STLAM) תזרים מזומנים חופשי שלילי 4.0 מיליארד אירו; מיזם משותף עם דונגפנג, הנחות לגבי קנדה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_SN20261028007952:0",
-          "ticker": "VRT",
-          "change": 16.92,
-          "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+          "id": "tag:reuters.com,2026:newsml_FWN46F0SH:0",
+          "ticker": null,
+          "change": null,
+          "title": "Contempro For Housing Projects Q3 Profit 19,532 Dinars",
           "lang": "en",
-          "source": "market-watch",
-          "sourceId": "market-watch",
-          "url": "https://www.tradingview.com/news/DJN_SN20261028007952:0-vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results/",
-          "publishedAt": "2026-10-28T17:44:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/vertiv-holdings--big.svg",
-            "kind": "logo"
-          },
-          "score": 125,
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46F0SH:0-contempro-for-housing-projects-q3-profit-19-532-dinars/",
+          "publishedAt": "2026-10-29T07:36:20.000Z",
+          "image": null,
+          "score": 50,
           "reasons": [
-            "move 16.9%",
-            "volume x2.3",
-            "keywords: earnings, results",
-            "2 sources"
+            "leading source reuters",
+            "keywords: profit"
           ],
-          "titleHe": "הדוחות של ורטיב שגרו איתות חיובי על AI לקראת תוצאות ענקיות הטכנולוגיה",
+          "titleHe": "Contempro For Housing Projects: רווח ברבעון השבוע 19,532 דינר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,40 +76,37 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-28T15:27:36.215Z",
+      "updatedAt": "2026-10-29T08:03:59.980Z",
       "items": [
         {
-          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b6-de48-aba1-c6f768240000",
+          "id": "calcalist:8b46122c830f0:0",
           "ticker": null,
           "change": null,
-          "title": "החשש של הזרים, האופוריה שנעלמה ו\"התוצאות הכי רעות\": כך נפלה הבורסה אחרי הבחירות",
+          "title": "מיזוג ענק בגמל? איילון בוחנת שילוב פעילות הגמל החדשה שלה לתוך אלטשולר שחם",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b6-de48-aba1-c6f768240000",
-          "publishedAt": "2026-10-28T15:14:04.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000018f-37ee-d0b5-a59f-37ef34ac0000/da/90/afba5be34414bc168c25855d01fd/573751-3.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "fallback": true,
-          "score": 0,
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:8b46122c830f0:0/",
+          "publishedAt": "2026-10-29T07:29:23.000Z",
+          "image": null,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: מיזוג"
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b2-d9b5-a3b5-ceb24e3a0000",
+          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8679-d0bb-a3a9-def9f1c50000",
           "ticker": null,
           "change": null,
-          "title": "אופנהיימר: הסיבה לירידה במניות ה–AI היא אופטימיות־יתר",
+          "title": "הקילרים נעלמו: אחרי הייצוגית - איילון תסגור את פעילות הגמל ותקבל מניות באלטשולר",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-82b2-d9b5-a3b5-ceb24e3a0000",
-          "publishedAt": "2026-10-28T15:06:44.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8679-d0bb-a3a9-def9f1c50000",
+          "publishedAt": "2026-10-29T07:24:57.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-82f0-d9b5-a3b5-cef0d4ec0000/6e/b3/a71e3e804ff791d27cf8148c1afd/828892.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000017f-e10f-d804-ad7f-f1ffec930000/e9/64/88d7df9ae34de63febd7c26230ba/262734444.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
