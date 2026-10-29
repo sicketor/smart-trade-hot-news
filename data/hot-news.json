@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T13:27:00.523Z",
+  "generatedAt": "2026-10-29T14:29:07.358Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T13:27:00.523Z",
+      "updatedAt": "2026-10-29T14:29:07.358Z",
       "items": [
         {
           "id": "DJN_DN20261029009053:0",
           "ticker": "CROX",
-          "change": 16.13,
+          "change": 20.59,
           "title": "Crocs Raises FY Outlook After 3Q Profit, Revenue Growth",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,36 +36,36 @@
           },
           "score": 130,
           "reasons": [
-            "move 16.1%",
+            "move 20.6%",
             "leading source dow-jones",
             "keywords: revenue, profit, outlook",
-            "6 sources"
+            "3 sources"
           ],
           "titleHe": "קרוקס מעלה את תחזית 2024 בעקבות עלייה ברווח ובהכנסות ברבעון השלישי",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46F0LZ:0",
-          "ticker": "INSM",
-          "change": 17.55,
-          "title": "Insmed Q3 revenue beats estimates, lifts forecast",
+          "id": "DJN_DN20261029012162:0",
+          "ticker": "ADT",
+          "change": 34.01,
+          "title": "Josh Kushner's Thrive to Buy ADT for $7.6 Billion — Update",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0LZ:0-insmed-q3-revenue-beats-estimates-lifts-forecast/",
-          "publishedAt": "2026-10-29T11:10:47.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261029012162:0-josh-kushner-s-thrive-to-buy-adt-for-7-6-billion-update/",
+          "publishedAt": "2026-10-29T14:16:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/insmed--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/adt--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 125,
           "reasons": [
-            "move 17.6%",
-            "leading source reuters",
-            "keywords: revenue, forecast",
-            "6 sources"
+            "move 34.0%",
+            "volume x3.6",
+            "leading source dow-jones",
+            "5 sources"
           ],
-          "titleHe": "ההכנסות של Insmed ברבעון ה-3 עקפו את הצפי והחברה העלתה תחזית",
+          "titleHe": "קרן Thrive של ג'וש קושנר תרכוש את ADT תמורת 7.6 מיליארד דולר — עדכון",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T13:27:00.523Z",
+      "updatedAt": "2026-10-29T14:29:07.358Z",
       "items": [
         {
           "id": "calcalist:6b1d9ac7830f0:0",
