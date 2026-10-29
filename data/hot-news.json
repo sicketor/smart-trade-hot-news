@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T08:03:59.980Z",
+  "generatedAt": "2026-10-29T08:56:56.789Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,46 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T08:03:59.980Z",
+      "updatedAt": "2026-10-29T08:56:56.789Z",
       "items": [
         {
-          "id": "tradingview:c558380a15146:0",
-          "ticker": "STLA",
-          "change": 10.39,
-          "title": "Key facts: Stellantis (STLAM) FCF -€4.0B; Dongfeng JV, Canada assumption",
-          "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:c558380a15146:0-key-facts-stellantis-stlam-fcf-4-0b-dongfeng-jv-canada-assumption/",
-          "publishedAt": "2026-10-29T08:00:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/stellantis--big.svg",
-            "kind": "logo"
-          },
-          "score": 69,
-          "reasons": [
-            "move 10.4%"
-          ],
-          "titleHe": "עובדות מפתח: סטלאנטיס (STLAM) תזרים מזומנים חופשי שלילי 4.0 מיליארד אירו; מיזם משותף עם דונגפנג, הנחות לגבי קנדה",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_FWN46F0SH:0",
-          "ticker": null,
-          "change": null,
-          "title": "Contempro For Housing Projects Q3 Profit 19,532 Dinars",
+          "id": "tag:reuters.com,2026:newsml_L6N46E14T:0",
+          "ticker": "HLN",
+          "change": -11.8,
+          "title": "Sensodyne maker Haleon cuts annual organic revenue forecast",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46F0SH:0-contempro-for-housing-projects-q3-profit-19-532-dinars/",
-          "publishedAt": "2026-10-29T07:36:20.000Z",
-          "image": null,
-          "score": 50,
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46E14T:0-sensodyne-maker-haleon-cuts-annual-organic-revenue-forecast/",
+          "publishedAt": "2026-10-29T07:04:38.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/haleon-plc--big.svg",
+            "kind": "logo"
+          },
+          "score": 123,
           "reasons": [
+            "move -11.8%",
             "leading source reuters",
-            "keywords: profit"
+            "keywords: revenue, forecast",
+            "5 sources"
           ],
-          "titleHe": "Contempro For Housing Projects: רווח ברבעון השבוע 19,532 דינר",
+          "titleHe": "יצרנית סנסודיין Haleon חותכת את תחזית ההכנסות האורגניות השנתית",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "tag:reuters.com,2026:newsml_L6N46F0GM:0",
+          "ticker": "GOOG",
+          "change": -10.05,
+          "title": "European shares inch up ahead of ECB as earnings remain in focus",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F0GM:0-european-shares-inch-up-ahead-of-ecb-as-earnings-remain-in-focus/",
+          "publishedAt": "2026-10-29T08:03:34.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/alphabet--big.svg",
+            "kind": "logo"
+          },
+          "score": 108,
+          "reasons": [
+            "move -10.1%",
+            "leading source reuters",
+            "keywords: earnings",
+            "5 sources"
+          ],
+          "titleHe": "המניות באירופה עולות בעדינות לקראת החלטת הריבית של ה-ECB על רקע התמקדות בדוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -76,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T08:03:59.980Z",
+      "updatedAt": "2026-10-29T08:56:56.789Z",
       "items": [
         {
           "id": "calcalist:8b46122c830f0:0",
@@ -96,19 +104,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8679-d0bb-a3a9-def9f1c50000",
+          "id": "calcalist:9f74223d330f0:0",
           "ticker": null,
           "change": null,
-          "title": "הקילרים נעלמו: אחרי הייצוגית - איילון תסגור את פעילות הגמל ותקבל מניות באלטשולר",
+          "title": "חברת הסייבר פורטינט צונחת ב-25% בטרום בנאסד\"ק - וגוררת למטה את המתחרות",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8679-d0bb-a3a9-def9f1c50000",
-          "publishedAt": "2026-10-29T07:24:57.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000017f-e10f-d804-ad7f-f1ffec930000/e9/64/88d7df9ae34de63febd7c26230ba/262734444.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:9f74223d330f0:0/",
+          "publishedAt": "2026-10-29T08:46:54.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
