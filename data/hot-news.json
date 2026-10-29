@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T08:56:56.789Z",
+  "generatedAt": "2026-10-29T09:54:42.499Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T08:56:56.789Z",
+      "updatedAt": "2026-10-29T09:54:42.499Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L6N46E14T:0",
           "ticker": "HLN",
-          "change": -11.8,
+          "change": -14.4,
           "title": "Sensodyne maker Haleon cuts annual organic revenue forecast",
           "lang": "en",
           "source": "Reuters",
@@ -34,38 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/haleon-plc--big.svg",
             "kind": "logo"
           },
-          "score": 123,
+          "score": 130,
           "reasons": [
-            "move -11.8%",
+            "move -14.4%",
             "leading source reuters",
             "keywords: revenue, forecast",
-            "5 sources"
+            "6 sources"
           ],
           "titleHe": "יצרנית סנסודיין Haleon חותכת את תחזית ההכנסות האורגניות השנתית",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L6N46F0GM:0",
-          "ticker": "GOOG",
-          "change": -10.05,
-          "title": "European shares inch up ahead of ECB as earnings remain in focus",
+          "id": "DJN_DN20261028017332:0",
+          "ticker": "NOW",
+          "change": -18.06,
+          "title": "ServiceNow Fans AI Fears on Quarterly Subscription Sales Outlook — Barrons.com",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F0GM:0-european-shares-inch-up-ahead-of-ecb-as-earnings-remain-in-focus/",
-          "publishedAt": "2026-10-29T08:03:34.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261028017332:0-servicenow-fans-ai-fears-on-quarterly-subscription-sales-outlook-barrons-com/",
+          "publishedAt": "2026-10-29T09:16:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/alphabet--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/servicenow--big.svg",
             "kind": "logo"
           },
-          "score": 108,
+          "score": 120,
           "reasons": [
-            "move -10.1%",
-            "leading source reuters",
-            "keywords: earnings",
-            "5 sources"
+            "move -18.1%",
+            "leading source dow-jones",
+            "keywords: outlook",
+            "3 sources"
           ],
-          "titleHe": "המניות באירופה עולות בעדינות לקראת החלטת הריבית של ה-ECB על רקע התמקדות בדוחות",
+          "titleHe": "ServiceNow מפיגה את חששות הבינה המלאכותית עם תחזית מכירות המנויים הרבעונית",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,8 +84,25 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T08:56:56.789Z",
+      "updatedAt": "2026-10-29T09:54:42.499Z",
       "items": [
+        {
+          "id": "calcalist:f2700347f30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "\"אין שני קפטנים לאותה ספינה\": התנאי של איילון למיזוג הגמל עם אלטשולר שחם",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:f2700347f30f0:0/",
+          "publishedAt": "2026-10-29T09:30:33.000Z",
+          "image": null,
+          "score": 50,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: מיזוג"
+          ]
+        },
         {
           "id": "calcalist:8b46122c830f0:0",
           "ticker": null,
@@ -101,23 +118,6 @@
           "reasons": [
             "leading source calcalist",
             "keywords: מיזוג"
-          ]
-        },
-        {
-          "id": "calcalist:9f74223d330f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "חברת הסייבר פורטינט צונחת ב-25% בטרום בנאסד\"ק - וגוררת למטה את המתחרות",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:9f74223d330f0:0/",
-          "publishedAt": "2026-10-29T08:46:54.000Z",
-          "image": null,
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
           ]
         }
       ]
