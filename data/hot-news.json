@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T17:27:03.607Z",
+  "generatedAt": "2026-10-29T18:20:39.340Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,37 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T17:27:03.607Z",
+      "updatedAt": "2026-10-29T18:20:39.340Z",
       "items": [
+        {
+          "id": "DJN_DN20261029014093:0",
+          "ticker": "NOW",
+          "change": -26.72,
+          "title": "ServiceNow Stock Is Worst in S&P 500 After a Key Revenue Measure Fell Short — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261029014093:0-servicenow-stock-is-worst-in-s-p-500-after-a-key-revenue-measure-fell-short-barrons-com/",
+          "publishedAt": "2026-10-29T17:44:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/servicenow--big.svg",
+            "kind": "logo"
+          },
+          "score": 135,
+          "reasons": [
+            "move -26.7%",
+            "volume x3.5",
+            "leading source dow-jones",
+            "keywords: revenue",
+            "6 sources"
+          ],
+          "titleHe": "מניית ServiceNow רושמת את הביצועים הגרועים ביותר ב-S&P 500 לאחר שנתון הכנסות מרכזי החטיא את הציפיות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "tag:reuters.com,2026:newsml_L6N46F14S:0",
           "ticker": "CROX",
-          "change": 25.93,
+          "change": 25.73,
           "title": "Crocs shares surge on raised forecast as HEYDUDE turnaround gains traction",
           "lang": "en",
           "source": "Reuters",
@@ -36,38 +61,13 @@
           },
           "score": 135,
           "reasons": [
-            "move 25.9%",
-            "volume x2.4",
+            "move 25.7%",
+            "volume x2.9",
             "leading source reuters",
             "keywords: forecast",
-            "6 sources"
-          ],
-          "titleHe": "מניות Crocs מזנקות בעקבות העלאת תחזית, בזמן שהמהפך ב-HEYDUDE צובר תאוצה",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261029013695:0",
-          "ticker": "NOW",
-          "change": -26.48,
-          "title": "ServiceNow Seen With Potential Despite Drab Outlook — Market Talk",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261029013695:0-servicenow-seen-with-potential-despite-drab-outlook-market-talk/",
-          "publishedAt": "2026-10-29T17:00:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/servicenow--big.svg",
-            "kind": "logo"
-          },
-          "score": 135,
-          "reasons": [
-            "move -26.5%",
-            "volume x3.1",
-            "leading source dow-jones",
-            "keywords: outlook",
             "5 sources"
           ],
-          "titleHe": "ServiceNow נחשבת לבעלת פוטנציאל למרות תחזית פושרת",
+          "titleHe": "מניות Crocs מזנקות בעקבות העלאת תחזית, בזמן שהמהפך ב-HEYDUDE צובר תאוצה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
