@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T15:28:47.145Z",
+  "generatedAt": "2026-10-29T16:29:10.914Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,37 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T15:28:47.145Z",
+      "updatedAt": "2026-10-29T16:29:10.914Z",
       "items": [
-        {
-          "id": "tag:reuters.com,2026:newsml_L6N46F0WD:0",
-          "ticker": "GOOG",
-          "change": -11.84,
-          "title": "US yields fall after in-line inflation data, equities drop",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F0WD:0-us-yields-fall-after-in-line-inflation-data-equities-drop/",
-          "publishedAt": "2026-10-29T15:01:44.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/alphabet--big.svg",
-            "kind": "logo"
-          },
-          "score": 129,
-          "reasons": [
-            "move -11.8%",
-            "volume x2.3",
-            "leading source reuters",
-            "keywords: inflation",
-            "7 sources"
-          ],
-          "titleHe": "התשואות בארה\"ב יורדות בעקבות נתוני אינפלציה בהתאם לצפי, המניות בירידות",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "DJN_DN20261029012400:0",
           "ticker": "BHC",
-          "change": 23.12,
+          "change": 22.98,
           "title": "Bausch Health Surges on 3Q Beats, Rosier FY Outlook",
           "lang": "en",
           "source": "Dow Jones",
@@ -59,15 +34,39 @@
             "url": "https://s3-symbol-logo.tradingview.com/bausch-health-companies--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 135,
           "reasons": [
-            "move 23.1%",
-            "volume x3.8",
+            "move 23.0%",
+            "volume x5.0",
             "leading source dow-jones",
             "keywords: outlook",
-            "2 sources"
+            "3 sources"
           ],
           "titleHe": "Bausch Health מזנקת בעקבות דוחות חזקים ברבעון ה3 ותחזית משופרת לשנה",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261029012979:0",
+          "ticker": "NOW",
+          "change": -25.37,
+          "title": "ServiceNow Is Maintained at Overweight by Barclays",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261029012979:0-servicenow-is-maintained-at-overweight-by-barclays/",
+          "publishedAt": "2026-10-29T15:40:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/servicenow--big.svg",
+            "kind": "logo"
+          },
+          "score": 125,
+          "reasons": [
+            "move -25.4%",
+            "volume x2.7",
+            "leading source dow-jones",
+            "6 sources"
+          ],
+          "titleHe": "ברקליס הותיר את המלצתו על מניית ServiceNow בתשואת יתר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
