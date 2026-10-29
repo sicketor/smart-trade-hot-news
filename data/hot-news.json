@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T11:31:17.084Z",
+  "generatedAt": "2026-10-29T12:17:07.168Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T11:31:17.084Z",
+      "updatedAt": "2026-10-29T12:17:07.168Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46F0LZ:0",
-          "ticker": "INSM",
-          "change": 18.58,
-          "title": "Insmed Q3 revenue beats estimates, lifts forecast",
+          "id": "DJN_DN20261029009053:0",
+          "ticker": "CROX",
+          "change": 19.2,
+          "title": "Crocs Raises FY Outlook After 3Q Profit, Revenue Growth",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0LZ:0-insmed-q3-revenue-beats-estimates-lifts-forecast/",
-          "publishedAt": "2026-10-29T11:10:47.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261029009053:0-crocs-raises-fy-outlook-after-3q-profit-revenue-growth/",
+          "publishedAt": "2026-10-29T11:44:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/insmed--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/crocs--big.svg",
             "kind": "logo"
           },
           "score": 130,
           "reasons": [
-            "move 18.6%",
-            "leading source reuters",
-            "keywords: revenue, forecast",
-            "7 sources"
+            "move 19.2%",
+            "leading source dow-jones",
+            "keywords: revenue, profit, outlook",
+            "9 sources"
           ],
-          "titleHe": "ההכנסות של Insmed ברבעון ה-3 עوقפות את הצפי ומעלה את התחזית",
+          "titleHe": "קרוקס מעלה את תחזית 2024 בעקבות עלייה ברווח ובהכנסות ברבעון השלישי",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46F0N5:0",
-          "ticker": "BAX",
-          "change": 5.03,
-          "title": "Medtech firm Baxter Q3 profit beats on Infusion Systems growth; raises 2026 outlook",
+          "id": "tradingview:4022b52f048b3:0",
+          "ticker": "IOVA",
+          "change": -25.73,
+          "title": "IOVA Q3'26 Earnings: revenue estimate is 115.53M USD",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0N5:0-medtech-firm-baxter-q3-profit-beats-on-infusion-systems-growth-raises-2026-outlook/",
-          "publishedAt": "2026-10-29T11:24:53.000Z",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com/news/tradingview:4022b52f048b3:0-iova-q3-26-earnings-revenue-estimate-is-115-53m-usd/",
+          "publishedAt": "2026-10-29T11:00:25.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/baxter--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/iovance-biotherapeutics--big.svg",
             "kind": "logo"
           },
           "score": 120,
           "reasons": [
-            "move 14.9%",
+            "move -25.7%",
             "keywords: earnings, revenue",
             "3 sources"
           ],
-          "titleHe": "הרווח ברבעון ה-3 של חברת הציוד הרפואי Baxter עוקף את הצפי הודות לצמיחה במערכות עירוי; מעלה את תחזית 2026",
+          "titleHe": "תוצאות IOVA לרבעון 3 2026: תחזית ההכנסות עומדת על 115.53 מיליון דולר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T11:31:17.084Z",
+      "updatedAt": "2026-10-29T12:17:07.168Z",
       "items": [
         {
           "id": "calcalist:f2700347f30f0:0",
@@ -103,17 +103,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8758-dbb9-a7ef-ff7cf5df0000",
+          "id": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8749-dbb9-a7ef-ff7d95a80000",
           "ticker": null,
           "change": null,
-          "title": "אוניית צים הוטבעה בים השחור במתקפת רחפנים - 421 מכולות הושמדו",
+          "title": "ה–AI הורג לפייבר את שירותי הפרילנס מהר משחשבה. שביל הבריחה: קניות ברשת",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8758-dbb9-a7ef-ff7cf5df0000",
-          "publishedAt": "2026-10-29T11:15:46.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-29/ty-article/.premium/000001a1-8749-dbb9-a7ef-ff7d95a80000",
+          "publishedAt": "2026-10-29T11:31:17.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-875c-dabc-afb5-ffde9f8a0001/99/e7/87b8e90b4ec2858b4403789bb958/287051.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000019d-d849-d623-ad9f-fedbe93a0001/56/bc/5f3a7f274cb8918f987fa2b047e3/791883.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
