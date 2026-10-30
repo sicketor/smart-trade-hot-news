@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T19:38:11.455Z",
+  "generatedAt": "2026-10-30T20:23:24.528Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,55 +18,55 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T19:38:11.455Z",
+      "updatedAt": "2026-10-30T20:23:24.528Z",
       "items": [
         {
-          "id": "DJN_DN20261030005005:0",
+          "id": "DJN_DN20261030010670:0",
           "ticker": "INTC",
-          "change": -30.89,
-          "title": "Amazon and Intel Tank the AI Trade. The 1 Factor Linking Big Tech's Underwhelming Earnings. — Barrons.com",
+          "change": -28.58,
+          "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030005005:0-amazon-and-intel-tank-the-ai-trade-the-1-factor-linking-big-tech-s-underwhelming-earnings-barrons-com/",
-          "publishedAt": "2026-10-30T16:48:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030010670:0-u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling/",
+          "publishedAt": "2026-10-30T20:11:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
             "kind": "logo"
           },
           "score": 135,
           "reasons": [
-            "move -30.9%",
-            "volume x3.6",
+            "move -28.6%",
+            "volume x4.5",
             "leading source dow-jones",
             "keywords: earnings",
-            "5 sources"
+            "4 sources"
           ],
-          "titleHe": "אמזון ואינטל מפילות את סקטור ה-AI. הגורם האחד שמקשר את הדוחות המאכזבים של ענקיות הטק",
+          "titleHe": "מניות ארה\"ב יורדות בעקבות דוחות אמזון ואינטל שמעוררים גל מכירות נוסף בתחום ה-AI",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261030009162:0",
-          "ticker": "RDDT",
-          "change": -29.7,
-          "title": "Reddit Is Maintained at Buy by Truist Securities",
+          "id": "DJN_DN20261030009637:0",
+          "ticker": "BFAM",
+          "change": -17.92,
+          "title": "Bright Horizons Family Is Maintained at Underweight by Morgan Stanley",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030009162:0-reddit-is-maintained-at-buy-by-truist-securities/",
-          "publishedAt": "2026-10-30T17:05:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030009637:0-bright-horizons-family-is-maintained-at-underweight-by-morgan-stanley/",
+          "publishedAt": "2026-10-30T18:00:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/reddit--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/bright-horizons--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 115,
           "reasons": [
-            "move -29.7%",
-            "volume x4.9",
+            "move -17.9%",
+            "volume x8.2",
             "leading source dow-jones",
-            "3 sources"
+            "2 sources"
           ],
-          "titleHe": "רדיט ממשיכה לקבל המלצת קנייה מ-Truist Securities",
+          "titleHe": "בצמרת מורגן סטנלי: המלצת Underweight למניית Bright Horizons Family",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
