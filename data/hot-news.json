@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T12:16:16.703Z",
+  "generatedAt": "2026-10-30T13:23:07.717Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T12:16:16.703Z",
+      "updatedAt": "2026-10-30T13:23:07.717Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L3N46G189:0",
           "ticker": "RDDT",
-          "change": -20.99,
+          "change": -23.61,
           "title": "Reddit, Pinterest shares tumble on weak user and revenue growth",
           "lang": "en",
           "source": "Reuters",
@@ -36,7 +36,7 @@
           },
           "score": 120,
           "reasons": [
-            "move -21.0%",
+            "move -23.6%",
             "leading source reuters",
             "keywords: revenue",
             "6 sources"
@@ -47,7 +47,7 @@
         {
           "id": "DJN_DN20261030005005:0",
           "ticker": "INTC",
-          "change": -25.24,
+          "change": -25.85,
           "title": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech's Underwhelming Earnings. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -60,10 +60,10 @@
           },
           "score": 120,
           "reasons": [
-            "move -25.2%",
+            "move -25.8%",
             "leading source dow-jones",
             "keywords: earnings",
-            "8 sources"
+            "10 sources"
           ],
           "titleHe": "אמזון ואינטל מפילות את מניות הבינה המלאכותית. הגורם היחיד שמקשר בין הדוחות הפושרים של ענקיות הטק",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -84,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-30T12:16:16.703Z",
+      "updatedAt": "2026-10-30T13:23:07.717Z",
       "items": [
         {
           "id": "calcalist:ac208b3fc30f0:0",
