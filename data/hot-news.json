@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T15:26:24.099Z",
+  "generatedAt": "2026-10-30T16:25:29.358Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,37 +18,37 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T15:26:24.099Z",
+      "updatedAt": "2026-10-30T16:25:29.358Z",
       "items": [
         {
-          "id": "DJN_DN20261030007726:0",
+          "id": "DJN_DN20261030008759:0",
           "ticker": "INTC",
-          "change": -28.1,
-          "title": "Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff — Update",
+          "change": -29.91,
+          "title": "Amazon, Intel Earnings Add Fuel to Tech Selloff — WSJ",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030007726:0-semiconductor-stocks-fall-as-intel-earnings-trigger-broad-tech-selloff-update/",
-          "publishedAt": "2026-10-30T14:21:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030008759:0-amazon-intel-earnings-add-fuel-to-tech-selloff-wsj/",
+          "publishedAt": "2026-10-30T16:18:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
             "kind": "logo"
           },
           "score": 135,
           "reasons": [
-            "move -28.1%",
-            "volume x2.1",
+            "move -29.9%",
+            "volume x2.5",
             "leading source dow-jones",
             "keywords: earnings",
-            "8 sources"
+            "7 sources"
           ],
-          "titleHe": "מניות השבבים יורדות בעקבות דו\"ח הכספי של אינטל שמעורר גל מכירות רחב בטכנולוגיה",
+          "titleHe": "הדוחות של אמזון ואינטל מעמיקים את גל המכירות במניות הטכנולוגיה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "tag:reuters.com,2026:newsml_L5N46G1UD:0",
           "ticker": "CPRI",
-          "change": 18.4,
+          "change": 16.38,
           "title": "Capri Holdings Ltd reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -61,10 +61,10 @@
           },
           "score": 130,
           "reasons": [
-            "move 18.4%",
+            "move 16.4%",
             "leading source reuters",
             "keywords: earnings, results",
-            "3 sources"
+            "4 sources"
           ],
           "titleHe": "קאפרי הולדינגס מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
