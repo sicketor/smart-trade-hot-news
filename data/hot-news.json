@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T16:25:29.358Z",
+  "generatedAt": "2026-10-30T17:21:51.008Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,18 +18,18 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T16:25:29.358Z",
+      "updatedAt": "2026-10-30T17:21:51.008Z",
       "items": [
         {
-          "id": "DJN_DN20261030008759:0",
+          "id": "DJN_DN20261030005005:0",
           "ticker": "INTC",
-          "change": -29.91,
-          "title": "Amazon, Intel Earnings Add Fuel to Tech Selloff — WSJ",
+          "change": -29.92,
+          "title": "Amazon and Intel Tank the AI Trade. The 1 Factor Linking Big Tech's Underwhelming Earnings. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030008759:0-amazon-intel-earnings-add-fuel-to-tech-selloff-wsj/",
-          "publishedAt": "2026-10-30T16:18:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030005005:0-amazon-and-intel-tank-the-ai-trade-the-1-factor-linking-big-tech-s-underwhelming-earnings-barrons-com/",
+          "publishedAt": "2026-10-30T16:48:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
             "kind": "logo"
@@ -37,18 +37,18 @@
           "score": 135,
           "reasons": [
             "move -29.9%",
-            "volume x2.5",
+            "volume x2.8",
             "leading source dow-jones",
             "keywords: earnings",
-            "7 sources"
+            "5 sources"
           ],
-          "titleHe": "הדוחות של אמזון ואינטל מעמיקים את גל המכירות במניות הטכנולוגיה",
+          "titleHe": "אמזון ואינטל מפילות את סקטור ה-AI. הגורם האחד שמקשר את הדוחות המאכזבים של ענקיות הטק",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
           "id": "tag:reuters.com,2026:newsml_L5N46G1UD:0",
           "ticker": "CPRI",
-          "change": 16.38,
+          "change": 16,
           "title": "Capri Holdings Ltd reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -61,7 +61,7 @@
           },
           "score": 130,
           "reasons": [
-            "move 16.4%",
+            "move 16.0%",
             "leading source reuters",
             "keywords: earnings, results",
             "4 sources"
