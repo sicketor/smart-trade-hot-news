@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T08:03:41.691Z",
+  "generatedAt": "2026-10-30T08:56:53.363Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,51 +18,50 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T08:03:41.691Z",
+      "updatedAt": "2026-10-30T08:56:53.363Z",
       "items": [
         {
-          "id": "DJN_DN20261030002244:0",
-          "ticker": "GOOG",
-          "change": -11.87,
-          "title": "Dollar Falls as Renewed AI Concerns Weigh — Market Talk",
+          "id": "tradingview:bdcc49922094b:0",
+          "ticker": "INTC",
+          "change": -26.51,
+          "title": "INTC: Intel Stock Plunges 24% as Weak Outlook Overshadows Strong Earnings Growth",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030002244:0-dollar-falls-as-renewed-ai-concerns-weigh-market-talk/",
-          "publishedAt": "2026-10-30T07:42:00.000Z",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com",
+          "publishedAt": "2026-10-30T06:22:22.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/alphabet--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
             "kind": "logo"
           },
-          "score": 94,
+          "score": 110,
           "reasons": [
-            "move -11.9%",
-            "leading source dow-jones",
+            "move -26.5%",
+            "keywords: earnings, outlook",
             "2 sources"
           ],
-          "titleHe": "הדולר יורד על רקע חששות מחודשים סביב הבינה המלאכותית",
+          "titleHe": "אינטל: מניית אינטל צוללת ב-24% בעקבות תחזית חלשה שמאפילה על צמיחה חזקה ברווחים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "stocktwits:3a5b9f448094b:0",
-          "ticker": "SFM",
-          "change": -23.16,
-          "title": "SFM Stock Heads For Worst Week Ever: Sprouts Farmers Market Faces Wall Street’s Ire As Analysts Slash Price Targets On Weak Outlook",
+          "id": "seekingalpha:2a0f55b28094b:0",
+          "ticker": "RDDT",
+          "change": -22.83,
+          "title": "Reddit blames Google AI for traffic fall, tests sign-in requirement",
           "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/sfm-stock-heads-for-worst-week-ever-sprouts-farmers-market-analysts-slash-price-targets-on-weak-outlook/cZUhZuZR9Tc",
-          "publishedAt": "2026-10-30T07:52:22.000Z",
+          "source": "seekingalpha",
+          "sourceId": "seekingalpha",
+          "url": "https://seekingalpha.com/news/4661161-reddit-blames-google-ai-for-traffic-fall-tests-sign-in-requirement?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+          "publishedAt": "2026-10-30T06:14:49.000Z",
           "image": {
-            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2288202062_bf704522b8.jpg",
+            "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048288996/image_1048288996.jpg?io=getty-c-w630",
             "kind": "photo"
           },
-          "score": 90,
+          "score": 80,
           "reasons": [
-            "move -23.2%",
-            "keywords: outlook"
+            "move -22.8%"
           ],
-          "titleHe": "מניית SFM בדרך לשבוע הגרוע בתולדותיה: Sprouts Farmers Market סופגת ביקורת فوוול-סטריט כש אנליסטים חותכים מחירי יעד בעקבות תחזית חלשה",
+          "titleHe": "רדיט מאשימה את ה-AI של גוגל בירידה בתנועה, ובוחנת דרישת התחברות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -81,37 +80,40 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-30T08:03:41.691Z",
+      "updatedAt": "2026-10-30T08:56:53.363Z",
       "items": [
         {
-          "id": "calcalist:e3170e77130f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "תנועות קלות במט\"ח אחרי שבוע תנודתי: הדולר סביב 3.12 שקלים",
+          "id": "calcalist:f669c39eb30f0:0",
+          "ticker": "POLI",
+          "change": -0.93,
+          "title": "BP ריסקה את התחזיות - הרווח ברבעון זינק פי ארבעה",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:e3170e77130f0:0/",
-          "publishedAt": "2026-10-30T07:51:06.000Z",
-          "image": null,
-          "fallback": true,
-          "score": 0,
+          "url": "https://www.tradingview.com/news/calcalist:f669c39eb30f0:0/",
+          "publishedAt": "2026-10-30T08:50:12.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/bank-hapoalim--big.svg",
+            "kind": "logo"
+          },
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: רווח"
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-30/ty-article/.premium/000001a1-8b87-def7-adad-8bff81d40000",
+          "id": "https://www.themarker.com/markets/2026-10-30/ty-article-live/000001a1-8bd7-dd01-a9ed-abfff9250000",
           "ticker": null,
           "change": null,
-          "title": "בזמן שהבורסה ממתינה להתפזרות הערפל הפוליטי, ירידות ה–AI מחו\"ל יגיעו היום",
+          "title": "הדואליות מושכות את הבורסה למטה: ת\"א 35 מאבד 1.1% בפתיחה",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-30/ty-article/.premium/000001a1-8b87-def7-adad-8bff81d40000",
-          "publishedAt": "2026-10-30T06:54:35.000Z",
+          "url": "https://www.themarker.com/markets/2026-10-30/ty-article-live/000001a1-8bd7-dd01-a9ed-abfff9250000",
+          "publishedAt": "2026-10-30T08:08:18.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-8b8d-def7-adad-8bfda6380001/cb/ec/2abccdd14e418a3f32dcf53be633/547490-3.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000018b-1337-d2fc-a59f-d33f1c1e0000/22/9e/ddfdeb394d299abd42d54a399d88/573766.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
