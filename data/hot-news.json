@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T17:21:51.008Z",
+  "generatedAt": "2026-10-30T18:05:05.658Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T17:21:51.008Z",
+      "updatedAt": "2026-10-30T18:05:05.658Z",
       "items": [
         {
           "id": "DJN_DN20261030005005:0",
           "ticker": "INTC",
-          "change": -29.92,
+          "change": -30.25,
           "title": "Amazon and Intel Tank the AI Trade. The 1 Factor Linking Big Tech's Underwhelming Earnings. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,37 +36,37 @@
           },
           "score": 135,
           "reasons": [
-            "move -29.9%",
-            "volume x2.8",
+            "move -30.3%",
+            "volume x3.1",
             "leading source dow-jones",
             "keywords: earnings",
-            "5 sources"
+            "4 sources"
           ],
           "titleHe": "אמזון ואינטל מפילות את סקטור ה-AI. הגורם האחד שמקשר את הדוחות המאכזבים של ענקיות הטק",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46G1UD:0",
-          "ticker": "CPRI",
-          "change": 16,
-          "title": "Capri Holdings Ltd reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "DJN_DN20261030009162:0",
+          "ticker": "RDDT",
+          "change": -30.09,
+          "title": "Reddit Is Maintained at Buy by Truist Securities",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46G1UD:0-capri-holdings-ltd-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-10-30T14:24:19.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030009162:0-reddit-is-maintained-at-buy-by-truist-securities/",
+          "publishedAt": "2026-10-30T17:05:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/capri-holdings--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/reddit--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 115,
           "reasons": [
-            "move 16.0%",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "4 sources"
+            "move -30.1%",
+            "volume x4.2",
+            "leading source dow-jones",
+            "2 sources"
           ],
-          "titleHe": "קאפרי הולדינגס מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "titleHe": "Truist Securities ממליצים על רדיט בהמלצת קנייה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
