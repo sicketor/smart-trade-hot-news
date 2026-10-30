@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T11:26:50.347Z",
+  "generatedAt": "2026-10-30T12:16:16.703Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T11:26:50.347Z",
+      "updatedAt": "2026-10-30T12:16:16.703Z",
       "items": [
+        {
+          "id": "tag:reuters.com,2026:newsml_L3N46G189:0",
+          "ticker": "RDDT",
+          "change": -20.99,
+          "title": "Reddit, Pinterest shares tumble on weak user and revenue growth",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G189:0-reddit-pinterest-shares-tumble-on-weak-user-and-revenue-growth/",
+          "publishedAt": "2026-10-30T11:39:14.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/reddit--big.svg",
+            "kind": "logo"
+          },
+          "score": 120,
+          "reasons": [
+            "move -21.0%",
+            "leading source reuters",
+            "keywords: revenue",
+            "6 sources"
+          ],
+          "titleHe": "מניות רדיט ופינטרסט נופלות עקב צמיחה חלשה במשתמשים ובכנסות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261030005005:0",
           "ticker": "INTC",
-          "change": -25.27,
+          "change": -25.24,
           "title": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech's Underwhelming Earnings. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,36 +60,12 @@
           },
           "score": 120,
           "reasons": [
-            "move -25.3%",
+            "move -25.2%",
             "leading source dow-jones",
             "keywords: earnings",
-            "4 sources"
+            "8 sources"
           ],
           "titleHe": "אמזון ואינטל מפילות את מניות הבינה המלאכותית. הגורם היחיד שמקשר בין הדוחות הפושרים של ענקיות הטק",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261029004043:0",
-          "ticker": "RDDT",
-          "change": -19.59,
-          "title": "Reddit Earnings Highlight the Company's Google Problem. The Stock Sinks. — Barrons.com",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261029004043:0-reddit-earnings-highlight-the-company-s-google-problem-the-stock-sinks-barrons-com/",
-          "publishedAt": "2026-10-30T09:25:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/reddit--big.svg",
-            "kind": "logo"
-          },
-          "score": 120,
-          "reasons": [
-            "move -19.6%",
-            "leading source dow-jones",
-            "keywords: earnings",
-            "3 sources"
-          ],
-          "titleHe": "התוצאות של Reddit ממחישות את בעיית הגוגל של החברה. המניה צונחת",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,38 +84,35 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-30T11:26:50.347Z",
+      "updatedAt": "2026-10-30T12:16:16.703Z",
       "items": [
         {
-          "id": "calcalist:f669c39eb30f0:0",
-          "ticker": "POLI",
-          "change": -0.74,
-          "title": "BP ריסקה את התחזיות - הרווח ברבעון זינק פי ארבעה",
+          "id": "calcalist:ac208b3fc30f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "ניו מד מבקשת לאשר לינקי קוינט שכר חודשי של 100 אלף שקל, ואופציות בשווי 3 מיליון שקל",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:f669c39eb30f0:0/",
-          "publishedAt": "2026-10-30T08:50:12.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/bank-hapoalim--big.svg",
-            "kind": "logo"
-          },
-          "score": 50,
+          "url": "https://www.tradingview.com/news/calcalist:ac208b3fc30f0:0/",
+          "publishedAt": "2026-10-30T11:51:20.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: רווח"
+            "fallback: latest market news"
           ]
         },
         {
-          "id": "calcalist:1e515efe230f0:0",
+          "id": "calcalist:352d8759f30f0:0",
           "ticker": null,
           "change": null,
-          "title": "אנג'ל משתלטת על פעילות הפיתות בצפון אמריקה, תמורת 21.9 מיליון דולר",
+          "title": "אהרון פרנקל עלה להחזקה של 20% באלוני חץ, תמורת 121 מיליון שקל",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:1e515efe230f0:0/",
-          "publishedAt": "2026-10-30T11:12:27.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:352d8759f30f0:0/",
+          "publishedAt": "2026-10-30T11:33:15.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
