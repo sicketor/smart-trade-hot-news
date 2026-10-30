@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T18:51:48.279Z",
+  "generatedAt": "2026-10-30T19:38:11.455Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T18:51:48.279Z",
+      "updatedAt": "2026-10-30T19:38:11.455Z",
       "items": [
         {
           "id": "DJN_DN20261030005005:0",
           "ticker": "INTC",
-          "change": -31.26,
+          "change": -30.89,
           "title": "Amazon and Intel Tank the AI Trade. The 1 Factor Linking Big Tech's Underwhelming Earnings. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,8 +36,8 @@
           },
           "score": 135,
           "reasons": [
-            "move -31.3%",
-            "volume x3.3",
+            "move -30.9%",
+            "volume x3.6",
             "leading source dow-jones",
             "keywords: earnings",
             "5 sources"
@@ -46,27 +46,27 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261030009637:0",
-          "ticker": "BFAM",
-          "change": -19.44,
-          "title": "Bright Horizons Family Is Maintained at Underweight by Morgan Stanley",
+          "id": "DJN_DN20261030009162:0",
+          "ticker": "RDDT",
+          "change": -29.7,
+          "title": "Reddit Is Maintained at Buy by Truist Securities",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030009637:0-bright-horizons-family-is-maintained-at-underweight-by-morgan-stanley/",
-          "publishedAt": "2026-10-30T18:00:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030009162:0-reddit-is-maintained-at-buy-by-truist-securities/",
+          "publishedAt": "2026-10-30T17:05:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/bright-horizons--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/reddit--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 125,
           "reasons": [
-            "move -19.4%",
-            "volume x5.8",
+            "move -29.7%",
+            "volume x4.9",
             "leading source dow-jones",
-            "2 sources"
+            "3 sources"
           ],
-          "titleHe": "מוורגן סטנלי: המלצת המשקל החסר ל-Bright Horizons Family נשמרת",
+          "titleHe": "רדיט ממשיכה לקבל המלצת קנייה מ-Truist Securities",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
