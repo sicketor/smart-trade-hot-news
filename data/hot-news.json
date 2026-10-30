@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T09:54:20.490Z",
+  "generatedAt": "2026-10-30T10:50:18.206Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,35 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T09:54:20.490Z",
+      "updatedAt": "2026-10-30T10:50:18.206Z",
       "items": [
-        {
-          "id": "DJN_DN20261030003458:0",
-          "ticker": "INTC",
-          "change": -25.29,
-          "title": "Euro Credit Default Protection Costs Climb as Risk Appetite Falls — Market Talk",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030003458:0-euro-credit-default-protection-costs-climb-as-risk-appetite-falls-market-talk/",
-          "publishedAt": "2026-10-30T09:51:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
-            "kind": "logo"
-          },
-          "score": 110,
-          "reasons": [
-            "move -25.3%",
-            "leading source dow-jones",
-            "4 sources"
-          ],
-          "titleHe": "עלות הגנת חדלות הפירעון באירופה עולה עם הירידה בתיאבון הסיכון",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "DJN_DN20261029004043:0",
           "ticker": "RDDT",
-          "change": -22.4,
+          "change": -22.01,
           "title": "Reddit Earnings Highlight the Company's Google Problem. The Stock Sinks. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -57,13 +34,37 @@
             "url": "https://s3-symbol-logo.tradingview.com/reddit--big.svg",
             "kind": "logo"
           },
-          "score": 100,
+          "score": 120,
           "reasons": [
-            "move -22.4%",
+            "move -22.0%",
             "leading source dow-jones",
-            "keywords: earnings"
+            "keywords: earnings",
+            "3 sources"
           ],
           "titleHe": "התוצאות של Reddit ממחישות את בעיית הגוגל של החברה. המניה צונחת",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261030004378:0",
+          "ticker": "INTC",
+          "change": -24.94,
+          "title": "Why Intel Is Down 25% Premarket — WSJ",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030004378:0-why-intel-is-down-25-premarket-wsj/",
+          "publishedAt": "2026-10-30T10:38:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
+            "kind": "logo"
+          },
+          "score": 110,
+          "reasons": [
+            "move -24.9%",
+            "leading source dow-jones",
+            "4 sources"
+          ],
+          "titleHe": "למה מניית אינטל נופלת ב-25% במסחר המוקדם",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,12 +83,12 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-30T09:54:20.490Z",
+      "updatedAt": "2026-10-30T10:50:18.206Z",
       "items": [
         {
           "id": "calcalist:f669c39eb30f0:0",
           "ticker": "POLI",
-          "change": -0.48,
+          "change": -0.57,
           "title": "BP ריסקה את התחזיות - הרווח ברבעון זינק פי ארבעה",
           "lang": "he",
           "source": "כלכליסט",
@@ -108,7 +109,7 @@
           "id": "https://www.themarker.com/markets/2026-10-30/ty-article-live/000001a1-8bd7-dd01-a9ed-abfff9250000",
           "ticker": null,
           "change": null,
-          "title": "הדואליות מושכות את הבורסה למטה: ת\"א 35 מאבד 1.1% בפתיחה",
+          "title": "ת\"א 35 מאבד 1.6% בעקבות הדואליות; אל על מתחזקת ב-3.5%",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
