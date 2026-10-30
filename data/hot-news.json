@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T20:20:31.703Z",
+  "generatedAt": "2026-10-30T08:03:41.691Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,51 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-29T20:20:31.703Z",
+      "updatedAt": "2026-10-30T08:03:41.691Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46F3FD:0",
-          "ticker": "CROX",
-          "change": 25.54,
-          "title": "Crocs, Inc. reports results for the quarter ended September 30 - Earnings Summary",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46F3FD:0-crocs-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-10-29T19:43:58.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/crocs--big.svg",
-            "kind": "logo"
-          },
-          "score": 145,
-          "reasons": [
-            "move 25.5%",
-            "volume x4.6",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "3 sources"
-          ],
-          "titleHe": "קרוקס מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261029014093:0",
-          "ticker": "NOW",
-          "change": -26.95,
-          "title": "ServiceNow Stock Is Worst in S&P 500 After a Key Revenue Measure Fell Short — Barrons.com",
+          "id": "DJN_DN20261030002244:0",
+          "ticker": "GOOG",
+          "change": -11.87,
+          "title": "Dollar Falls as Renewed AI Concerns Weigh — Market Talk",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261029014093:0-servicenow-stock-is-worst-in-s-p-500-after-a-key-revenue-measure-fell-short-barrons-com/",
-          "publishedAt": "2026-10-29T17:44:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030002244:0-dollar-falls-as-renewed-ai-concerns-weigh-market-talk/",
+          "publishedAt": "2026-10-30T07:42:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/servicenow--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/alphabet--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 94,
           "reasons": [
-            "move -26.9%",
-            "volume x4.9",
+            "move -11.9%",
             "leading source dow-jones",
-            "keywords: revenue",
             "2 sources"
           ],
-          "titleHe": "מניית ServiceNow רושמת את הביצועים הגרועים ביותר ב-S&P 500 לאחר שנתון הכנסות מרכזי החטיא את הציפיות",
+          "titleHe": "הדולר יורד על רקע חששות מחודשים סביב הבינה המלאכותית",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "stocktwits:3a5b9f448094b:0",
+          "ticker": "SFM",
+          "change": -23.16,
+          "title": "SFM Stock Heads For Worst Week Ever: Sprouts Farmers Market Faces Wall Street’s Ire As Analysts Slash Price Targets On Weak Outlook",
+          "lang": "en",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/sfm-stock-heads-for-worst-week-ever-sprouts-farmers-market-analysts-slash-price-targets-on-weak-outlook/cZUhZuZR9Tc",
+          "publishedAt": "2026-10-30T07:52:22.000Z",
+          "image": {
+            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2288202062_bf704522b8.jpg",
+            "kind": "photo"
+          },
+          "score": 90,
+          "reasons": [
+            "move -23.2%",
+            "keywords: outlook"
+          ],
+          "titleHe": "מניית SFM בדרך לשבוע הגרוע בתולדותיה: Sprouts Farmers Market סופגת ביקורת فوוול-סטריט כש אנליסטים חותכים מחירי יעד בעקבות תחזית חלשה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -86,36 +81,39 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-29T15:28:47.145Z",
+      "updatedAt": "2026-10-30T08:03:41.691Z",
       "items": [
         {
-          "id": "calcalist:17082635a30f0:0",
+          "id": "calcalist:e3170e77130f0:0",
           "ticker": null,
           "change": null,
-          "title": "הבחירות לא הכריעו את השלטון, אבל הכריעו את הריבית",
+          "title": "תנועות קלות במט\"ח אחרי שבוע תנודתי: הדולר סביב 3.12 שקלים",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:17082635a30f0:0/",
-          "publishedAt": "2026-10-29T14:43:58.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:e3170e77130f0:0/",
+          "publishedAt": "2026-10-30T07:51:06.000Z",
           "image": null,
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: ריבית"
+            "fallback: latest market news"
           ]
         },
         {
-          "id": "calcalist:6b1d9ac7830f0:0",
+          "id": "https://www.themarker.com/markets/2026-10-30/ty-article/.premium/000001a1-8b87-def7-adad-8bff81d40000",
           "ticker": null,
           "change": null,
-          "title": "כלכלת ארה\"ב צמחה ב-3.4% ברבעון השלישי, מעל התחזיות",
+          "title": "בזמן שהבורסה ממתינה להתפזרות הערפל הפוליטי, ירידות ה–AI מחו\"ל יגיעו היום",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:6b1d9ac7830f0:0/",
-          "publishedAt": "2026-10-29T12:59:26.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-10-30/ty-article/.premium/000001a1-8b87-def7-adad-8bff81d40000",
+          "publishedAt": "2026-10-30T06:54:35.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-8b8d-def7-adad-8bfda6380001/cb/ec/2abccdd14e418a3f32dcf53be633/547490-3.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
