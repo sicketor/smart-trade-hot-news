@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:50:18.206Z",
+  "generatedAt": "2026-10-30T11:26:50.347Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T10:50:18.206Z",
+      "updatedAt": "2026-10-30T11:26:50.347Z",
       "items": [
+        {
+          "id": "DJN_DN20261030005005:0",
+          "ticker": "INTC",
+          "change": -25.27,
+          "title": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech's Underwhelming Earnings. — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030005005:0-amazon-and-intel-tank-the-ai-trade-the-one-factor-linking-big-tech-s-underwhelming-earnings-barrons-com/",
+          "publishedAt": "2026-10-30T11:02:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
+            "kind": "logo"
+          },
+          "score": 120,
+          "reasons": [
+            "move -25.3%",
+            "leading source dow-jones",
+            "keywords: earnings",
+            "4 sources"
+          ],
+          "titleHe": "אמזון ואינטל מפילות את מניות הבינה המלאכותית. הגורם היחיד שמקשר בין הדוחות הפושרים של ענקיות הטק",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261029004043:0",
           "ticker": "RDDT",
-          "change": -22.01,
+          "change": -19.59,
           "title": "Reddit Earnings Highlight the Company's Google Problem. The Stock Sinks. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,35 +60,12 @@
           },
           "score": 120,
           "reasons": [
-            "move -22.0%",
+            "move -19.6%",
             "leading source dow-jones",
             "keywords: earnings",
             "3 sources"
           ],
           "titleHe": "התוצאות של Reddit ממחישות את בעיית הגוגל של החברה. המניה צונחת",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261030004378:0",
-          "ticker": "INTC",
-          "change": -24.94,
-          "title": "Why Intel Is Down 25% Premarket — WSJ",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030004378:0-why-intel-is-down-25-premarket-wsj/",
-          "publishedAt": "2026-10-30T10:38:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
-            "kind": "logo"
-          },
-          "score": 110,
-          "reasons": [
-            "move -24.9%",
-            "leading source dow-jones",
-            "4 sources"
-          ],
-          "titleHe": "למה מניית אינטל נופלת ב-25% במסחר המוקדם",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,12 +84,12 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-30T10:50:18.206Z",
+      "updatedAt": "2026-10-30T11:26:50.347Z",
       "items": [
         {
           "id": "calcalist:f669c39eb30f0:0",
           "ticker": "POLI",
-          "change": -0.57,
+          "change": -0.74,
           "title": "BP ריסקה את התחזיות - הרווח ברבעון זינק פי ארבעה",
           "lang": "he",
           "source": "כלכליסט",
@@ -106,19 +107,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-10-30/ty-article-live/000001a1-8bd7-dd01-a9ed-abfff9250000",
+          "id": "calcalist:1e515efe230f0:0",
           "ticker": null,
           "change": null,
-          "title": "ת\"א 35 מאבד 1.6% בעקבות הדואליות; אל על מתחזקת ב-3.5%",
+          "title": "אנג'ל משתלטת על פעילות הפיתות בצפון אמריקה, תמורת 21.9 מיליון דולר",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-10-30/ty-article-live/000001a1-8bd7-dd01-a9ed-abfff9250000",
-          "publishedAt": "2026-10-30T08:08:18.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000018b-1337-d2fc-a59f-d33f1c1e0000/22/9e/ddfdeb394d299abd42d54a399d88/573766.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:1e515efe230f0:0/",
+          "publishedAt": "2026-10-30T11:12:27.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
