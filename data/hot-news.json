@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T08:56:53.363Z",
+  "generatedAt": "2026-10-30T09:54:20.490Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,50 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T08:56:53.363Z",
+      "updatedAt": "2026-10-30T09:54:20.490Z",
       "items": [
         {
-          "id": "tradingview:bdcc49922094b:0",
+          "id": "DJN_DN20261030003458:0",
           "ticker": "INTC",
-          "change": -26.51,
-          "title": "INTC: Intel Stock Plunges 24% as Weak Outlook Overshadows Strong Earnings Growth",
+          "change": -25.29,
+          "title": "Euro Credit Default Protection Costs Climb as Risk Appetite Falls — Market Talk",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com",
-          "publishedAt": "2026-10-30T06:22:22.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261030003458:0-euro-credit-default-protection-costs-climb-as-risk-appetite-falls-market-talk/",
+          "publishedAt": "2026-10-30T09:51:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
             "kind": "logo"
           },
           "score": 110,
           "reasons": [
-            "move -26.5%",
-            "keywords: earnings, outlook",
-            "2 sources"
+            "move -25.3%",
+            "leading source dow-jones",
+            "4 sources"
           ],
-          "titleHe": "אינטל: מניית אינטל צוללת ב-24% בעקבות תחזית חלשה שמאפילה על צמיחה חזקה ברווחים",
+          "titleHe": "עלות הגנת חדלות הפירעון באירופה עולה עם הירידה בתיאבון הסיכון",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "seekingalpha:2a0f55b28094b:0",
+          "id": "DJN_DN20261029004043:0",
           "ticker": "RDDT",
-          "change": -22.83,
-          "title": "Reddit blames Google AI for traffic fall, tests sign-in requirement",
+          "change": -22.4,
+          "title": "Reddit Earnings Highlight the Company's Google Problem. The Stock Sinks. — Barrons.com",
           "lang": "en",
-          "source": "seekingalpha",
-          "sourceId": "seekingalpha",
-          "url": "https://seekingalpha.com/news/4661161-reddit-blames-google-ai-for-traffic-fall-tests-sign-in-requirement?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
-          "publishedAt": "2026-10-30T06:14:49.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261029004043:0-reddit-earnings-highlight-the-company-s-google-problem-the-stock-sinks-barrons-com/",
+          "publishedAt": "2026-10-30T09:25:00.000Z",
           "image": {
-            "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048288996/image_1048288996.jpg?io=getty-c-w630",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/reddit--big.svg",
+            "kind": "logo"
           },
-          "score": 80,
+          "score": 100,
           "reasons": [
-            "move -22.8%"
+            "move -22.4%",
+            "leading source dow-jones",
+            "keywords: earnings"
           ],
-          "titleHe": "רדיט מאשימה את ה-AI של גוגל בירידה בתנועה, ובוחנת דרישת התחברות",
+          "titleHe": "התוצאות של Reddit ממחישות את בעיית הגוגל של החברה. המניה צונחת",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -80,12 +82,12 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-10-30T08:56:53.363Z",
+      "updatedAt": "2026-10-30T09:54:20.490Z",
       "items": [
         {
           "id": "calcalist:f669c39eb30f0:0",
           "ticker": "POLI",
-          "change": -0.93,
+          "change": -0.48,
           "title": "BP ריסקה את התחזיות - הרווח ברבעון זינק פי ארבעה",
           "lang": "he",
           "source": "כלכליסט",
