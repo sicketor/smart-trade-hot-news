@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T16:02:39.993Z",
+  "generatedAt": "2026-11-02T17:06:19.083Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T16:02:39.993Z",
+      "updatedAt": "2026-11-02T17:06:19.083Z",
       "items": [
         {
-          "id": "DJN_DN20261102004240:0",
-          "ticker": "TEM",
-          "change": 11.44,
-          "title": "Tempus AI's Cancer Screen Business Drives Revenue Up 23%, While a Major Purchase Draws Closer — Barrons.com",
+          "id": "DJN_DN20261102006569:0",
+          "ticker": "IDXX",
+          "change": 19.55,
+          "title": "Idexx Laboratories Shares Gain on Outlook Boost, Higher 3Q Results",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261102004240:0-tempus-ai-s-cancer-screen-business-drives-revenue-up-23-while-a-major-purchase-draws-closer-barrons-com/",
-          "publishedAt": "2026-11-02T13:11:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/tempus-ai--big.svg",
-            "kind": "logo"
-          },
-          "score": 112,
-          "reasons": [
-            "move 11.4%",
-            "leading source dow-jones",
-            "keywords: revenue",
-            "4 sources"
-          ],
-          "titleHe": "הפעילות של Tempus AI בתחום סרטן מעלה את ההכנסות ב-23%, בזמן שרכישה גדולה מתקרבת",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "urn:summary_document_transcript:quartr.com:4433280:0",
-          "ticker": "IDXX",
-          "change": 16.4,
-          "title": "IDXX: 10% organic growth and higher guidance, powered by diagnostics innovation and execution",
-          "lang": "en",
-          "source": "quartr",
-          "sourceId": "quartr",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4433280:0-idxx-10-organic-growth-and-higher-guidance-powered-by-diagnostics-innovation-and-execution/",
-          "publishedAt": "2026-11-02T15:36:20.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261102006569:0-idexx-laboratories-shares-gain-on-outlook-boost-higher-3q-results/",
+          "publishedAt": "2026-11-02T16:55:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/idexx-laboratories--big.svg",
             "kind": "logo"
           },
-          "score": 110,
+          "score": 130,
           "reasons": [
-            "move 16.4%",
-            "keywords: guidance",
+            "move 19.6%",
+            "leading source dow-jones",
+            "keywords: results, outlook",
             "3 sources"
           ],
-          "titleHe": "IDXX: צמיחה אורגנית של 10% והעלאת תחזית, הודות לחדשנות באבחון ובביצוע",
+          "titleHe": "מניות Idexx Laboratories עולות לאחר העלאת תחזית ותוצאות חזקות ברבעון ה-3",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261102005142:0",
+          "ticker": "LITE",
+          "change": -12.97,
+          "title": "Marvell Could Be Making a $115 Billion Mistake With Lumentum Purchase — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261102005142:0-marvell-could-be-making-a-115-billion-mistake-with-lumentum-purchase-barrons-com/",
+          "publishedAt": "2026-11-02T15:18:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
+            "kind": "logo"
+          },
+          "score": 107,
+          "reasons": [
+            "move -13.0%",
+            "leading source dow-jones",
+            "8 sources"
+          ],
+          "titleHe": "Marvell עשויה לבצע טעות בשווי 115 מיליארד דולר עם רכישת Lumentum",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
