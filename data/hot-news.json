@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T08:43:35.765Z",
+  "generatedAt": "2026-11-02T09:44:24.654Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,55 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-10-30T20:23:24.528Z",
+      "updatedAt": "2026-11-02T09:44:24.654Z",
       "items": [
         {
-          "id": "DJN_DN20261030010670:0",
-          "ticker": "INTC",
-          "change": -28.58,
-          "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+          "id": "stocktwits:ba3047f47094b:0",
+          "ticker": "PGEN",
+          "change": -20.66,
+          "title": "PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030010670:0-u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling/",
-          "publishedAt": "2026-10-30T20:11:00.000Z",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t",
+          "publishedAt": "2026-11-02T08:40:18.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
-            "kind": "logo"
+            "url": "https://news.stocktwits-cdn.com/large_precigen_ae772e86d9.jpg",
+            "kind": "photo"
           },
-          "score": 135,
+          "score": 100,
           "reasons": [
-            "move -28.6%",
-            "volume x4.5",
-            "leading source dow-jones",
-            "keywords: earnings",
-            "4 sources"
+            "move -20.7%",
+            "keywords: earnings, buyout"
           ],
-          "titleHe": "מניות ארה\"ב יורדות בעקבות דוחות אמזון ואינטל שמעוררים גל מכירות נוסף בתחום ה-AI",
+          "titleHe": "מניית PGEN צונחת טרום המסחר: משקיעי הריטייל מזהים הזדמנות לרכישה בזמן שמתחרת Inovio טורפת את הקלפים לקראת הדוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261030009637:0",
-          "ticker": "BFAM",
-          "change": -17.92,
-          "title": "Bright Horizons Family Is Maintained at Underweight by Morgan Stanley",
+          "id": "DJN_DN20261102000139:0",
+          "ticker": "PKX",
+          "change": 5.62,
+          "title": "Posco Holdings Quarterly Net Profit Falls, Missing Estimates",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261030009637:0-bright-horizons-family-is-maintained-at-underweight-by-morgan-stanley/",
-          "publishedAt": "2026-10-30T18:00:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261102000139:0-posco-holdings-quarterly-net-profit-falls-missing-estimates/",
+          "publishedAt": "2026-11-02T06:55:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/bright-horizons--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/posco--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 95,
           "reasons": [
-            "move -17.9%",
-            "volume x8.2",
+            "move 5.6%",
             "leading source dow-jones",
-            "2 sources"
+            "keywords: profit",
+            "3 sources"
           ],
-          "titleHe": "בצמרת מורגן סטנלי: המלצת Underweight למניית Bright Horizons Family",
+          "titleHe": "הרווח הנקי הרבעוני של Posco Holdings יורד ומחמיץ את תחזיות האנליסטים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -85,18 +82,18 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-02T08:43:35.765Z",
+      "updatedAt": "2026-11-02T09:44:24.654Z",
       "items": [
         {
-          "id": "calcalist:09e9406d430f0:0",
+          "id": "calcalist:7024572ed30f0:0",
           "ticker": null,
           "change": null,
-          "title": "הדולר מטפס ל-3.13 שקלים, אך נחלש מול היורו לקראת בחירות האמצע",
+          "title": "למרות ירידות אוקטובר בבורסה: המשקיעים הזרים רכשו מניות בתל אביב ב-920 מיליון שקל",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:09e9406d430f0:0/",
-          "publishedAt": "2026-11-02T08:23:38.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:7024572ed30f0:0/",
+          "publishedAt": "2026-11-02T09:31:41.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
@@ -105,19 +102,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-11-02/ty-article/000001a1-9ade-dc07-a3f5-dadf8dcc0000",
+          "id": "calcalist:aba10b31e30f0:0",
           "ticker": null,
           "change": null,
-          "title": "איך הזרים רואים את הבורסה אחרי הבחירות? התשובה במייל מבנק שווייצרי",
+          "title": "אוקטובר בקרנות: גיוס של כ-7.6 מיליארד שקלים, מתחזק המעבר ממניות בישראל לחו\"ל",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-02/ty-article/000001a1-9ade-dc07-a3f5-dadf8dcc0000",
-          "publishedAt": "2026-11-02T06:52:07.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-9af0-db9a-a1b3-9af2fb6a0000/1a/d8/0bca9b7f42e98afce66bc065ea79/420389.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:aba10b31e30f0:0/",
+          "publishedAt": "2026-11-02T09:07:18.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
