@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T14:59:38.769Z",
+  "generatedAt": "2026-11-02T16:02:39.993Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T14:59:38.769Z",
+      "updatedAt": "2026-11-02T16:02:39.993Z",
       "items": [
         {
-          "id": "DJN_DN20261102004802:0",
-          "ticker": "LITE",
-          "change": -9.32,
-          "title": "Lumentum Logs Sharply Higher Profit, Revenue in F1Q — Market Talk",
+          "id": "DJN_DN20261102004240:0",
+          "ticker": "TEM",
+          "change": 11.44,
+          "title": "Tempus AI's Cancer Screen Business Drives Revenue Up 23%, While a Major Purchase Draws Closer — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261102004802:0-lumentum-logs-sharply-higher-profit-revenue-in-f1q-market-talk/",
-          "publishedAt": "2026-11-02T13:55:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261102004240:0-tempus-ai-s-cancer-screen-business-drives-revenue-up-23-while-a-major-purchase-draws-closer-barrons-com/",
+          "publishedAt": "2026-11-02T13:11:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/tempus-ai--big.svg",
             "kind": "logo"
           },
-          "score": 116,
+          "score": 112,
           "reasons": [
-            "move -9.3%",
+            "move 11.4%",
             "leading source dow-jones",
-            "keywords: revenue, profit",
-            "13 sources"
+            "keywords: revenue",
+            "4 sources"
           ],
-          "titleHe": "לומנטום מדווחת על זינוק חדש ברווח ובהכנסות ברבעון הראשון",
+          "titleHe": "הפעילות של Tempus AI בתחום סרטן מעלה את ההכנסות ב-23%, בזמן שרכישה גדולה מתקרבת",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46J0EW:0",
-          "ticker": "KRYS",
-          "change": -9.2,
-          "title": "Krystal Biotech Q3 product revenue rises 30% on VYJUVEK demand",
+          "id": "urn:summary_document_transcript:quartr.com:4433280:0",
+          "ticker": "IDXX",
+          "change": 16.4,
+          "title": "IDXX: 10% organic growth and higher guidance, powered by diagnostics innovation and execution",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J0EW:0-krystal-biotech-q3-product-revenue-rises-30-on-vyjuvek-demand/",
-          "publishedAt": "2026-11-02T12:12:09.000Z",
+          "source": "quartr",
+          "sourceId": "quartr",
+          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4433280:0-idxx-10-organic-growth-and-higher-guidance-powered-by-diagnostics-innovation-and-execution/",
+          "publishedAt": "2026-11-02T15:36:20.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/krystal-biotech--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/idexx-laboratories--big.svg",
             "kind": "logo"
           },
-          "score": 106,
+          "score": 110,
           "reasons": [
-            "move -9.2%",
-            "leading source reuters",
-            "keywords: revenue",
-            "6 sources"
+            "move 16.4%",
+            "keywords: guidance",
+            "3 sources"
           ],
-          "titleHe": "ההכנסות הרבעוניות של Krystal Biotech ממכירת מוצרים צמחו ב-30% הודות לביקוש ל-VYJUVEK",
+          "titleHe": "IDXX: צמיחה אורגנית של 10% והעלאת תחזית, הודות לחדשנות באבחון ובביצוע",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
