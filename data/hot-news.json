@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T09:44:24.654Z",
+  "generatedAt": "2026-11-02T10:42:29.516Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T09:44:24.654Z",
+      "updatedAt": "2026-11-02T10:42:29.516Z",
       "items": [
+        {
+          "id": "tag:reuters.com,2026:newsml_L2N46J0AK:0",
+          "ticker": "CHKP",
+          "change": -8.11,
+          "title": "Israel's Check Point Software Q3 revenue slightly misses estimates",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J0AK:0-israel-s-check-point-software-q3-revenue-slightly-misses-estimates/",
+          "publishedAt": "2026-11-02T10:12:20.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/check-point-software-technologies--big.svg",
+            "kind": "logo"
+          },
+          "score": 102,
+          "reasons": [
+            "move -8.1%",
+            "leading source reuters",
+            "keywords: revenue",
+            "6 sources"
+          ],
+          "titleHe": "ההכנסות של צ'ק פוינט ברבעון ה-3 החטיאו מעט את תחזיות האנליסטים",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "stocktwits:ba3047f47094b:0",
           "ticker": "PGEN",
-          "change": -20.66,
+          "change": -22.05,
           "title": "PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings",
           "lang": "en",
           "source": "stocktwits",
@@ -31,41 +55,20 @@
           "url": "https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t",
           "publishedAt": "2026-11-02T08:40:18.000Z",
           "image": {
-            "url": "https://news.stocktwits-cdn.com/large_precigen_ae772e86d9.jpg",
-            "kind": "photo"
+            "url": "https://s3-symbol-logo.tradingview.com/precigen--big.svg",
+            "kind": "logo"
           },
           "score": 100,
           "reasons": [
-            "move -20.7%",
+            "move -22.0%",
             "keywords: earnings, buyout"
           ],
           "titleHe": "מניית PGEN צונחת טרום המסחר: משקיעי הריטייל מזהים הזדמנות לרכישה בזמן שמתחרת Inovio טורפת את הקלפים לקראת הדוחות",
           "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261102000139:0",
-          "ticker": "PKX",
-          "change": 5.62,
-          "title": "Posco Holdings Quarterly Net Profit Falls, Missing Estimates",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261102000139:0-posco-holdings-quarterly-net-profit-falls-missing-estimates/",
-          "publishedAt": "2026-11-02T06:55:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/posco--big.svg",
-            "kind": "logo"
-          },
-          "score": 95,
-          "reasons": [
-            "move 5.6%",
-            "leading source dow-jones",
-            "keywords: profit",
-            "3 sources"
-          ],
-          "titleHe": "הרווח הנקי הרבעוני של Posco Holdings יורד ומחמיץ את תחזיות האנליסטים",
-          "translatedBy": "gemini-3.5-flash-lite"
         }
+      ],
+      "warnings": [
+        "image https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t: GET https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t -> HTTP 403"
       ]
     },
     "il": {
@@ -82,40 +85,40 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-02T09:44:24.654Z",
+      "updatedAt": "2026-11-02T10:42:29.516Z",
       "items": [
         {
-          "id": "calcalist:7024572ed30f0:0",
+          "id": "calcalist:c1198d49430f0:0",
           "ticker": null,
           "change": null,
-          "title": "למרות ירידות אוקטובר בבורסה: המשקיעים הזרים רכשו מניות בתל אביב ב-920 מיליון שקל",
+          "title": "מניית צ'ק פוינט צונחת בטרום ב-12% אחרי הדוחות; \"המהפך לוקח יותר זמן ממה שחשבנו\"",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:7024572ed30f0:0/",
-          "publishedAt": "2026-11-02T09:31:41.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:c1198d49430f0:0/",
+          "publishedAt": "2026-11-02T10:16:25.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: דוחות"
           ]
         },
         {
-          "id": "calcalist:aba10b31e30f0:0",
+          "id": "calcalist:4fbf3b10c30f0:0",
           "ticker": null,
           "change": null,
-          "title": "אוקטובר בקרנות: גיוס של כ-7.6 מיליארד שקלים, מתחזק המעבר ממניות בישראל לחו\"ל",
+          "title": "גב ים הציגה רבעון שיא, והותירה את התחזית לשנה הנוכחית ול-2028",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:aba10b31e30f0:0/",
-          "publishedAt": "2026-11-02T09:07:18.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:4fbf3b10c30f0:0/",
+          "publishedAt": "2026-11-02T09:54:30.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: תחזית"
           ]
         }
       ]
