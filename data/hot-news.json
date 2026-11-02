@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T10:42:29.516Z",
+  "generatedAt": "2026-11-02T11:38:21.116Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,35 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T10:42:29.516Z",
+      "updatedAt": "2026-11-02T11:38:21.116Z",
       "items": [
+        {
+          "id": "stocktwits:ba3047f47094b:0",
+          "ticker": "PGEN",
+          "change": -18.88,
+          "title": "PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings",
+          "lang": "en",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t",
+          "publishedAt": "2026-11-02T08:40:18.000Z",
+          "image": {
+            "url": "https://news.stocktwits-cdn.com/large_precigen_ae772e86d9.jpg",
+            "kind": "photo"
+          },
+          "score": 110,
+          "reasons": [
+            "move -18.9%",
+            "keywords: earnings, buyout",
+            "2 sources"
+          ],
+          "titleHe": "מניית PGEN צונחת טרום המסחר: משקיעי הריטייל מזהים הזדמנות לרכישה בזמן שמתחרת Inovio טורפת את הקלפים לקראת הדוחות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "tag:reuters.com,2026:newsml_L2N46J0AK:0",
           "ticker": "CHKP",
-          "change": -8.11,
+          "change": -7.96,
           "title": "Israel's Check Point Software Q3 revenue slightly misses estimates",
           "lang": "en",
           "source": "Reuters",
@@ -36,39 +59,14 @@
           },
           "score": 102,
           "reasons": [
-            "move -8.1%",
+            "move -8.0%",
             "leading source reuters",
             "keywords: revenue",
             "6 sources"
           ],
           "titleHe": "ההכנסות של צ'ק פוינט ברבעון ה-3 החטיאו מעט את תחזיות האנליסטים",
           "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "stocktwits:ba3047f47094b:0",
-          "ticker": "PGEN",
-          "change": -22.05,
-          "title": "PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings",
-          "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t",
-          "publishedAt": "2026-11-02T08:40:18.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/precigen--big.svg",
-            "kind": "logo"
-          },
-          "score": 100,
-          "reasons": [
-            "move -22.0%",
-            "keywords: earnings, buyout"
-          ],
-          "titleHe": "מניית PGEN צונחת טרום המסחר: משקיעי הריטייל מזהים הזדמנות לרכישה בזמן שמתחרת Inovio טורפת את הקלפים לקראת הדוחות",
-          "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "image https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t: GET https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t -> HTTP 403"
       ]
     },
     "il": {
@@ -85,18 +83,18 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-02T10:42:29.516Z",
+      "updatedAt": "2026-11-02T11:38:21.116Z",
       "items": [
         {
           "id": "calcalist:c1198d49430f0:0",
           "ticker": null,
           "change": null,
-          "title": "מניית צ'ק פוינט צונחת בטרום ב-12% אחרי הדוחות; \"המהפך לוקח יותר זמן ממה שחשבנו\"",
+          "title": "מניית צ'ק פוינט נופלת בטרום ב-7% אחרי הדוחות; \"המהפך לוקח יותר זמן ממה שחשבנו\"",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:c1198d49430f0:0/",
-          "publishedAt": "2026-11-02T10:16:25.000Z",
+          "publishedAt": "2026-11-02T11:05:45.000Z",
           "image": null,
           "score": 50,
           "reasons": [
@@ -105,20 +103,23 @@
           ]
         },
         {
-          "id": "calcalist:4fbf3b10c30f0:0",
+          "id": "https://www.themarker.com/markets/2026-11-02/ty-article/.premium/000001a1-9bd5-de48-abb1-dff542710000",
           "ticker": null,
           "change": null,
-          "title": "גב ים הציגה רבעון שיא, והותירה את התחזית לשנה הנוכחית ול-2028",
+          "title": "מידרוג: רכישת בית בכפר מעלה את סיכון האשראי של אאורה",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:4fbf3b10c30f0:0/",
-          "publishedAt": "2026-11-02T09:54:30.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-02/ty-article/.premium/000001a1-9bd5-de48-abb1-dff542710000",
+          "publishedAt": "2026-11-02T10:49:43.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-9be0-de52-a5f9-bff4636f0000/4e/d7/29cc91f448299893dfdac028d54b/747207.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "score": 50,
           "reasons": [
-            "leading source calcalist",
-            "keywords: תחזית"
+            "leading source themarker",
+            "keywords: רכישת"
           ]
         }
       ]
