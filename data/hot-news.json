@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T18:02:18.257Z",
+  "generatedAt": "2026-11-02T18:58:01.269Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T18:02:18.257Z",
+      "updatedAt": "2026-11-02T18:58:01.269Z",
       "items": [
         {
           "id": "DJN_DN20261102006569:0",
           "ticker": "IDXX",
-          "change": 20.66,
+          "change": 20.16,
           "title": "Idexx Laboratories Shares Gain on Outlook Boost, Higher 3Q Results",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,8 +36,8 @@
           },
           "score": 145,
           "reasons": [
-            "move 20.7%",
-            "volume x2.2",
+            "move 20.2%",
+            "volume x2.5",
             "leading source dow-jones",
             "keywords: results, outlook",
             "3 sources"
@@ -46,26 +46,26 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261102005142:0",
+          "id": "tag:reuters.com,2026:newsml_L6N46J10T:0",
           "ticker": "LITE",
-          "change": -15.54,
-          "title": "Marvell Could Be Making a $115 Billion Mistake With Lumentum Purchase — Barrons.com",
+          "change": -16.34,
+          "title": "China adds latency to Marvell's optical mega-deal",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261102005142:0-marvell-could-be-making-a-115-billion-mistake-with-lumentum-purchase-barrons-com/",
-          "publishedAt": "2026-11-02T15:18:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46J10T:0-china-adds-latency-to-marvell-s-optical-mega-deal/",
+          "publishedAt": "2026-11-02T18:47:59.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
             "kind": "logo"
           },
           "score": 110,
           "reasons": [
-            "move -15.5%",
-            "leading source dow-jones",
-            "5 sources"
+            "move -16.3%",
+            "leading source reuters",
+            "7 sources"
           ],
-          "titleHe": "Marvell עשויה לבצע טעות בשווי 115 מיליארד דולר עם רכישת Lumentum",
+          "titleHe": "סין מעכבת את עסקת הענק של Marvell בתחום האופטי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
