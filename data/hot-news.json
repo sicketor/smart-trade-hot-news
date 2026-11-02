@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T18:58:01.269Z",
+  "generatedAt": "2026-11-02T19:55:31.773Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,37 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T18:58:01.269Z",
+      "updatedAt": "2026-11-02T19:55:31.773Z",
       "items": [
-        {
-          "id": "DJN_DN20261102006569:0",
-          "ticker": "IDXX",
-          "change": 20.16,
-          "title": "Idexx Laboratories Shares Gain on Outlook Boost, Higher 3Q Results",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261102006569:0-idexx-laboratories-shares-gain-on-outlook-boost-higher-3q-results/",
-          "publishedAt": "2026-11-02T16:55:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/idexx-laboratories--big.svg",
-            "kind": "logo"
-          },
-          "score": 145,
-          "reasons": [
-            "move 20.2%",
-            "volume x2.5",
-            "leading source dow-jones",
-            "keywords: results, outlook",
-            "3 sources"
-          ],
-          "titleHe": "מניות Idexx Laboratories עולות לאחר העלאת תחזית ותוצאות חזקות ברבעון ה-3",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
         {
           "id": "tag:reuters.com,2026:newsml_L6N46J10T:0",
           "ticker": "LITE",
-          "change": -16.34,
+          "change": -18.24,
           "title": "China adds latency to Marvell's optical mega-deal",
           "lang": "en",
           "source": "Reuters",
@@ -61,13 +36,37 @@
           },
           "score": 110,
           "reasons": [
-            "move -16.3%",
+            "move -18.2%",
             "leading source reuters",
-            "7 sources"
+            "6 sources"
           ],
           "titleHe": "סין מעכבת את עסקת הענק של Marvell בתחום האופטי",
           "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "urn:summary_document_slides:quartr.com:4267967:0",
+          "ticker": "KRYS",
+          "change": -13.29,
+          "title": "KRYS: VYJUVEK growth supports expansion as KB113 shows early Gorlin lesion regression",
+          "lang": "en",
+          "source": "quartr",
+          "sourceId": "quartr",
+          "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4267967:0-krys-vyjuvek-growth-supports-expansion-as-kb113-shows-early-gorlin-lesion-regression/",
+          "publishedAt": "2026-11-02T19:41:14.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/krystal-biotech--big.svg",
+            "kind": "logo"
+          },
+          "score": 103,
+          "reasons": [
+            "move -13.3%",
+            "volume x2.9",
+            "2 sources"
+          ]
         }
+      ],
+      "warnings": [
+        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
