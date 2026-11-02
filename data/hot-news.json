@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T11:38:21.116Z",
+  "generatedAt": "2026-11-02T12:41:12.578Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T11:38:21.116Z",
+      "updatedAt": "2026-11-02T12:41:12.578Z",
       "items": [
         {
-          "id": "stocktwits:ba3047f47094b:0",
-          "ticker": "PGEN",
-          "change": -18.88,
-          "title": "PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings",
-          "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/pgen-stock-retail-buyout--inovio-rival-crashes-party-before-earnings/cNG9qNsR92t",
-          "publishedAt": "2026-11-02T08:40:18.000Z",
-          "image": {
-            "url": "https://news.stocktwits-cdn.com/large_precigen_ae772e86d9.jpg",
-            "kind": "photo"
-          },
-          "score": 110,
-          "reasons": [
-            "move -18.9%",
-            "keywords: earnings, buyout",
-            "2 sources"
-          ],
-          "titleHe": "מניית PGEN צונחת טרום המסחר: משקיעי הריטייל מזהים הזדמנות לרכישה בזמן שמתחרת Inovio טורפת את הקלפים לקראת הדוחות",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L2N46J0AK:0",
-          "ticker": "CHKP",
-          "change": -7.96,
-          "title": "Israel's Check Point Software Q3 revenue slightly misses estimates",
+          "id": "tag:reuters.com,2026:newsml_L2N46J0DO:0",
+          "ticker": "IDXX",
+          "change": 6.13,
+          "title": "IDEXX Laboratories Q3 revenue beats estimates, lifts FY profit outlook",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J0AK:0-israel-s-check-point-software-q3-revenue-slightly-misses-estimates/",
-          "publishedAt": "2026-11-02T10:12:20.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J0DO:0-idexx-laboratories-q3-revenue-beats-estimates-lifts-fy-profit-outlook/",
+          "publishedAt": "2026-11-02T11:45:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/check-point-software-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/idexx-laboratories--big.svg",
             "kind": "logo"
           },
-          "score": 102,
+          "score": 106,
           "reasons": [
-            "move -8.0%",
+            "move 6.1%",
+            "leading source reuters",
+            "keywords: revenue, profit, outlook",
+            "8 sources"
+          ],
+          "titleHe": "הכנסות IDEXX Laboratories ברבעון ה-3 עקפו את תחזיות האנליסטים ומעלות את תחזית הרווח לשנה כולה",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "tag:reuters.com,2026:newsml_L2N46J0EW:0",
+          "ticker": "KRYS",
+          "change": -6.41,
+          "title": "Krystal Biotech Q3 product revenue rises 30% on VYJUVEK demand",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J0EW:0-krystal-biotech-q3-product-revenue-rises-30-on-vyjuvek-demand/",
+          "publishedAt": "2026-11-02T12:12:09.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/krystal-biotech--big.svg",
+            "kind": "logo"
+          },
+          "score": 97,
+          "reasons": [
+            "move -6.4%",
             "leading source reuters",
             "keywords: revenue",
             "6 sources"
           ],
-          "titleHe": "ההכנסות של צ'ק פוינט ברבעון ה-3 החטיאו מעט את תחזיות האנליסטים",
+          "titleHe": "הכנסות המוצרים של Krystal Biotech ברבעון ה-3 עלו ב-30% הודות לביקוש ל-VYJUVEK",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,43 +84,40 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-02T11:38:21.116Z",
+      "updatedAt": "2026-11-02T12:41:12.578Z",
       "items": [
         {
-          "id": "calcalist:c1198d49430f0:0",
+          "id": "calcalist:9d72741c830f0:0",
           "ticker": null,
           "change": null,
-          "title": "מניית צ'ק פוינט נופלת בטרום ב-7% אחרי הדוחות; \"המהפך לוקח יותר זמן ממה שחשבנו\"",
+          "title": "טאואר דיווחה על רווחי שיא ופרסמה תחזית חזקה - המניה מטפסת בטרום",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:c1198d49430f0:0/",
-          "publishedAt": "2026-11-02T11:05:45.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:9d72741c830f0:0/",
+          "publishedAt": "2026-11-02T12:34:12.000Z",
+          "image": null,
+          "score": 60,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: רווח, תחזית"
+          ]
+        },
+        {
+          "id": "calcalist:06513633430f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "אקרו נדל\"ן נפרדת מהבורסה: שווי המיזוג עם ישראל קנדה נחתך ב-45%",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:06513633430f0:0/",
+          "publishedAt": "2026-11-02T12:28:06.000Z",
           "image": null,
           "score": 50,
           "reasons": [
             "leading source calcalist",
-            "keywords: דוחות"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-11-02/ty-article/.premium/000001a1-9bd5-de48-abb1-dff542710000",
-          "ticker": null,
-          "change": null,
-          "title": "מידרוג: רכישת בית בכפר מעלה את סיכון האשראי של אאורה",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-02/ty-article/.premium/000001a1-9bd5-de48-abb1-dff542710000",
-          "publishedAt": "2026-11-02T10:49:43.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-9be0-de52-a5f9-bff4636f0000/4e/d7/29cc91f448299893dfdac028d54b/747207.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source themarker",
-            "keywords: רכישת"
+            "keywords: מיזוג"
           ]
         }
       ]
