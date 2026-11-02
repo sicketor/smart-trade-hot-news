@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T19:55:31.773Z",
+  "generatedAt": "2026-11-02T20:47:41.121Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T19:55:31.773Z",
+      "updatedAt": "2026-11-02T20:47:41.121Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L6N46J10T:0",
           "ticker": "LITE",
-          "change": -18.24,
+          "change": -18.47,
           "title": "China adds latency to Marvell's optical mega-deal",
           "lang": "en",
           "source": "Reuters",
@@ -34,9 +34,10 @@
             "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
             "kind": "logo"
           },
-          "score": 110,
+          "score": 125,
           "reasons": [
-            "move -18.2%",
+            "move -18.5%",
+            "volume x2.3",
             "leading source reuters",
             "6 sources"
           ],
@@ -44,29 +45,28 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "urn:summary_document_slides:quartr.com:4267967:0",
-          "ticker": "KRYS",
-          "change": -13.29,
-          "title": "KRYS: VYJUVEK growth supports expansion as KB113 shows early Gorlin lesion regression",
+          "id": "DJN_DN20261102007547:0",
+          "ticker": "NWL",
+          "change": 14.94,
+          "title": "Newell Brands Is Maintained at Neutral by Citigroup",
           "lang": "en",
-          "source": "quartr",
-          "sourceId": "quartr",
-          "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4267967:0-krys-vyjuvek-growth-supports-expansion-as-kb113-shows-early-gorlin-lesion-regression/",
-          "publishedAt": "2026-11-02T19:41:14.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261102007547:0-newell-brands-is-maintained-at-neutral-by-citigroup/",
+          "publishedAt": "2026-11-02T18:54:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/krystal-biotech--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/newell-brands--big.svg",
             "kind": "logo"
           },
-          "score": 103,
+          "score": 105,
           "reasons": [
-            "move -13.3%",
-            "volume x2.9",
-            "2 sources"
-          ]
+            "move 14.9%",
+            "volume x2.0",
+            "leading source dow-jones"
+          ],
+          "titleHe": "סיטיגרופ שומרים על המלצת ניטרלי לניואל ברנדס",
+          "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
