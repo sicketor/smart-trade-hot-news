@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T20:47:41.121Z",
+  "generatedAt": "2026-11-02T21:28:31.077Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T20:47:41.121Z",
+      "updatedAt": "2026-11-02T21:28:31.077Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L6N46J10T:0",
           "ticker": "LITE",
-          "change": -18.47,
+          "change": -18.59,
           "title": "China adds latency to Marvell's optical mega-deal",
           "lang": "en",
           "source": "Reuters",
@@ -36,10 +36,10 @@
           },
           "score": 125,
           "reasons": [
-            "move -18.5%",
-            "volume x2.3",
+            "move -18.6%",
+            "volume x2.7",
             "leading source reuters",
-            "6 sources"
+            "4 sources"
           ],
           "titleHe": "סין מעכבת את עסקת הענק של Marvell בתחום האופטי",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -47,7 +47,7 @@
         {
           "id": "DJN_DN20261102007547:0",
           "ticker": "NWL",
-          "change": 14.94,
+          "change": 15.06,
           "title": "Newell Brands Is Maintained at Neutral by Citigroup",
           "lang": "en",
           "source": "Dow Jones",
@@ -60,8 +60,8 @@
           },
           "score": 105,
           "reasons": [
-            "move 14.9%",
-            "volume x2.0",
+            "move 15.1%",
+            "volume x2.7",
             "leading source dow-jones"
           ],
           "titleHe": "סיטיגרופ שומרים על המלצת ניטרלי לניואל ברנדס",
