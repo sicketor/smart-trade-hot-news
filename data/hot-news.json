@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T12:41:12.578Z",
+  "generatedAt": "2026-11-02T13:55:52.578Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T12:41:12.578Z",
+      "updatedAt": "2026-11-02T13:55:52.578Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L2N46J0DO:0",
           "ticker": "IDXX",
-          "change": 6.13,
+          "change": 8.4,
           "title": "IDEXX Laboratories Q3 revenue beats estimates, lifts FY profit outlook",
           "lang": "en",
           "source": "Reuters",
@@ -34,38 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/idexx-laboratories--big.svg",
             "kind": "logo"
           },
-          "score": 106,
+          "score": 113,
           "reasons": [
-            "move 6.1%",
+            "move 8.4%",
             "leading source reuters",
             "keywords: revenue, profit, outlook",
-            "8 sources"
+            "7 sources"
           ],
           "titleHe": "הכנסות IDEXX Laboratories ברבעון ה-3 עקפו את תחזיות האנליסטים ומעלות את תחזית הרווח לשנה כולה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46J0EW:0",
-          "ticker": "KRYS",
-          "change": -6.41,
-          "title": "Krystal Biotech Q3 product revenue rises 30% on VYJUVEK demand",
+          "id": "DJN_DN20261102004802:0",
+          "ticker": "LITE",
+          "change": -5.67,
+          "title": "Lumentum Logs Sharply Higher Profit, Revenue in F1Q — Market Talk",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J0EW:0-krystal-biotech-q3-product-revenue-rises-30-on-vyjuvek-demand/",
-          "publishedAt": "2026-11-02T12:12:09.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261102004802:0-lumentum-logs-sharply-higher-profit-revenue-in-f1q-market-talk/",
+          "publishedAt": "2026-11-02T13:55:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/krystal-biotech--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
             "kind": "logo"
           },
-          "score": 97,
+          "score": 105,
           "reasons": [
-            "move -6.4%",
-            "leading source reuters",
-            "keywords: revenue",
-            "6 sources"
+            "move -5.7%",
+            "leading source dow-jones",
+            "keywords: revenue, profit",
+            "11 sources"
           ],
-          "titleHe": "הכנסות המוצרים של Krystal Biotech ברבעון ה-3 עלו ב-30% הודות לביקוש ל-VYJUVEK",
+          "titleHe": "לומנטום מדווחת על זינוק חדש ברווח ובהכנסות ברבעון הראשון",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,25 +84,8 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-02T12:41:12.578Z",
+      "updatedAt": "2026-11-02T13:55:52.578Z",
       "items": [
-        {
-          "id": "calcalist:9d72741c830f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "טאואר דיווחה על רווחי שיא ופרסמה תחזית חזקה - המניה מטפסת בטרום",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:9d72741c830f0:0/",
-          "publishedAt": "2026-11-02T12:34:12.000Z",
-          "image": null,
-          "score": 60,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: רווח, תחזית"
-          ]
-        },
         {
           "id": "calcalist:06513633430f0:0",
           "ticker": null,
@@ -118,6 +101,23 @@
           "reasons": [
             "leading source calcalist",
             "keywords: מיזוג"
+          ]
+        },
+        {
+          "id": "calcalist:c1198d49430f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "מניית צ'ק פוינט נופלת בטרום ב-7% אחרי הדוחות; \"המהפך לוקח יותר זמן ממה שחשבנו\"",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:c1198d49430f0:0/",
+          "publishedAt": "2026-11-02T11:05:45.000Z",
+          "image": null,
+          "score": 50,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: דוחות"
           ]
         }
       ]
