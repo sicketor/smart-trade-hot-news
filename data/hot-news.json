@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T13:46:35.830Z",
+  "generatedAt": "2026-11-03T14:39:25.957Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,56 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T13:46:35.830Z",
+      "updatedAt": "2026-11-03T14:39:25.957Z",
       "items": [
         {
-          "id": "DJN_DN20261103006596:0",
-          "ticker": "DT",
-          "change": -14.02,
-          "title": "2 Reasons Why This AI-Powered Software Stock Is Tumbling After Earnings — Barrons.com",
+          "id": "DJN_DN20261103005561:0",
+          "ticker": "LITE",
+          "change": -18.59,
+          "title": "Midterms, Markets, and Earnings Malaise. Apple and Palantir Sum Up the Mood. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103006596:0-2-reasons-why-this-ai-powered-software-stock-is-tumbling-after-earnings-barrons-com/",
-          "publishedAt": "2026-11-03T13:35:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103005561:0-midterms-markets-and-earnings-malaise-apple-and-palantir-sum-up-the-mood-barrons-com/",
+          "publishedAt": "2026-11-03T12:43:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/dynatrace--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 135,
           "reasons": [
-            "move -14.0%",
+            "move -18.6%",
+            "volume x2.8",
             "leading source dow-jones",
             "keywords: earnings",
-            "8 sources"
+            "6 sources"
           ],
-          "titleHe": "2 סיבות לכך שמניית התוכנה הזו בתחום הבינה המלאכותית צוללת לאחר הדו\"חות",
+          "titleHe": "בחירות אמצע הכהונה, השווקים ודוחות פושרים: אפל ופלנטיר מסכמות את האווירה",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261103005205:0",
-          "ticker": "ZBRA",
-          "change": -17.48,
-          "title": "Zebra Technologies Earnings: Big Growth, Big Stock Drop — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L5N46K1R9:0",
+          "ticker": "UPST",
+          "change": -7.43,
+          "title": "Upstart Holdings, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103005205:0-zebra-technologies-earnings-big-growth-big-stock-drop-barrons-com/",
-          "publishedAt": "2026-11-03T12:20:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46K1R9:0-upstart-holdings-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-03T14:32:27.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/zebra--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/upstart--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 115,
           "reasons": [
-            "move -17.5%",
-            "leading source dow-jones",
-            "keywords: earnings",
-            "7 sources"
+            "move -7.4%",
+            "volume x3.7",
+            "leading source reuters",
+            "keywords: earnings, results",
+            "2 sources"
           ],
-          "titleHe": "הדו\"חות של Zebra Technologies: צמיחה חזקה, נפילה חדה במניה",
+          "titleHe": "Upstart Holdings מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,28 +86,8 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T13:46:35.830Z",
+      "updatedAt": "2026-11-03T14:39:25.957Z",
       "items": [
-        {
-          "id": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a194-d101-a9a1-b5d4101c0000",
-          "ticker": null,
-          "change": null,
-          "title": "טראמפ: \"נתניהו ואני הגענו להסכם שעד סוף השנה נעצור את הסיוע לישראל\"",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a194-d101-a9a1-b5d4101c0000",
-          "publishedAt": "2026-11-03T13:24:05.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-a19e-d101-a9a1-b5dea88b0000/c4/68/548b1dfb4e1f81f4af04c03adda2/685914.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source themarker",
-            "keywords: הסכם"
-          ]
-        },
         {
           "id": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a130-d02e-abe7-ed36207f0000",
           "ticker": null,
@@ -124,6 +106,23 @@
           "reasons": [
             "leading source themarker",
             "keywords: רווח"
+          ]
+        },
+        {
+          "id": "calcalist:15849de3330f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "גדעון תדמור נכנס כשותף בחברת החיתום של מנורה מבטחים",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:15849de3330f0:0/",
+          "publishedAt": "2026-11-03T12:50:34.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
           ]
         }
       ]
