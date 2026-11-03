@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T18:22:19.655Z",
+  "generatedAt": "2026-11-03T19:31:41.415Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,55 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T18:22:19.655Z",
+      "updatedAt": "2026-11-03T19:31:41.415Z",
       "items": [
         {
-          "id": "stocktwits:e7342b774094b:0",
+          "id": "DJN_DN20261103009459:0",
           "ticker": "AEHR",
-          "change": 25.81,
-          "title": "AEHR Stock Heads For Biggest Single-Day Gain Since July — Analysts Cut Targets Despite Earnings Beat, Raised Guidance",
-          "lang": "en",
-          "source": "stocktwits",
-          "sourceId": "stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/aehr-stock-heads-for-biggest-single-day-gain-since-july-analysts-cut-targets-despite-earnings-beat-raised-guidance/cNGX7dHR9db",
-          "publishedAt": "2026-11-03T15:47:00.000Z",
-          "image": {
-            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2237856829_jpg_ce017ed677.webp",
-            "kind": "photo"
-          },
-          "score": 125,
-          "reasons": [
-            "move 25.8%",
-            "volume x2.5",
-            "keywords: earnings, guidance",
-            "2 sources"
-          ],
-          "titleHe": "מניית AEHR בדרך לעלייה היומית החדה ביותר מאז יולי — אנליסטים חותכים מחירים יעד למרות דוחות חזקים והעלאת תחזית",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261103009228:0",
-          "ticker": "GPK",
-          "change": 18.97,
-          "title": "Under the Radar: Graphic Packaging Shares Soar to Best Day in Years — WSJ",
+          "change": 24.33,
+          "title": "Aehr Test Systems Shares Rise After Higher 1Q Revenue, Swing to Profit",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103009228:0-under-the-radar-graphic-packaging-shares-soar-to-best-day-in-years-wsj/",
-          "publishedAt": "2026-11-03T18:07:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103009459:0-aehr-test-systems-shares-rise-after-higher-1q-revenue-swing-to-profit/",
+          "publishedAt": "2026-11-03T18:49:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/graphic-packaging--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/aehr-test-systems--big.svg",
             "kind": "logo"
           },
-          "score": 100,
+          "score": 135,
           "reasons": [
-            "move 19.0%",
+            "move 24.3%",
+            "volume x2.9",
             "leading source dow-jones",
+            "keywords: revenue, profit",
             "2 sources"
           ],
-          "titleHe": "מתחת للרادار: מניות Graphic Packaging מזנקות ליום הטוב ביותר שלהן מזה שנים",
+          "titleHe": "מניות Aehr Test Systems עולות לאחר עלייה בהכנסות ברבעון הראשון ומעבר לרווח",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261103009364:0",
+          "ticker": "BETA",
+          "change": 15.95,
+          "title": "Beta Stock Soars as Higher Revenue Outlook Bolsters Electric-Aircraft Hopes — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103009364:0-beta-stock-soars-as-higher-revenue-outlook-bolsters-electric-aircraft-hopes-barrons-com/",
+          "publishedAt": "2026-11-03T18:27:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
+            "kind": "logo"
+          },
+          "score": 120,
+          "reasons": [
+            "move 15.9%",
+            "leading source dow-jones",
+            "keywords: revenue, outlook",
+            "2 sources"
+          ],
+          "titleHe": "מניית Beta מזנקת בעקבות תחזית הכנסות משופرة שמחזקת את התקוות בתחום המטוסים החשמליים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
