@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T17:28:42.838Z",
+  "generatedAt": "2026-11-03T18:22:19.655Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T17:28:42.838Z",
+      "updatedAt": "2026-11-03T18:22:19.655Z",
       "items": [
         {
-          "id": "zacks:83816a736094b:0",
+          "id": "stocktwits:e7342b774094b:0",
           "ticker": "AEHR",
-          "change": 23.04,
-          "title": "AEHR Q1 Earnings Beat Estimates on AI Demand, Revenue Outlook Raised",
+          "change": 25.81,
+          "title": "AEHR Stock Heads For Biggest Single-Day Gain Since July — Analysts Cut Targets Despite Earnings Beat, Raised Guidance",
           "lang": "en",
-          "source": "zacks",
-          "sourceId": "zacks",
-          "url": "https://www.zacks.com/stock/news/3021922/aehr-q1-earnings-beat-estimates-on-ai-demand-revenue-outlook-raised?cid=CS-TRADINGVIEW-FT-analyst_blog|earnings_article-3021922",
-          "publishedAt": "2026-11-03T14:48:00.000Z",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/aehr-stock-heads-for-biggest-single-day-gain-since-july-analysts-cut-targets-despite-earnings-beat-raised-guidance/cNGX7dHR9db",
+          "publishedAt": "2026-11-03T15:47:00.000Z",
           "image": {
-            "url": "https://staticx-tuner.zacks.com/images/articles/main/cb/577.jpg",
+            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2237856829_jpg_ce017ed677.webp",
             "kind": "photo"
           },
-          "score": 135,
+          "score": 125,
           "reasons": [
-            "move 23.0%",
-            "volume x2.3",
-            "keywords: earnings, revenue, outlook",
-            "3 sources"
+            "move 25.8%",
+            "volume x2.5",
+            "keywords: earnings, guidance",
+            "2 sources"
           ],
-          "titleHe": "AEHR עוקפת את תחזית הרווח ברבעון ה-1 הודות לביקוש לבינה מלאכותית, ומעלה את תחזית ההכנסות",
+          "titleHe": "מניית AEHR בדרך לעלייה היומית החדה ביותר מאז יולי — אנליסטים חותכים מחירים יעד למרות דוחות חזקים והעלאת תחזית",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46K1RJ:0",
-          "ticker": "BETA",
-          "change": 15.31,
-          "title": "BETA Technologies, Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "DJN_DN20261103009228:0",
+          "ticker": "GPK",
+          "change": 18.97,
+          "title": "Under the Radar: Graphic Packaging Shares Soar to Best Day in Years — WSJ",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46K1RJ:0-beta-technologies-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-11-03T14:32:34.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103009228:0-under-the-radar-graphic-packaging-shares-soar-to-best-day-in-years-wsj/",
+          "publishedAt": "2026-11-03T18:07:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/graphic-packaging--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 100,
           "reasons": [
-            "move 15.3%",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "3 sources"
+            "move 19.0%",
+            "leading source dow-jones",
+            "2 sources"
           ],
-          "titleHe": "BETA Technologies מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "titleHe": "מתחת للרادار: מניות Graphic Packaging מזנקות ליום הטוב ביותר שלהן מזה שנים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
