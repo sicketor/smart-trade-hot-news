@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T10:31:19.107Z",
+  "generatedAt": "2026-11-03T11:28:35.699Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T10:31:19.107Z",
+      "updatedAt": "2026-11-03T11:28:35.699Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L2N46K0BN:0",
           "ticker": "BETA",
-          "change": 6.13,
+          "change": 9.08,
           "title": "BETA Technologies Q3 revenue jumps 98% to record high, raises 2026 outlook",
           "lang": "en",
           "source": "Reuters",
@@ -34,37 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
             "kind": "logo"
           },
-          "score": 106,
+          "score": 115,
           "reasons": [
-            "move 6.1%",
+            "move 9.1%",
             "leading source reuters",
             "keywords: revenue, outlook",
-            "3 sources"
+            "4 sources"
           ],
           "titleHe": "ההכנסות ברבעון ה-3 של BETA Technologies זינקו ב-98% לשיא חדש, מעלה את תחזית 2026",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261103002266:0",
-          "ticker": "PLTR",
-          "change": -6.39,
-          "title": "Palantir Will Struggle to Maintain Rapid Growth — Market Talk",
+          "id": "tag:reuters.com,2026:newsml_L2N46K0E7:0",
+          "ticker": "RVTY",
+          "change": 4.29,
+          "title": "Revvity Q3 revenue beats estimates, raises FY guidance",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103002266:0-palantir-will-struggle-to-maintain-rapid-growth-market-talk/",
-          "publishedAt": "2026-11-03T10:04:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0E7:0-revvity-q3-revenue-beats-estimates-raises-fy-guidance/",
+          "publishedAt": "2026-11-03T11:11:47.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/palantir--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/perkinelmer--big.svg",
             "kind": "logo"
           },
-          "score": 87,
+          "score": 91,
           "reasons": [
-            "move -6.4%",
-            "leading source dow-jones",
-            "3 sources"
+            "move 4.3%",
+            "leading source reuters",
+            "keywords: revenue, guidance",
+            "2 sources"
           ],
-          "titleHe": "פלנטיר תתקשה לשמור על צמיחה מהירה",
+          "titleHe": "Revvity עוקפת את תחזיות ההכנסות ברבעון ה-3 ומעלה את תחזית השנה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,18 +84,18 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T10:31:19.107Z",
+      "updatedAt": "2026-11-03T11:28:35.699Z",
       "items": [
         {
           "id": "calcalist:997ab945f30f0:0",
           "ticker": null,
           "change": null,
-          "title": "המלכוד של אפל: להעלות מחירים או לוותר על הרווחים",
+          "title": "הרווחיות של אפל בירידה - האם היא תעלה את מחירי האייפונים?",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:997ab945f30f0:0/",
-          "publishedAt": "2026-11-03T09:31:38.000Z",
+          "publishedAt": "2026-11-03T10:53:03.000Z",
           "image": null,
           "score": 50,
           "reasons": [
@@ -103,19 +104,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a040-db9a-a1b3-b8722db30000",
+          "id": "calcalist:d065aabe730f0:0",
           "ticker": null,
           "change": null,
-          "title": "המסחר מתנהל בירידות, מדדי הנדל\"ן והבנייה מאבדים 2%; הדולר מתחזק",
+          "title": "הפיחות בשקל נמשך - איבד 4.4% מיום הבחירות; הדולר מעל 3.16 שקלים",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a040-db9a-a1b3-b8722db30000",
-          "publishedAt": "2026-11-03T09:57:00.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000018e-9d69-dc54-a19f-9f6dafe60000/04/43/47bbbef3415b88c2a4f916818cc8/599472.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:d065aabe730f0:0/",
+          "publishedAt": "2026-11-03T11:03:42.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
