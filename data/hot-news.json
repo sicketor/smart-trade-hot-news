@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T19:31:41.415Z",
+  "generatedAt": "2026-11-03T20:26:15.679Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T19:31:41.415Z",
+      "updatedAt": "2026-11-03T20:26:15.679Z",
       "items": [
         {
           "id": "DJN_DN20261103009459:0",
           "ticker": "AEHR",
-          "change": 24.33,
+          "change": 24.79,
           "title": "Aehr Test Systems Shares Rise After Higher 1Q Revenue, Swing to Profit",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,39 +34,38 @@
             "url": "https://s3-symbol-logo.tradingview.com/aehr-test-systems--big.svg",
             "kind": "logo"
           },
-          "score": 135,
+          "score": 125,
           "reasons": [
-            "move 24.3%",
-            "volume x2.9",
+            "move 24.8%",
+            "volume x3.1",
             "leading source dow-jones",
-            "keywords: revenue, profit",
-            "2 sources"
+            "keywords: revenue, profit"
           ],
           "titleHe": "מניות Aehr Test Systems עולות לאחר עלייה בהכנסות ברבעון הראשון ומעבר לרווח",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261103009364:0",
-          "ticker": "BETA",
-          "change": 15.95,
-          "title": "Beta Stock Soars as Higher Revenue Outlook Bolsters Electric-Aircraft Hopes — Barrons.com",
+          "id": "DJN_DN20261103009212:0",
+          "ticker": "NBIX",
+          "change": 15.59,
+          "title": "This Biopharma Stock Hit a 6-Year High-and It Can Keep Climbing — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103009364:0-beta-stock-soars-as-higher-revenue-outlook-bolsters-electric-aircraft-hopes-barrons-com/",
-          "publishedAt": "2026-11-03T18:27:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103009212:0-this-biopharma-stock-hit-a-6-year-high-and-it-can-keep-climbing-barrons-com/",
+          "publishedAt": "2026-11-03T18:03:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/neurocrine-biosciences--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 115,
           "reasons": [
-            "move 15.9%",
+            "move 15.6%",
+            "volume x2.4",
             "leading source dow-jones",
-            "keywords: revenue, outlook",
             "2 sources"
           ],
-          "titleHe": "מניית Beta מזנקת בעקבות תחזית הכנסות משופرة שמחזקת את התקוות בתחום המטוסים החשמליים",
+          "titleHe": "מניית הביופארמה הזו זיאבה לשיא של 6 שנים — ויכולה להמשיך לטפס",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
