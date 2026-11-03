@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T11:28:35.699Z",
+  "generatedAt": "2026-11-03T12:28:55.115Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T11:28:35.699Z",
+      "updatedAt": "2026-11-03T12:28:55.115Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46K0BN:0",
-          "ticker": "BETA",
-          "change": 9.08,
-          "title": "BETA Technologies Q3 revenue jumps 98% to record high, raises 2026 outlook",
+          "id": "DJN_DN20261103004535_20261103005067:0",
+          "ticker": "SHOP",
+          "change": -16.75,
+          "title": "Shopify Sees 4Q Revenue to Grow at a Low-Thirties Percentage Rate on a Yr-over-Yr Basis >SHOP",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0BN:0-beta-technologies-q3-revenue-jumps-98-to-record-high-raises-2026-outlook/",
-          "publishedAt": "2026-11-03T10:13:05.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103004535_20261103005067:0-shopify-sees-4q-revenue-to-grow-at-a-low-thirties-percentage-rate-on-a-yr-over-yr-basis-shop/",
+          "publishedAt": "2026-11-03T12:08:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/shopify--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 120,
           "reasons": [
-            "move 9.1%",
-            "leading source reuters",
-            "keywords: revenue, outlook",
-            "4 sources"
+            "move -16.7%",
+            "leading source dow-jones",
+            "keywords: revenue",
+            "3 sources"
           ],
-          "titleHe": "ההכנסות ברבעון ה-3 של BETA Technologies זינקו ב-98% לשיא חדש, מעלה את תחזית 2026",
+          "titleHe": "שופיפיי צופה צמיחה של כ-30% בהכנסות הרבעון ה-4 בסיס שנתי >SHOP",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46K0E7:0",
-          "ticker": "RVTY",
-          "change": 4.29,
-          "title": "Revvity Q3 revenue beats estimates, raises FY guidance",
+          "id": "tag:reuters.com,2026:newsml_L2N46K0FG:0",
+          "ticker": "DT",
+          "change": -16.71,
+          "title": "Dynatrace Q2 revenue beats estimates, sets $1 bln additional buyback",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0E7:0-revvity-q3-revenue-beats-estimates-raises-fy-guidance/",
-          "publishedAt": "2026-11-03T11:11:47.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0FG:0-dynatrace-q2-revenue-beats-estimates-sets-1-bln-additional-buyback/",
+          "publishedAt": "2026-11-03T11:42:16.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/perkinelmer--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/dynatrace--big.svg",
             "kind": "logo"
           },
-          "score": 91,
+          "score": 120,
           "reasons": [
-            "move 4.3%",
+            "move -16.7%",
             "leading source reuters",
-            "keywords: revenue, guidance",
-            "2 sources"
+            "keywords: revenue",
+            "6 sources"
           ],
-          "titleHe": "Revvity עוקפת את תחזיות ההכנסות ברבעון ה-3 ומעלה את תחזית השנה",
+          "titleHe": "ההכנסות של Dynatrace ברבעון ה-2 עקפו את תחזיות האנליסטים, החברה הכריזה על תוכנית רכישה עצמית נוספת ב-1 מיליארד דולר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,7 +84,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T11:28:35.699Z",
+      "updatedAt": "2026-11-03T12:28:55.115Z",
       "items": [
         {
           "id": "calcalist:997ab945f30f0:0",
@@ -104,16 +104,19 @@
           ]
         },
         {
-          "id": "calcalist:d065aabe730f0:0",
+          "id": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a14e-db9a-a1b3-b97eb5d90000",
           "ticker": null,
           "change": null,
-          "title": "הפיחות בשקל נמשך - איבד 4.4% מיום הבחירות; הדולר מעל 3.16 שקלים",
+          "title": "גדעון תדמור נכנס לתחום חדש: משקיע במנורה חיתום ויחזיק בכ-80% עם מנהליה",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:d065aabe730f0:0/",
-          "publishedAt": "2026-11-03T11:03:42.000Z",
-          "image": null,
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a14e-db9a-a1b3-b97eb5d90000",
+          "publishedAt": "2026-11-03T12:10:15.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/00000192-e2b2-dd31-a9be-fbbbef390000/22/b4/95fd6314472282fe731aed021205/599510.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
