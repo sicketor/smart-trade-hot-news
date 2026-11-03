@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T08:28:47.965Z",
+  "generatedAt": "2026-11-03T09:28:10.172Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-02T21:28:31.077Z",
+      "updatedAt": "2026-11-03T09:28:10.172Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L6N46J10T:0",
-          "ticker": "LITE",
-          "change": -18.59,
-          "title": "China adds latency to Marvell's optical mega-deal",
+          "id": "tag:reuters.com,2026:newsml_L6N46K0A5:0",
+          "ticker": "AAPL",
+          "change": -4.62,
+          "title": "Stocks slip as AI jitters, US midterms keep investors on edge",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46J10T:0-china-adds-latency-to-marvell-s-optical-mega-deal/",
-          "publishedAt": "2026-11-02T18:47:59.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46K0A5:0-stocks-slip-as-ai-jitters-us-midterms-keep-investors-on-edge/",
+          "publishedAt": "2026-11-03T08:45:36.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/apple--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 82,
           "reasons": [
-            "move -18.6%",
-            "volume x2.7",
-            "leading source reuters",
-            "4 sources"
+            "move -4.6%",
+            "keywords: revenue",
+            "6 sources"
           ],
-          "titleHe": "סין מעכבת את עסקת הענק של Marvell בתחום האופטי",
+          "titleHe": "הבורסות בירידות על רקע חששות מבינה מלאכותית והבחירות באמצע הכהונה בארה\"ב שותלים חוסר וודאות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261102007547:0",
-          "ticker": "NWL",
-          "change": 15.06,
-          "title": "Newell Brands Is Maintained at Neutral by Citigroup",
+          "id": "tradingview:01b8eb087094b:0",
+          "ticker": "PLTR",
+          "change": -6.07,
+          "title": "PLTR: Palantir Nearly Doubles Revenue to Record, Traders Dump the Stock Anyway",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261102007547:0-newell-brands-is-maintained-at-neutral-by-citigroup/",
-          "publishedAt": "2026-11-02T18:54:00.000Z",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com",
+          "publishedAt": "2026-11-03T06:32:48.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/newell-brands--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/palantir--big.svg",
             "kind": "logo"
           },
-          "score": 105,
+          "score": 76,
           "reasons": [
-            "move 15.1%",
-            "volume x2.7",
-            "leading source dow-jones"
+            "move -6.1%",
+            "keywords: revenue",
+            "2 sources"
           ],
-          "titleHe": "סיטיגרופ שומרים על המלצת ניטרלי לניואל ברנדס",
+          "titleHe": "PLTR: פלנטיר כמעט מכפילה את ההכנסות לשיא, הסוחרים זורקים את המניה בכל זאת",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -83,13 +82,30 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T08:28:47.965Z",
+      "updatedAt": "2026-11-03T09:28:10.172Z",
       "items": [
+        {
+          "id": "calcalist:d065aabe730f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "הפיחות בשקל נמשך - איבד 4.4% מיום הבחירות; הדולר מתחזק ל-3.16 שקלים",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:d065aabe730f0:0/",
+          "publishedAt": "2026-11-03T09:12:29.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
         {
           "id": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a040-db9a-a1b3-b8722db30000",
           "ticker": null,
           "change": null,
-          "title": "המסחר נפתח בירידות, בהובלת מניות השבבים; אנלייט מוסיפה 4%; הדולר מתחזק",
+          "title": "המסחר מתנהל בירידות, בהובלת מניות השבבים; אנלייט מוסיפה 4%; הדולר מתחזק",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
@@ -99,23 +115,6 @@
             "url": "https://img.haarets.co.il/bs/0000018d-f3ba-d925-a7bf-fbbbed1c0000/cc/a3/5555a2514f9396663808121fd265/442117-4.jpg?width=108&height=81",
             "kind": "photo"
           },
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "calcalist:31ee20c8e30f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "החשד לניפוח מניית בונוס ביוגרופ: הפרקליטות שוקלת הגשת כתבי אישום נגד בכירי החברה",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:31ee20c8e30f0:0/",
-          "publishedAt": "2026-11-03T07:14:46.000Z",
-          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
