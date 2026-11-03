@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T09:28:10.172Z",
+  "generatedAt": "2026-11-03T10:31:19.107Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,52 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T09:28:10.172Z",
+      "updatedAt": "2026-11-03T10:31:19.107Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L6N46K0A5:0",
-          "ticker": "AAPL",
-          "change": -4.62,
-          "title": "Stocks slip as AI jitters, US midterms keep investors on edge",
+          "id": "tag:reuters.com,2026:newsml_L2N46K0BN:0",
+          "ticker": "BETA",
+          "change": 6.13,
+          "title": "BETA Technologies Q3 revenue jumps 98% to record high, raises 2026 outlook",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46K0A5:0-stocks-slip-as-ai-jitters-us-midterms-keep-investors-on-edge/",
-          "publishedAt": "2026-11-03T08:45:36.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0BN:0-beta-technologies-q3-revenue-jumps-98-to-record-high-raises-2026-outlook/",
+          "publishedAt": "2026-11-03T10:13:05.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/apple--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
             "kind": "logo"
           },
-          "score": 82,
+          "score": 106,
           "reasons": [
-            "move -4.6%",
-            "keywords: revenue",
-            "6 sources"
+            "move 6.1%",
+            "leading source reuters",
+            "keywords: revenue, outlook",
+            "3 sources"
           ],
-          "titleHe": "הבורסות בירידות על רקע חששות מבינה מלאכותית והבחירות באמצע הכהונה בארה\"ב שותלים חוסר וודאות",
+          "titleHe": "ההכנסות ברבעון ה-3 של BETA Technologies זינקו ב-98% לשיא חדש, מעלה את תחזית 2026",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tradingview:01b8eb087094b:0",
+          "id": "DJN_DN20261103002266:0",
           "ticker": "PLTR",
-          "change": -6.07,
-          "title": "PLTR: Palantir Nearly Doubles Revenue to Record, Traders Dump the Stock Anyway",
+          "change": -6.39,
+          "title": "Palantir Will Struggle to Maintain Rapid Growth — Market Talk",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com",
-          "publishedAt": "2026-11-03T06:32:48.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103002266:0-palantir-will-struggle-to-maintain-rapid-growth-market-talk/",
+          "publishedAt": "2026-11-03T10:04:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/palantir--big.svg",
             "kind": "logo"
           },
-          "score": 76,
+          "score": 87,
           "reasons": [
-            "move -6.1%",
-            "keywords: revenue",
-            "2 sources"
+            "move -6.4%",
+            "leading source dow-jones",
+            "3 sources"
           ],
-          "titleHe": "PLTR: פלנטיר כמעט מכפילה את ההכנסות לשיא, הסוחרים זורקים את המניה בכל זאת",
+          "titleHe": "פלנטיר תתקשה לשמור על צמיחה מהירה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,37 +83,37 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T09:28:10.172Z",
+      "updatedAt": "2026-11-03T10:31:19.107Z",
       "items": [
         {
-          "id": "calcalist:d065aabe730f0:0",
+          "id": "calcalist:997ab945f30f0:0",
           "ticker": null,
           "change": null,
-          "title": "הפיחות בשקל נמשך - איבד 4.4% מיום הבחירות; הדולר מתחזק ל-3.16 שקלים",
+          "title": "המלכוד של אפל: להעלות מחירים או לוותר על הרווחים",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:d065aabe730f0:0/",
-          "publishedAt": "2026-11-03T09:12:29.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:997ab945f30f0:0/",
+          "publishedAt": "2026-11-03T09:31:38.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: רווח"
           ]
         },
         {
           "id": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a040-db9a-a1b3-b8722db30000",
           "ticker": null,
           "change": null,
-          "title": "המסחר מתנהל בירידות, בהובלת מניות השבבים; אנלייט מוסיפה 4%; הדולר מתחזק",
+          "title": "המסחר מתנהל בירידות, מדדי הנדל\"ן והבנייה מאבדים 2%; הדולר מתחזק",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
           "url": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a040-db9a-a1b3-b8722db30000",
-          "publishedAt": "2026-11-03T08:01:46.000Z",
+          "publishedAt": "2026-11-03T09:57:00.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/0000018d-f3ba-d925-a7bf-fbbbed1c0000/cc/a3/5555a2514f9396663808121fd265/442117-4.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000018e-9d69-dc54-a19f-9f6dafe60000/04/43/47bbbef3415b88c2a4f916818cc8/599472.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
