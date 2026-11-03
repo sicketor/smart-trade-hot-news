@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T14:39:25.957Z",
+  "generatedAt": "2026-11-03T15:30:52.444Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T14:39:25.957Z",
+      "updatedAt": "2026-11-03T15:30:52.444Z",
       "items": [
         {
-          "id": "DJN_DN20261103005561:0",
-          "ticker": "LITE",
-          "change": -18.59,
-          "title": "Midterms, Markets, and Earnings Malaise. Apple and Palantir Sum Up the Mood. — Barrons.com",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103005561:0-midterms-markets-and-earnings-malaise-apple-and-palantir-sum-up-the-mood-barrons-com/",
-          "publishedAt": "2026-11-03T12:43:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/lumentum-hldgs--big.svg",
-            "kind": "logo"
-          },
-          "score": 135,
-          "reasons": [
-            "move -18.6%",
-            "volume x2.8",
-            "leading source dow-jones",
-            "keywords: earnings",
-            "6 sources"
-          ],
-          "titleHe": "בחירות אמצע הכהונה, השווקים ודוחות פושרים: אפל ופלנטיר מסכמות את האווירה",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L5N46K1R9:0",
-          "ticker": "UPST",
-          "change": -7.43,
-          "title": "Upstart Holdings, Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "tag:reuters.com,2026:newsml_L5N46K1QR:0",
+          "ticker": "IT",
+          "change": -18.06,
+          "title": "Gartner, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46K1R9:0-upstart-holdings-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-11-03T14:32:27.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46K1QR:0-gartner-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-03T14:31:53.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/upstart--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/gartner--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 130,
           "reasons": [
-            "move -7.4%",
-            "volume x3.7",
+            "move -18.1%",
             "leading source reuters",
             "keywords: earnings, results",
-            "2 sources"
+            "7 sources"
           ],
-          "titleHe": "Upstart Holdings מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "titleHe": "גארטנר מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "urn:live_audio:quartr.com:722807:0",
+          "ticker": "STVN",
+          "change": -26.49,
+          "title": "Stevanato Group Q3 2026 Earnings Call Is Live",
+          "lang": "en",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:722807:0-stevanato-group-q3-2026-earnings-call-is-live/",
+          "publishedAt": "2026-11-03T13:27:02.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/stevanato-group--big.svg",
+            "kind": "logo"
+          },
+          "score": 125,
+          "reasons": [
+            "move -26.5%",
+            "volume x3.1",
+            "keywords: earnings",
+            "3 sources"
+          ],
+          "titleHe": "שיחת הרווחים של Stevanato Group לרבעון 3 יוצאת לדרך",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -86,39 +84,42 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T14:39:25.957Z",
+      "updatedAt": "2026-11-03T15:30:52.444Z",
       "items": [
         {
-          "id": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a130-d02e-abe7-ed36207f0000",
-          "ticker": null,
-          "change": null,
-          "title": "טבע ירדה במכירות — אבל מכה את התחזיות וקפצה ברווח למניה ב-10%",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a130-d02e-abe7-ed36207f0000",
-          "publishedAt": "2026-11-03T12:29:08.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000018d-5f4f-d4f8-a9df-5f6fb2f50000/84/17/705c671f4996b8c80da75773f879/78976.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source themarker",
-            "keywords: רווח"
-          ]
-        },
-        {
-          "id": "calcalist:15849de3330f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "גדעון תדמור נכנס כשותף בחברת החיתום של מנורה מבטחים",
+          "id": "calcalist:f985f632630f0:0",
+          "ticker": "ELTR",
+          "change": -0.38,
+          "title": "הנפקת הזכויות של אלקטרה נדל\"ן: 199 מיליון שקל גויסו, וכמעט כל בעלי המניות נענו",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:15849de3330f0:0/",
-          "publishedAt": "2026-11-03T12:50:34.000Z",
-          "image": null,
+          "url": "https://www.tradingview.com/news/calcalist:f985f632630f0:0/",
+          "publishedAt": "2026-11-03T14:55:47.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/electra--big.svg",
+            "kind": "logo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
+        {
+          "id": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a1a3-d101-a9a1-b5f3473c0000",
+          "ticker": null,
+          "change": null,
+          "title": "אי־ודאות פוליטית וירידות בוול סטריט; כך עלה הדולר לרמה של 3.16 שקלים",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a1a3-d101-a9a1-b5f3473c0000",
+          "publishedAt": "2026-11-03T14:37:53.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-a1b3-d5c5-ade1-bdffa84a0001/dc/b0/73465a574a5e827c7b334af588b4/881293.jpg?width=108&height=81",
+            "kind": "photo"
+          },
           "fallback": true,
           "score": 0,
           "reasons": [
