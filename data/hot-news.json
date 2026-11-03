@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T21:28:31.077Z",
+  "generatedAt": "2026-11-03T08:28:47.965Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -83,44 +83,43 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-02T14:59:38.769Z",
+      "updatedAt": "2026-11-03T08:28:47.965Z",
       "items": [
         {
-          "id": "calcalist:9d72741c830f0:0",
-          "ticker": "TSEM",
-          "change": -13.36,
-          "title": "זינוק ברווחי טאואר ותחזית חזקה להמשך; \"שלב הצמיחה החזק בתולדות החברה\"",
+          "id": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a040-db9a-a1b3-b8722db30000",
+          "ticker": null,
+          "change": null,
+          "title": "המסחר נפתח בירידות, בהובלת מניות השבבים; אנלייט מוסיפה 4%; הדולר מתחזק",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:9d72741c830f0:0/",
-          "publishedAt": "2026-11-02T12:34:12.000Z",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a040-db9a-a1b3-b8722db30000",
+          "publishedAt": "2026-11-03T08:01:46.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/tower-semiconductor--big.svg",
-            "kind": "logo"
+            "url": "https://img.haarets.co.il/bs/0000018d-f3ba-d925-a7bf-fbbbed1c0000/cc/a3/5555a2514f9396663808121fd265/442117-4.jpg?width=108&height=81",
+            "kind": "photo"
           },
-          "score": 105,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "move -13.4%",
-            "leading source calcalist",
-            "keywords: רווח, תחזית"
+            "fallback: latest market news"
           ]
         },
         {
-          "id": "calcalist:06513633430f0:0",
+          "id": "calcalist:31ee20c8e30f0:0",
           "ticker": null,
           "change": null,
-          "title": "אקרו נדל\"ן נפרדת מהבורסה: שווי המיזוג עם ישראל קנדה נחתך ב-45%",
+          "title": "החשד לניפוח מניית בונוס ביוגרופ: הפרקליטות שוקלת הגשת כתבי אישום נגד בכירי החברה",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:06513633430f0:0/",
-          "publishedAt": "2026-11-02T12:28:06.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:31ee20c8e30f0:0/",
+          "publishedAt": "2026-11-03T07:14:46.000Z",
           "image": null,
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source calcalist",
-            "keywords: מיזוג"
+            "fallback: latest market news"
           ]
         }
       ]
