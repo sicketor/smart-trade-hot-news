@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T15:30:52.444Z",
+  "generatedAt": "2026-11-03T16:29:19.081Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T15:30:52.444Z",
+      "updatedAt": "2026-11-03T16:29:19.081Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46K1QR:0",
-          "ticker": "IT",
-          "change": -18.06,
-          "title": "Gartner, Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "tag:reuters.com,2026:newsml_L5N46K1RJ:0",
+          "ticker": "BETA",
+          "change": 15.6,
+          "title": "BETA Technologies, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46K1QR:0-gartner-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-11-03T14:31:53.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46K1RJ:0-beta-technologies-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-03T14:32:34.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/gartner--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
             "kind": "logo"
           },
           "score": 130,
           "reasons": [
-            "move -18.1%",
+            "move 15.6%",
             "leading source reuters",
             "keywords: earnings, results",
-            "7 sources"
+            "4 sources"
           ],
-          "titleHe": "גארטנר מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "titleHe": "BETA Technologies מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "urn:live_audio:quartr.com:722807:0",
-          "ticker": "STVN",
-          "change": -26.49,
-          "title": "Stevanato Group Q3 2026 Earnings Call Is Live",
+          "id": "zacks:3e178cfae094b:0",
+          "ticker": "LSCC",
+          "change": 14.66,
+          "title": "LSCC Q3 Earnings Call Highlights AI Demand and Strong 2027 Outlook",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:722807:0-stevanato-group-q3-2026-earnings-call-is-live/",
-          "publishedAt": "2026-11-03T13:27:02.000Z",
+          "source": "zacks",
+          "sourceId": "zacks",
+          "url": "https://www.zacks.com/stock/news/3021845/lscc-q3-earnings-call-highlights-ai-demand-and-strong-2027-outlook?cid=CS-TRADINGVIEW-FT-analyst_blog_plus|earnings_call_takeaways-3021845",
+          "publishedAt": "2026-11-03T14:00:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/stevanato-group--big.svg",
-            "kind": "logo"
+            "url": "https://staticx-tuner.zacks.com/images/default_article_images/default59.jpg",
+            "kind": "photo"
           },
-          "score": 125,
+          "score": 120,
           "reasons": [
-            "move -26.5%",
-            "volume x3.1",
-            "keywords: earnings",
+            "move 14.7%",
+            "keywords: earnings, outlook",
             "3 sources"
           ],
-          "titleHe": "שיחת הרווחים של Stevanato Group לרבעון 3 יוצאת לדרך",
+          "titleHe": "שיחת הרווחים של LSCC ברבעון ה-3 מדגישה את הביקוש ל-AI ותחזית חזקה לשנת 2027",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
