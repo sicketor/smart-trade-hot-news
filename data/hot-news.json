@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T12:28:55.115Z",
+  "generatedAt": "2026-11-03T13:46:35.830Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T12:28:55.115Z",
+      "updatedAt": "2026-11-03T13:46:35.830Z",
       "items": [
         {
-          "id": "DJN_DN20261103004535_20261103005067:0",
-          "ticker": "SHOP",
-          "change": -16.75,
-          "title": "Shopify Sees 4Q Revenue to Grow at a Low-Thirties Percentage Rate on a Yr-over-Yr Basis >SHOP",
+          "id": "DJN_DN20261103006596:0",
+          "ticker": "DT",
+          "change": -14.02,
+          "title": "2 Reasons Why This AI-Powered Software Stock Is Tumbling After Earnings — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103004535_20261103005067:0-shopify-sees-4q-revenue-to-grow-at-a-low-thirties-percentage-rate-on-a-yr-over-yr-basis-shop/",
-          "publishedAt": "2026-11-03T12:08:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/shopify--big.svg",
-            "kind": "logo"
-          },
-          "score": 120,
-          "reasons": [
-            "move -16.7%",
-            "leading source dow-jones",
-            "keywords: revenue",
-            "3 sources"
-          ],
-          "titleHe": "שופיפיי צופה צמיחה של כ-30% בהכנסות הרבעון ה-4 בסיס שנתי >SHOP",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L2N46K0FG:0",
-          "ticker": "DT",
-          "change": -16.71,
-          "title": "Dynatrace Q2 revenue beats estimates, sets $1 bln additional buyback",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0FG:0-dynatrace-q2-revenue-beats-estimates-sets-1-bln-additional-buyback/",
-          "publishedAt": "2026-11-03T11:42:16.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103006596:0-2-reasons-why-this-ai-powered-software-stock-is-tumbling-after-earnings-barrons-com/",
+          "publishedAt": "2026-11-03T13:35:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/dynatrace--big.svg",
             "kind": "logo"
           },
           "score": 120,
           "reasons": [
-            "move -16.7%",
-            "leading source reuters",
-            "keywords: revenue",
-            "6 sources"
+            "move -14.0%",
+            "leading source dow-jones",
+            "keywords: earnings",
+            "8 sources"
           ],
-          "titleHe": "ההכנסות של Dynatrace ברבעון ה-2 עקפו את תחזיות האנליסטים, החברה הכריזה על תוכנית רכישה עצמית נוספת ב-1 מיליארד דולר",
+          "titleHe": "2 סיבות לכך שמניית התוכנה הזו בתחום הבינה המלאכותית צוללת לאחר הדו\"חות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261103005205:0",
+          "ticker": "ZBRA",
+          "change": -17.48,
+          "title": "Zebra Technologies Earnings: Big Growth, Big Stock Drop — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261103005205:0-zebra-technologies-earnings-big-growth-big-stock-drop-barrons-com/",
+          "publishedAt": "2026-11-03T12:20:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/zebra--big.svg",
+            "kind": "logo"
+          },
+          "score": 120,
+          "reasons": [
+            "move -17.5%",
+            "leading source dow-jones",
+            "keywords: earnings",
+            "7 sources"
+          ],
+          "titleHe": "הדו\"חות של Zebra Technologies: צמיחה חזקה, נפילה חדה במניה",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,43 +84,46 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T12:28:55.115Z",
+      "updatedAt": "2026-11-03T13:46:35.830Z",
       "items": [
         {
-          "id": "calcalist:997ab945f30f0:0",
+          "id": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a194-d101-a9a1-b5d4101c0000",
           "ticker": null,
           "change": null,
-          "title": "הרווחיות של אפל בירידה - האם היא תעלה את מחירי האייפונים?",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:997ab945f30f0:0/",
-          "publishedAt": "2026-11-03T10:53:03.000Z",
-          "image": null,
-          "score": 50,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: רווח"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a14e-db9a-a1b3-b97eb5d90000",
-          "ticker": null,
-          "change": null,
-          "title": "גדעון תדמור נכנס לתחום חדש: משקיע במנורה חיתום ויחזיק בכ-80% עם מנהליה",
+          "title": "טראמפ: \"נתניהו ואני הגענו להסכם שעד סוף השנה נעצור את הסיוע לישראל\"",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a14e-db9a-a1b3-b97eb5d90000",
-          "publishedAt": "2026-11-03T12:10:15.000Z",
+          "url": "https://www.themarker.com/markets/2026-11-03/ty-article-live/000001a1-a194-d101-a9a1-b5d4101c0000",
+          "publishedAt": "2026-11-03T13:24:05.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/00000192-e2b2-dd31-a9be-fbbbef390000/22/b4/95fd6314472282fe731aed021205/599510.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/000001a1-a19e-d101-a9a1-b5dea88b0000/c4/68/548b1dfb4e1f81f4af04c03adda2/685914.jpg?width=108&height=81",
             "kind": "photo"
           },
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source themarker",
+            "keywords: הסכם"
+          ]
+        },
+        {
+          "id": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a130-d02e-abe7-ed36207f0000",
+          "ticker": null,
+          "change": null,
+          "title": "טבע ירדה במכירות — אבל מכה את התחזיות וקפצה ברווח למניה ב-10%",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a130-d02e-abe7-ed36207f0000",
+          "publishedAt": "2026-11-03T12:29:08.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000018d-5f4f-d4f8-a9df-5f6fb2f50000/84/17/705c671f4996b8c80da75773f879/78976.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "score": 50,
+          "reasons": [
+            "leading source themarker",
+            "keywords: רווח"
           ]
         }
       ]
