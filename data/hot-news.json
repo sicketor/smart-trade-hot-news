@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T19:59:26.293Z",
+  "generatedAt": "2026-11-04T20:55:25.342Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T19:59:26.293Z",
+      "updatedAt": "2026-11-04T20:55:25.342Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46L335:0",
           "ticker": "TRMB",
-          "change": -17.02,
+          "change": -18.11,
           "title": "Trimble Inc reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,8 +36,8 @@
           },
           "score": 125,
           "reasons": [
-            "move -17.0%",
-            "volume x2.4",
+            "move -18.1%",
+            "volume x2.8",
             "leading source reuters",
             "keywords: earnings, results"
           ],
@@ -47,7 +47,7 @@
         {
           "id": "DJN_DN20261104012127:0",
           "ticker": "DUOL",
-          "change": 29.46,
+          "change": 28.57,
           "title": "Duolingo Is Maintained at Neutral by JP Morgan",
           "lang": "en",
           "source": "Dow Jones",
@@ -60,8 +60,8 @@
           },
           "score": 115,
           "reasons": [
-            "move 29.5%",
-            "volume x5.6",
+            "move 28.6%",
+            "volume x7.0",
             "leading source dow-jones",
             "2 sources"
           ],
