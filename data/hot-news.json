@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T12:37:42.976Z",
+  "generatedAt": "2026-11-04T13:54:42.519Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T12:37:42.976Z",
+      "updatedAt": "2026-11-04T13:54:42.519Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46L0ME:0",
-          "ticker": "DDOG",
-          "change": -19.17,
-          "title": "Datadog beats Q3 revenue, profit estimates",
+          "id": "tag:reuters.com,2026:newsml_L2N46L0OZ:0",
+          "ticker": "FIS",
+          "change": -22.54,
+          "title": "FIS Q3 revenue beats estimates on acquisition boost",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L0ME:0-datadog-beats-q3-revenue-profit-estimates/",
-          "publishedAt": "2026-11-04T12:09:57.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L0OZ:0-fis-q3-revenue-beats-estimates-on-acquisition-boost/",
+          "publishedAt": "2026-11-04T12:40:50.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/datadog--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/fidelity-information-services--big.svg",
             "kind": "logo"
           },
           "score": 130,
           "reasons": [
-            "move -19.2%",
+            "move -22.5%",
             "leading source reuters",
-            "keywords: revenue, profit",
-            "7 sources"
+            "keywords: revenue, acquisition",
+            "8 sources"
           ],
-          "titleHe": "דאטה דוג עוקפת את תחזית ההכנסות והרווח ברבעון ה-3",
+          "titleHe": "ההכנסות של FIS ברבעון השלישי עקפו את תחז הודות לצמיחה ממיזוגים ורכישות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46L0HB:0",
-          "ticker": "NICE",
-          "change": -13.32,
-          "title": "Customer experience software maker NICE slightly beats Q3 revenue on AI growth, raises FY outlook",
+          "id": "tag:reuters.com,2026:newsml_L5N46L1XV:0",
+          "ticker": "KD",
+          "change": 13.21,
+          "title": "Kyndryl Holdings, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L0HB:0-customer-experience-software-maker-nice-slightly-beats-q3-revenue-on-ai-growth-raises-fy-outlook/",
-          "publishedAt": "2026-11-04T10:42:28.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46L1XV:0-kyndryl-holdings-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-04T13:46:19.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/nice--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/kyndryl--big.svg",
             "kind": "logo"
           },
           "score": 128,
           "reasons": [
-            "move -13.3%",
+            "move 13.2%",
             "leading source reuters",
-            "keywords: revenue, outlook",
+            "keywords: earnings, results",
             "6 sources"
           ],
-          "titleHe": "נייס עוקפת קלות את תחזית ההכנסות ברבעון ה-3 הודות לצמיחה ב-AI ומעלה את תחזית 2024",
+          "titleHe": "Kyndryl Holdings מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,8 +84,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-04T12:37:42.976Z",
+      "updatedAt": "2026-11-04T13:54:42.519Z",
       "items": [
+        {
+          "id": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a61b-defa-a7f7-ae7fece60000",
+          "ticker": null,
+          "change": null,
+          "title": "נייס עקפה את התחזיות, אך מציגה ירידה ברווחיות רבעון שני ברציפות: המניה יורדת ב–11%",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a61b-defa-a7f7-ae7fece60000",
+          "publishedAt": "2026-11-04T10:55:18.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000019f-d198-d310-a3df-d59bb6d10000/67/7a/575aa43449d493a4103827f79985/418301.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "score": 50,
+          "reasons": [
+            "leading source themarker",
+            "keywords: רווח"
+          ]
+        },
         {
           "id": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a648-db8d-a9f7-a7cc18300000",
           "ticker": null,
@@ -100,23 +120,6 @@
             "url": "https://img.haarets.co.il/bs/000001a1-a65c-db8d-a9f7-a7dcb1110000/2a/3c/9a16366c485db1bec8bfbd4e3045/278920.jpg?width=108&height=81",
             "kind": "photo"
           },
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "calcalist:2fc85c6a430f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "נמרודי ויתר, מנורה השתכנעה: אושרה מדיניות התגמול בהכשרת הישוב",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:2fc85c6a430f0:0/",
-          "publishedAt": "2026-11-04T11:29:27.000Z",
-          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
