@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T21:21:59.530Z",
+  "generatedAt": "2026-11-04T08:29:27.515Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -84,21 +84,21 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-03T15:30:52.444Z",
+      "updatedAt": "2026-11-04T08:29:27.515Z",
       "items": [
         {
-          "id": "calcalist:f985f632630f0:0",
-          "ticker": "ELTR",
-          "change": -0.38,
-          "title": "הנפקת הזכויות של אלקטרה נדל\"ן: 199 מיליון שקל גויסו, וכמעט כל בעלי המניות נענו",
+          "id": "https://www.themarker.com/markets/2026-11-04/ty-article-live/000001a1-a571-dd7a-a3ed-e57116730000",
+          "ticker": null,
+          "change": null,
+          "title": "אחרי בחירות האמצע בארה\"ב — המסחר בת\"א נפתח במגמה חיובית; אנלייט מזנקת",
           "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:f985f632630f0:0/",
-          "publishedAt": "2026-11-03T14:55:47.000Z",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-04/ty-article-live/000001a1-a571-dd7a-a3ed-e57116730000",
+          "publishedAt": "2026-11-04T08:06:57.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/electra--big.svg",
-            "kind": "logo"
+            "url": "https://img.haarets.co.il/bs/0000019a-2451-dcd3-abdb-ac7f5fab0000/a6/26/052052b746fdabf72863847ff4e9/577007.jpg?width=108&height=81",
+            "kind": "photo"
           },
           "fallback": true,
           "score": 0,
@@ -107,17 +107,17 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a1a3-d101-a9a1-b5f3473c0000",
+          "id": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a565-dd7a-a3ed-e565cc4b0000",
           "ticker": null,
           "change": null,
-          "title": "אי־ודאות פוליטית וירידות בוול סטריט; כך עלה הדולר לרמה של 3.16 שקלים",
+          "title": "\"מתמודדים עם רוח נגדית משמעותית\": מאחורי הקריסה של 44% במניית אמדוקס",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-03/ty-article/.premium/000001a1-a1a3-d101-a9a1-b5f3473c0000",
-          "publishedAt": "2026-11-03T14:37:53.000Z",
+          "url": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a565-dd7a-a3ed-e565cc4b0000",
+          "publishedAt": "2026-11-04T07:56:01.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-a1b3-d5c5-ade1-bdffa84a0001/dc/b0/73465a574a5e827c7b334af588b4/881293.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000019c-27d8-d4c5-a7bc-67dcab670000/3d/13/a2f128a14c0580ad54c4204494da/643258.jpg?width=108&height=81",
             "kind": "photo"
           },
           "fallback": true,
