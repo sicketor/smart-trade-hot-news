@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T10:44:17.828Z",
+  "generatedAt": "2026-11-04T11:41:23.449Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T10:44:17.828Z",
+      "updatedAt": "2026-11-04T11:41:23.449Z",
       "items": [
         {
           "id": "DJN_DN20261104003252:0",
           "ticker": "DOX",
-          "change": -39.93,
+          "change": -40.91,
           "title": "Amdocs Cut to Perform From Outperform by Oppenheimer",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,7 +36,7 @@
           },
           "score": 100,
           "reasons": [
-            "move -39.9%",
+            "move -40.9%",
             "leading source dow-jones",
             "2 sources"
           ],
@@ -46,7 +46,7 @@
         {
           "id": "tag:reuters.com,2026:newsml_L5N46L18N:0",
           "ticker": "ENLT",
-          "change": 9.5,
+          "change": 10.32,
           "title": "Enlight Renewable Energy Ltd. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -57,9 +57,9 @@
             "url": "https://s3-symbol-logo.tradingview.com/enlight-energy--big.svg",
             "kind": "logo"
           },
-          "score": 96,
+          "score": 99,
           "reasons": [
-            "move 9.5%",
+            "move 10.3%",
             "leading source reuters",
             "keywords: earnings, results"
           ],
@@ -82,22 +82,19 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-04T10:44:17.828Z",
+      "updatedAt": "2026-11-04T11:41:23.449Z",
       "items": [
         {
-          "id": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a59e-db8d-a9f7-a5deaa270000",
+          "id": "calcalist:2fc85c6a430f0:0",
           "ticker": null,
           "change": null,
-          "title": "מחפשים רוכש: בעלי ארקיע פנו לישראייר ואל על — קנו אותנו",
+          "title": "נמרודי ויתר, מנורה השתכנעה: אושרה מדיניות התגמול בהכשרת הישוב",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a59e-db8d-a9f7-a5deaa270000",
-          "publishedAt": "2026-11-04T10:15:09.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000017f-e7e6-d97e-a37f-f7e73af00000/3c/7d/f20da2c6500881bcb81dbb88039b/1174546335.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:2fc85c6a430f0:0/",
+          "publishedAt": "2026-11-04T11:29:27.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
@@ -105,19 +102,16 @@
           ]
         },
         {
-          "id": "https://www.themarker.com/markets/2026-11-04/ty-article-live/000001a1-a571-dd7a-a3ed-e57116730000",
+          "id": "calcalist:c75d19d5130f0:0",
           "ticker": null,
           "change": null,
-          "title": "אחרי בחירות האמצע: הירידות בת\"א נחלשו; מדד ת\"א 90 נסחר ביציבות",
+          "title": "הדולר נחלש בעקבות תוצאות הבחירות בארה\"ב; בישראל נסחר סביב 3.15 שקלים",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-04/ty-article-live/000001a1-a571-dd7a-a3ed-e57116730000",
-          "publishedAt": "2026-11-04T08:06:57.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000019a-2451-dcd3-abdb-ac7f5fab0000/a6/26/052052b746fdabf72863847ff4e9/577007.jpg?width=108&height=81",
-            "kind": "photo"
-          },
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:c75d19d5130f0:0/",
+          "publishedAt": "2026-11-04T10:57:55.000Z",
+          "image": null,
           "fallback": true,
           "score": 0,
           "reasons": [
