@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T15:57:18.672Z",
+  "generatedAt": "2026-11-04T16:59:09.886Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,55 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T15:57:18.672Z",
+      "updatedAt": "2026-11-04T16:59:09.886Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46L1XV:0",
-          "ticker": "KD",
-          "change": 35.38,
-          "title": "Kyndryl Holdings, Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "tag:reuters.com,2026:newsml_L5N46L2FQ:0",
+          "ticker": "FIS",
+          "change": -24.17,
+          "title": "Fidelity National Information Services, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46L1XV:0-kyndryl-holdings-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-11-04T13:46:19.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46L2FQ:0-fidelity-national-information-services-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-04T15:22:27.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/kyndryl--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/fidelity-information-services--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 145,
           "reasons": [
-            "move 35.4%",
+            "move -24.2%",
+            "volume x2.5",
             "leading source reuters",
             "keywords: earnings, results",
-            "8 sources"
+            "5 sources"
           ],
-          "titleHe": "קיינדריל מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "titleHe": "פידליטי נשיונל אינפורמיישן סרוויסס מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261104010305:0",
-          "ticker": "RIOT",
-          "change": 14.76,
-          "title": "Riot Platform Shares Climb on 3Q Earnings, Revenue Above Expectations",
+          "id": "DJN_DN20261104010479:0",
+          "ticker": "DOX",
+          "change": -27.17,
+          "title": "Amdocs Stock Has Its Worst Day in 24 Years as T-Mobile Business Is at Risk — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261104010305:0-riot-platform-shares-climb-on-3q-earnings-revenue-above-expectations/",
-          "publishedAt": "2026-11-04T15:52:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261104010479:0-amdocs-stock-has-its-worst-day-in-24-years-as-t-mobile-business-is-at-risk-barrons-com/",
+          "publishedAt": "2026-11-04T16:10:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/riot-blockchain--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/amdocs--big.svg",
             "kind": "logo"
           },
-          "score": 110,
+          "score": 115,
           "reasons": [
-            "move 14.8%",
+            "move -27.2%",
+            "volume x4.2",
             "leading source dow-jones",
-            "keywords: earnings, revenue"
+            "2 sources"
           ],
-          "titleHe": "מניות ריוט פלטפורמס מזנקות בעקבות דוחות הרבעון השלישי, ההכנסות מעל הציפיות",
+          "titleHe": "המניה של אמדוקס רושמת את היום הגרוע ביותר שלה ב-24 שנים על רקע סיכון לפעילות מול T-Mobile",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
