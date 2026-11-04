@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T17:55:57.870Z",
+  "generatedAt": "2026-11-04T18:58:35.304Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,58 +18,56 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T17:55:57.870Z",
+      "updatedAt": "2026-11-04T18:58:35.304Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46L2FQ:0",
-          "ticker": "FIS",
-          "change": -23.43,
-          "title": "Fidelity National Information Services, Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "tag:reuters.com,2026:newsml_L5N46L335:0",
+          "ticker": "TRMB",
+          "change": -16.36,
+          "title": "Trimble Inc reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46L2FQ:0-fidelity-national-information-services-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-11-04T15:22:27.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46L335:0-trimble-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-04T18:42:51.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/fidelity-information-services--big.svg",
-            "kind": "logo"
-          },
-          "score": 145,
-          "reasons": [
-            "move -23.4%",
-            "volume x3.1",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "5 sources"
-          ],
-          "titleHe": "פידליטי נשיונל אינפורמיישן סרוויסס מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261104011346:0",
-          "ticker": "KD",
-          "change": 34.78,
-          "title": "Kyndryl's Streamlining Actions Are Largely Complete — Market Talk",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261104011346:0-kyndryl-s-streamlining-actions-are-largely-complete-market-talk/",
-          "publishedAt": "2026-11-04T17:50:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/kyndryl--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/trimble--big.svg",
             "kind": "logo"
           },
           "score": 125,
           "reasons": [
-            "move 34.8%",
-            "volume x2.2",
-            "leading source dow-jones",
-            "3 sources"
-          ]
+            "move -16.4%",
+            "volume x2.0",
+            "leading source reuters",
+            "keywords: earnings, results"
+          ],
+          "titleHe": "טרימבל מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261104011749:0",
+          "ticker": "DUOL",
+          "change": 34.98,
+          "title": "Duolingo Is Maintained at Equal-Weight by Barclays",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261104011749:0-duolingo-is-maintained-at-equal-weight-by-barclays/",
+          "publishedAt": "2026-11-04T18:42:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/duolingo--big.svg",
+            "kind": "logo"
+          },
+          "score": 115,
+          "reasons": [
+            "move -35.1%",
+            "volume x2.0",
+            "keywords: merger",
+            "2 sources"
+          ],
+          "titleHe": "ברקליס שומרים על המלצת משקל שווה לדואולינגו",
+          "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
