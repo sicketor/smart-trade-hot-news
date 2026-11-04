@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T18:58:35.304Z",
+  "generatedAt": "2026-11-04T19:59:26.293Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T18:58:35.304Z",
+      "updatedAt": "2026-11-04T19:59:26.293Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46L335:0",
           "ticker": "TRMB",
-          "change": -16.36,
+          "change": -17.02,
           "title": "Trimble Inc reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,8 +36,8 @@
           },
           "score": 125,
           "reasons": [
-            "move -16.4%",
-            "volume x2.0",
+            "move -17.0%",
+            "volume x2.4",
             "leading source reuters",
             "keywords: earnings, results"
           ],
@@ -45,27 +45,27 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261104011749:0",
+          "id": "DJN_DN20261104012127:0",
           "ticker": "DUOL",
-          "change": 34.98,
-          "title": "Duolingo Is Maintained at Equal-Weight by Barclays",
+          "change": 29.46,
+          "title": "Duolingo Is Maintained at Neutral by JP Morgan",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261104011749:0-duolingo-is-maintained-at-equal-weight-by-barclays/",
-          "publishedAt": "2026-11-04T18:42:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261104012127:0-duolingo-is-maintained-at-neutral-by-jp-morgan/",
+          "publishedAt": "2026-11-04T19:50:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/duolingo--big.svg",
             "kind": "logo"
           },
           "score": 115,
           "reasons": [
-            "move -35.1%",
-            "volume x2.0",
-            "keywords: merger",
+            "move 29.5%",
+            "volume x5.6",
+            "leading source dow-jones",
             "2 sources"
           ],
-          "titleHe": "ברקליס שומרים על המלצת משקל שווה לדואולינגו",
+          "titleHe": "ג'יי.פי מורגן הותיר את ההמלצה לדואולינגו על ניטרלי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
