@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T14:57:34.831Z",
+  "generatedAt": "2026-11-04T15:57:18.672Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T14:57:34.831Z",
+      "updatedAt": "2026-11-04T15:57:18.672Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46L0OZ:0",
-          "ticker": "FIS",
-          "change": -19.31,
-          "title": "FIS Q3 revenue beats estimates on acquisition boost",
+          "id": "tag:reuters.com,2026:newsml_L5N46L1XV:0",
+          "ticker": "KD",
+          "change": 35.38,
+          "title": "Kyndryl Holdings, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L0OZ:0-fis-q3-revenue-beats-estimates-on-acquisition-boost/",
-          "publishedAt": "2026-11-04T12:40:50.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46L1XV:0-kyndryl-holdings-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-04T13:46:19.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/fidelity-information-services--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/kyndryl--big.svg",
             "kind": "logo"
           },
           "score": 130,
           "reasons": [
-            "move -19.3%",
+            "move 35.4%",
             "leading source reuters",
-            "keywords: revenue, acquisition",
+            "keywords: earnings, results",
             "8 sources"
           ],
-          "titleHe": "ההכנסות של FIS ברבעון השלישי עקפו את תחז הודות לצמיחה ממיזוגים ורכישות",
+          "titleHe": "קיינדריל מדווחת תוצאות לרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L5N46L1HI:0",
-          "ticker": "YOU",
-          "change": 25.44,
-          "title": "CLEAR Secure, Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "id": "DJN_DN20261104010305:0",
+          "ticker": "RIOT",
+          "change": 14.76,
+          "title": "Riot Platform Shares Climb on 3Q Earnings, Revenue Above Expectations",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46L1HI:0-clear-secure-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-          "publishedAt": "2026-11-04T12:01:23.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261104010305:0-riot-platform-shares-climb-on-3q-earnings-revenue-above-expectations/",
+          "publishedAt": "2026-11-04T15:52:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/clear-secure--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/riot-blockchain--big.svg",
             "kind": "logo"
           },
-          "score": 130,
+          "score": 110,
           "reasons": [
-            "move 25.4%",
-            "leading source reuters",
-            "keywords: earnings, results",
-            "7 sources"
+            "move 14.8%",
+            "leading source dow-jones",
+            "keywords: earnings, revenue"
           ],
-          "titleHe": "CLEAR Secure מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דוחות",
+          "titleHe": "מניות ריוט פלטפורמס מזנקות בעקבות דוחות הרבעון השלישי, ההכנסות מעל הציפיות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
