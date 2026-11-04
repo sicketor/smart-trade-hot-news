@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T16:59:09.886Z",
+  "generatedAt": "2026-11-04T17:55:57.870Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-04T16:59:09.886Z",
+      "updatedAt": "2026-11-04T17:55:57.870Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46L2FQ:0",
           "ticker": "FIS",
-          "change": -24.17,
+          "change": -23.43,
           "title": "Fidelity National Information Services, Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -36,8 +36,8 @@
           },
           "score": 145,
           "reasons": [
-            "move -24.2%",
-            "volume x2.5",
+            "move -23.4%",
+            "volume x3.1",
             "leading source reuters",
             "keywords: earnings, results",
             "5 sources"
@@ -46,29 +46,30 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261104010479:0",
-          "ticker": "DOX",
-          "change": -27.17,
-          "title": "Amdocs Stock Has Its Worst Day in 24 Years as T-Mobile Business Is at Risk — Barrons.com",
+          "id": "DJN_DN20261104011346:0",
+          "ticker": "KD",
+          "change": 34.78,
+          "title": "Kyndryl's Streamlining Actions Are Largely Complete — Market Talk",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261104010479:0-amdocs-stock-has-its-worst-day-in-24-years-as-t-mobile-business-is-at-risk-barrons-com/",
-          "publishedAt": "2026-11-04T16:10:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261104011346:0-kyndryl-s-streamlining-actions-are-largely-complete-market-talk/",
+          "publishedAt": "2026-11-04T17:50:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/amdocs--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/kyndryl--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 125,
           "reasons": [
-            "move -27.2%",
-            "volume x4.2",
+            "move 34.8%",
+            "volume x2.2",
             "leading source dow-jones",
-            "2 sources"
-          ],
-          "titleHe": "המניה של אמדוקס רושמת את היום הגרוע ביותר שלה ב-24 שנים על רקע סיכון לפעילות מול T-Mobile",
-          "translatedBy": "gemini-3.5-flash-lite"
+            "3 sources"
+          ]
         }
+      ],
+      "warnings": [
+        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
