@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T08:29:27.515Z",
+  "generatedAt": "2026-11-04T09:31:23.531Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,49 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-03T21:21:59.530Z",
+      "updatedAt": "2026-11-04T09:31:23.531Z",
       "items": [
         {
-          "id": "DJN_DN20261103009459:0",
-          "ticker": "AEHR",
-          "change": 26.5,
-          "title": "Aehr Test Systems Shares Rise After Higher 1Q Revenue, Swing to Profit",
+          "id": "stocktwits:b015752e0094b:0",
+          "ticker": "DUOL",
+          "change": 12.72,
+          "title": "Why Is DUOL Stock Surging Over 11% Overnight Today?",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103009459:0-aehr-test-systems-shares-rise-after-higher-1q-revenue-swing-to-profit/",
-          "publishedAt": "2026-11-03T18:49:00.000Z",
+          "source": "stocktwits",
+          "sourceId": "stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/why-is-duol-stock-surging-over-11-overnight-today/cNGLPDNR93G",
+          "publishedAt": "2026-11-04T08:01:59.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/aehr-test-systems--big.svg",
-            "kind": "logo"
+            "url": "https://news.stocktwits-cdn.com/large_Getty_Images_2248294649_jpg_d1d649988d.webp",
+            "kind": "photo"
           },
-          "score": 125,
+          "score": 76,
           "reasons": [
-            "move 26.5%",
-            "volume x3.7",
-            "leading source dow-jones",
-            "keywords: revenue, profit"
+            "move 12.7%"
           ],
-          "titleHe": "מניות Aehr Test Systems עולות לאחר עלייה בהכנסות ברבעון הראשון ומעבר לרווח",
+          "titleHe": "למה מניית DUOL מזנקת מעל 11% במסחר המוקדם היום?",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261103009364:0",
-          "ticker": "BETA",
-          "change": 16,
-          "title": "Beta Stock Soars as Higher Revenue Outlook Bolsters Electric-Aircraft Hopes — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L6N46L0KW:0",
+          "ticker": "AMD",
+          "change": 6.59,
+          "title": "European shares rise as Democratic sweep lifts clean energy, bank stocks",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261103009364:0-beta-stock-soars-as-higher-revenue-outlook-bolsters-electric-aircraft-hopes-barrons-com/",
-          "publishedAt": "2026-11-03T18:27:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46L0KW:0-european-shares-rise-as-democratic-sweep-lifts-clean-energy-bank-stocks/",
+          "publishedAt": "2026-11-04T08:04:06.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/beta-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 68,
           "reasons": [
-            "move 16.0%",
-            "volume x2.6",
-            "leading source dow-jones",
-            "keywords: revenue, outlook"
+            "move 6.6%",
+            "leading source reuters"
           ],
-          "titleHe": "מניית Beta מזנקת בעקבות תחזית הכנסות גבוהה המחזקת את תקוות מטוסי ה-EVTOL",
+          "titleHe": "המניות באירופה עולות בעקבות ניצחון דמוקרטי שדוחף את מניות האנרגיה הירוקה והבנקים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,13 +79,13 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-04T08:29:27.515Z",
+      "updatedAt": "2026-11-04T09:31:23.531Z",
       "items": [
         {
           "id": "https://www.themarker.com/markets/2026-11-04/ty-article-live/000001a1-a571-dd7a-a3ed-e57116730000",
           "ticker": null,
           "change": null,
-          "title": "אחרי בחירות האמצע בארה\"ב — המסחר בת\"א נפתח במגמה חיובית; אנלייט מזנקת",
+          "title": "אחרי בחירות האמצע: ירידות בבורסה בת\"א, מניות האנרגיה המתחדשת מזנקות",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
