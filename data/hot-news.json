@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T19:56:55.758Z",
+  "generatedAt": "2026-11-05T20:53:31.392Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T19:56:55.758Z",
+      "updatedAt": "2026-11-05T20:53:31.392Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L5N46M30U:0",
           "ticker": "WRBY",
-          "change": 26.59,
+          "change": 23.81,
           "title": "Warby Parker Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
           "source": "Reuters",
@@ -34,13 +34,13 @@
             "url": "https://s3-symbol-logo.tradingview.com/warby-parker--big.svg",
             "kind": "logo"
           },
-          "score": 145,
+          "score": 135,
           "reasons": [
-            "move 26.6%",
-            "volume x2.3",
+            "move 23.8%",
+            "volume x2.8",
             "leading source reuters",
             "keywords: earnings, results",
-            "3 sources"
+            "2 sources"
           ],
           "titleHe": "וורבי פארкер מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דו\"ח הרווחים",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -48,7 +48,7 @@
         {
           "id": "DJN_DN20261105017793:0",
           "ticker": "APP",
-          "change": 30.27,
+          "change": 30.15,
           "title": "AppLovin Is Maintained at Outperform by Macquarie",
           "lang": "en",
           "source": "Dow Jones",
@@ -59,11 +59,12 @@
             "url": "https://s3-symbol-logo.tradingview.com/applovin-cdr-cad-hedged--big.svg",
             "kind": "logo"
           },
-          "score": 105,
+          "score": 115,
           "reasons": [
-            "move 30.3%",
-            "volume x3.7",
-            "leading source dow-jones"
+            "move 30.1%",
+            "volume x4.0",
+            "leading source dow-jones",
+            "2 sources"
           ],
           "titleHe": "AppLovin ממשיכה לקבל המלצת תשואת יתר ממק쿼רי",
           "translatedBy": "gemini-3.5-flash-lite"
