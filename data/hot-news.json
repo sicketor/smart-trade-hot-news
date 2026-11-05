@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T12:44:40.605Z",
+  "generatedAt": "2026-11-05T14:02:21.105Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T12:44:40.605Z",
+      "updatedAt": "2026-11-05T14:02:21.105Z",
       "items": [
         {
           "id": "tag:reuters.com,2026:newsml_L2N46M0OM:0",
           "ticker": "FOUR",
-          "change": -16.33,
+          "change": -16.09,
           "title": "Shift4 Payments Q3 gross profit rises year over year",
           "lang": "en",
           "source": "Reuters",
@@ -36,7 +36,7 @@
           },
           "score": 120,
           "reasons": [
-            "move -16.3%",
+            "move -16.1%",
             "leading source reuters",
             "keywords: profit",
             "4 sources"
@@ -47,7 +47,7 @@
         {
           "id": "tag:reuters.com,2026:newsml_L2N46M0N0:0",
           "ticker": "U",
-          "change": 20.11,
+          "change": 17.78,
           "title": "Unity Software Q3 revenue rises 32%, beats estimates",
           "lang": "en",
           "source": "Reuters",
@@ -60,10 +60,10 @@
           },
           "score": 120,
           "reasons": [
-            "move 20.1%",
+            "move 17.8%",
             "leading source reuters",
             "keywords: revenue",
-            "6 sources"
+            "8 sources"
           ],
           "titleHe": "ההכנסות של Unity Software ברבעון ה3 עלו ב-32% ועקפו את תחזיות האנליסטים",
           "translatedBy": "gemini-3.5-flash-lite"
@@ -84,8 +84,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-05T12:44:40.605Z",
+      "updatedAt": "2026-11-05T14:02:21.105Z",
       "items": [
+        {
+          "id": "calcalist:e21839f6e30f0:0",
+          "ticker": "MVNE",
+          "change": -1.2,
+          "title": "למונייד צומחת מהר, אבל לא מצליחה להתקרב לרווחיות",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:e21839f6e30f0:0/",
+          "publishedAt": "2026-11-05T13:05:55.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/mivne--big.svg",
+            "kind": "logo"
+          },
+          "score": 50,
+          "reasons": [
+            "leading source calcalist",
+            "keywords: רווח"
+          ]
+        },
         {
           "id": "calcalist:f68a309fe30f0:0",
           "ticker": null,
@@ -101,23 +121,6 @@
           "reasons": [
             "leading source calcalist",
             "keywords: ריבית"
-          ]
-        },
-        {
-          "id": "calcalist:0cf55a50030f0:0",
-          "ticker": null,
-          "change": null,
-          "title": "הדולר בשפל של חודש בעולם אחרי בחירות האמצע בארה\"ב",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:0cf55a50030f0:0/",
-          "publishedAt": "2026-11-05T12:08:30.000Z",
-          "image": null,
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
           ]
         }
       ]
