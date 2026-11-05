@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T20:55:25.342Z",
+  "generatedAt": "2026-11-05T08:32:01.630Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -84,43 +84,46 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-04T14:57:34.831Z",
+      "updatedAt": "2026-11-05T08:32:01.630Z",
       "items": [
         {
-          "id": "calcalist:e5ca1565430f0:0",
+          "id": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-aaa6-defa-a7f7-aeffcbbe0000",
           "ticker": null,
           "change": null,
-          "title": "סולאראדג' מצמצמת הפסדים, אבל התחזית מאכזבת והמניה צונחת",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:e5ca1565430f0:0/",
-          "publishedAt": "2026-11-04T14:31:13.000Z",
-          "image": null,
-          "score": 50,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: תחזית"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a6e0-db8d-a9f7-a7ecabf70000",
-          "ticker": null,
-          "change": null,
-          "title": "טאבולה נחתכת ב–20% אחרי הפחתת התחזית",
+          "title": "בתוך שבוע: ברן מצילה עסקה של כחצי מיליארד דולר",
           "lang": "he",
           "source": "TheMarker",
           "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-04/ty-article/.premium/000001a1-a6e0-db8d-a9f7-a7ecabf70000",
-          "publishedAt": "2026-11-04T14:26:13.000Z",
+          "url": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-aaa6-defa-a7f7-aeffcbbe0000",
+          "publishedAt": "2026-11-05T07:54:51.000Z",
           "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-a6e7-defa-a7f7-aeff16ca0000/ff/38/9c51ecbb403e87a2cbb2e1a48750/123349.jpg?width=108&height=81",
+            "url": "https://img.haarets.co.il/bs/0000017f-f353-d497-a1ff-f3d3ad0a0000/51/34/62fc4ee4308ce2fcaa2153d929d4/1947901887.jpg?width=108&height=81",
             "kind": "photo"
           },
-          "score": 50,
+          "fallback": true,
+          "score": 0,
           "reasons": [
-            "leading source themarker",
-            "keywords: תחזית"
+            "fallback: latest market news"
+          ]
+        },
+        {
+          "id": "https://www.themarker.com/markets/2026-11-05/ty-article-live/000001a1-aa74-defa-a7f7-ae7f6b5b0000",
+          "ticker": null,
+          "change": null,
+          "title": "המסחר בת\"א נפתח בירידות; מדד הבנקים מאבד 1.1%",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-05/ty-article-live/000001a1-aa74-defa-a7f7-ae7f6b5b0000",
+          "publishedAt": "2026-11-05T06:49:01.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/0000019f-7ebf-d490-a59f-7fff9ffe0000/e4/fe/8192986a461792f3e06cae6c5c86/267250.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
           ]
         }
       ]
