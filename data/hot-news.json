@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T15:00:07.129Z",
+  "generatedAt": "2026-11-05T17:17:21.490Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,56 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T15:00:07.129Z",
+      "updatedAt": "2026-11-05T17:17:21.490Z",
       "items": [
         {
-          "id": "DJN_DN20261105013898:0",
+          "id": "tag:reuters.com,2026:newsml_L5N46M2HK:0",
           "ticker": "GIL",
-          "change": -25.06,
-          "title": "Gildan Activewear Cuts Outlook, Misses 3Q Sales Targets on Macro Headwinds",
+          "change": -22.81,
+          "title": "Gildan Activewear Inc. reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261105013898:0-gildan-activewear-cuts-outlook-misses-3q-sales-targets-on-macro-headwinds/",
-          "publishedAt": "2026-11-05T14:06:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46M2HK:0-gildan-activewear-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-05T16:27:27.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/gildan-activewear--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 145,
           "reasons": [
-            "move -25.1%",
-            "leading source dow-jones",
-            "keywords: outlook",
-            "3 sources"
+            "move -22.8%",
+            "volume x3.9",
+            "leading source reuters",
+            "keywords: earnings, results",
+            "4 sources"
           ],
-          "titleHe": "גילדן אקטיווור חותכת את התחזית ומחמיצה את יעד המכירות ברבעון ה-3 בשל רוחות נגדיות מאקרו-כלכליות",
+          "titleHe": "גילדן אקטיווור מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום רווחים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46M0MV:0",
-          "ticker": "XERS",
-          "change": 26.96,
-          "title": "Xeris Biopharma Q3 product revenue beats estimates on Recorlev demand",
+          "id": "DJN_DN20261104018756:0",
+          "ticker": "APP",
+          "change": 29.39,
+          "title": "AppLovin Stock Is Tracking Its Biggest Jump in 2 Years After AI-Driven Revenue Accelerates — Barrons.com",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0MV:0-xeris-biopharma-q3-product-revenue-beats-estimates-on-recorlev-demand/",
-          "publishedAt": "2026-11-05T12:19:08.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261104018756:0-applovin-stock-is-tracking-its-biggest-jump-in-2-years-after-ai-driven-revenue-accelerates-barrons-com/",
+          "publishedAt": "2026-11-05T16:27:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/xeris-pharmaceuticals--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/applovin-cdr-cad-hedged--big.svg",
             "kind": "logo"
           },
-          "score": 120,
+          "score": 135,
           "reasons": [
-            "move 27.0%",
-            "leading source reuters",
+            "move 29.4%",
+            "volume x3.0",
+            "leading source dow-jones",
             "keywords: revenue",
-            "5 sources"
+            "6 sources"
           ],
-          "titleHe": "הכנסות Xeris Biopharma ברבעון ה-3 עוקפות את תחזית המכירות הודות לביקוש ל-Recorlev",
+          "titleHe": "מניית AppLovin בדרך לזינוק הגדול ביותר שלה מזה שנתיים לאחר האצת ההכנסות הודות ל-AI",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
