@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T14:02:21.105Z",
+  "generatedAt": "2026-11-05T15:00:07.129Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T14:02:21.105Z",
+      "updatedAt": "2026-11-05T15:00:07.129Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46M0OM:0",
-          "ticker": "FOUR",
-          "change": -16.09,
-          "title": "Shift4 Payments Q3 gross profit rises year over year",
+          "id": "DJN_DN20261105013898:0",
+          "ticker": "GIL",
+          "change": -25.06,
+          "title": "Gildan Activewear Cuts Outlook, Misses 3Q Sales Targets on Macro Headwinds",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0OM:0-shift4-payments-q3-gross-profit-rises-year-over-year/",
-          "publishedAt": "2026-11-05T12:20:00.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261105013898:0-gildan-activewear-cuts-outlook-misses-3q-sales-targets-on-macro-headwinds/",
+          "publishedAt": "2026-11-05T14:06:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/shift4-payments--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/gildan-activewear--big.svg",
             "kind": "logo"
           },
           "score": 120,
           "reasons": [
-            "move -16.1%",
-            "leading source reuters",
-            "keywords: profit",
-            "4 sources"
+            "move -25.1%",
+            "leading source dow-jones",
+            "keywords: outlook",
+            "3 sources"
           ],
-          "titleHe": "הרווח הגולמי של Shift4 Payments ברבעון ה3 עלה בהשוואה לשנה אשתקד",
+          "titleHe": "גילדן אקטיווור חותכת את התחזית ומחמיצה את יעד המכירות ברבעון ה-3 בשל רוחות נגדיות מאקרו-כלכליות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46M0N0:0",
-          "ticker": "U",
-          "change": 17.78,
-          "title": "Unity Software Q3 revenue rises 32%, beats estimates",
+          "id": "tag:reuters.com,2026:newsml_L2N46M0MV:0",
+          "ticker": "XERS",
+          "change": 26.96,
+          "title": "Xeris Biopharma Q3 product revenue beats estimates on Recorlev demand",
           "lang": "en",
           "source": "Reuters",
           "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0N0:0-unity-software-q3-revenue-rises-32-beats-estimates/",
-          "publishedAt": "2026-11-05T12:18:49.000Z",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0MV:0-xeris-biopharma-q3-product-revenue-beats-estimates-on-recorlev-demand/",
+          "publishedAt": "2026-11-05T12:19:08.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/unity--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/xeris-pharmaceuticals--big.svg",
             "kind": "logo"
           },
           "score": 120,
           "reasons": [
-            "move 17.8%",
+            "move 27.0%",
             "leading source reuters",
             "keywords: revenue",
-            "8 sources"
+            "5 sources"
           ],
-          "titleHe": "ההכנסות של Unity Software ברבעון ה3 עלו ב-32% ועקפו את תחזיות האנליסטים",
+          "titleHe": "הכנסות Xeris Biopharma ברבעון ה-3 עוקפות את תחזית המכירות הודות לביקוש ל-Recorlev",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -84,12 +84,12 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-05T14:02:21.105Z",
+      "updatedAt": "2026-11-05T15:00:07.129Z",
       "items": [
         {
           "id": "calcalist:e21839f6e30f0:0",
           "ticker": "MVNE",
-          "change": -1.2,
+          "change": -1.92,
           "title": "למונייד צומחת מהר, אבל לא מצליחה להתקרב לרווחיות",
           "lang": "he",
           "source": "כלכליסט",
