@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T10:40:09.237Z",
+  "generatedAt": "2026-11-05T11:41:50.919Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T10:40:09.237Z",
+      "updatedAt": "2026-11-05T11:41:50.919Z",
       "items": [
         {
-          "id": "DJN_DN20261105004434:0",
+          "id": "DJN_DN20261104018756:0",
           "ticker": "APP",
-          "change": 14.74,
-          "title": "AppLovin Is Maintained at Buy by BTIG",
+          "change": 17.02,
+          "title": "AppLovin Is Raking in Cash as AI-Driven Revenue Accelerates — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261105004434:0-applovin-is-maintained-at-buy-by-btig/",
-          "publishedAt": "2026-11-05T10:20:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261104018756:0-applovin-is-raking-in-cash-as-ai-driven-revenue-accelerates-barrons-com/",
+          "publishedAt": "2026-11-05T10:51:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/applovin-cdr-cad-hedged--big.svg",
             "kind": "logo"
           },
           "score": 100,
           "reasons": [
-            "move 14.7%",
+            "move 17.0%",
+            "leading source dow-jones",
+            "keywords: revenue"
+          ],
+          "titleHe": "AppLovin גורפת מזומנים הודות להאץ בהכנסות מבוססות בינה מלאכותית",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261105004372:0",
+          "ticker": "BROS",
+          "change": -14.07,
+          "title": "Dutch Bros Is Maintained at Buy by TD Cowen",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261105004372:0-dutch-bros-is-maintained-at-buy-by-td-cowen/",
+          "publishedAt": "2026-11-05T10:12:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/dutch-bros--big.svg",
+            "kind": "logo"
+          },
+          "score": 100,
+          "reasons": [
+            "move -14.1%",
             "leading source dow-jones",
             "2 sources"
           ],
-          "titleHe": "BTIG מותירה המלצת קנייה למניית AppLovin",
-          "translatedBy": "gemini-3.1-flash-lite"
-        },
-        {
-          "id": "tag:reuters.com,2026:newsml_L2N46M0FQ:0",
-          "ticker": "ACMR",
-          "change": 6.46,
-          "title": "ACM Research beats Q3 revenue estimates on packaging equipment demand, raises FY outlook",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0FQ:0-acm-research-beats-q3-revenue-estimates-on-packaging-equipment-demand-raises-fy-outlook/",
-          "publishedAt": "2026-11-05T10:11:12.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/acm-research--big.svg",
-            "kind": "logo"
-          },
-          "score": 97,
-          "reasons": [
-            "move 6.5%",
-            "leading source reuters",
-            "keywords: revenue, outlook",
-            "2 sources"
-          ],
-          "titleHe": "ACM Research עוקפת את תחזיות ההכנסות לרבעון השלישי בזכות ביקוש לציוד אריזה ומעלה את התחזית השנתית",
-          "translatedBy": "gemini-3.1-flash-lite"
+          "titleHe": "Dutch Bros מקבלת המלצת קנייה מ-TD Cowen בשמירה על דירוג",
+          "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
     },
@@ -83,8 +82,28 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-05T10:40:09.237Z",
+      "updatedAt": "2026-11-05T11:41:50.919Z",
       "items": [
+        {
+          "id": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-ab44-d2e9-a5ad-bbde019c0000",
+          "ticker": null,
+          "change": null,
+          "title": "בבורסה מנסים להרגיע: \"הזרים רכשו מניות ב-900 מיליון שקל נטו אחרי הבחירות\"",
+          "lang": "he",
+          "source": "TheMarker",
+          "sourceId": "themarker",
+          "url": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-ab44-d2e9-a5ad-bbde019c0000",
+          "publishedAt": "2026-11-05T10:55:29.000Z",
+          "image": {
+            "url": "https://img.haarets.co.il/bs/000001a1-ab58-defa-a7f7-af7f56fa0001/95/9d/aafd72354b66b2cc25bf5d061d5a/017811.jpg?width=108&height=81",
+            "kind": "photo"
+          },
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
+          ]
+        },
         {
           "id": "calcalist:0cf55a50030f0:0",
           "ticker": null,
@@ -96,26 +115,6 @@
           "url": "https://www.tradingview.com/news/calcalist:0cf55a50030f0:0/",
           "publishedAt": "2026-11-05T09:22:18.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
-          "reasons": [
-            "fallback: latest market news"
-          ]
-        },
-        {
-          "id": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-aaa6-defa-a7f7-aeffcbbe0000",
-          "ticker": null,
-          "change": null,
-          "title": "בתוך שבוע: ברן מצילה עסקה של כחצי מיליארד דולר",
-          "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-aaa6-defa-a7f7-aeffcbbe0000",
-          "publishedAt": "2026-11-05T07:54:51.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/0000017f-f353-d497-a1ff-f3d3ad0a0000/51/34/62fc4ee4308ce2fcaa2153d929d4/1947901887.jpg?width=108&height=81",
-            "kind": "photo"
-          },
           "fallback": true,
           "score": 0,
           "reasons": [
