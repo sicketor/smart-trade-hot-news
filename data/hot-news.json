@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T09:35:11.795Z",
+  "generatedAt": "2026-11-05T10:40:09.237Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,50 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T09:35:11.795Z",
+      "updatedAt": "2026-11-05T10:40:09.237Z",
       "items": [
         {
-          "id": "tradingview:9fea22c9ef0a4:0",
-          "ticker": "SEZL",
-          "change": 25.14,
-          "title": "Key facts: Sezzle Q3 growth, raised outlook; bank bid; target $178.50",
+          "id": "DJN_DN20261105004434:0",
+          "ticker": "APP",
+          "change": 14.74,
+          "title": "AppLovin Is Maintained at Buy by BTIG",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:9fea22c9ef0a4:0-key-facts-sezzle-q3-growth-raised-outlook-bank-bid-target-178-50/",
-          "publishedAt": "2026-11-05T08:00:00.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261105004434:0-applovin-is-maintained-at-buy-by-btig/",
+          "publishedAt": "2026-11-05T10:20:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/sezzle--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/applovin-cdr-cad-hedged--big.svg",
             "kind": "logo"
           },
-          "score": 90,
+          "score": 100,
           "reasons": [
-            "move 25.1%",
-            "keywords: outlook"
+            "move 14.7%",
+            "leading source dow-jones",
+            "2 sources"
           ],
-          "titleHe": "Sezzle ברבעון השלישי: צמיחה חזקה והעלאת תחזיות; החברה בוחנת הצעת רכש בנקאית; מחיר היעד עודכן ל-178.50 דולר",
+          "titleHe": "BTIG מותירה המלצת קנייה למניית AppLovin",
           "translatedBy": "gemini-3.1-flash-lite"
         },
         {
-          "id": "tradingview:83acdc149682d:0",
-          "ticker": "ARQT",
-          "change": -17.3,
-          "title": "Key facts: Arcutis Q3 Sales Up 45%, Outlook Raised; ZORYVE Demand Grows",
+          "id": "tag:reuters.com,2026:newsml_L2N46M0FQ:0",
+          "ticker": "ACMR",
+          "change": 6.46,
+          "title": "ACM Research beats Q3 revenue estimates on packaging equipment demand, raises FY outlook",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:83acdc149682d:0-key-facts-arcutis-q3-sales-up-45-outlook-raised-zoryve-demand-grows/",
-          "publishedAt": "2026-11-05T08:00:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0FQ:0-acm-research-beats-q3-revenue-estimates-on-packaging-equipment-demand-raises-fy-outlook/",
+          "publishedAt": "2026-11-05T10:11:12.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/arcutis-biotherapeutics--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/acm-research--big.svg",
             "kind": "logo"
           },
-          "score": 90,
+          "score": 97,
           "reasons": [
-            "move -17.3%",
-            "keywords: outlook"
+            "move 6.5%",
+            "leading source reuters",
+            "keywords: revenue, outlook",
+            "2 sources"
           ],
-          "titleHe": "Arcutis ברבעון השלישי: המכירות זינקו ב-45% והתחזיות הועלו; עלייה בביקוש ל-ZORYVE",
+          "titleHe": "ACM Research עוקפת את תחזיות ההכנסות לרבעון השלישי בזכות ביקוש לציוד אריזה ומעלה את התחזית השנתית",
           "translatedBy": "gemini-3.1-flash-lite"
         }
       ]
@@ -80,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-05T09:35:11.795Z",
+      "updatedAt": "2026-11-05T10:40:09.237Z",
       "items": [
         {
           "id": "calcalist:0cf55a50030f0:0",
