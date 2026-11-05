@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T18:58:58.283Z",
+  "generatedAt": "2026-11-05T19:56:55.758Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T18:58:58.283Z",
+      "updatedAt": "2026-11-05T19:56:55.758Z",
       "items": [
         {
-          "id": "DJN_DN20261104018756:0",
+          "id": "tag:reuters.com,2026:newsml_L5N46M30U:0",
+          "ticker": "WRBY",
+          "change": 26.59,
+          "title": "Warby Parker Inc. reports results for the quarter ended September 30 - Earnings Summary",
+          "lang": "en",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46M30U:0-warby-parker-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-05T19:35:23.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/warby-parker--big.svg",
+            "kind": "logo"
+          },
+          "score": 145,
+          "reasons": [
+            "move 26.6%",
+            "volume x2.3",
+            "leading source reuters",
+            "keywords: earnings, results",
+            "3 sources"
+          ],
+          "titleHe": "וורבי פארкер מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום דו\"ח הרווחים",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261105017793:0",
           "ticker": "APP",
-          "change": 29.02,
-          "title": "AppLovin Stock Is Tracking Its Biggest Jump in 2 Years After AI-Driven Revenue Accelerates — Barrons.com",
+          "change": 30.27,
+          "title": "AppLovin Is Maintained at Outperform by Macquarie",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261104018756:0-applovin-stock-is-tracking-its-biggest-jump-in-2-years-after-ai-driven-revenue-accelerates-barrons-com/",
-          "publishedAt": "2026-11-05T16:27:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261105017793:0-applovin-is-maintained-at-outperform-by-macquarie/",
+          "publishedAt": "2026-11-05T19:54:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/applovin-cdr-cad-hedged--big.svg",
             "kind": "logo"
           },
-          "score": 135,
+          "score": 105,
           "reasons": [
-            "move 29.0%",
-            "volume x3.5",
-            "leading source dow-jones",
-            "keywords: revenue",
-            "5 sources"
+            "move 30.3%",
+            "volume x3.7",
+            "leading source dow-jones"
           ],
-          "titleHe": "מניית AppLovin בדרך לזינוק החד ביותר מזה שנתיים בעקבות האיץ בהכנסות מבוססת AI",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261105016826:0",
-          "ticker": "XERS",
-          "change": 25.72,
-          "title": "Xeris Biopharma Shares Rally on Lifted Guidance, 3Q Beat",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261105016826:0-xeris-biopharma-shares-rally-on-lifted-guidance-3q-beat/",
-          "publishedAt": "2026-11-05T17:51:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/xeris-pharmaceuticals--big.svg",
-            "kind": "logo"
-          },
-          "score": 125,
-          "reasons": [
-            "move 25.7%",
-            "volume x3.9",
-            "leading source dow-jones",
-            "keywords: guidance",
-            "2 sources"
-          ],
-          "titleHe": "מניות Xeris Biopharma מזנקות בעקבות העלאת תחזית ועקיפת תחזיות ברבעון ה-3",
+          "titleHe": "AppLovin ממשיכה לקבל המלצת תשואת יתר ממק쿼רי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
