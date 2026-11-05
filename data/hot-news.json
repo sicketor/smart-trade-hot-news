@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T11:41:50.919Z",
+  "generatedAt": "2026-11-05T12:44:40.605Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,52 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-05T11:41:50.919Z",
+      "updatedAt": "2026-11-05T12:44:40.605Z",
       "items": [
         {
-          "id": "DJN_DN20261104018756:0",
-          "ticker": "APP",
-          "change": 17.02,
-          "title": "AppLovin Is Raking in Cash as AI-Driven Revenue Accelerates — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L2N46M0OM:0",
+          "ticker": "FOUR",
+          "change": -16.33,
+          "title": "Shift4 Payments Q3 gross profit rises year over year",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261104018756:0-applovin-is-raking-in-cash-as-ai-driven-revenue-accelerates-barrons-com/",
-          "publishedAt": "2026-11-05T10:51:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0OM:0-shift4-payments-q3-gross-profit-rises-year-over-year/",
+          "publishedAt": "2026-11-05T12:20:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/applovin-cdr-cad-hedged--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/shift4-payments--big.svg",
             "kind": "logo"
           },
-          "score": 100,
+          "score": 120,
           "reasons": [
-            "move 17.0%",
-            "leading source dow-jones",
-            "keywords: revenue"
+            "move -16.3%",
+            "leading source reuters",
+            "keywords: profit",
+            "4 sources"
           ],
-          "titleHe": "AppLovin גורפת מזומנים הודות להאץ בהכנסות מבוססות בינה מלאכותית",
+          "titleHe": "הרווח הגולמי של Shift4 Payments ברבעון ה3 עלה בהשוואה לשנה אשתקד",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261105004372:0",
-          "ticker": "BROS",
-          "change": -14.07,
-          "title": "Dutch Bros Is Maintained at Buy by TD Cowen",
+          "id": "tag:reuters.com,2026:newsml_L2N46M0N0:0",
+          "ticker": "U",
+          "change": 20.11,
+          "title": "Unity Software Q3 revenue rises 32%, beats estimates",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261105004372:0-dutch-bros-is-maintained-at-buy-by-td-cowen/",
-          "publishedAt": "2026-11-05T10:12:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0N0:0-unity-software-q3-revenue-rises-32-beats-estimates/",
+          "publishedAt": "2026-11-05T12:18:49.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/dutch-bros--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/unity--big.svg",
             "kind": "logo"
           },
-          "score": 100,
+          "score": 120,
           "reasons": [
-            "move -14.1%",
-            "leading source dow-jones",
-            "2 sources"
+            "move 20.1%",
+            "leading source reuters",
+            "keywords: revenue",
+            "6 sources"
           ],
-          "titleHe": "Dutch Bros מקבלת המלצת קנייה מ-TD Cowen בשמירה על דירוג",
+          "titleHe": "ההכנסות של Unity Software ברבעון ה3 עלו ב-32% ועקפו את תחזיות האנליסטים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,26 +84,23 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-05T11:41:50.919Z",
+      "updatedAt": "2026-11-05T12:44:40.605Z",
       "items": [
         {
-          "id": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-ab44-d2e9-a5ad-bbde019c0000",
+          "id": "calcalist:f68a309fe30f0:0",
           "ticker": null,
           "change": null,
-          "title": "בבורסה מנסים להרגיע: \"הזרים רכשו מניות ב-900 מיליון שקל נטו אחרי הבחירות\"",
+          "title": "לראשונה זה יותר משלוש שנים: הבנק המרכזי של אנגליה מעלה את הריבית",
           "lang": "he",
-          "source": "TheMarker",
-          "sourceId": "themarker",
-          "url": "https://www.themarker.com/markets/2026-11-05/ty-article/.premium/000001a1-ab44-d2e9-a5ad-bbde019c0000",
-          "publishedAt": "2026-11-05T10:55:29.000Z",
-          "image": {
-            "url": "https://img.haarets.co.il/bs/000001a1-ab58-defa-a7f7-af7f56fa0001/95/9d/aafd72354b66b2cc25bf5d061d5a/017811.jpg?width=108&height=81",
-            "kind": "photo"
-          },
-          "fallback": true,
-          "score": 0,
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:f68a309fe30f0:0/",
+          "publishedAt": "2026-11-05T12:16:46.000Z",
+          "image": null,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: ריבית"
           ]
         },
         {
@@ -113,7 +112,7 @@
           "source": "כלכליסט",
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:0cf55a50030f0:0/",
-          "publishedAt": "2026-11-05T09:22:18.000Z",
+          "publishedAt": "2026-11-05T12:08:30.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
