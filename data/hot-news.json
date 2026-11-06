@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T17:51:56.361Z",
+  "generatedAt": "2026-11-06T18:42:30.232Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T17:51:56.361Z",
+      "updatedAt": "2026-11-06T18:42:30.232Z",
       "items": [
+        {
+          "id": "DJN_DN20261106009979:0",
+          "ticker": "UI",
+          "change": 14.39,
+          "title": "Ubiquiti Shares Gain on Higher 1Q Profit, Revenue",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261106009979:0-ubiquiti-shares-gain-on-higher-1q-profit-revenue/",
+          "publishedAt": "2026-11-06T17:35:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/ubiquiti-networks--big.svg",
+            "kind": "logo"
+          },
+          "score": 120,
+          "reasons": [
+            "move 14.4%",
+            "leading source dow-jones",
+            "keywords: revenue, profit",
+            "2 sources"
+          ],
+          "titleHe": "מניית Ubiquiti עולה לאחר זיכרון ברווח ובהכנסות ברבעון הראשון",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261106010005:0",
           "ticker": "DKNG",
-          "change": -26.81,
+          "change": -23.81,
           "title": "DraftKings Predictions Spending Plan Seen as Major Shock — Market Talk",
           "lang": "en",
           "source": "Dow Jones",
@@ -34,38 +58,14 @@
             "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 115,
           "reasons": [
-            "move -26.8%",
-            "volume x3.0",
+            "move -23.8%",
+            "volume x3.5",
             "leading source dow-jones",
-            "3 sources"
+            "2 sources"
           ],
           "titleHe": "התוכנית של DraftKings להשקעת תחזיות נתפסת כהלם מרכזי",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261106008637:0",
-          "ticker": "FROG",
-          "change": 35.58,
-          "title": "JFrog Posts Blowout Earnings. AI Coding Was the Biggest Growth Driver. — Barrons.com",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261106008637:0-jfrog-posts-blowout-earnings-ai-coding-was-the-biggest-growth-driver-barrons-com/",
-          "publishedAt": "2026-11-06T15:04:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/jfrog--big.svg",
-            "kind": "logo"
-          },
-          "score": 120,
-          "reasons": [
-            "move 35.6%",
-            "leading source dow-jones",
-            "keywords: earnings",
-            "3 sources"
-          ],
-          "titleHe": "JFrog מדווחת על תוצאות חזקות מהציפיות; כלי ה-AI לפיתוח תוכנה היו מנוע הצמיחה המרכזי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
