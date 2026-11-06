@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T11:39:52.679Z",
+  "generatedAt": "2026-11-06T12:41:31.332Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,12 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T11:39:52.679Z",
+      "updatedAt": "2026-11-06T12:41:31.332Z",
       "items": [
         {
           "id": "gurufocus:1e3d1978a094b:0",
           "ticker": "IREN",
-          "change": 15.31,
+          "change": 17.69,
           "title": "IREN Stock Jumps After Earnings -- AI Cloud Revenue Is Taking Off",
           "lang": "en",
           "source": "gurufocus",
@@ -36,7 +36,7 @@
           },
           "score": 110,
           "reasons": [
-            "move 15.3%",
+            "move 17.7%",
             "keywords: earnings, revenue",
             "2 sources"
           ],
@@ -44,27 +44,26 @@
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "tag:reuters.com,2026:newsml_L3N46N0UP:0",
-          "ticker": "ABNB",
-          "change": 12.04,
-          "title": "Airbnb rises on upbeat outlook, bucking broader industry caution",
+          "id": "DJN_DN20261105004907:0",
+          "ticker": "DKNG",
+          "change": -21.64,
+          "title": "DraftKings Is All-In on Predictions. The Stock Is Still Being Punished. — Barrons.com",
           "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46N0UP:0-airbnb-rises-on-upbeat-outlook-bucking-broader-industry-caution/",
-          "publishedAt": "2026-11-06T11:28:07.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261105004907:0-draftkings-is-all-in-on-predictions-the-stock-is-still-being-punished-barrons-com/",
+          "publishedAt": "2026-11-06T10:36:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/airbnb--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
             "kind": "logo"
           },
-          "score": 104,
+          "score": 110,
           "reasons": [
-            "move 12.0%",
-            "leading source reuters",
-            "keywords: outlook",
-            "2 sources"
+            "move -21.6%",
+            "leading source dow-jones",
+            "4 sources"
           ],
-          "titleHe": "Airbnb עולה בעקבות תחזית חיובית ויוצאת נגד הזהירות הכללית בענף",
+          "titleHe": "DraftKings מהמרת בגדול על שווקי תחזיות. המניה ממשיכה לספוג מכות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ],
@@ -86,7 +85,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-06T11:39:52.679Z",
+      "updatedAt": "2026-11-06T12:41:31.332Z",
       "items": [
         {
           "id": "calcalist:7c21e348a30f0:0",
