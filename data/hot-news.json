@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T20:53:31.392Z",
+  "generatedAt": "2026-11-06T08:27:38.536Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -85,43 +85,40 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-05T15:00:07.129Z",
+      "updatedAt": "2026-11-06T08:27:38.536Z",
       "items": [
         {
-          "id": "calcalist:e21839f6e30f0:0",
-          "ticker": "MVNE",
-          "change": -1.92,
-          "title": "למונייד צומחת מהר, אבל לא מצליחה להתקרב לרווחיות",
-          "lang": "he",
-          "source": "כלכליסט",
-          "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:e21839f6e30f0:0/",
-          "publishedAt": "2026-11-05T13:05:55.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/mivne--big.svg",
-            "kind": "logo"
-          },
-          "score": 50,
-          "reasons": [
-            "leading source calcalist",
-            "keywords: רווח"
-          ]
-        },
-        {
-          "id": "calcalist:f68a309fe30f0:0",
+          "id": "calcalist:7c21e348a30f0:0",
           "ticker": null,
           "change": null,
-          "title": "לראשונה זה יותר משלוש שנים: הבנק המרכזי של אנגליה מעלה את הריבית",
+          "title": "הדולר מזנק ל-3.22 שקלים ובשיא מדצמבר 2025; מטפס גם בעולם לקראת דוח התעסוקה",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:f68a309fe30f0:0/",
-          "publishedAt": "2026-11-05T12:16:46.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:7c21e348a30f0:0/",
+          "publishedAt": "2026-11-06T07:57:44.000Z",
           "image": null,
           "score": 50,
           "reasons": [
             "leading source calcalist",
-            "keywords: ריבית"
+            "keywords: תעסוקה"
+          ]
+        },
+        {
+          "id": "calcalist:a833be26230f0:0",
+          "ticker": null,
+          "change": null,
+          "title": "הניצחון הדמוקרטי מכה במאסק: טסלה ו-SpaceX איבדו 456 מיליארד דולר משוויין ביומיים",
+          "lang": "he",
+          "source": "כלכליסט",
+          "sourceId": "calcalist",
+          "url": "https://www.tradingview.com/news/calcalist:a833be26230f0:0/",
+          "publishedAt": "2026-11-06T07:56:21.000Z",
+          "image": null,
+          "fallback": true,
+          "score": 0,
+          "reasons": [
+            "fallback: latest market news"
           ]
         }
       ]
