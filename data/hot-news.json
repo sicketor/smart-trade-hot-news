@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T15:52:59.297Z",
+  "generatedAt": "2026-11-06T16:55:01.935Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T15:52:59.297Z",
+      "updatedAt": "2026-11-06T16:55:01.935Z",
       "items": [
+        {
+          "id": "DJN_DN20261106009413:0",
+          "ticker": "DKNG",
+          "change": -26.64,
+          "title": "DraftKings Could Adjust Predictions Spending Based on Courts — Market Talk",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261106009413:0-draftkings-could-adjust-predictions-spending-based-on-courts-market-talk/",
+          "publishedAt": "2026-11-06T16:42:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
+            "kind": "logo"
+          },
+          "score": 125,
+          "reasons": [
+            "move -26.6%",
+            "volume x2.5",
+            "leading source dow-jones",
+            "3 sources"
+          ],
+          "titleHe": "דראפטקינג עשויה להתאים את תחזית ההוצאות על בסיס פסיקות בתי המשפט",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261106008637:0",
           "ticker": "FROG",
-          "change": 30.46,
+          "change": 34.82,
           "title": "JFrog Posts Blowout Earnings. AI Coding Was the Biggest Growth Driver. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,35 +60,12 @@
           },
           "score": 120,
           "reasons": [
-            "move 30.5%",
+            "move 34.8%",
             "leading source dow-jones",
             "keywords: earnings",
-            "4 sources"
-          ],
-          "titleHe": "JFrog מדווחת על תוצאות חזקות מהציפיות; כלי ה-AI לפיתוח תוכנה היו מנוע הצמיחה המרכזי",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "urn:summary_document_transcript:quartr.com:4494974:0",
-          "ticker": "DKNG",
-          "change": -28.17,
-          "title": "DKNG: Predictions investment weighed on Q3 results, with FY27 growth and core margin expansion in view",
-          "lang": "en",
-          "source": "quartr",
-          "sourceId": "quartr",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4494974:0-dkng-predictions-investment-weighed-on-q3-results-with-fy27-growth-and-core-margin-expansion-in-view/",
-          "publishedAt": "2026-11-06T15:42:16.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
-            "kind": "logo"
-          },
-          "score": 110,
-          "reasons": [
-            "move -28.2%",
-            "keywords: results",
             "3 sources"
           ],
-          "titleHe": "DKNG: השקעות בתחזיות פגעו בתוצאות הרבעון השלישי, אך החברה צופה צמיחה והרחבת מרג'ין עד 2027",
+          "titleHe": "JFrog מדווחת על תוצאות חזקות מהציפיות; כלי ה-AI לפיתוח תוכנה היו מנוע הצמיחה המרכזי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
