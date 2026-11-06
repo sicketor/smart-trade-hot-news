@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T13:57:26.519Z",
+  "generatedAt": "2026-11-06T14:55:29.238Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,52 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T13:57:26.519Z",
+      "updatedAt": "2026-11-06T14:55:29.238Z",
       "items": [
         {
-          "id": "DJN_DN20261106007704:0",
-          "ticker": "TEAM",
-          "change": -15.71,
-          "title": "Atlassian Stock Sinks. Analysts Call Worries Over Slowing Cloud Growth an 'Overreaction.' — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L2N46N0H5:0",
+          "ticker": "UI",
+          "change": 14.54,
+          "title": "Ubiquiti Q1 revenue, profit jump; warns of margin pressure",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261106007704:0-atlassian-stock-sinks-analysts-call-worries-over-slowing-cloud-growth-an-overreaction-barrons-com/",
-          "publishedAt": "2026-11-06T13:56:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N0H5:0-ubiquiti-q1-revenue-profit-jump-warns-of-margin-pressure/",
+          "publishedAt": "2026-11-06T12:16:13.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/atlassian--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/ubiquiti-networks--big.svg",
             "kind": "logo"
           },
-          "score": 110,
+          "score": 130,
           "reasons": [
-            "move -15.7%",
-            "leading source dow-jones",
-            "3 sources"
+            "move 14.5%",
+            "leading source reuters",
+            "keywords: revenue, profit",
+            "7 sources"
           ],
-          "titleHe": "מניית Atlassian צוללת; אנליסטים מגדירים את החששות מהאטה בצמיחת הענן כ\"הגזמה פראית\"",
+          "titleHe": "ההכנסות והרווח ברבעון ה-1 של Ubiquiti זינקו; מזהירה מפני לחץ על המרווחים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "urn:live_audio:quartr.com:726840:0",
-          "ticker": "DKNG",
-          "change": -26.16,
-          "title": "DraftKings Q3 2026 Earnings Call Is Live",
+          "id": "DJN_DN20261106008265:0",
+          "ticker": "FROG",
+          "change": 25.29,
+          "title": "JFrog Is Maintained at Overweight by Keybanc",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:726840:0-draftkings-q3-2026-earnings-call-is-live/",
-          "publishedAt": "2026-11-06T13:28:09.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261106008265:0-jfrog-is-maintained-at-overweight-by-keybanc/",
+          "publishedAt": "2026-11-06T14:35:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/jfrog--big.svg",
             "kind": "logo"
           },
           "score": 110,
           "reasons": [
-            "move -26.2%",
-            "keywords: earnings",
+            "move 25.3%",
+            "leading source dow-jones",
             "3 sources"
           ],
-          "titleHe": "שיחת הרווחים של DraftKings לרבעון השלישי של 2026 יוצאת לדרך",
+          "titleHe": "מלצ'יבנק (Keybanc) מעניקים ל-JFrog המלצת משקל יתר",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -82,7 +83,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-06T13:57:26.519Z",
+      "updatedAt": "2026-11-06T14:55:29.238Z",
       "items": [
         {
           "id": "calcalist:7c21e348a30f0:0",
