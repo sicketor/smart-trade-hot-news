@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T10:38:46.693Z",
+  "generatedAt": "2026-11-06T11:39:52.679Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,54 +18,58 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T10:38:46.693Z",
+      "updatedAt": "2026-11-06T11:39:52.679Z",
       "items": [
         {
-          "id": "DJN_DN20261106003987:0",
-          "ticker": "NET",
-          "change": 13.99,
-          "title": "Cloudflare Stock Got Battered in the Tech Rout. Why It's Up 12% After Earnings. — Barrons.com",
+          "id": "gurufocus:1e3d1978a094b:0",
+          "ticker": "IREN",
+          "change": 15.31,
+          "title": "IREN Stock Jumps After Earnings -- AI Cloud Revenue Is Taking Off",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261106003987:0-cloudflare-stock-got-battered-in-the-tech-rout-why-it-s-up-12-after-earnings-barrons-com/",
-          "publishedAt": "2026-11-06T10:37:00.000Z",
+          "source": "gurufocus",
+          "sourceId": "gurufocus",
+          "url": "https://www.gurufocus.com/news/9180343/iren-stock-jumps-after-earnings--ai-cloud-revenue-is-taking-off",
+          "publishedAt": "2026-11-06T10:39:49.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/cloudflare-inc--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/iris-energy--big.svg",
             "kind": "logo"
           },
           "score": 110,
           "reasons": [
-            "move 14.0%",
-            "leading source dow-jones",
-            "keywords: earnings",
+            "move 15.3%",
+            "keywords: earnings, revenue",
             "2 sources"
           ],
-          "titleHe": "מניית Cloudflare נפלה בגלל המפולת בטכנולוגיה. למה היא זינקה ב-12% אחרי הדוחות",
+          "titleHe": "מניית IREN מזנקת בעקבות דוחות – הכנסות ענן הבינה מלאכותית ממריאות",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261105004907:0",
-          "ticker": "DKNG",
-          "change": -20.57,
-          "title": "DraftKings Is All-In on Predictions. The Stock Is Still Being Punished. — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L3N46N0UP:0",
+          "ticker": "ABNB",
+          "change": 12.04,
+          "title": "Airbnb rises on upbeat outlook, bucking broader industry caution",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261105004907:0-draftkings-is-all-in-on-predictions-the-stock-is-still-being-punished-barrons-com/",
-          "publishedAt": "2026-11-06T10:36:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46N0UP:0-airbnb-rises-on-upbeat-outlook-bucking-broader-industry-caution/",
+          "publishedAt": "2026-11-06T11:28:07.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/airbnb--big.svg",
             "kind": "logo"
           },
-          "score": 90,
+          "score": 104,
           "reasons": [
-            "move -20.6%",
-            "leading source dow-jones"
+            "move 12.0%",
+            "leading source reuters",
+            "keywords: outlook",
+            "2 sources"
           ],
-          "titleHe": "DraftKings מהמרת בגדול על תחזיות. המניות עדיין סופגות מכות",
+          "titleHe": "Airbnb עולה בעקבות תחזית חיובית ויוצאת נגד הזהירות הכללית בענף",
           "translatedBy": "gemini-3.5-flash-lite"
         }
+      ],
+      "warnings": [
+        "image https://www.gurufocus.com/news/9180343/iren-stock-jumps-after-earnings--ai-cloud-revenue-is-taking-off: GET https://www.gurufocus.com/news/9180343/iren-stock-jumps-after-earnings--ai-cloud-revenue-is-taking-off -> HTTP 403"
       ]
     },
     "il": {
@@ -82,7 +86,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-06T10:38:46.693Z",
+      "updatedAt": "2026-11-06T11:39:52.679Z",
       "items": [
         {
           "id": "calcalist:7c21e348a30f0:0",
