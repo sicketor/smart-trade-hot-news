@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T14:55:29.238Z",
+  "generatedAt": "2026-11-06T15:52:59.297Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,53 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T14:55:29.238Z",
+      "updatedAt": "2026-11-06T15:52:59.297Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026:newsml_L2N46N0H5:0",
-          "ticker": "UI",
-          "change": 14.54,
-          "title": "Ubiquiti Q1 revenue, profit jump; warns of margin pressure",
-          "lang": "en",
-          "source": "Reuters",
-          "sourceId": "reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N0H5:0-ubiquiti-q1-revenue-profit-jump-warns-of-margin-pressure/",
-          "publishedAt": "2026-11-06T12:16:13.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/ubiquiti-networks--big.svg",
-            "kind": "logo"
-          },
-          "score": 130,
-          "reasons": [
-            "move 14.5%",
-            "leading source reuters",
-            "keywords: revenue, profit",
-            "7 sources"
-          ],
-          "titleHe": "ההכנסות והרווח ברבעון ה-1 של Ubiquiti זינקו; מזהירה מפני לחץ על המרווחים",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261106008265:0",
+          "id": "DJN_DN20261106008637:0",
           "ticker": "FROG",
-          "change": 25.29,
-          "title": "JFrog Is Maintained at Overweight by Keybanc",
+          "change": 30.46,
+          "title": "JFrog Posts Blowout Earnings. AI Coding Was the Biggest Growth Driver. — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261106008265:0-jfrog-is-maintained-at-overweight-by-keybanc/",
-          "publishedAt": "2026-11-06T14:35:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261106008637:0-jfrog-posts-blowout-earnings-ai-coding-was-the-biggest-growth-driver-barrons-com/",
+          "publishedAt": "2026-11-06T15:04:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/jfrog--big.svg",
             "kind": "logo"
           },
+          "score": 120,
+          "reasons": [
+            "move 30.5%",
+            "leading source dow-jones",
+            "keywords: earnings",
+            "4 sources"
+          ],
+          "titleHe": "JFrog מדווחת על תוצאות חזקות מהציפיות; כלי ה-AI לפיתוח תוכנה היו מנוע הצמיחה המרכזי",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "urn:summary_document_transcript:quartr.com:4494974:0",
+          "ticker": "DKNG",
+          "change": -28.17,
+          "title": "DKNG: Predictions investment weighed on Q3 results, with FY27 growth and core margin expansion in view",
+          "lang": "en",
+          "source": "quartr",
+          "sourceId": "quartr",
+          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4494974:0-dkng-predictions-investment-weighed-on-q3-results-with-fy27-growth-and-core-margin-expansion-in-view/",
+          "publishedAt": "2026-11-06T15:42:16.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
+            "kind": "logo"
+          },
           "score": 110,
           "reasons": [
-            "move 25.3%",
-            "leading source dow-jones",
+            "move -28.2%",
+            "keywords: results",
             "3 sources"
           ],
-          "titleHe": "מלצ'יבנק (Keybanc) מעניקים ל-JFrog המלצת משקל יתר",
+          "titleHe": "DKNG: השקעות בתחזיות פגעו בתוצאות הרבעון השלישי, אך החברה צופה צמיחה והרחבת מרג'ין עד 2027",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
