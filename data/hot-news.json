@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T19:39:21.966Z",
+  "generatedAt": "2026-11-06T20:30:37.826Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,12 +18,36 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T19:39:21.966Z",
+      "updatedAt": "2026-11-06T20:30:37.826Z",
       "items": [
+        {
+          "id": "DJN_DN20261106010892:0",
+          "ticker": "QNT",
+          "change": 26.36,
+          "title": "How Quantinuum's CEO Rajeeb Hazra Plans to Win Quantum Computing's Long Game — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261106010892:0-how-quantinuum-s-ceo-rajeeb-hazra-plans-to-win-quantum-computing-s-long-game-barrons-com/",
+          "publishedAt": "2026-11-06T20:08:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/quantinuum--big.svg",
+            "kind": "logo"
+          },
+          "score": 115,
+          "reasons": [
+            "move 26.4%",
+            "volume x2.0",
+            "leading source dow-jones",
+            "2 sources"
+          ],
+          "titleHe": "כך מתכנן מנכ\"ל Quantinuum, רג'יב הזרה, לנצח במרוץ הארוך של מחשוב קוונטי",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
         {
           "id": "DJN_DN20261106010722:0",
           "ticker": "IRTC",
-          "change": -30.53,
+          "change": -30.82,
           "title": "iRhythm Holdings Is Maintained at Buy by Canaccord Genuity",
           "lang": "en",
           "source": "Dow Jones",
@@ -36,36 +60,12 @@
           },
           "score": 115,
           "reasons": [
-            "move -30.5%",
-            "volume x6.4",
+            "move -30.8%",
+            "volume x7.3",
             "leading source dow-jones",
             "2 sources"
           ],
           "titleHe": "קנאקורד ג'נוيتي ממשיכים להמליץ על קנייה למניות iRhythm Holdings",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "DJN_DN20261106010005:0",
-          "ticker": "DKNG",
-          "change": -22.73,
-          "title": "DraftKings Predictions Spending Plan Seen as Major Shock — Market Talk",
-          "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261106010005:0-draftkings-predictions-spending-plan-seen-as-major-shock-market-talk/",
-          "publishedAt": "2026-11-06T17:37:00.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
-            "kind": "logo"
-          },
-          "score": 115,
-          "reasons": [
-            "move -22.7%",
-            "volume x3.9",
-            "leading source dow-jones",
-            "2 sources"
-          ],
-          "titleHe": "התוכנית של DraftKings להשקעת תחזיות נתפסת כהלם מרכזי",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
