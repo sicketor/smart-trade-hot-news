@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T12:41:31.332Z",
+  "generatedAt": "2026-11-06T13:57:26.519Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,57 +18,54 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T12:41:31.332Z",
+      "updatedAt": "2026-11-06T13:57:26.519Z",
       "items": [
         {
-          "id": "gurufocus:1e3d1978a094b:0",
-          "ticker": "IREN",
-          "change": 17.69,
-          "title": "IREN Stock Jumps After Earnings -- AI Cloud Revenue Is Taking Off",
+          "id": "DJN_DN20261106007704:0",
+          "ticker": "TEAM",
+          "change": -15.71,
+          "title": "Atlassian Stock Sinks. Analysts Call Worries Over Slowing Cloud Growth an 'Overreaction.' — Barrons.com",
           "lang": "en",
-          "source": "gurufocus",
-          "sourceId": "gurufocus",
-          "url": "https://www.gurufocus.com/news/9180343/iren-stock-jumps-after-earnings--ai-cloud-revenue-is-taking-off",
-          "publishedAt": "2026-11-06T10:39:49.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261106007704:0-atlassian-stock-sinks-analysts-call-worries-over-slowing-cloud-growth-an-overreaction-barrons-com/",
+          "publishedAt": "2026-11-06T13:56:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/iris-energy--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/atlassian--big.svg",
             "kind": "logo"
           },
           "score": 110,
           "reasons": [
-            "move 17.7%",
-            "keywords: earnings, revenue",
-            "2 sources"
+            "move -15.7%",
+            "leading source dow-jones",
+            "3 sources"
           ],
-          "titleHe": "מניית IREN מזנקת בעקבות דוחות – הכנסות ענן הבינה מלאכותית ממריאות",
+          "titleHe": "מניית Atlassian צוללת; אנליסטים מגדירים את החששות מהאטה בצמיחת הענן כ\"הגזמה פראית\"",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261105004907:0",
+          "id": "urn:live_audio:quartr.com:726840:0",
           "ticker": "DKNG",
-          "change": -21.64,
-          "title": "DraftKings Is All-In on Predictions. The Stock Is Still Being Punished. — Barrons.com",
+          "change": -26.16,
+          "title": "DraftKings Q3 2026 Earnings Call Is Live",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261105004907:0-draftkings-is-all-in-on-predictions-the-stock-is-still-being-punished-barrons-com/",
-          "publishedAt": "2026-11-06T10:36:00.000Z",
+          "source": "tradingview",
+          "sourceId": "tradingview",
+          "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:726840:0-draftkings-q3-2026-earnings-call-is-live/",
+          "publishedAt": "2026-11-06T13:28:09.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
             "kind": "logo"
           },
           "score": 110,
           "reasons": [
-            "move -21.6%",
-            "leading source dow-jones",
-            "4 sources"
+            "move -26.2%",
+            "keywords: earnings",
+            "3 sources"
           ],
-          "titleHe": "DraftKings מהמרת בגדול על שווקי תחזיות. המניה ממשיכה לספוג מכות",
+          "titleHe": "שיחת הרווחים של DraftKings לרבעון השלישי של 2026 יוצאת לדרך",
           "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "image https://www.gurufocus.com/news/9180343/iren-stock-jumps-after-earnings--ai-cloud-revenue-is-taking-off: GET https://www.gurufocus.com/news/9180343/iren-stock-jumps-after-earnings--ai-cloud-revenue-is-taking-off -> HTTP 403"
       ]
     },
     "il": {
@@ -85,7 +82,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-06T12:41:31.332Z",
+      "updatedAt": "2026-11-06T13:57:26.519Z",
       "items": [
         {
           "id": "calcalist:7c21e348a30f0:0",
@@ -96,7 +93,7 @@
           "source": "כלכליסט",
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:7c21e348a30f0:0/",
-          "publishedAt": "2026-11-06T10:05:33.000Z",
+          "publishedAt": "2026-11-06T13:45:37.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
