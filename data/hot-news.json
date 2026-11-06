@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T09:31:58.151Z",
+  "generatedAt": "2026-11-06T10:38:46.693Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,49 +18,52 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T09:31:58.151Z",
+      "updatedAt": "2026-11-06T10:38:46.693Z",
       "items": [
         {
-          "id": "tag:reuters.com,2026-11-06:newsml_RSF1695Ca:0",
-          "ticker": "IREN",
-          "change": 17.91,
-          "title": "REG - Leverage Shares PLC LS 3X LONG IREN ETP$ LS 3X LONG IREN ETP£ - Intraday Rebalance Notice - 3x IREN",
-          "lang": "en",
-          "source": "lse",
-          "sourceId": "lse",
-          "url": "https://www.tradingview.com/news/reuters.com,2026-11-06:newsml_RSF1695Ca:0-reg-leverage-shares-plc-ls-3x-long-iren-etp-ls-3x-long-iren-etp-intraday-rebalance-notice-3x-iren/",
-          "publishedAt": "2026-11-06T09:27:58.000Z",
-          "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/iris-energy--big.svg",
-            "kind": "logo"
-          },
-          "score": 90,
-          "reasons": [
-            "move 17.9%",
-            "2 sources"
-          ],
-          "titleHe": "REG - Leverage Shares PLC LS 3X LONG IREN ETP$ LS 3X LONG IREN ETP£ - הודעת איזון תוך-יומי - 3x IREN",
-          "translatedBy": "gemini-3.5-flash-lite"
-        },
-        {
-          "id": "tradingview:3a181836e99a6:0",
+          "id": "DJN_DN20261106003987:0",
           "ticker": "NET",
-          "change": 14.84,
-          "title": "Key facts: Cloudflare Q3 beats; 20% workforce cut; Anderson to leave",
+          "change": 13.99,
+          "title": "Cloudflare Stock Got Battered in the Tech Rout. Why It's Up 12% After Earnings. — Barrons.com",
           "lang": "en",
-          "source": "tradingview",
-          "sourceId": "tradingview",
-          "url": "https://www.tradingview.com/news/tradingview:3a181836e99a6:0-key-facts-cloudflare-q3-beats-20-workforce-cut-anderson-to-leave/",
-          "publishedAt": "2026-11-06T08:00:00.000Z",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261106003987:0-cloudflare-stock-got-battered-in-the-tech-rout-why-it-s-up-12-after-earnings-barrons-com/",
+          "publishedAt": "2026-11-06T10:37:00.000Z",
           "image": {
             "url": "https://s3-symbol-logo.tradingview.com/cloudflare-inc--big.svg",
             "kind": "logo"
           },
-          "score": 80,
+          "score": 110,
           "reasons": [
-            "move 14.8%"
+            "move 14.0%",
+            "leading source dow-jones",
+            "keywords: earnings",
+            "2 sources"
           ],
-          "titleHe": "נתונים מרכזיים: התוצאות של Cloudflare ברבעון 3 עوقפות את הצפי; קיצוץ של 20% בכוח האדם; אנדרסון עוזב",
+          "titleHe": "מניית Cloudflare נפלה בגלל המפולת בטכנולוגיה. למה היא זינקה ב-12% אחרי הדוחות",
+          "translatedBy": "gemini-3.5-flash-lite"
+        },
+        {
+          "id": "DJN_DN20261105004907:0",
+          "ticker": "DKNG",
+          "change": -20.57,
+          "title": "DraftKings Is All-In on Predictions. The Stock Is Still Being Punished. — Barrons.com",
+          "lang": "en",
+          "source": "Dow Jones",
+          "sourceId": "dow-jones",
+          "url": "https://www.tradingview.com/news/DJN_DN20261105004907:0-draftkings-is-all-in-on-predictions-the-stock-is-still-being-punished-barrons-com/",
+          "publishedAt": "2026-11-06T10:36:00.000Z",
+          "image": {
+            "url": "https://s3-symbol-logo.tradingview.com/draftkings--big.svg",
+            "kind": "logo"
+          },
+          "score": 90,
+          "reasons": [
+            "move -20.6%",
+            "leading source dow-jones"
+          ],
+          "titleHe": "DraftKings מהמרת בגדול על תחזיות. המניות עדיין סופגות מכות",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -79,7 +82,7 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-06T09:31:58.151Z",
+      "updatedAt": "2026-11-06T10:38:46.693Z",
       "items": [
         {
           "id": "calcalist:7c21e348a30f0:0",
@@ -90,7 +93,7 @@
           "source": "כלכליסט",
           "sourceId": "calcalist",
           "url": "https://www.tradingview.com/news/calcalist:7c21e348a30f0:0/",
-          "publishedAt": "2026-11-06T08:57:58.000Z",
+          "publishedAt": "2026-11-06T10:05:33.000Z",
           "image": null,
           "fallback": true,
           "score": 0,
