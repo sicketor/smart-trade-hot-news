@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T21:19:20.009Z",
+  "generatedAt": "2026-11-09T17:47:35.863Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,58 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-06T21:19:20.009Z",
+      "updatedAt": "2026-11-09T17:47:35.863Z",
       "items": [
         {
-          "id": "DJN_DN20261106011262:0",
-          "ticker": "IRTC",
-          "change": -30.7,
-          "title": "iRhythm Holdings Cut to Neutral From Buy by Citigroup",
+          "id": "DJN_DN20261109005395:0",
+          "ticker": "IONS",
+          "change": -26.08,
+          "title": "Ionis Slashes Key Drug Revenue Outlook by 50%, Sending Stock Sharply Lower — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261106011262:0-irhythm-holdings-cut-to-neutral-from-buy-by-citigroup/",
-          "publishedAt": "2026-11-06T20:52:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261109005395:0-ionis-slashes-key-drug-revenue-outlook-by-50-sending-stock-sharply-lower-barrons-com/",
+          "publishedAt": "2026-11-09T15:16:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/irhythm-technologies--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/ionis-pharmaceuticals--big.svg",
             "kind": "logo"
           },
-          "score": 115,
+          "score": 145,
           "reasons": [
-            "move -30.7%",
-            "volume x9.0",
+            "move -26.1%",
+            "volume x3.4",
             "leading source dow-jones",
-            "2 sources"
-          ]
+            "keywords: revenue, outlook",
+            "3 sources"
+          ],
+          "titleHe": "איוניס (Ionis) חותכת את תחזית ההכנסות מתרופת המפתח ב-50% ומפילה את המניה",
+          "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261106010892:0",
-          "ticker": "QNT",
-          "change": 25.99,
-          "title": "How Quantinuum's CEO Rajeeb Hazra Plans to Win Quantum Computing's Long Game — Barrons.com",
+          "id": "DJN_DN20261109006799:0",
+          "ticker": "TTD",
+          "change": 16.05,
+          "title": "Trade Desk's 'Lost Year' Won't Be Rescued by Earnings, Say Analysts — Barrons.com",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261106010892:0-how-quantinuum-s-ceo-rajeeb-hazra-plans-to-win-quantum-computing-s-long-game-barrons-com/",
-          "publishedAt": "2026-11-06T20:08:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261109006799:0-trade-desk-s-lost-year-won-t-be-rescued-by-earnings-say-analysts-barrons-com/",
+          "publishedAt": "2026-11-09T16:50:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/quantinuum--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/the-trade-desk--big.svg",
             "kind": "logo"
           },
-          "score": 105,
+          "score": 125,
           "reasons": [
-            "move 26.0%",
-            "volume x2.6",
-            "leading source dow-jones"
+            "move 16.0%",
+            "volume x2.3",
+            "leading source dow-jones",
+            "keywords: earnings",
+            "2 sources"
           ],
-          "titleHe": "כך מתכנן מנכ\"ל Quantinuum, רג'יב הזרה, לנצח במרוץ הארוך של מחשוב קוונטי",
+          "titleHe": "\"שנת האבודים\" של The Trade Desk לא תינצל הודות לדו\"חות, אומרים אנליסטים",
           "translatedBy": "gemini-3.5-flash-lite"
         }
-      ],
-      "warnings": [
-        "translate: The operation was aborted due to timeout"
       ]
     },
     "il": {
