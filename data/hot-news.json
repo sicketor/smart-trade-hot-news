@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T17:47:35.863Z",
+  "generatedAt": "2026-11-10T14:46:53.335Z",
   "maxAgeMinutes": 180,
   "staleAfterMinutes": 120,
   "markets": {
@@ -18,56 +18,53 @@
         "start": "04:00",
         "end": "16:30"
       },
-      "updatedAt": "2026-11-09T17:47:35.863Z",
+      "updatedAt": "2026-11-10T14:46:53.335Z",
       "items": [
         {
-          "id": "DJN_DN20261109005395:0",
-          "ticker": "IONS",
-          "change": -26.08,
-          "title": "Ionis Slashes Key Drug Revenue Outlook by 50%, Sending Stock Sharply Lower — Barrons.com",
+          "id": "tag:reuters.com,2026:newsml_L5N46R1OH:0",
+          "ticker": "LEGN",
+          "change": -14.7,
+          "title": "Legend Biotech Corporation reports results for the quarter ended September 30 - Earnings Summary",
           "lang": "en",
-          "source": "Dow Jones",
-          "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261109005395:0-ionis-slashes-key-drug-revenue-outlook-by-50-sending-stock-sharply-lower-barrons-com/",
-          "publishedAt": "2026-11-09T15:16:00.000Z",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46R1OH:0-legend-biotech-corporation-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+          "publishedAt": "2026-11-10T14:31:03.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/ionis-pharmaceuticals--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/legend-biotech--big.svg",
             "kind": "logo"
           },
-          "score": 145,
+          "score": 130,
           "reasons": [
-            "move -26.1%",
-            "volume x3.4",
-            "leading source dow-jones",
-            "keywords: revenue, outlook",
-            "3 sources"
+            "move -14.7%",
+            "leading source reuters",
+            "keywords: earnings, results",
+            "5 sources"
           ],
-          "titleHe": "איוניס (Ionis) חותכת את תחזית ההכנסות מתרופת המפתח ב-50% ומפילה את המניה",
+          "titleHe": "לג'נד ביוטק מדווחת על תוצאות הרבעון שהסתיים ב-30 בספטמבר - סיכום רווחים",
           "translatedBy": "gemini-3.5-flash-lite"
         },
         {
-          "id": "DJN_DN20261109006799:0",
-          "ticker": "TTD",
-          "change": 16.05,
-          "title": "Trade Desk's 'Lost Year' Won't Be Rescued by Earnings, Say Analysts — Barrons.com",
+          "id": "DJN_DN20261110004436:0",
+          "ticker": "QLYS",
+          "change": -17.4,
+          "title": "Qualys Is Maintained at Neutral by Baird",
           "lang": "en",
           "source": "Dow Jones",
           "sourceId": "dow-jones",
-          "url": "https://www.tradingview.com/news/DJN_DN20261109006799:0-trade-desk-s-lost-year-won-t-be-rescued-by-earnings-say-analysts-barrons-com/",
-          "publishedAt": "2026-11-09T16:50:00.000Z",
+          "url": "https://www.tradingview.com/news/DJN_DN20261110004436:0-qualys-is-maintained-at-neutral-by-baird/",
+          "publishedAt": "2026-11-10T12:07:00.000Z",
           "image": {
-            "url": "https://s3-symbol-logo.tradingview.com/the-trade-desk--big.svg",
+            "url": "https://s3-symbol-logo.tradingview.com/qualys--big.svg",
             "kind": "logo"
           },
-          "score": 125,
+          "score": 100,
           "reasons": [
-            "move 16.0%",
-            "volume x2.3",
+            "move -17.4%",
             "leading source dow-jones",
-            "keywords: earnings",
             "2 sources"
           ],
-          "titleHe": "\"שנת האבודים\" של The Trade Desk לא תינצל הודות לדו\"חות, אומרים אנליסטים",
+          "titleHe": "קוואליס ממשיכה לקבל המלצת החזקה מבית ההשקעות Baird",
           "translatedBy": "gemini-3.5-flash-lite"
         }
       ]
@@ -86,40 +83,40 @@
         "start": "09:30",
         "end": "17:30"
       },
-      "updatedAt": "2026-11-06T14:55:29.238Z",
+      "updatedAt": "2026-11-10T14:46:53.335Z",
       "items": [
         {
-          "id": "calcalist:7c21e348a30f0:0",
+          "id": "calcalist:8ceed002330f0:0",
           "ticker": null,
           "change": null,
-          "title": "אחרי שזינק מעל ל-3.22 שקלים ולשיא מדצמבר 2025: הדולר נחלש ל-3.19 ש'",
+          "title": "הדולר מטפס אחרי נתוני האינפלציה בארה\"ב - על 3.18 שקלים",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:7c21e348a30f0:0/",
-          "publishedAt": "2026-11-06T13:45:37.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:8ceed002330f0:0/",
+          "publishedAt": "2026-11-10T13:47:33.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: אינפלציה"
           ]
         },
         {
-          "id": "calcalist:a833be26230f0:0",
+          "id": "calcalist:923a24cb130f0:0",
           "ticker": null,
           "change": null,
-          "title": "הניצחון הדמוקרטי מכה במאסק: טסלה ו-SpaceX איבדו 456 מיליארד דולר משוויין ביומיים",
+          "title": "מדד המחירים בארה\"ב עלה באוקטובר ב-0.4%, יותר מהתחזיות",
           "lang": "he",
           "source": "כלכליסט",
           "sourceId": "calcalist",
-          "url": "https://www.tradingview.com/news/calcalist:a833be26230f0:0/",
-          "publishedAt": "2026-11-06T07:56:21.000Z",
+          "url": "https://www.tradingview.com/news/calcalist:923a24cb130f0:0/",
+          "publishedAt": "2026-11-10T13:40:17.000Z",
           "image": null,
-          "fallback": true,
-          "score": 0,
+          "score": 50,
           "reasons": [
-            "fallback: latest market news"
+            "leading source calcalist",
+            "keywords: מדד המחירים"
           ]
         }
       ]
